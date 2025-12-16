@@ -26,11 +26,15 @@ const isProduction = process.env.NODE_ENV === 'production';
 // Setup global error handlers
 setupGlobalErrorHandlers();
 
-// Test connessione database all'avvio
+// Test connessione database e migrazioni all'avvio
 const { db } = require('./src/db');
-db.testConnection().then(ok => {
-  if (ok) console.log('✅ Database Supabase connesso!');
-  else console.log('⚠️ Database non disponibile, alcune funzioni limitate');
+db.testConnection().then(async ok => {
+  if (ok) {
+    console.log('✅ Database Supabase connesso!');
+    await db.runMigrations();
+  } else {
+    console.log('⚠️ Database non disponibile, alcune funzioni limitate');
+  }
 }).catch(() => console.log('⚠️ Database non configurato'));
 
 // ═══════════════════════════════════════════════════════════════════════════════

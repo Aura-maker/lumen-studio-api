@@ -1,0 +1,12 @@
+node_modules
+.git
+.env
+.env.local
+*.log
+npm-debug.log*
+coverage
+.nyc_output
+*.md
+tests
+*.test.js
+.github
