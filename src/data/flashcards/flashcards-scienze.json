@@ -1,0 +1,382 @@
+{
+  "materia": "scienze",
+  "totale": 47,
+  "flashcards": [
+    {
+      "fronte": "Cosa accadde nel 1803?",
+      "retro": "L'evoluzione dei modelli atomici include Dalton nel 1803 che concepisce l'atomo come sfera indivisibile, Thomson nel 1897 che scopre l'elettrone e propo",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Chimica generale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1897?",
+      "retro": "modelli atomici include Dalton nel 1803 che concepisce l'atomo come sfera indivisibile, Thomson nel 1897 che scopre l'elettrone e propone il modello a panettone, Rutherford nel 1911 che con l'esperime",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Chimica generale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1911?",
+      "retro": "ivisibile, Thomson nel 1897 che scopre l'elettrone e propone il modello a panettone, Rutherford nel 1911 che con l'esperimento della lamina d'oro scopre il nucleo piccolo e denso con elettroni che orb",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Chimica generale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1913?",
+      "retro": "sperimento della lamina d'oro scopre il nucleo piccolo e denso con elettroni che orbitano, Bohr nel 1913 che colloca gli elettroni su orbite circolari quantizzate con energia definita dove i salti deg",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Chimica generale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1926?",
+      "retro": "definita dove i salti degli elettroni emettono o assorbono fotoni, e il modello quantomeccanico del 1926 di Schrödinger che descrive gli elettroni come onde in orbitali che sono nuvole di probabilità.",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Chimica generale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1869?",
+      "retro": "La tavola periodica di Mendeleev del 1869 ordina gli elementi per numero atomico e mostra proprietà periodiche come raggio atomico, energ",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Chimica generale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "L'evoluzione dei modelli atomici include Dalton nel 1803 che concepisce l'atomo come sfera indivisibile, Thomson nel 1897 che scopre l'elettrone e propone il modello a panettone, Rutherford nel 1911 che con l'esperimento della lamina d'oro scopre il nucleo piccolo e denso con elettroni che orbitano, Bohr nel 1913 che colloca gli elettroni su orbite circolari quantizzate con energia definita dove i salti degli elettroni emettono o assorbono fotoni, e il modello quantomeccanico del 1926 di Schrödinger che descrive gli elettroni come onde in orbitali che sono nuvole di probabilità.",
+      "categoria": "definizioni",
+      "materia": "scienze",
+      "argomento": "Chimica generale",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 1972?",
+      "retro": "La sua struttura è descritta dal modello a mosaico fluido proposto da Singer e Nicolson nel 1972: un doppio strato di fosfolipidi (con le teste idrofile rivolte verso l'esterno e le code idrof",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Biologia cellulare",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "La sua struttura è descritta dal modello a mosaico fluido proposto da Singer e Nicolson nel 1972: un doppio strato di fosfolipidi (con le teste idrofile rivolte verso l'esterno e le code idrofobe verso l'interno) in cui sono immerse proteine integrali (transmembrana) e periferiche (sulla superficie).",
+      "categoria": "definizioni",
+      "materia": "scienze",
+      "argomento": "Biologia cellulare",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 1822?",
+      "retro": "Gregor Mendel (1822-1884) è monaco agostiniano Brno, padre genetica",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Genetica",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1884?",
+      "retro": "Gregor Mendel (1822-1884) è monaco agostiniano Brno, padre genetica",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Genetica",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1856?",
+      "retro": "Esperimenti pisello odoroso (1856-1863) pubblicati 1866 ignorati riscopert i 1900",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Genetica",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1863?",
+      "retro": "Esperimenti pisello odoroso (1856-1863) pubblicati 1866 ignorati riscopert i 1900",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Genetica",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1866?",
+      "retro": "Esperimenti pisello odoroso (1856-1863) pubblicati 1866 ignorati riscopert i 1900",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Genetica",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1900?",
+      "retro": "Esperimenti pisello odoroso (1856-1863) pubblicati 1866 ignorati riscopert i 1900",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Genetica",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1953?",
+      "retro": "Struttura Watson-Crick (1953): doppia elica antiparallela, scheletro zucchero-fosfato, basi azotate appaiate (adenina-timina",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Genetica",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Mutazioni, e variabilità genetica?",
+      "retro": "Cause include spontanee (errori replicazione, elementi trasponibili e radiazione naturale), indotte (agenti mutageni chimici radiazioni UV raggi X).",
+      "categoria": "temi",
+      "materia": "scienze",
+      "argomento": "Genetica",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1996?",
+      "retro": "Clonazione organismi include Dolly pecora 1996 primo mammifero da cellula somatica (trasferimento nucleo ovocita enucleato), clonazione terape",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Genetica",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 2012?",
+      "retro": "CRISPR-Cas9 rivoluzione (2012 Doudna Charpentier Nobel 2020): editing genomico preciso e guida RNA complementare sequenza tar",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Genetica",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 2020?",
+      "retro": "CRISPR-Cas9 rivoluzione (2012 Doudna Charpentier Nobel 2020): editing genomico preciso e guida RNA complementare sequenza target, Cas9 nucleasi taglia DNA,",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Genetica",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Ingegneria genetica, e biotecnologie?",
+      "retro": "Tecniche include PCR (reazione catena polimerasi amplifica Il DNA da poche copie a milioni, 3 fasi denaturazione 95°C, appaiamento primer 55°C, estensione Taq polimerasi 72°C, 30 cicli milioni copie), elettroforesi gel (separa frammenti Il DNA per dimensione campo elettrico) e sequenziamento Il DNA (Sanger è Il è Il metodo terminazione catena, NGS next-generation sequencing), southern blot (DNA), northern (RNA) e western (proteine).",
+      "categoria": "temi",
+      "materia": "scienze",
+      "argomento": "Genetica",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Le applicazioni include agricoltura (resistenza malattie siccità) e medicina (modelli malattie screening farmaci), bioetica (modificare embrioni umani?).",
+      "categoria": "definizioni",
+      "materia": "scienze",
+      "argomento": "Genetica",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 1809?",
+      "retro": "Charles Darwin (1809-1882) è naturalista inglese, viaggio Beagle (1831-1836) Sud America Galapagos osserva variabili",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Evoluzione",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1882?",
+      "retro": "Charles Darwin (1809-1882) è naturalista inglese, viaggio Beagle (1831-1836) Sud America Galapagos osserva variabilità sp",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Evoluzione",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1831?",
+      "retro": "Charles Darwin (1809-1882) è naturalista inglese, viaggio Beagle (1831-1836) Sud America Galapagos osserva variabilità specie adattamenti",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Evoluzione",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1836?",
+      "retro": "Charles Darwin (1809-1882) è naturalista inglese, viaggio Beagle (1831-1836) Sud America Galapagos osserva variabilità specie adattamenti",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Evoluzione",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1859?",
+      "retro": "Origine specie (1859) rivoluzione biologica",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Evoluzione",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Darwin, e teoria evoluzione per selezione naturale?",
+      "retro": "Deduzione include individui variazioni vantaggiose sopravvivono meglio riproducono più (sopravvivenza più adatto), caratteri vantaggiosi trasmessi generazioni successive e nel tempo popolazioni cambiano (evoluzione), nuove specie.",
+      "categoria": "temi",
+      "materia": "scienze",
+      "argomento": "Evoluzione",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Darwin, e teoria evoluzione per selezione naturale?",
+      "retro": "Charles Darwin (1809-1882) è naturalista inglese, viaggio Beagle (1831-1836) Sud America Galapagos osserva variabilità specie adattamenti.",
+      "categoria": "temi",
+      "materia": "scienze",
+      "argomento": "Evoluzione",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del viaggio in Darwin, e teoria evoluzione per selezione naturale?",
+      "retro": "Charles Darwin (1809-1882) è naturalista inglese, viaggio Beagle (1831-1836) Sud America Galapagos osserva variabilità specie adattamenti.",
+      "categoria": "temi",
+      "materia": "scienze",
+      "argomento": "Evoluzione",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1930?",
+      "retro": "Neodarwinismo, o teoria sintetica evoluzione (anni 1930-40) integra Darwin genetica Mendel biologia è molecolare",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Evoluzione",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Neodarwinismo: sintesi moderna?",
+      "retro": "Sintesi moderna include mutazioni casuali forniscono variabilità genetica (nuovi alleli), ricombinazione meiosi rimescola alleli e selezione naturale agisce su variabilità esistente favorendo genotipi vantaggiosi, deriva genetica (cambiamenti casuali frequenze alleliche piccole popolazioni effetto collo bottiglia fondatore), flusso genico (migrazione introduce nuovi alleli), popolazione (non individuo) unità evolutiva e evoluzione cambiamento frequenze alleliche tempo.",
+      "categoria": "temi",
+      "materia": "scienze",
+      "argomento": "Evoluzione",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Neodarwinismo: sintesi moderna?",
+      "retro": "Sintesi moderna include mutazioni casuali forniscono variabilità genetica (nuovi alleli), ricombinazione meiosi rimescola alleli e selezione naturale agisce su variabilità esistente favorendo genotipi vantaggiosi, deriva genetica (cambiamenti casuali frequenze alleliche piccole popolazioni effetto collo bottiglia fondatore), flusso genico (migrazione introduce nuovi alleli), popolazione (non individuo) unità evolutiva e evoluzione cambiamento frequenze alleliche tempo.",
+      "categoria": "temi",
+      "materia": "scienze",
+      "argomento": "Evoluzione",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Sintesi moderna include mutazioni casuali forniscono variabilità genetica (nuovi alleli), ricombinazione meiosi rimescola alleli e selezione naturale agisce su variabilità esistente favorendo genotipi vantaggiosi, deriva genetica (cambiamenti casuali frequenze alleliche piccole popolazioni effetto collo bottiglia fondatore), flusso genico (migrazione introduce nuovi alleli), popolazione (non individuo) unità evolutiva e evoluzione cambiamento frequenze alleliche tempo.",
+      "categoria": "definizioni",
+      "materia": "scienze",
+      "argomento": "Evoluzione",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Meccanismi, e prove dell'evoluzione?",
+      "retro": "Prove molecolari include orologio molecolare (mutazioni neutre tasso costante stimare tempo divergenza), confronto sequenze Il DNA (umano scimpanzè 98.",
+      "categoria": "temi",
+      "materia": "scienze",
+      "argomento": "Evoluzione",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Meccanismi, e prove dell'evoluzione?",
+      "retro": "Selezione naturale include direzionale (melanismo industriale falene Biston betularia scure sopravvivono meglio alberi anneriti inquinamento), sessuale (caratteri appariscenti piumaggio pavone cornacorna cervi svantaggiosi sopravvivenza, ma vantaggiosi riproduzione scelta femmine competizione maschi) e parentale (allattamento cure genitori sopravvivenza prole costo genitore) e kin selection (altruismo verso parenti condividono geni api operaie sterili aiutano regina sorella).",
+      "categoria": "temi",
+      "materia": "scienze",
+      "argomento": "Evoluzione",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1983?",
+      "retro": "PCR reazione catena polimerasi (Polymerase Chain Reaction) inventata Kary Mullis 1983 Nobel 1993, rivoluziona biologia molecolare",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Biotecnologie",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1993?",
+      "retro": "PCR reazione catena polimerasi (Polymerase Chain Reaction) inventata Kary Mullis 1983 Nobel 1993, rivoluziona biologia molecolare",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Biotecnologie",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in PCR e amplificazione DNA?",
+      "retro": "Varianti include RT-PCR (reverse transcriptase da RNA), real-time PCR quantitativa (qPCR misura quantità Il DNA tempo reale fluorescenza) e nested PCR (due coppie primer aumenta specificità).",
+      "categoria": "temi",
+      "materia": "scienze",
+      "argomento": "Biotecnologie",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in PCR e amplificazione DNA?",
+      "retro": "Procedimento 3 fasi ciclo include denaturazione (95°C 30sec Il DNA doppia elica separa filamenti singoli), appaiamento annealing (55°C 30sec primer legano sequenze complementari) e estensione (72°C 1-2min Taq polimerasi sintetizza Il DNA da primer).",
+      "categoria": "temi",
+      "materia": "scienze",
+      "argomento": "Biotecnologie",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1996?",
+      "retro": "tiva include trasferimento nucleo somatico (SCNT) cellula donatrice ovocita enucleato, Dolly pecora 1996 primo mammifero clonato (Wilmut), inefficiente molti tentativi falliti anomalie, invecchiamento",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Biotecnologie",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 2012?",
+      "retro": "ti midollo osseo pelle fegato limitato differenziamento) e indotte pluripotenti iPS (Yamanaka Nobel 2012 riprogrammare cellule adulte pluripotenti introducendo 4 geni trascrizione Oct4 Sox2 Klf4 c-Myc",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Biotecnologie",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Le applicazioni include medicina rigenerativa (riparare tessuti organi danneggiati Parkinson diabete lesioni midollo spinale), modelli malattie (studiare meccanismi testare farmaci), trapianti (organi bioartificiali evitare rigetto).",
+      "categoria": "definizioni",
+      "materia": "scienze",
+      "argomento": "Biotecnologie",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 1999?",
+      "retro": "Rischi include mutagenesi inserzionale (vettore integra gene oncogene leucemie trial 1999 Jesse Gelsinger morte), risposta immunitaria vettore, espressione gene insufficiente eccessiva.",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Biotecnologie",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 2018?",
+      "retro": "Etica include editing germinale modifica ereditaria, caso He Jiankui 2018 gemelle cinesi modificate gene CCR5 resistenza HIV condanna internazionale",
+      "categoria": "date",
+      "materia": "scienze",
+      "argomento": "Biotecnologie",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Terapie geniche e CRISPR?",
+      "retro": "Rischi include mutagenesi inserzionale (vettore integra gene oncogene leucemie trial 1999 Jesse Gelsinger morte), risposta immunitaria vettore, espressione gene insufficiente eccessiva.",
+      "categoria": "temi",
+      "materia": "scienze",
+      "argomento": "Biotecnologie",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Terapie geniche e CRISPR?",
+      "retro": "Vettori include virali (retrovirus integrano genoma, adenovirus non integrano espressione temporanea, lentivirus infettano cellule quiescenti AAV virus adeno-associati sicuri) e non virali (liposomi nanoparticelle elettroporazione meno efficienti ma più sicuri).",
+      "categoria": "temi",
+      "materia": "scienze",
+      "argomento": "Biotecnologie",
+      "difficolta": "avanzato"
+    }
+  ]
+}

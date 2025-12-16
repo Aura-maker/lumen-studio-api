@@ -1,0 +1,143 @@
+{
+  "id": "MAT_SIM_113",
+  "materia": "MATEMATICA",
+  "tipo": "ESAME DI STATO - LICEO SCIENTIFICO",
+  "numero": 113,
+  "data": "2025-12-06",
+  "durata": "6 ore",
+  "intestazione": "Ministero dell'Istruzione e del Merito\nESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE\nIndirizzo: LICEO SCIENTIFICO\nTema di: MATEMATICA",
+  "istruzioni": "Il candidato risolva uno dei due problemi e risponda a 4 quesiti.",
+  "strumenti_ammessi": "È consentito l'uso della calcolatrice non programmabile.",
+  "problemi": [
+    {
+      "numero": "PROBLEMA 1",
+      "titolo": "Integrazione e applicazioni",
+      "introduzione": "Si consideri la funzione f(x) = x·ln(x) per x > 0.",
+      "contesto": null,
+      "funzioni": null,
+      "dati": null,
+      "punti": [
+        {
+          "lettera": "a",
+          "testo": "Calcolare ∫₁^e f(x) dx."
+        },
+        {
+          "lettera": "b",
+          "testo": "Determinare la primitiva F(x) tale che F(1) = 0."
+        },
+        {
+          "lettera": "c",
+          "testo": "Calcolare il volume del solido ottenuto ruotando il grafico di f attorno all'asse x per x ∈ [1, e]."
+        },
+        {
+          "lettera": "d",
+          "testo": "Trovare il baricentro della regione piana delimitata da f, l'asse x e le rette x = 1, x = e."
+        },
+        {
+          "lettera": "e",
+          "testo": "Studiare la convergenza di ∫₀^1 f(x) dx (integrale improprio)."
+        }
+      ]
+    },
+    {
+      "numero": "PROBLEMA 2",
+      "titolo": "Problema di ottimizzazione",
+      "introduzione": null,
+      "contesto": "Un'azienda produce x unità di un bene con costo totale C(x) = x³ - 6x² + 15x + 10 e ricavo R(x) = 20x - x².",
+      "funzioni": null,
+      "dati": null,
+      "punti": [
+        {
+          "lettera": "a",
+          "testo": "Determinare la funzione profitto P(x) e studiarne il segno."
+        },
+        {
+          "lettera": "b",
+          "testo": "Trovare la quantità x che massimizza il profitto."
+        },
+        {
+          "lettera": "c",
+          "testo": "Calcolare il costo marginale e il ricavo marginale. Per quale x sono uguali?"
+        },
+        {
+          "lettera": "d",
+          "testo": "Determinare l'elasticità del costo rispetto alla quantità prodotta."
+        },
+        {
+          "lettera": "e",
+          "testo": "Se il prezzo di vendita aumenta del 10%, come varia la quantità ottimale?"
+        }
+      ]
+    }
+  ],
+  "quesiti": [
+    {
+      "numero": 1,
+      "argomento": "limiti",
+      "testo": "Determinare a,b ∈ ℝ tali che lim(x→0) [e^(ax)-bcos(x)-1]/x² = 2",
+      "suggerimento": null
+    },
+    {
+      "numero": 2,
+      "argomento": "derivate",
+      "testo": "Data f(x) = |x|·sin(1/x) per x≠0, f(0)=0, studiare derivabilità in x=0.",
+      "suggerimento": null
+    },
+    {
+      "numero": 3,
+      "argomento": "integrali",
+      "testo": "Calcolare: ∫ x·e^x·sin(x) dx",
+      "suggerimento": "Per parti ripetute"
+    },
+    {
+      "numero": 4,
+      "argomento": "geometria",
+      "testo": "Data l'iperbole xy = 4, trovare le tangenti parallele alla retta x + y = 0.",
+      "suggerimento": null
+    },
+    {
+      "numero": 5,
+      "argomento": "probabilita",
+      "testo": "Calcolare la varianza di X se P(X=k) = 1/2^k per k = 1, 2, 3, ...",
+      "suggerimento": null
+    },
+    {
+      "numero": 6,
+      "argomento": "equazioni_diff",
+      "testo": "Data y'' - y = e^x, trovare una soluzione particolare.",
+      "suggerimento": null
+    },
+    {
+      "numero": 7,
+      "argomento": "trigonometria",
+      "testo": "Risolvere: cos(2x) + cos(4x) + cos(6x) = 0.",
+      "suggerimento": "Formule di prostaferesi"
+    },
+    {
+      "numero": 8,
+      "argomento": "numeri_complessi",
+      "testo": "Risolvere: z⁴ + z³ + z² + z + 1 = 0.",
+      "suggerimento": "Radici dell'unità"
+    }
+  ],
+  "metadata": {
+    "numeroProgressivo": 113,
+    "dataGenerazione": "2025-12-06T17:54:00.513Z",
+    "versione": "2024.1",
+    "difficolta": "avanzato",
+    "argomenti_coperti": [
+      "Ottimizzazione e calcolo integrale",
+      "Problema di fisica matematica",
+      "limiti",
+      "derivate",
+      "integrali",
+      "geometria",
+      "probabilita",
+      "equazioni_diff",
+      "trigonometria",
+      "numeri_complessi"
+    ],
+    "formule_utilizzate": 6
+  },
+  "note_particolari": "Simulazione bilanciata"
+}

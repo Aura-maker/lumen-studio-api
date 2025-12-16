@@ -1,0 +1,114 @@
+{
+  "materia": "scienze",
+  "totale": 9,
+  "flashcards": [
+    {
+      "id": "scienze-1",
+      "fronte": "Funzione del DNA",
+      "retro": "Conservare e trasmettere l'informazione genetica",
+      "materia": "scienze",
+      "categoria": "Genetica",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    },
+    {
+      "id": "scienze-2",
+      "fronte": "Dove avviene la fotosintesi?",
+      "retro": "Nei cloroplasti",
+      "materia": "scienze",
+      "categoria": "Biologia",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    },
+    {
+      "id": "scienze-3",
+      "fronte": "Formula della fotosintesi",
+      "retro": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+      "materia": "scienze",
+      "categoria": "Biologia",
+      "difficolta": 2,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    },
+    {
+      "id": "scienze-4",
+      "fronte": "Funzione dei mitocondri",
+      "retro": "Produrre ATP (energia cellulare)",
+      "materia": "scienze",
+      "categoria": "Biologia",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    },
+    {
+      "id": "scienze-5",
+      "fronte": "Quanti cromosomi ha l'uomo?",
+      "retro": "46 (23 coppie)",
+      "materia": "scienze",
+      "categoria": "Genetica",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    },
+    {
+      "id": "scienze-6",
+      "fronte": "Differenza mitosi/meiosi",
+      "retro": "Mitosi: 2 cellule diploidi; Meiosi: 4 cellule aploidi",
+      "materia": "scienze",
+      "categoria": "Genetica",
+      "difficolta": 2,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    },
+    {
+      "id": "scienze-7",
+      "fronte": "Basi azotate del DNA",
+      "retro": "Adenina, Timina, Citosina, Guanina (A-T, C-G)",
+      "materia": "scienze",
+      "categoria": "Genetica",
+      "difficolta": 2,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    },
+    {
+      "id": "scienze-8",
+      "fronte": "pH dell'acqua pura",
+      "retro": "7 (neutro)",
+      "materia": "scienze",
+      "categoria": "Chimica",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    },
+    {
+      "id": "scienze-9",
+      "fronte": "Gas più abbondante nell'atmosfera",
+      "retro": "Azoto (N₂) - circa 78%",
+      "materia": "scienze",
+      "categoria": "Chimica",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    }
+  ]
+}

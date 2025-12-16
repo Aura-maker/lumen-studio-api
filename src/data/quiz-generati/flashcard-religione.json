@@ -1,0 +1,102 @@
+{
+  "materia": "religione",
+  "totale": 8,
+  "flashcards": [
+    {
+      "id": "religione-1",
+      "fronte": "Quanti sono i Vangeli canonici?",
+      "retro": "4 (Matteo, Marco, Luca, Giovanni)",
+      "materia": "religione",
+      "categoria": "Bibbia",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.076Z"
+    },
+    {
+      "id": "religione-2",
+      "fronte": "Quanti sono i comandamenti?",
+      "retro": "10",
+      "materia": "religione",
+      "categoria": "Dottrina",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.076Z"
+    },
+    {
+      "id": "religione-3",
+      "fronte": "Quanti sono i sacramenti?",
+      "retro": "7",
+      "materia": "religione",
+      "categoria": "Dottrina",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.076Z"
+    },
+    {
+      "id": "religione-4",
+      "fronte": "Dove nacque Gesù?",
+      "retro": "Betlemme",
+      "materia": "religione",
+      "categoria": "Vita di Gesù",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.076Z"
+    },
+    {
+      "id": "religione-5",
+      "fronte": "Quanti sono gli apostoli?",
+      "retro": "12",
+      "materia": "religione",
+      "categoria": "Vita di Gesù",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.076Z"
+    },
+    {
+      "id": "religione-6",
+      "fronte": "Chi fu il primo Papa?",
+      "retro": "San Pietro",
+      "materia": "religione",
+      "categoria": "Chiesa",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.076Z"
+    },
+    {
+      "id": "religione-7",
+      "fronte": "Cosa celebra la Pasqua?",
+      "retro": "La resurrezione di Gesù",
+      "materia": "religione",
+      "categoria": "Feste",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.076Z"
+    },
+    {
+      "id": "religione-8",
+      "fronte": "Cosa celebra la Pentecoste?",
+      "retro": "La discesa dello Spirito Santo",
+      "materia": "religione",
+      "categoria": "Feste",
+      "difficolta": 2,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.076Z"
+    }
+  ]
+}

@@ -1,0 +1,1526 @@
+{
+  "materia": "storia",
+  "totale": 190,
+  "flashcards": [
+    {
+      "fronte": "Cosa accadde nel 1789?",
+      "retro": "La Rivoluzione francese (1789-1799) ha cause complesse e multiple",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1799?",
+      "retro": "La Rivoluzione francese (1789-1799) ha cause complesse e multiple",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 175?",
+      "retro": "La convocazione degli Stati Generali nel maggio 1789, dopo 175 anni, scatena il conflitto sul voto per testa o per ordine",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del libertà in Le cause della Rivoluzione?",
+      "retro": "Le cause politiche comprendono l'assolutismo monarchico, l'influenza dell'Illuminismo con gli ideali di libertà e uguaglianza e sovranità popolare.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in Le cause della Rivoluzione?",
+      "retro": "Le cause economiche includono la crisi finanziaria dello Stato dovuta ai debiti di guerra, un sistema fiscale iniquo che grava sul Terzo Stato mentre nobiltà e clero sono esentati dalle tasse.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1789?",
+      "retro": "L'Assemblea Costituente abolisce i privilegi feudali il 4 agosto 1789, segnando la fine dell'Ancien Régime",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1791?",
+      "retro": "La Costituzione del 1791 stabilisce una monarchia costituzionale con suffragio censitario e la divisione dei poteri seco",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1792?",
+      "retro": "ti e i Montagnardi radicali, mentre la guerra contro Austria e Prussia viene dichiarata nell'aprile 1792, segnando l'inizio del conflitto europeo contro la Rivoluzione.",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del libertà in Le fasi: monarchia costituzionale 1789-1792?",
+      "retro": "La Dichiarazione dei diritti dell'uomo e del cittadino del 26 agosto proclama i principi di libertà, uguaglianza, proprietà e sovranità nazionale come fondamenti del nuovo ordine.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in Le fasi: monarchia costituzionale 1789-1792?",
+      "retro": "L'Assemblea Legislativa del 1791-92 vede lo scontro tra i Girondini moderati e i Montagnardi radicali, mentre la guerra contro Austria e Prussia viene dichiarata nell'aprile 1792, segnando l'inizio del conflitto europeo contro la Rivoluzione..",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "L'Assemblea Legislativa del 1791-92 vede lo scontro tra i Girondini moderati e i Montagnardi radicali, mentre la guerra contro Austria e Prussia viene dichiarata nell'aprile 1792, segnando l'inizio del conflitto europeo contro la Rivoluzione..",
+      "categoria": "definizioni",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 1792?",
+      "retro": "L'invasione prussiana viene fermata dalla vittoria francese a Valmy nel settembre 1792, salvando la Rivoluzione",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1793?",
+      "retro": "al re Luigi XVI si conclude con la condanna a morte e l'esecuzione alla ghigliottina il 21 gennaio 1793, provocando la coalizione europea contro la Francia",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1794?",
+      "retro": "Il 27 luglio 1794 (9 Termidoro) un colpo di stato rovescia Robespierre, che viene ghigliottinato il giorno dopo,",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Repubblica e Terrore 1792-1794?",
+      "retro": "Il processo al re Luigi XVI si conclude con la condanna a morte e l'esecuzione alla ghigliottina il 21 gennaio 1793, provocando la coalizione europea contro la Francia.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del patria in Repubblica e Terrore 1792-1794?",
+      "retro": "Le misure sociali comprendono l'abolizione della schiavitù nelle colonie, il calmiere sui prezzi per aiutare i poveri e la leva di massa per difendere la patria.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1796?",
+      "retro": "Le guerre di espansione vedono le vittorie del generale Napoleone Bonaparte in Italia (1796-97) e la spedizione in Egitto (1798) che lo rendono popolare",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1798?",
+      "retro": "vedono le vittorie del generale Napoleone Bonaparte in Italia (1796-97) e la spedizione in Egitto (1798) che lo rendono popolare",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1799?",
+      "retro": "Il 9 novembre 1799 (18 Brumaio dell'Anno VIII) Napoleone attua il colpo di stato con l'aiuto del fratello Luciano,",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del politica in Direttorio, e colpo Stato Napoleone 1795-1799?",
+      "retro": "Il regime soffre di instabilità politica, corruzione dilagante e inflazione economica che minano la sua credibilità.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "I moderati prendono il potere reprimendo sia i giacobini che i monarchici.",
+      "categoria": "definizioni",
+      "materia": "storia",
+      "argomento": "Rivoluzione francese",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 1769?",
+      "retro": "Napoleone Bonaparte (1769-1821) nasce in Corsica e diventa ufficiale d'artiglieria",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1821?",
+      "retro": "Napoleone Bonaparte (1769-1821) nasce in Corsica e diventa ufficiale d'artiglieria",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1796?",
+      "retro": "Emerge con le campagne d'Italia del 1796-97 sconfiggendo gli austriaci e con la spedizione in Egitto del 1798",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1798?",
+      "retro": "e con le campagne d'Italia del 1796-97 sconfiggendo gli austriaci e con la spedizione in Egitto del 1798",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1799?",
+      "retro": "Attua il colpo di stato del 18 Brumaio 1799 instaurando il Consolato come Primo Console con poteri vastissimi",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1804?",
+      "retro": "Le riforme fondamentali comprendono il Codice Civile del 1804 che stabilisce l'uguaglianza giuridica, la proprietà privata, l'autorità del capofamiglia e la",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1801?",
+      "retro": "dica, la proprietà privata, l'autorità del capofamiglia e la laicità dello Stato; il Concordato del 1801 con papa Pio VII che ristabilisce la pace religiosa mentre la Chiesa riconosce la vendita dei b",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1800?",
+      "retro": "Le vittorie militari includono Marengo del 1800 contro l'Austria",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1802?",
+      "retro": "Nel 1802 diventa Console a vita.",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del pace in Ascesa e Consolato 1799-1804?",
+      "retro": "Le riforme fondamentali comprendono il Codice Civile del 1804 che stabilisce l'uguaglianza giuridica, la proprietà privata, l'autorità del capofamiglia e la laicità dello Stato; il Concordato del 1801 con papa Pio VII che ristabilisce la pace religiosa mentre la Chiesa riconosce la vendita dei beni nazionali; l'amministrazione centralizzata con i prefetti; la Banca di Francia; i licei statali laici; l'Università imperiale.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del famiglia in Ascesa e Consolato 1799-1804?",
+      "retro": "Le riforme fondamentali comprendono il Codice Civile del 1804 che stabilisce l'uguaglianza giuridica, la proprietà privata, l'autorità del capofamiglia e la laicità dello Stato; il Concordato del 1801 con papa Pio VII che ristabilisce la pace religiosa mentre la Chiesa riconosce la vendita dei beni nazionali; l'amministrazione centralizzata con i prefetti; la Banca di Francia; i licei statali laici; l'Università imperiale.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1804?",
+      "retro": "Il 2 dicembre 1804 Napoleone si incorona Imperatore nella cattedrale di Notre-Dame davanti al papa",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1805?",
+      "retro": "L'espansione militare in Europa comprende la vittoria di Austerlitz del 1805 contro Austria e Russia, considerata un capolavoro strategico; Jena del 1806 dove la Prussia vi",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1806?",
+      "retro": "oria di Austerlitz del 1805 contro Austria e Russia, considerata un capolavoro strategico; Jena del 1806 dove la Prussia viene annientata; Friedland del 1807 che porta alla pace di Tilsit con la Russi",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1807?",
+      "retro": "considerata un capolavoro strategico; Jena del 1806 dove la Prussia viene annientata; Friedland del 1807 che porta alla pace di Tilsit con la Russia",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1810?",
+      "retro": "L'apice del potere si raggiunge nel 1810-11 con un impero che si estende dalla Spagna alla Polonia",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del pace in Impero, e espansione 1804-1812?",
+      "retro": "L'espansione militare in Europa comprende la vittoria di Austerlitz del 1805 contro Austria e Russia, considerata un capolavoro strategico; Jena del 1806 dove la Prussia viene annientata; Friedland del 1807 che porta alla pace di Tilsit con la Russia.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1812?",
+      "retro": "Giugno 1812 invasione Russia con Grande Armata 600",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 600?",
+      "retro": "Giugno 1812 invasione Russia con Grande Armata 600",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 000?",
+      "retro": "000 soldati",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1813?",
+      "retro": "Battaglia Nazioni Lipsia ottobre 1813 sconfitta",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1814?",
+      "retro": "Abdicazione Fontainebleau 6 aprile 1814",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1815?",
+      "retro": "1 marzo 1815 Napoleone fugge Elba, sbarca Golfo Juan Francia",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1821?",
+      "retro": "Esilio Sant'Elena Atlantico, muore 5 maggio 1821",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 300?",
+      "retro": "Distrusse Sacro Romano Impero, riorganizzò Germania (da 300 a 39 stati) e rafforzò Prussia",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del libertà in Eredità napoleonica?",
+      "retro": "Eredità duplice: despota che tradì libertà rivoluzionarie con censura, polizia e autoritarismo.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Ma anche modernizzatore che diffuse ideali borghesi, Codice Civile (base diritto europeo), amministrazione razionale, meritocrazia e laicità Stato.",
+      "categoria": "definizioni",
+      "materia": "storia",
+      "argomento": "Napoleone Bonaparte",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 1814?",
+      "retro": "Il Congresso di Vienna, riunitosi tra il settembre 1814, il giugno 1815 e ridisegnò completamente la carta politica europea dopo la sconfitta di Napole",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1815?",
+      "retro": "Il Congresso di Vienna, riunitosi tra il settembre 1814, il giugno 1815 e ridisegnò completamente la carta politica europea dopo la sconfitta di Napoleone",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1848?",
+      "retro": "Questo è Il è Il sistema resse fino al 1848 grazie a una ferrea repressione di ogni movimento liberale, e nazionale",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del libertà in Il Congresso di Vienna e il nuovo assetto europeo?",
+      "retro": "Tuttavia, le idee di libertà e uguaglianza, , nazionalità diffuse dalla Rivoluzione francese e e dall'età napoleonica non potevano essere cancellate.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del politica in Il Congresso di Vienna e il nuovo assetto europeo?",
+      "retro": "Il Congresso di Vienna, riunitosi tra il settembre 1814, il giugno 1815 e ridisegnò completamente la carta politica europea dopo la sconfitta di Napoleone.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "In Italia, il Regno di Sardegna incorporò la Repubblica di Genova, il Lombardo-Veneto andò all'Austria, il Granducato di Toscana e i ducati di Parma e Modena furono affidati a principi legati agli Asburgo e lo Stato Pontificio fu restaurato, il Regno delle Due Sicilie tornò ai Borbone.",
+      "categoria": "definizioni",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Di cosa tratta \"monarchia di luglio\"?",
+      "retro": "a costituzionale con Luigi Filippo d'Orléans, la \"monarchia di luglio\" che rappresentava gli interessi della borghesia..",
+      "categoria": "opere",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"monarchia di luglio\"?",
+      "retro": "In Spagna",
+      "categoria": "autori",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1820?",
+      "retro": "I moti del 1820-1821 rappresentarono il primo grande tentativo di abbattere l'ordine della Restaurazione",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1821?",
+      "retro": "I moti del 1820-1821 rappresentarono il primo grande tentativo di abbattere l'ordine della Restaurazione",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1812?",
+      "retro": "tare guidata dal colonnello Riego costrinse il re Ferdinando VII a ripristinare la costituzione del 1812 e ma l'intervento della Santa Alleanza attraverso la Francia ripristinò l'assolutismo nel 1823.",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1823?",
+      "retro": "del 1812 e ma l'intervento della Santa Alleanza attraverso la Francia ripristinò l'assolutismo nel 1823",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1829?",
+      "retro": "La Grecia invece riuscì a conquistare l'indipendenza dall'Impero Ottomano (1821-1829) è grazie all'intervento di Russia, Francia e Inghilterra, mosse sia da interessi geopolitici s",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1830?",
+      "retro": "I moti del 1830-1831 ebbero esiti diversi include in Francia, la rivoluzione di luglio abbatté Carlo X e instau",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1831?",
+      "retro": "I moti del 1830-1831 ebbero esiti diversi include in Francia, la rivoluzione di luglio abbatté Carlo X e instaurò un",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in I moti rivoluzionari del 1820-1821 e 1830-1831?",
+      "retro": "In Piemonte, gli ufficiali dell'esercito e e alcuni nobili liberali tentarono di ottenere la costituzione, la guerra contro l'Austria, ma l'abdicazione di Vittorio Emanuele I a favore di Carlo Felice e l'intervento austriaco stroncarono il movimento.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1848?",
+      "retro": "Il 1848 fu l'anno delle rivoluzioni che attraversarono tutta l'Europa, dalla Francia all'Impero Asburgi",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1849?",
+      "retro": "in un disastro include la sconfitta di Custoza (luglio 1848) e soprattutto quella di Novara (marzo 1849) costrinsero Carlo Alberto all'abdicazione",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Il 1848: la primavera dei popoli?",
+      "retro": "Nel frattempo, a Roma era stata proclamata la Repubblica Romana guidata da Mazzini, Saffi e Armellini, difesa da Garibaldi e ma caduta per l'intervento francese (luglio 1849).",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in Il 1848: la primavera dei popoli?",
+      "retro": "Carlo Alberto di Savoia dichiarò guerra all'Austria (Prima Guerra d'Indipendenza) con l'obiettivo di unificare il nord Italia sotto il Piemonte.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Il fallimento del '48 italiano fu dovuto a divisioni tra democratici, , moderati e all'opposizione del papa Pio IX dopo l'allocuzione del 29 aprile 1848, all'isolamento internazionale.",
+      "categoria": "definizioni",
+      "materia": "storia",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Di cosa tratta \"connubio\"?",
+      "retro": "Sul piano politico interno, governò con il \"connubio\" tra destra, e centro-sinistra moderati, garantendo stabilità politica, e sviluppo delle istituzioni liberali..",
+      "categoria": "opere",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"connubio\"?",
+      "retro": "Camillo Benso",
+      "categoria": "autori",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Di cosa tratta \"questione italiana\"?",
+      "retro": "Inghilterra contro la Russia servì a inserire la \"questione italiana\" nell'agenda europea..",
+      "categoria": "opere",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"questione italiana\"?",
+      "retro": "Camillo Benso",
+      "categoria": "autori",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1852?",
+      "retro": "Divenuto primo ministro del Regno di Sardegna nel 1852, Cavour perseguì una strategia articolata su più fronti",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1855?",
+      "retro": "La partecipazione alla Guerra di Crimea (1855-1856) al fianco di Francia e Inghilterra contro la Russia servì a inserire la \"questione italia",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1856?",
+      "retro": "La partecipazione alla Guerra di Crimea (1855-1856) al fianco di Francia e Inghilterra contro la Russia servì a inserire la \"questione italiana\" n",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1858?",
+      "retro": "Il capolavoro diplomatico fu l'accordo di Plombières (luglio 1858) con Napoleone III: in cambio di Nizza e Savoia, la Francia si impegnava ad aiutare il Piemonte",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1859?",
+      "retro": "La guerra fu provocata abilmente nel 1859: l'Austria, spinta dalle provocazioni piemontesi, dichiarò guerra, permettendo l'intervento fra",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1860?",
+      "retro": "Cavour si dimise furioso, ma tornò al potere nel 1860 per gestire la crisi delle annessioni dell'Italia centrale e l'impresa dei Mille, trasformando",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del politica in Cavour e la politica piemontese?",
+      "retro": "Sul piano politico interno, governò con il \"connubio\" tra destra, e centro-sinistra moderati, garantendo stabilità politica, e sviluppo delle istituzioni liberali..",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in Cavour e la politica piemontese?",
+      "retro": "La partecipazione alla Guerra di Crimea (1855-1856) al fianco di Francia e Inghilterra contro la Russia servì a inserire la \"questione italiana\" nell'agenda europea..",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Camillo Benso conte di Cavour rappresentò la figura chiave del processo di unificazione italiana, incarnando il pragmatismo politico del movimento moderato.",
+      "categoria": "definizioni",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 1859?",
+      "retro": "La Seconda Guerra d'Indipendenza (aprile-luglio 1859) fu il momento decisivo del processo unitario",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1860?",
+      "retro": "Cavour, tornato al potere nel gennaio 1860 e organizzò plebisciti che sancirono le annessioni, cedendo in cambio Nizza e Savoia alla Franc",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1861?",
+      "retro": "Il 17 marzo 1861 fu proclamato il Regno d'Italia con Vittorio Emanuele II re, Torino capitale, lo Statuto Albert",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in La Seconda Guerra d'Indipendenza e l'impresa dei Mille?",
+      "retro": "La Seconda Guerra d'Indipendenza (aprile-luglio 1859) fu il momento decisivo del processo unitario.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Di cosa tratta \"diplomatica\"?",
+      "retro": "Fu un'annessione \"diplomatica\" che lasciò un senso di frustrazione per le sconfitte militari..",
+      "categoria": "opere",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"diplomatica\"?",
+      "retro": "La Terza",
+      "categoria": "autori",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Di cosa tratta \"prigioniero in Vaticano\"?",
+      "retro": "ndita annua, ma Pio IX la rifiutò, dichiarandosi \"prigioniero in Vaticano\" e vietando ai cattolici italiani la partecipazione alla vita politica (non expedit)..",
+      "categoria": "opere",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"prigioniero in Vaticano\"?",
+      "retro": "La Terza",
+      "categoria": "autori",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Di cosa tratta \"questione romana\"?",
+      "retro": "La questione romana era più complessa: Roma era difesa dalle truppe francesi, e Napoleone III non aveva intenzione di ritirarle..",
+      "categoria": "opere",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"questione romana\"?",
+      "retro": "La Terza",
+      "categoria": "autori",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1866?",
+      "retro": "Il completamento dell'unità italiana si realizzò in due tappe: l'acquisizione del Veneto nel 1866 e di Roma nel 1870",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1870?",
+      "retro": "ento dell'unità italiana si realizzò in due tappe: l'acquisizione del Veneto nel 1866 e di Roma nel 1870",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1862?",
+      "retro": "I tentativi garibaldini di prendere Roma con la forza (Aspromonte 1862, Mentana 1867) furono bloccati proprio dai francesi.",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1867?",
+      "retro": "I tentativi garibaldini di prendere Roma con la forza (Aspromonte 1862, Mentana 1867) furono bloccati proprio dai francesi.",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1871?",
+      "retro": "Un plebiscito sancì l'annessione e nel 1871 Roma divenne capitale del Regno.",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1929?",
+      "retro": "Questa \"questione romana\" avrebbe condizionato la politica italiana fino ai Patti Lateranensi del 1929.",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del politica in Il completamento dell'unità: Veneto e Roma?",
+      "retro": "Per regolare i rapporti con la Santa Sede fu emanata la legge delle Guarentigie, che riconosceva al papa sovranità sul Vaticano e una rendita annua, ma Pio IX la rifiutò, dichiarandosi \"prigioniero in Vaticano\" e vietando ai cattolici italiani la partecipazione alla vita politica (non expedit)..",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in Il completamento dell'unità: Veneto e Roma?",
+      "retro": "La Terza Guerra d'Indipendenza (1866) fu combattuta in alleanza con la Prussia contro l'Austria nel quadro della guerra austro-prussiana.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Di cosa tratta \"totale\"?",
+      "retro": "olse presto anche i mari, le colonie e l'economia totale, diventando il primo conflitto \"totale\" della storia moderna, che avrebbe causato oltre 10 milioni di morti, e ridisegnato completamente l'Europa.",
+      "categoria": "opere",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"totale\"?",
+      "retro": "La Prima",
+      "categoria": "autori",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1914?",
+      "retro": "La Prima Guerra Mondiale (1914-1918) è fu il risultato di una complessa serie di cause profonde, e occasioni",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1918?",
+      "retro": "La Prima Guerra Mondiale (1914-1918) è fu il risultato di una complessa serie di cause profonde, e occasioni",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in Cause, e scoppio della Prima Guerra Mondiale?",
+      "retro": "La Prima Guerra Mondiale (1914-1918) è fu il risultato di una complessa serie di cause profonde, e occasioni.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "La guerra coinvolse presto anche i mari, le colonie e l'economia totale, diventando il primo conflitto \"totale\" della storia moderna, che avrebbe causato oltre 10 milioni di morti, e ridisegnato completamente l'Europa.",
+      "categoria": "definizioni",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Di cosa tratta \"parecchio\"?",
+      "retro": "I giolittiani, che ritenevano possibile ottenere \"parecchio\" (Trento e Trieste) con la diplomazia..",
+      "categoria": "opere",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"parecchio\"?",
+      "retro": "Triplice Alleanza",
+      "categoria": "autori",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Di cosa tratta \"radiose giornate\"?",
+      "retro": "Le \"radiose giornate\" di maggio, con manifestazioni interventiste orchestrate da D'Annunzio, Mussolini, nazionalisti, crearono un clima di pressione..",
+      "categoria": "opere",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"radiose giornate\"?",
+      "retro": "Triplice Alleanza",
+      "categoria": "autori",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1915?",
+      "retro": "Esteri Sonnino condussero trattative segrete con l'Intesa, culminate nel Patto di Londra (26 aprile 1915): in cambio dell'intervento, l'Italia avrebbe ottenuto Trento, Trieste, l'Alto Adige, l'Istria,",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1916?",
+      "retro": "5 l'Italia dichiarò guerra all'Austria (non alla Germania, con cui entrò in guerra solo nell'agosto 1916).",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in L'Italia dalla neutralità all'intervento?",
+      "retro": "Allo scoppio della guerra, l'Italia si dichiarò neutrale nonostante facesse parte della Triplice Alleanza con Germania e Austria.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Il governo Salandra e il ministro degli Esteri Sonnino condussero trattative segrete con l'Intesa, culminate nel Patto di Londra (26 aprile 1915): in cambio dell'intervento, l'Italia avrebbe ottenuto Trento, Trieste, l'Alto Adige, l'Istria, la Dalmazia settentrionale, il Dodecanneso..",
+      "categoria": "definizioni",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Di cosa tratta \"il Piave mormorò: non passa lo straniero\"?",
+      "retro": "La resistenza sul Piave (\"il Piave mormorò: non passa lo straniero\") salvò l'Italia..",
+      "categoria": "opere",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"il Piave mormorò: non passa lo straniero\"?",
+      "retro": "Luigi Cadorna",
+      "categoria": "autori",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Di cosa tratta \"vittoria mutilata\"?",
+      "retro": "Nacque il mito della \"vittoria mutilata\" alimentato da nazionalisti e D'Annunzio, che nel settembre 1919 occupò Fiume con legionari..",
+      "categoria": "opere",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"vittoria mutilata\"?",
+      "retro": "Luigi Cadorna",
+      "categoria": "autori",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Di cosa tratta \"biennio rosso\"?",
+      "retro": " inflazione, agitazioni operaie, e contadine del \"biennio rosso\" 1919-1920), creò le condizioni per l'ascesa del fascismo.",
+      "categoria": "opere",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"biennio rosso\"?",
+      "retro": "Luigi Cadorna",
+      "categoria": "autori",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1916?",
+      "retro": "Nel 1916 l'Austria lanciò la Strafexpedition (spedizione punitiva) dall'altopiano di Asiago, fermata a f",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1917?",
+      "retro": "Il 1917 fu l'anno della crisi include disfatta di Caporetto (24 ottobre), con sfondamento austro-tedesc",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1918?",
+      "retro": "Nel 1918 l'offensiva austriaca sul Piave (giugno) fu respinta; in ottobre l'Italia lanciò l'offensiva fi",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 600?",
+      "retro": "La guerra era costata all'Italia 600.000 morti e un milione di feriti.",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 000?",
+      "retro": "La guerra era costata all'Italia 600.000 morti e un milione di feriti.",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1919?",
+      "retro": "Al tavolo di pace di Versailles (1919), il presidente USA Wilson si oppose alle richieste italiane sulla Dalmazia previste dal Patto",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1920?",
+      "retro": "el dopoguerra (disoccupazione, inflazione, agitazioni operaie, e contadine del \"biennio rosso\" 1919-1920), creò le condizioni per l'ascesa del fascismo",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in La guerra italiana e il dopoguerra?",
+      "retro": "Nel frattempo la Russia usciva dalla guerra per la rivoluzione bolscevica, ma gli USA entravano in guerra a fianco dell'Intesa..",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in La guerra italiana e il dopoguerra?",
+      "retro": "La guerra dell'Italia si combatté principalmente sul fronte dell'Isonzo, , sugli altipiani e in condizioni durissime di alta montagna e e trincea.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del pace in La guerra italiana e il dopoguerra?",
+      "retro": "Al tavolo di pace di Versailles (1919), il presidente USA Wilson si oppose alle richieste italiane sulla Dalmazia previste dal Patto di Londra, applicando il principio di autodeterminazione dei popoli..",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Al tavolo di pace di Versailles (1919), il presidente USA Wilson si oppose alle richieste italiane sulla Dalmazia previste dal Patto di Londra, applicando il principio di autodeterminazione dei popoli..",
+      "categoria": "definizioni",
+      "materia": "storia",
+      "argomento": "Prima Guerra Mondiale",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 1919?",
+      "retro": "Benito Mussolini, ex socialista interventista e fondò i Fasci di combattimento nel marzo 1919 a Milano",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1920?",
+      "retro": "Il vero decollo avvenne nel 1920-1921 con le squadre d'azione che, finanziate da agrari, e industriali e attaccarono sistematica",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1921?",
+      "retro": "Il vero decollo avvenne nel 1920-1921 con le squadre d'azione che, finanziate da agrari, e industriali e attaccarono sistematicamente",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1922?",
+      "retro": "La marcia su Roma (28 ottobre 1922) fu più una manifestazione di forza che una vera insurrezione include il re Vittorio Emanuele I",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1924?",
+      "retro": "nte Mussolini governò in apparente legalità costituzionale, ma dopo il delitto Matteotti (10 giugno 1924) e quando il deputato socialista Giacomo Matteotti che aveva denunciato le violenze fasciste fu",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1925?",
+      "retro": "Il 3 gennaio 1925 Mussolini con un discorso alla Camera si assunse la responsabilità politica dell'accaduto e e a",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1926?",
+      "retro": "Tra il 1925, il 1926 furono emanate le leggi fascistissime che instaurarono la dittatura include soppressione dei pa",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1929?",
+      "retro": "I Patti Lateranensi del 1929 con la Chiesa diedero è al regime un importante sostegno",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1935?",
+      "retro": "L'aggressione all'Etiopia (1935-1936) è e la proclamazione dell'Impero diedero a Mussolini il massimo di popolarità",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1936?",
+      "retro": "L'aggressione all'Etiopia (1935-1936) è e la proclamazione dell'Impero diedero a Mussolini il massimo di popolarità",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1938?",
+      "retro": "L'alleanza con la Germania nazista e le leggi razziali del 1938 contro gli ebrei, l'entrata nella Seconda Guerra Mondiale nel 1940 portarono il regime al disas",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1940?",
+      "retro": "nazista e le leggi razziali del 1938 contro gli ebrei, l'entrata nella Seconda Guerra Mondiale nel 1940 portarono il regime al disastro.",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del libertà in Il fascismo italiano?",
+      "retro": "Tra il 1925, il 1926 furono emanate le leggi fascistissime che instaurarono la dittatura include soppressione dei partiti di opposizione e del parlamento libero, della libertà di stampa, di associazione e di sciopero.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del politica in Il fascismo italiano?",
+      "retro": "Il 3 gennaio 1925 Mussolini con un discorso alla Camera si assunse la responsabilità politica dell'accaduto e e annunciò la svolta autoritaria.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in Il fascismo italiano?",
+      "retro": "Il fascismo è nacque nel clima di crisi del dopoguerra italiano.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1919?",
+      "retro": "Adolf Hitler, austriaco trasferito a Monaco e veterano della Prima Guerra Mondiale, aderì nel 1919 al piccolo Partito Nazionalsocialista dei Lavoratori Tedeschi (NSDAP) e di cui divenne rapidame",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1923?",
+      "retro": "Il tentativo di colpo di stato a Monaco nel 1923 (putsch della birreria) fallì e Hitler fu imprigionato, periodo in cui scrisse il Mein Kampf (L",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1929?",
+      "retro": "La crisi economica del 1929, che colpì duramente la Germania con sei milioni di disoccupati e fu l'occasione decisiva",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1932?",
+      "retro": "Nelle elezioni del 1932 divenne il primo partito",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1933?",
+      "retro": "Il 30 gennaio 1933 il presidente Hindenburg nominò Hitler cancelliere è e sperando di controllarlo",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1934?",
+      "retro": "Con la Notte dei lunghi coltelli (30 giugno 1934) eliminò le SA e il loro capo Röhm",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1935?",
+      "retro": "Ma la specificità criminale del nazismo furono le leggi di Norimberga del 1935 che privarono gli ebrei di ogni diritto, la Notte dei cristalli (novembre 1938) con la distruzi",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1938?",
+      "retro": "gi di Norimberga del 1935 che privarono gli ebrei di ogni diritto, la Notte dei cristalli (novembre 1938) con la distruzione di sinagoghe, e negozi ebraici, e soprattutto la Soluzione Finale della que",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1942?",
+      "retro": "sinagoghe, e negozi ebraici, e soprattutto la Soluzione Finale della questione ebraica e decisa nel 1942: lo sterminio sistematico di sei milioni di ebrei nei campi di morte come Auschwitz, Treblinka,",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Il nazismo tedesco?",
+      "retro": "Alla morte di Hindenburg (agosto 1934) Hitler assunse anche la carica di presidente, diventando Führer assoluto.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del politica in Il nazismo tedesco?",
+      "retro": "La politica estera aggressiva di Hitler, con il riarmo, l'annessione dell'Austria e dei Sudeti, portò allo scoppio della Seconda Guerra Mondiale..",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in Il nazismo tedesco?",
+      "retro": "Adolf Hitler, austriaco trasferito a Monaco e veterano della Prima Guerra Mondiale, aderì nel 1919 al piccolo Partito Nazionalsocialista dei Lavoratori Tedeschi (NSDAP) e di cui divenne rapidamente leader.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Totalitarismi del Novecento",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1939?",
+      "retro": "La Seconda Guerra Mondiale (1939-1945) è fu il conflitto più devastante della storia, con oltre 50 milioni di morti",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Seconda Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1945?",
+      "retro": "La Seconda Guerra Mondiale (1939-1945) è fu il conflitto più devastante della storia, con oltre 50 milioni di morti",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Seconda Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1938?",
+      "retro": "Le cause furono la politica aggressiva di Hitler (annessione Austria 1938, Sudeti 1938, invasione Cecoslovacchia marzo 1939), l'inefficacia dell'appeasement franco-brita",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Seconda Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1941?",
+      "retro": "La prima fase (1939-1941) vide trionfi tedeschi comprende Polonia conquistata in tre settimane con la guerra lampo, Dani",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Seconda Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1940?",
+      "retro": "nia conquistata in tre settimane con la guerra lampo, Danimarca e Norvegia occupate nella primavera 1940, Francia sconfitta in sei settimane (giugno 1940) con l'armistizio che creava un governo collab",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Seconda Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1943?",
+      "retro": "La seconda fase (1941-1943) iniziò con l'Operazione Barbarossa include invasione tedesca dell'URSS (22 giugno 1941) che se",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Seconda Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1942?",
+      "retro": "Il 1942 segnò la svolta include sconfitta tedesca a Stalingrado e sconfitta italo-tedesca a El-Alamein,",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Seconda Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1944?",
+      "retro": "La terza fase (1944-1945) vide l'avanzata alleata include sbarco in Normandia (6 giugno 1944), liberazione di Parig",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Seconda Guerra Mondiale",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del politica in Cause, e fasi della Seconda Guerra Mondiale?",
+      "retro": "Le cause furono la politica aggressiva di Hitler (annessione Austria 1938, Sudeti 1938, invasione Cecoslovacchia marzo 1939), l'inefficacia dell'appeasement franco-britannico e il patto Molotov-Ribbentrop (agosto 1939) tra Germania e URSS che spartiva la Polonia.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Seconda Guerra Mondiale",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in Cause, e fasi della Seconda Guerra Mondiale?",
+      "retro": "La Seconda Guerra Mondiale (1939-1945) è fu il conflitto più devastante della storia, con oltre 50 milioni di morti.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Seconda Guerra Mondiale",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1947?",
+      "retro": "Guerra fredda (1947-1991) è confronto globale tra USA e URSS senza scontro militare diretto",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Guerra fredda",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1991?",
+      "retro": "Guerra fredda (1947-1991) è confronto globale tra USA e URSS senza scontro militare diretto",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Guerra fredda",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1949?",
+      "retro": "NATO 1949: alleanza militare occidentale",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Guerra fredda",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1955?",
+      "retro": "URSS risponde con Patto Varsavia 1955",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Guerra fredda",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1948?",
+      "retro": "Berlino simbolo divisione include città divisa in settori, 1948-49 blocco sovietico, ponte aereo americano",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Guerra fredda",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1961?",
+      "retro": "1961 costruzione Muro Berlino per impedire fughe da Est a Ovest",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Guerra fredda",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1989?",
+      "retro": "Muro diventa simbolo Guerra fredda e cadrà solo 1989",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Guerra fredda",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1962?",
+      "retro": "Crisi Cuba 1962: missili sovietici a Cuba, Kennedy blocco navale, rischio guerra nucleare e accordo ritiro miss",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Guerra fredda",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in Blocchi contrapposti, e crisi di Berlino?",
+      "retro": "Guerra fredda (1947-1991) è confronto globale tra USA e URSS senza scontro militare diretto.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Guerra fredda",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Guerra fredda finisce 1989-91 con crollo muro Berlino e fine URSS, vittoria modello occidentale.",
+      "categoria": "definizioni",
+      "materia": "storia",
+      "argomento": "Guerra fredda",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 1945?",
+      "retro": "Dopo Liberazione 1945 Italia sceglie forma stato con referendum 2 giugno 1946: repubblica vince 54% contro monarchia,",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Italia repubblicana",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1946?",
+      "retro": "Dopo Liberazione 1945 Italia sceglie forma stato con referendum 2 giugno 1946: repubblica vince 54% contro monarchia, fine Savoia",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Italia repubblicana",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1947?",
+      "retro": "Assemblea Costituente eletta 1946 redige Costituzione approvata 1947 e in vigore 1 gennaio 1948",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Italia repubblicana",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1948?",
+      "retro": "Assemblea Costituente eletta 1946 redige Costituzione approvata 1947 e in vigore 1 gennaio 1948",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Italia repubblicana",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1958?",
+      "retro": "'50 ricostruzione, , boom economico comprende Piano Marshall e industria, Fiat, miracolo economico 1958-63",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Italia repubblicana",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1968?",
+      "retro": "Contestazione studentesca e e operaia 1968-69",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Italia repubblicana",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1970?",
+      "retro": "Anni di piombo 1970-80: terrorismo rosso (Brigate Rosse), nero e strage Piazza Fontana 1969, rapimento Moro 1978",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Italia repubblicana",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1969?",
+      "retro": "Anni di piombo 1970-80: terrorismo rosso (Brigate Rosse), nero e strage Piazza Fontana 1969, rapimento Moro 1978",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Italia repubblicana",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1978?",
+      "retro": "piombo 1970-80: terrorismo rosso (Brigate Rosse), nero e strage Piazza Fontana 1969, rapimento Moro 1978",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Italia repubblicana",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1992?",
+      "retro": "Tangentopoli 1992: inchiesta Mani Pulite scopre corruzione, fine Prima Repubblica, crollo DC e PSI",
+      "categoria": "date",
+      "materia": "storia",
+      "argomento": "Italia repubblicana",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del libertà in Costituzione, e primo dopoguerra?",
+      "retro": "Principi fondamentali include sovranità popolo, diritti inviolabili, uguaglianza e libertà.",
+      "categoria": "temi",
+      "materia": "storia",
+      "argomento": "Italia repubblicana",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Seconda Repubblica include bipolarismo, alternanza centrodestra-centrosinistra.",
+      "categoria": "definizioni",
+      "materia": "storia",
+      "argomento": "Italia repubblicana",
+      "difficolta": "intermedio"
+    }
+  ]
+}

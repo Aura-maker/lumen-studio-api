@@ -1,0 +1,143 @@
+{
+  "id": "MAT_SIM_056",
+  "materia": "MATEMATICA",
+  "tipo": "ESAME DI STATO - LICEO SCIENTIFICO",
+  "numero": 56,
+  "data": "2025-12-06",
+  "durata": "6 ore",
+  "intestazione": "Ministero dell'Istruzione e del Merito\nESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE\nIndirizzo: LICEO SCIENTIFICO\nTema di: MATEMATICA",
+  "istruzioni": "Il candidato risolva uno dei due problemi e risponda a 4 quesiti.",
+  "strumenti_ammessi": "È consentito l'uso della calcolatrice non programmabile.",
+  "problemi": [
+    {
+      "numero": "PROBLEMA 1",
+      "titolo": "Problema di ottimizzazione",
+      "introduzione": null,
+      "contesto": "Un'azienda produce x unità di un bene con costo totale C(x) = x³ - 6x² + 15x + 10 e ricavo R(x) = 20x - x².",
+      "funzioni": null,
+      "dati": null,
+      "punti": [
+        {
+          "lettera": "a",
+          "testo": "Determinare la funzione profitto P(x) e studiarne il segno."
+        },
+        {
+          "lettera": "b",
+          "testo": "Trovare la quantità x che massimizza il profitto."
+        },
+        {
+          "lettera": "c",
+          "testo": "Calcolare il costo marginale e il ricavo marginale. Per quale x sono uguali?"
+        },
+        {
+          "lettera": "d",
+          "testo": "Determinare l'elasticità del costo rispetto alla quantità prodotta."
+        },
+        {
+          "lettera": "e",
+          "testo": "Se il prezzo di vendita aumenta del 10%, come varia la quantità ottimale?"
+        }
+      ]
+    },
+    {
+      "numero": "PROBLEMA 2",
+      "titolo": "Integrazione e applicazioni",
+      "introduzione": "Si consideri la funzione f(x) = x·ln(x) per x > 0.",
+      "contesto": null,
+      "funzioni": null,
+      "dati": null,
+      "punti": [
+        {
+          "lettera": "a",
+          "testo": "Calcolare ∫₁^e f(x) dx."
+        },
+        {
+          "lettera": "b",
+          "testo": "Determinare la primitiva F(x) tale che F(1) = 0."
+        },
+        {
+          "lettera": "c",
+          "testo": "Calcolare il volume del solido ottenuto ruotando il grafico di f attorno all'asse x per x ∈ [1, e]."
+        },
+        {
+          "lettera": "d",
+          "testo": "Trovare il baricentro della regione piana delimitata da f, l'asse x e le rette x = 1, x = e."
+        },
+        {
+          "lettera": "e",
+          "testo": "Studiare la convergenza di ∫₀^1 f(x) dx (integrale improprio)."
+        }
+      ]
+    }
+  ],
+  "quesiti": [
+    {
+      "numero": 1,
+      "argomento": "numeri_complessi",
+      "testo": "Calcolare: Σ(k=0 to n-1) e^(2πik/n).",
+      "suggerimento": null
+    },
+    {
+      "numero": 2,
+      "argomento": "limiti",
+      "testo": "Determinare lim(x→0) [arcsin(x) - x]/(x³)",
+      "suggerimento": "Taylor"
+    },
+    {
+      "numero": 3,
+      "argomento": "derivate",
+      "testo": "Calcolare la derivata di f(x) = arctan(√((1-x)/(1+x))) e semplificare.",
+      "suggerimento": null
+    },
+    {
+      "numero": 4,
+      "argomento": "integrali",
+      "testo": "Calcolare: ∫ √(tan x) dx",
+      "suggerimento": "Sostituzione"
+    },
+    {
+      "numero": 5,
+      "argomento": "geometria",
+      "testo": "Calcolare l'area del triangolo di vertici A(1,2,3), B(4,0,5), C(2,1,0).",
+      "suggerimento": "Prodotto vettoriale"
+    },
+    {
+      "numero": 6,
+      "argomento": "probabilita",
+      "testo": "In un gioco si lanciano 3 dadi. Calcolare P(somma = 10).",
+      "suggerimento": null
+    },
+    {
+      "numero": 7,
+      "argomento": "equazioni_diff",
+      "testo": "Risolvere: x²y'' - 2xy' + 2y = 0 (equazione di Eulero).",
+      "suggerimento": null
+    },
+    {
+      "numero": 8,
+      "argomento": "trigonometria",
+      "testo": "Risolvere: sin(x) + sin(2x) + sin(3x) = 0 per x ∈ [0, 2π].",
+      "suggerimento": null
+    }
+  ],
+  "metadata": {
+    "numeroProgressivo": 56,
+    "dataGenerazione": "2025-12-06T17:54:00.503Z",
+    "versione": "2024.1",
+    "difficolta": "intermedio",
+    "argomenti_coperti": [
+      "Ottimizzazione e calcolo integrale",
+      "Problema di fisica matematica",
+      "limiti",
+      "derivate",
+      "integrali",
+      "geometria",
+      "probabilita",
+      "equazioni_diff",
+      "trigonometria",
+      "numeri_complessi"
+    ],
+    "formule_utilizzate": 9
+  },
+  "note_particolari": "Simulazione bilanciata"
+}

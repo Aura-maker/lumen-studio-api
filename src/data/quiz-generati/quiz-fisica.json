@@ -1,0 +1,772 @@
+{
+  "materia": "fisica",
+  "totale": 54,
+  "quiz": [
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Il Il nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "istanza come la gravitazione. Il Il principio di sovrapposizione la forza su una carica dovuta a più cariche è la somma vettoriale",
+      "livello": "intermedio",
+      "argomento": "Elettrostatica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La carica elettrica è una proprietà fondamentale della materia che esiste in due tipi: positiva (protone) e negativa (elettrone).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Elettrostatica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Le cariche dello stesso segno si respingono, mentre quelle di segno opposto si attraggono.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Elettrostatica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Il Il nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "tiva ed entrante se negativa. Il Il principio di sovrapposizione il campo totale è la somma vettoriale dei campi singoli. Le linee",
+      "livello": "intermedio",
+      "argomento": "Elettrostatica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il campo elettrico E è un vettore che definisce la forza per unità di carica positiva: E=F/q.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Elettrostatica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "È generato dalle cariche sorgenti e agisce sulle cariche di prova.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Elettrostatica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Corrente elettrica, e resistenza?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "tempo",
+        "libertà",
+        "morte",
+        "amore"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Corrente elettrica, e circuiti",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La corrente continua (DC) ha intensità costante, mentre la corrente alternata (AC) è periodica e sinusoidale.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Corrente elettrica, e circuiti",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il verso convenzionale va dal positivo al negativo, opposto al movimento degli elettroni.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Corrente elettrica, e circuiti",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Condensatori, e circuiti RC?",
+      "rispostaCorretta": "1745",
+      "opzioni": [
+        "1743",
+        "1740",
+        "1745",
+        "1735"
+      ],
+      "spiegazione": "ono la bottiglia di Leyda (primo condensatore del 1745) e gli esperimenti di Franklin sull'elettricità atmosferica. I condensatori variabili sono usat",
+      "livello": "base",
+      "argomento": "Corrente elettrica, e circuiti",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Condensatori, e circuiti RC?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "tempo",
+        "amore",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Corrente elettrica, e circuiti",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La capacità C è definita come il rapporto tra la carica Q e la differenza di potenziale V: C=Q/V, con unità di misura il Farad (F=C/V).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Corrente elettrica, e circuiti",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Per un condensatore piano parallelo la capacità è C=ε₀A/d, dove A è l'area delle armature e d la distanza tra esse.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Corrente elettrica, e circuiti",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Campo magnetico, e forza di Lorentz?",
+      "rispostaCorretta": "1820",
+      "opzioni": [
+        "1820",
+        "1818",
+        "1810",
+        "1815"
+      ],
+      "spiegazione": "no Nord entrano Sud magnete. Esperimento Oersted (1820): corrente filo devia ago magnetico, scopre legame elettricità magnetismo. La forza Lorentz des",
+      "livello": "base",
+      "argomento": "Magnetismo",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Campo magnetico, e forza di Lorentz?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "natura"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Magnetismo",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Nord Sud nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "personaggio secondario",
+        "narratore",
+        "antagonista"
+      ],
+      "spiegazione": "artificiali). Poli magnetici Nord Sud poli opposti attraggono, uguali respingono e inseparabili (monopolo non esiste, spezzando m",
+      "livello": "intermedio",
+      "argomento": "Magnetismo",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Esperimento Oersted nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "protagonista principale",
+        "antagonista"
+      ],
+      "spiegazione": "ono Nord entrano Sud magnete. Esperimento Oersted (1820): corrente filo devia ago magnetico, scopre legame elettricità magnetismo.",
+      "livello": "intermedio",
+      "argomento": "Magnetismo",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Magnetismo fenomeno forze attrattive repulsive magneti (magnetite naturale, calamite artificiali).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Magnetismo",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Poli magnetici Nord Sud poli opposti attraggono, uguali respingono e inseparabili (monopolo non esiste, spezzando magnete si ottengono due dipoli).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Magnetismo",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Simile Gauss nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "tiplicata μ₀: ∮B·dl=μ₀I_conc. Simile Gauss elettrostatica. Applicazione simmetrie filo infinito e solenoide, toroide. Solenoide bo",
+      "livello": "intermedio",
+      "argomento": "Magnetismo",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Definizione Ampere nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario"
+      ],
+      "spiegazione": "lunghezza F/L=(μ₀I₁I₂)/(2πd). Definizione Ampere corrente che tra due fili paralleli infiniti distanza 1m produce forza 2×10⁻⁷ N/m",
+      "livello": "intermedio",
+      "argomento": "Magnetismo",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Integrazione lungo è filo campo totale.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Magnetismo",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Spira circolare centro B=(μ₀I)/(2R) con R raggio.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Magnetismo",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Legge di Faraday-Neumann-Lenz e applicazioni?",
+      "rispostaCorretta": "1831",
+      "opzioni": [
+        "1826",
+        "1829",
+        "1821",
+        "1831"
+      ],
+      "spiegazione": "una forza elettromotrice. La scoperta di Faraday (1831) dimostrò che un magnete mosso vicino a una spira genera corrente, ma solo durante la variazion",
+      "livello": "base",
+      "argomento": "Induzione elettromagnetica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Secondo Lenz nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "personaggio secondario",
+        "antagonista",
+        "narratore"
+      ],
+      "spiegazione": "a conservazione dell'energia. Secondo Lenz, se il flusso aumenta la corrente induce un campo contrario, se diminuisce un campo con",
+      "livello": "intermedio",
+      "argomento": "Induzione elettromagnetica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La scoperta di Faraday (1831) dimostrò che un magnete mosso vicino a una spira genera corrente, ma solo durante la variazione di posizione.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Induzione elettromagnetica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La legge di Faraday-Neumann stabilisce che la forza elettromotrice indotta è ε=-dΦ/dt, proporzionale alla velocità di variazione del flusso.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Induzione elettromagnetica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Equazioni di Maxwell, e onde elettromagnetiche?",
+      "rispostaCorretta": "1865",
+      "opzioni": [
+        "1865",
+        "1863",
+        "1855",
+        "1860"
+      ],
+      "spiegazione": "corrente di spostamento introdotta da Maxwell nel 1865 è il termine ε₀ dΦ_E/dt aggiunto alla legge di Ampère: un campo elettrico variabile genera un c",
+      "livello": "base",
+      "argomento": "Induzione elettromagnetica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'Le equazioni di Maxwell sono quattro leggi fondamentali che unificano elettricità e magnetismo e predicono l'esistenza delle onde elettromagnetiche.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Induzione elettromagnetica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Postulati relatività, e dilatazione tempo?",
+      "rispostaCorretta": "800",
+      "opzioni": [
+        "800",
+        "790",
+        "795",
+        "798"
+      ],
+      "spiegazione": "La fisica classica fine '800: velocità luce costante esperimento Michelson-Morley (1887) contraddice trasformazioni Galileo,",
+      "livello": "base",
+      "argomento": "Relatività ristretta",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Postulati relatività, e dilatazione tempo?",
+      "rispostaCorretta": "1887",
+      "opzioni": [
+        "1887",
+        "1885",
+        "1877",
+        "1882"
+      ],
+      "spiegazione": "ocità luce costante esperimento Michelson-Morley (1887) contraddice trasformazioni Galileo, non rileva etere (mezzo propagazione luce ipotizzato). Ein",
+      "livello": "base",
+      "argomento": "Relatività ristretta",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Postulati relatività, e dilatazione tempo?",
+      "rispostaCorretta": "1905",
+      "opzioni": [
+        "1903",
+        "1905",
+        "1900",
+        "1895"
+      ],
+      "spiegazione": "e (mezzo propagazione luce ipotizzato). Einstein (1905) teoria relatività ristretta rivoluziona concetti spazio tempo. I postulati 1) Leggi fisica ide",
+      "livello": "base",
+      "argomento": "Relatività ristretta",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Postulati relatività, e dilatazione tempo?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "tempo"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Relatività ristretta",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Einstein (1905) teoria relatività ristretta rivoluziona concetti spazio tempo.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Relatività ristretta",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Dilatazione tempo orologio moto ritarda rispetto fermo, Δt=γΔt₀ con γ=1/√(1-v²/c²) fattore Lorentz, Δt₀ tempo proprio (sistema riposo orologio).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Relatività ristretta",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Equivalenza massa-energia E=mc²?",
+      "rispostaCorretta": "1915",
+      "opzioni": [
+        "1915",
+        "1905",
+        "1913",
+        "1910"
+      ],
+      "spiegazione": "ie alte velocità prossime c. Relatività generale (1915): estensione gravità curvatura spaziotempo, conferme perielo Mercurio lenti gravitazionali onde",
+      "livello": "base",
+      "argomento": "Relatività ristretta",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Equivalenza massa-energia E=mc²?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "amore",
+        "morte",
+        "tempo",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Relatività ristretta",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Trasformazioni Lorentz nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "e perpendicolari è invariate. Trasformazioni Lorentz sostituiscono Galileo velocità relativistiche, x'=γ(x-vt) e t'=γ(t-vx/c²). Co",
+      "livello": "intermedio",
+      "argomento": "Relatività ristretta",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Contrazione lunghezze: oggetto moto lunghezza direzione moto contratta, l=L₀/γ con L₀ lunghezza propria (riposo oggetto).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Relatività ristretta",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Larghezze perpendicolari è invariate.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Relatività ristretta",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Dualità onda-particella, e principio indeterminazione?",
+      "rispostaCorretta": "1900",
+      "opzioni": [
+        "1895",
+        "1898",
+        "1900",
+        "1890"
+      ],
+      "spiegazione": "con la quantizzazione dell'energia di Planck nel 1900 (E = nhf), l'effetto fotoelettrico spiegato da Einstein nel 1905 con i fotoni come luce quantiz",
+      "livello": "base",
+      "argomento": "Fisica quantistica, e nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Dualità onda-particella, e principio indeterminazione?",
+      "rispostaCorretta": "1905",
+      "opzioni": [
+        "1900",
+        "1905",
+        "1903",
+        "1895"
+      ],
+      "spiegazione": "l'effetto fotoelettrico spiegato da Einstein nel 1905 con i fotoni come luce quantizzata, e gli spettri atomici interpretati da Bohr nel 1913 con liv",
+      "livello": "base",
+      "argomento": "Fisica quantistica, e nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Dualità onda-particella, e principio indeterminazione?",
+      "rispostaCorretta": "1913",
+      "opzioni": [
+        "1908",
+        "1911",
+        "1903",
+        "1913"
+      ],
+      "spiegazione": "a, e gli spettri atomici interpretati da Bohr nel 1913 con livelli energetici quantizzati. La dualità onda-particella rivela che la luce si comporta s",
+      "livello": "base",
+      "argomento": "Fisica quantistica, e nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Dualità onda-particella, e principio indeterminazione?",
+      "rispostaCorretta": "1924",
+      "opzioni": [
+        "1914",
+        "1922",
+        "1924",
+        "1919"
+      ],
+      "spiegazione": "rticellari sia ondulatorie secondo De Broglie nel 1924 (λ = h/p). L'esperimento della doppia fenditura dimostra che elettroni singoli creano frange di",
+      "livello": "base",
+      "argomento": "Fisica quantistica, e nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Dualità onda-particella, e principio indeterminazione?",
+      "rispostaCorretta": "1927",
+      "opzioni": [
+        "1922",
+        "1917",
+        "1925",
+        "1927"
+      ],
+      "spiegazione": "cristalli nell'esperimento di Davisson-Germer del 1927 e utilizzata nel microscopio elettronico per ottenere risoluzione maggiore di quello ottico. Il",
+      "livello": "base",
+      "argomento": "Fisica quantistica, e nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Dualità onda-particella, e principio indeterminazione?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "tempo",
+        "amore",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Fisica quantistica, e nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha De Broglie nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "narratore",
+        "personaggio secondario",
+        "protagonista principale"
+      ],
+      "spiegazione": "llari sia ondulatorie secondo De Broglie nel 1924 (λ = h/p). L'esperimento della doppia fenditura dimostra che elettroni singoli c",
+      "livello": "intermedio",
+      "argomento": "Fisica quantistica, e nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il fotone è il quanto di luce con energia E = hf = ħω e quantità di moto p = E/c = h/λ, dove h = 6, 63×10⁻³⁴ J·s è la costante di Planck e ħ = h/2π.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Fisica quantistica, e nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Fisica nucleare: fissione, fusione, radioattività?",
+      "rispostaCorretta": "235",
+      "opzioni": [
+        "225",
+        "233",
+        "230",
+        "235"
+      ],
+      "spiegazione": "nuclei. Fissione nucleare nucleo pesante (uranio-235 plutonio-239) assorbe neutrone si spezza due frammenti più neutroni liberando energia (~200 MeV)",
+      "livello": "base",
+      "argomento": "Fisica quantistica, e nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Fisica nucleare: fissione, fusione, radioattività?",
+      "rispostaCorretta": "239",
+      "opzioni": [
+        "234",
+        "237",
+        "229",
+        "239"
+      ],
+      "spiegazione": "ione nucleare nucleo pesante (uranio-235 plutonio-239) assorbe neutrone si spezza due frammenti più neutroni liberando energia (~200 MeV). Reazione ca",
+      "livello": "base",
+      "argomento": "Fisica quantistica, e nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Fisica nucleare: fissione, fusione, radioattività?",
+      "rispostaCorretta": "200",
+      "opzioni": [
+        "200",
+        "195",
+        "198",
+        "190"
+      ],
+      "spiegazione": "za due frammenti più neutroni liberando energia (~200 MeV). Reazione catena neutroni prodotti fissionano altri nuclei e controllata reattori nucleari",
+      "livello": "base",
+      "argomento": "Fisica quantistica, e nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Fisica nucleare: fissione, fusione, radioattività?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "tempo",
+        "morte",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Fisica quantistica, e nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Nucleo atomico: protoni Z carica positiva (numero atomico elemento), neutroni N elettricamente neutri e numero massa A=Z+N.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Fisica quantistica, e nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Isotopi stesso elemento Z diverso N (idrogeno deuterio trizio).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Fisica quantistica, e nucleare",
+      "materia": "fisica"
+    }
+  ]
+}

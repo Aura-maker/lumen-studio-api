@@ -1,0 +1,90 @@
+{
+  "materia": "inglese",
+  "totale": 7,
+  "flashcards": [
+    {
+      "id": "inglese-1",
+      "fronte": "Present Perfect structure",
+      "retro": "have/has + past participle",
+      "materia": "inglese",
+      "categoria": "Grammar",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.076Z"
+    },
+    {
+      "id": "inglese-2",
+      "fronte": "Second Conditional structure",
+      "retro": "If + past simple, would + infinitive",
+      "materia": "inglese",
+      "categoria": "Grammar",
+      "difficolta": 2,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.076Z"
+    },
+    {
+      "id": "inglese-3",
+      "fronte": "Third Conditional structure",
+      "retro": "If + past perfect, would have + past participle",
+      "materia": "inglese",
+      "categoria": "Grammar",
+      "difficolta": 2,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.076Z"
+    },
+    {
+      "id": "inglese-4",
+      "fronte": "Passive Voice structure",
+      "retro": "be + past participle",
+      "materia": "inglese",
+      "categoria": "Grammar",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.076Z"
+    },
+    {
+      "id": "inglese-5",
+      "fronte": "Who wrote \"Hamlet\"?",
+      "retro": "William Shakespeare",
+      "materia": "inglese",
+      "categoria": "Literature",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.076Z"
+    },
+    {
+      "id": "inglese-6",
+      "fronte": "Who wrote \"1984\"?",
+      "retro": "George Orwell",
+      "materia": "inglese",
+      "categoria": "Literature",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.076Z"
+    },
+    {
+      "id": "inglese-7",
+      "fronte": "Who wrote \"Pride and Prejudice\"?",
+      "retro": "Jane Austen",
+      "materia": "inglese",
+      "categoria": "Literature",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.076Z"
+    }
+  ]
+}

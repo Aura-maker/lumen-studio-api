@@ -1,0 +1,1496 @@
+{
+  "materia": "inglese",
+  "totale": 102,
+  "quiz": [
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne William Wordsworth and the Lake Poets?",
+      "rispostaCorretta": "1770",
+      "opzioni": [
+        "1760",
+        "1770",
+        "1768",
+        "1765"
+      ],
+      "spiegazione": "William Wordsworth (1770-1850) was a leading English Romantic poet and founder of the Lake Poets, who lived in the Lake",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne William Wordsworth and the Lake Poets?",
+      "rispostaCorretta": "1850",
+      "opzioni": [
+        "1850",
+        "1848",
+        "1845",
+        "1840"
+      ],
+      "spiegazione": "William Wordsworth (1770-1850) was a leading English Romantic poet and founder of the Lake Poets, who lived in the Lake Distr",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne William Wordsworth and the Lake Poets?",
+      "rispostaCorretta": "1798",
+      "opzioni": [
+        "1798",
+        "1788",
+        "1793",
+        "1796"
+      ],
+      "spiegazione": "Samuel Taylor Coleridge produced Lyrical Ballads (1798), which became the manifesto of English Romanticism. The 1800 Preface outlined his revolutionar",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne William Wordsworth and the Lake Poets?",
+      "rispostaCorretta": "1800",
+      "opzioni": [
+        "1798",
+        "1795",
+        "1790",
+        "1800"
+      ],
+      "spiegazione": "became the manifesto of English Romanticism. The 1800 Preface outlined his revolutionary poetic theory: poetry should be the 'spontaneous overflow of",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne William Wordsworth and the Lake Poets?",
+      "rispostaCorretta": "1805",
+      "opzioni": [
+        "1805",
+        "1795",
+        "1800",
+        "1803"
+      ],
+      "spiegazione": "acts as moral and spiritual teacher; The Prelude (1805, published 1850), a poetic autobiography of the poet's formation; Daffodils (I Wandered Lonely",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne William Wordsworth and the Lake Poets?",
+      "rispostaCorretta": "1772",
+      "opzioni": [
+        "1772",
+        "1762",
+        "1767",
+        "1770"
+      ],
+      "spiegazione": "on versus artificiality. Samuel Taylor Coleridge (1772-1834) was his friend and collaborator, famous for Rime of the Ancient Mariner and the visionary",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne William Wordsworth and the Lake Poets?",
+      "rispostaCorretta": "1834",
+      "opzioni": [
+        "1829",
+        "1824",
+        "1832",
+        "1834"
+      ],
+      "spiegazione": "rsus artificiality. Samuel Taylor Coleridge (1772-1834) was his friend and collaborator, famous for Rime of the Ancient Mariner and the visionary frag",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha William Wordsworth nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "narratore",
+        "personaggio secondario",
+        "protagonista principale"
+      ],
+      "spiegazione": "William Wordsworth (1770-1850) was a leading English Romantic poet and founder of the Lake Poets, wh",
+      "livello": "intermedio",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha English Romantic nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "rth (1770-1850) was a leading English Romantic poet and founder of the Lake Poets, who lived in the Lake District of Cumberland. H",
+      "livello": "intermedio",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "William Wordsworth (1770-1850) was a leading English Romantic poet and founder of the Lake Poets, who lived in the Lake District of Cumberland.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "His collaboration with Samuel Taylor Coleridge produced Lyrical Ballads (1798), which became the manifesto of English Romanticism.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Lord Byron and Percy Shelley: Rebellion and Idealism?",
+      "rispostaCorretta": "1788",
+      "opzioni": [
+        "1788",
+        "1778",
+        "1783",
+        "1786"
+      ],
+      "spiegazione": "George Gordon, Lord Byron (1788-1824) was a rebellious Romantic poet and scandalous embodiment of the Byronic hero. His adventu",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Lord Byron and Percy Shelley: Rebellion and Idealism?",
+      "rispostaCorretta": "1824",
+      "opzioni": [
+        "1822",
+        "1819",
+        "1814",
+        "1824"
+      ],
+      "spiegazione": "George Gordon, Lord Byron (1788-1824) was a rebellious Romantic poet and scandalous embodiment of the Byronic hero. His adventurous",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Lord Byron and Percy Shelley: Rebellion and Idealism?",
+      "rispostaCorretta": "1816",
+      "opzioni": [
+        "1806",
+        "1816",
+        "1811",
+        "1814"
+      ],
+      "spiegazione": "ding with his half-sister), exile from England in 1816, and death from fever in Missolonghi in 1824 while fighting for Greek independence. The Byronic",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Lord Byron and Percy Shelley: Rebellion and Idealism?",
+      "rispostaCorretta": "1812",
+      "opzioni": [
+        "1807",
+        "1810",
+        "1802",
+        "1812"
+      ],
+      "spiegazione": ". Major works include Childe Harold's Pilgrimage (1812-1818), an autobiographical journey of a disillusioned young man through Europe, and Don Juan (1",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Lord Byron and Percy Shelley: Rebellion and Idealism?",
+      "rispostaCorretta": "1818",
+      "opzioni": [
+        "1818",
+        "1808",
+        "1813",
+        "1816"
+      ],
+      "spiegazione": "or works include Childe Harold's Pilgrimage (1812-1818), an autobiographical journey of a disillusioned young man through Europe, and Don Juan (1819-1",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Lord Byron and Percy Shelley: Rebellion and Idealism?",
+      "rispostaCorretta": "1819",
+      "opzioni": [
+        "1817",
+        "1809",
+        "1814",
+        "1819"
+      ],
+      "spiegazione": "llusioned young man through Europe, and Don Juan (1819-1824), an unfinished epic satirical poem. Percy Bysshe Shelley (1792-1822) was an idealist, rad",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Lord Byron and Percy Shelley: Rebellion and Idealism?",
+      "rispostaCorretta": "1792",
+      "opzioni": [
+        "1787",
+        "1792",
+        "1790",
+        "1782"
+      ],
+      "spiegazione": "nished epic satirical poem. Percy Bysshe Shelley (1792-1822) was an idealist, radical, and atheist poet. Expelled from Oxford for atheism, he eloped w",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Lord Byron and Percy Shelley: Rebellion and Idealism?",
+      "rispostaCorretta": "1822",
+      "opzioni": [
+        "1820",
+        "1812",
+        "1817",
+        "1822"
+      ],
+      "spiegazione": "d epic satirical poem. Percy Bysshe Shelley (1792-1822) was an idealist, radical, and atheist poet. Expelled from Oxford for atheism, he eloped with M",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Lord Byron and Percy Shelley: Rebellion and Idealism?",
+      "rispostaCorretta": "politica",
+      "opzioni": [
+        "amore",
+        "politica",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del politica è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha George Gordon nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "George Gordon, Lord Byron (1788-1824) was a rebellious Romantic poet and scandalous embodiment of th",
+      "livello": "intermedio",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Lord Byron nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "George Gordon, Lord Byron (1788-1824) was a rebellious Romantic poet and scandalous embodiment of the Byronic hero.",
+      "livello": "intermedio",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "George Gordon, Lord Byron (1788-1824) was a rebellious Romantic poet and scandalous embodiment of the Byronic hero.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "The Byronic hero is a proud, solitary, cursed rebel against society with violent passions, magnetic charm, inner torment, and mysterious guilty past.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne John Keats: Beauty and Mortality?",
+      "rispostaCorretta": "1795",
+      "opzioni": [
+        "1795",
+        "1785",
+        "1790",
+        "1793"
+      ],
+      "spiegazione": "John Keats (1795-1821) was a Romantic poet who died tragically young of tuberculosis at 25, yet produced some of",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne John Keats: Beauty and Mortality?",
+      "rispostaCorretta": "1821",
+      "opzioni": [
+        "1811",
+        "1819",
+        "1821",
+        "1816"
+      ],
+      "spiegazione": "John Keats (1795-1821) was a Romantic poet who died tragically young of tuberculosis at 25, yet produced some of the",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne John Keats: Beauty and Mortality?",
+      "rispostaCorretta": "1819",
+      "opzioni": [
+        "1809",
+        "1819",
+        "1814",
+        "1817"
+      ],
+      "spiegazione": "rks include the Great Odes: Ode to a Nightingale (1819), contrasting the immortal bird's song with human mortality; Ode on a Grecian Urn (1819), explo",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha John Keats nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "John Keats (1795-1821) was a Romantic poet who died tragically young of tuberculosis at 25, yet prod",
+      "livello": "intermedio",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Fanny Brawne nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "protagonista principale",
+        "antagonista",
+        "narratore"
+      ],
+      "spiegazione": "cism, and unrequited love for Fanny Brawne. His philosophy centered on 'negative capability' - the ability to remain in uncertaint",
+      "livello": "intermedio",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Born into a lower-middle-class family, he trained as an apothecary before dedicating himself to poetry.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "His brief but intense career was marked by financial difficulties, harsh criticism, and unrequited love for Fanny Brawne.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "English Romanticism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Charles Dickens: Social Criticism and Urban Life?",
+      "rispostaCorretta": "1812",
+      "opzioni": [
+        "1807",
+        "1802",
+        "1812",
+        "1810"
+      ],
+      "spiegazione": "Charles Dickens (1812-1870) was the greatest novelist of the Victorian age and a powerful social critic. His difficul",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Charles Dickens: Social Criticism and Urban Life?",
+      "rispostaCorretta": "1870",
+      "opzioni": [
+        "1868",
+        "1865",
+        "1860",
+        "1870"
+      ],
+      "spiegazione": "Charles Dickens (1812-1870) was the greatest novelist of the Victorian age and a powerful social critic. His difficult chi",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Charles Dickens: Social Criticism and Urban Life?",
+      "rispostaCorretta": "1836",
+      "opzioni": [
+        "1831",
+        "1834",
+        "1826",
+        "1836"
+      ],
+      "spiegazione": "alist and achieved fame with The Pickwick Papers (1836-37). His novels combine entertainment with serious social criticism of industrial capitalism, u",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Charles Dickens: Social Criticism and Urban Life?",
+      "rispostaCorretta": "1838",
+      "opzioni": [
+        "1838",
+        "1828",
+        "1833",
+        "1836"
+      ],
+      "spiegazione": "ass inequality. Major works include Oliver Twist (1838), exposing the harsh treatment of orphans and workhouse conditions; David Copperfield (1850), h",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Charles Dickens: Social Criticism and Urban Life?",
+      "rispostaCorretta": "1850",
+      "opzioni": [
+        "1848",
+        "1845",
+        "1840",
+        "1850"
+      ],
+      "spiegazione": "hans and workhouse conditions; David Copperfield (1850), his most autobiographical novel; Bleak House (1853), criticizing the legal system; Hard Times",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Charles Dickens: Social Criticism and Urban Life?",
+      "rispostaCorretta": "1853",
+      "opzioni": [
+        "1843",
+        "1851",
+        "1853",
+        "1848"
+      ],
+      "spiegazione": "0), his most autobiographical novel; Bleak House (1853), criticizing the legal system; Hard Times (1854), attacking utilitarian education and industri",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Charles Dickens: Social Criticism and Urban Life?",
+      "rispostaCorretta": "1854",
+      "opzioni": [
+        "1852",
+        "1849",
+        "1844",
+        "1854"
+      ],
+      "spiegazione": "(1853), criticizing the legal system; Hard Times (1854), attacking utilitarian education and industrial dehumanization; Great Expectations (1861), exp",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Charles Dickens: Social Criticism and Urban Life?",
+      "rispostaCorretta": "1861",
+      "opzioni": [
+        "1859",
+        "1856",
+        "1851",
+        "1861"
+      ],
+      "spiegazione": "nd industrial dehumanization; Great Expectations (1861), exploring social mobility and moral growth; and A Christmas Carol (1843), promoting Christian",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Charles Dickens: Social Criticism and Urban Life?",
+      "rispostaCorretta": "1843",
+      "opzioni": [
+        "1841",
+        "1838",
+        "1833",
+        "1843"
+      ],
+      "spiegazione": "mobility and moral growth; and A Christmas Carol (1843), promoting Christian charity and social responsibility. His characters are memorable and often",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Charles Dickens nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "Charles Dickens (1812-1870) was the greatest novelist of the Victorian age and a powerful social cri",
+      "livello": "intermedio",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha The Pickwick nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "nalist and achieved fame with The Pickwick Papers (1836-37). His novels combine entertainment with serious social criticism of ind",
+      "livello": "intermedio",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Charles Dickens (1812-1870) was the greatest novelist of the Victorian age and a powerful social critic.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "He became a journalist and achieved fame with The Pickwick Papers (1836-37).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Charlotte and Emily Brontë: Gothic Romance and Passion?",
+      "rispostaCorretta": "1816",
+      "opzioni": [
+        "1806",
+        "1814",
+        "1811",
+        "1816"
+      ],
+      "spiegazione": "The Brontë sisters, Charlotte (1816-1855) and Emily (1818-1848), were pioneering female novelists who challenged Victorian conventi",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Charlotte and Emily Brontë: Gothic Romance and Passion?",
+      "rispostaCorretta": "1855",
+      "opzioni": [
+        "1850",
+        "1853",
+        "1845",
+        "1855"
+      ],
+      "spiegazione": "The Brontë sisters, Charlotte (1816-1855) and Emily (1818-1848), were pioneering female novelists who challenged Victorian conventions a",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Charlotte and Emily Brontë: Gothic Romance and Passion?",
+      "rispostaCorretta": "1818",
+      "opzioni": [
+        "1813",
+        "1808",
+        "1816",
+        "1818"
+      ],
+      "spiegazione": "Brontë sisters, Charlotte (1816-1855) and Emily (1818-1848), were pioneering female novelists who challenged Victorian conventions about women's role",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Charlotte and Emily Brontë: Gothic Romance and Passion?",
+      "rispostaCorretta": "1848",
+      "opzioni": [
+        "1843",
+        "1846",
+        "1838",
+        "1848"
+      ],
+      "spiegazione": "të sisters, Charlotte (1816-1855) and Emily (1818-1848), were pioneering female novelists who challenged Victorian conventions about women's roles and",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Charlotte and Emily Brontë: Gothic Romance and Passion?",
+      "rispostaCorretta": "1847",
+      "opzioni": [
+        "1842",
+        "1837",
+        "1847",
+        "1845"
+      ],
+      "spiegazione": "eir mature fiction. Charlotte Brontë's Jane Eyre (1847) revolutionized the novel with its first-person female narrator who asserts her independence an",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Charlotte and Emily Brontë: Gothic Romance and Passion?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "amore",
+        "libertà",
+        "natura",
+        "morte"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha The Bront nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "antagonista",
+        "personaggio secondario",
+        "protagonista principale"
+      ],
+      "spiegazione": "The Brontë sisters, Charlotte (1816-1855) and Emily (1818-1848), were pioneering female novelists wh",
+      "livello": "intermedio",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Charlotte Bront nell'opera?",
+      "rispostaCorretta": "narratore",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "luenced their mature fiction. Charlotte Brontë's Jane Eyre (1847) revolutionized the novel with its first-person female narrator w",
+      "livello": "intermedio",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Growing up in isolated Haworth parsonage on the Yorkshire moors, they created imaginary worlds in childhood that influenced their mature fiction.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Charlotte Brontë's Jane Eyre (1847) revolutionized the novel with its first-person female narrator who asserts her independence and equality.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Oscar Wilde: Aestheticism and Decadence?",
+      "rispostaCorretta": "1854",
+      "opzioni": [
+        "1849",
+        "1844",
+        "1852",
+        "1854"
+      ],
+      "spiegazione": "Oscar Wilde (1854-1900) was an Irish writer, playwright, and leading figure of the Aesthetic movement. Born in Du",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Oscar Wilde: Aestheticism and Decadence?",
+      "rispostaCorretta": "1900",
+      "opzioni": [
+        "1900",
+        "1895",
+        "1890",
+        "1898"
+      ],
+      "spiegazione": "Oscar Wilde (1854-1900) was an Irish writer, playwright, and leading figure of the Aesthetic movement. Born in Dublin",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Oscar Wilde: Aestheticism and Decadence?",
+      "rispostaCorretta": "1890",
+      "opzioni": [
+        "1880",
+        "1888",
+        "1885",
+        "1890"
+      ],
+      "spiegazione": "d 46. His only novel, The Picture of Dorian Gray (1890), tells of a beautiful young man whose portrait ages while he remains young, exploring themes o",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Oscar Wilde: Aestheticism and Decadence?",
+      "rispostaCorretta": "1892",
+      "opzioni": [
+        "1887",
+        "1892",
+        "1890",
+        "1882"
+      ],
+      "spiegazione": "edonism. His plays include Lady Windermere's Fan (1892), A Woman of No Importance (1893), An Ideal Husband (1895), and his masterpiece The Importance",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Oscar Wilde: Aestheticism and Decadence?",
+      "rispostaCorretta": "1893",
+      "opzioni": [
+        "1893",
+        "1883",
+        "1891",
+        "1888"
+      ],
+      "spiegazione": "indermere's Fan (1892), A Woman of No Importance (1893), An Ideal Husband (1895), and his masterpiece The Importance of Being Earnest (1895), a brilli",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Oscar Wilde: Aestheticism and Decadence?",
+      "rispostaCorretta": "1895",
+      "opzioni": [
+        "1885",
+        "1893",
+        "1895",
+        "1890"
+      ],
+      "spiegazione": "Woman of No Importance (1893), An Ideal Husband (1895), and his masterpiece The Importance of Being Earnest (1895), a brilliant comedy of manners sat",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Oscar Wilde: Aestheticism and Decadence?",
+      "rispostaCorretta": "1905",
+      "opzioni": [
+        "1903",
+        "1900",
+        "1895",
+        "1905"
+      ],
+      "spiegazione": "the stars.' Prison writings include De Profundis (1905) and The Ballad of Reading Gaol (1898).",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Oscar Wilde: Aestheticism and Decadence?",
+      "rispostaCorretta": "1898",
+      "opzioni": [
+        "1896",
+        "1898",
+        "1888",
+        "1893"
+      ],
+      "spiegazione": "Profundis (1905) and The Ballad of Reading Gaol (1898).",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Oscar Wilde nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "Oscar Wilde (1854-1900) was an Irish writer, playwright, and leading figure of the Aesthetic movemen",
+      "livello": "intermedio",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Trinity College nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "ctual parents, he excelled at Trinity College and Oxford, where he was influenced by Walter Pater's aestheticism. In London, he be",
+      "livello": "intermedio",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Oscar Wilde (1854-1900) was an Irish writer, playwright, and leading figure of the Aesthetic movement.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Born in Dublin to intellectual parents, he excelled at Trinity College and Oxford, where he was influenced by Walter Pater's aestheticism.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Robert Louis Stevenson: Adventure and Psychology?",
+      "rispostaCorretta": "1850",
+      "opzioni": [
+        "1840",
+        "1850",
+        "1848",
+        "1845"
+      ],
+      "spiegazione": "Robert Louis Stevenson (1850-1894) was a Scottish novelist, poet, and travel writer who combined adventure stories with psyc",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Robert Louis Stevenson: Adventure and Psychology?",
+      "rispostaCorretta": "1894",
+      "opzioni": [
+        "1889",
+        "1884",
+        "1892",
+        "1894"
+      ],
+      "spiegazione": "Robert Louis Stevenson (1850-1894) was a Scottish novelist, poet, and travel writer who combined adventure stories with psycholog",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Robert Louis Stevenson: Adventure and Psychology?",
+      "rispostaCorretta": "1886",
+      "opzioni": [
+        "1886",
+        "1876",
+        "1884",
+        "1881"
+      ],
+      "spiegazione": "ece, The Strange Case of Dr. Jekyll and Mr. Hyde (1886), is a psychological thriller exploring the duality of human nature. Dr. Jekyll's experiments t",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Robert Louis Stevenson: Adventure and Psychology?",
+      "rispostaCorretta": "1883",
+      "opzioni": [
+        "1881",
+        "1873",
+        "1878",
+        "1883"
+      ],
+      "spiegazione": "tween civilization and savagery. Treasure Island (1883) revolutionized children's literature with its vivid adventure story of young Jim Hawkins and t",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Robert Louis Stevenson: Adventure and Psychology?",
+      "rispostaCorretta": "1879",
+      "opzioni": [
+        "1874",
+        "1869",
+        "1879",
+        "1877"
+      ],
+      "spiegazione": "including Travels with a Donkey in the Cévennes (1879), show his skill in descriptive prose. Themes include the conflict between duty and desire, the",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Robert Louis nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "protagonista principale",
+        "antagonista"
+      ],
+      "spiegazione": "Robert Louis Stevenson (1850-1894) was a Scottish novelist, poet, and travel writer who combined adv",
+      "livello": "intermedio",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha The Strange nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "protagonista principale",
+        "antagonista"
+      ],
+      "spiegazione": "ied aged 44. His masterpiece, The Strange Case of Dr. Jekyll and Mr. Hyde (1886), is a psychological thriller exploring the dualit",
+      "livello": "intermedio",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Robert Louis Stevenson (1850-1894) was a Scottish novelist, poet, and travel writer who combined adventure stories with psychological insight.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Born in Edinburgh to a family of lighthouse engineers, he rebelled against his Presbyterian upbringing and studied law before turning to writing.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Victorian Age",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Joseph Conrad: Imperialism and the Human Heart?",
+      "rispostaCorretta": "1857",
+      "opzioni": [
+        "1855",
+        "1852",
+        "1847",
+        "1857"
+      ],
+      "spiegazione": "Joseph Conrad (1857-1924) was a Polish-born British novelist who wrote in English as his third language, creating s",
+      "livello": "base",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Joseph Conrad: Imperialism and the Human Heart?",
+      "rispostaCorretta": "1924",
+      "opzioni": [
+        "1924",
+        "1914",
+        "1919",
+        "1922"
+      ],
+      "spiegazione": "Joseph Conrad (1857-1924) was a Polish-born British novelist who wrote in English as his third language, creating some o",
+      "livello": "base",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Joseph Conrad: Imperialism and the Human Heart?",
+      "rispostaCorretta": "1899",
+      "opzioni": [
+        "1897",
+        "1899",
+        "1889",
+        "1894"
+      ],
+      "spiegazione": "ided material for his fiction. Heart of Darkness (1899) is his masterpiece, narrating Marlow's journey up the Congo River to find the mysterious Kurtz",
+      "livello": "base",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Joseph Conrad: Imperialism and the Human Heart?",
+      "rispostaCorretta": "1900",
+      "opzioni": [
+        "1900",
+        "1890",
+        "1898",
+        "1895"
+      ],
+      "spiegazione": "ures Kurtz's final recognition of evil. Lord Jim (1900) tells of a young seaman who abandons a ship full of pilgrims and spends his life trying to red",
+      "livello": "base",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Joseph Conrad: Imperialism and the Human Heart?",
+      "rispostaCorretta": "1904",
+      "opzioni": [
+        "1902",
+        "1899",
+        "1894",
+        "1904"
+      ],
+      "spiegazione": "ends his life trying to redeem himself. Nostromo (1904) is an epic novel set in the fictional South American republic of Costaguana, exploring politic",
+      "livello": "base",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Joseph Conrad: Imperialism and the Human Heart?",
+      "rispostaCorretta": "politica",
+      "opzioni": [
+        "amore",
+        "libertà",
+        "politica",
+        "morte"
+      ],
+      "spiegazione": "Il tema del politica è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Joseph Conrad nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "Joseph Conrad (1857-1924) was a Polish-born British novelist who wrote in English as his third langu",
+      "livello": "intermedio",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Teodor Konrad nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "nglish literature. Born Józef Teodor Konrad Korzeniowski, he spent twenty years as a merchant seaman before becoming a writer at a",
+      "livello": "intermedio",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Born Józef Teodor Konrad Korzeniowski, he spent twenty years as a merchant seaman before becoming a writer at age 37.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "His maritime experiences and travels to Africa and the Far East provided material for his fiction.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Thomas Hardy: Fate and Rural England?",
+      "rispostaCorretta": "1840",
+      "opzioni": [
+        "1838",
+        "1830",
+        "1840",
+        "1835"
+      ],
+      "spiegazione": "Thomas Hardy (1840-1928) was an English novelist and poet whose work bridges the Victorian and modern periods. Bor",
+      "livello": "base",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Thomas Hardy: Fate and Rural England?",
+      "rispostaCorretta": "1928",
+      "opzioni": [
+        "1926",
+        "1918",
+        "1928",
+        "1923"
+      ],
+      "spiegazione": "Thomas Hardy (1840-1928) was an English novelist and poet whose work bridges the Victorian and modern periods. Born in",
+      "livello": "base",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Thomas Hardy: Fate and Rural England?",
+      "rispostaCorretta": "1891",
+      "opzioni": [
+        "1891",
+        "1881",
+        "1886",
+        "1889"
+      ],
+      "spiegazione": "beyond their control. Tess of the d'Urbervilles (1891) tells the tragic story of a pure woman destroyed by male exploitation and social hypocrisy. Te",
+      "livello": "base",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Thomas Hardy: Fate and Rural England?",
+      "rispostaCorretta": "1895",
+      "opzioni": [
+        "1890",
+        "1893",
+        "1885",
+        "1895"
+      ],
+      "spiegazione": "standards and class prejudice. Jude the Obscure (1895) follows the tragic life of Jude Fawley, a stonemason who dreams of university education but is",
+      "livello": "base",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Thomas Hardy: Fate and Rural England?",
+      "rispostaCorretta": "1886",
+      "opzioni": [
+        "1881",
+        "1886",
+        "1876",
+        "1884"
+      ],
+      "spiegazione": "ligion caused scandal. The Mayor of Casterbridge (1886) depicts the rise and fall of Michael Henchard, whose character flaws lead to his destruction.",
+      "livello": "base",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Thomas Hardy nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "personaggio secondario",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "Thomas Hardy (1840-1928) was an English novelist and poet whose work bridges the Victorian and moder",
+      "livello": "intermedio",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Angel Clare nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "lle, abandoned by her husband Angel Clare when she confesses her past, and finally hangs for murdering Alec. The novel attacks Vic",
+      "livello": "intermedio",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Thomas Hardy (1840-1928) was an English novelist and poet whose work bridges the Victorian and modern periods.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Born in rural Dorset, he trained as an architect before turning to writing.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Early Modernism",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Wilfred Owen and Siegfried Sassoon: The Reality of War?",
+      "rispostaCorretta": "1893",
+      "opzioni": [
+        "1891",
+        "1888",
+        "1883",
+        "1893"
+      ],
+      "spiegazione": "Wilfred Owen (1893-1918) and Siegfried Sassoon (1886-1967) were the greatest poets of World War I, transforming ho",
+      "livello": "base",
+      "argomento": "War Poetry",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Wilfred Owen and Siegfried Sassoon: The Reality of War?",
+      "rispostaCorretta": "1918",
+      "opzioni": [
+        "1916",
+        "1913",
+        "1908",
+        "1918"
+      ],
+      "spiegazione": "Wilfred Owen (1893-1918) and Siegfried Sassoon (1886-1967) were the greatest poets of World War I, transforming how war",
+      "livello": "base",
+      "argomento": "War Poetry",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Wilfred Owen and Siegfried Sassoon: The Reality of War?",
+      "rispostaCorretta": "1886",
+      "opzioni": [
+        "1884",
+        "1886",
+        "1881",
+        "1876"
+      ],
+      "spiegazione": "Wilfred Owen (1893-1918) and Siegfried Sassoon (1886-1967) were the greatest poets of World War I, transforming how war was portrayed in literature.",
+      "livello": "base",
+      "argomento": "War Poetry",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Wilfred Owen and Siegfried Sassoon: The Reality of War?",
+      "rispostaCorretta": "1967",
+      "opzioni": [
+        "1962",
+        "1957",
+        "1967",
+        "1965"
+      ],
+      "spiegazione": "fred Owen (1893-1918) and Siegfried Sassoon (1886-1967) were the greatest poets of World War I, transforming how war was portrayed in literature. Owen",
+      "livello": "base",
+      "argomento": "War Poetry",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Wilfred Owen nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "narratore",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Wilfred Owen (1893-1918) and Siegfried Sassoon (1886-1967) were the greatest poets of World War I, t",
+      "livello": "intermedio",
+      "argomento": "War Poetry",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Siegfried Sassoon nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "personaggio secondario",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "Wilfred Owen (1893-1918) and Siegfried Sassoon (1886-1967) were the greatest poets of World War I, transforming how war was portr",
+      "livello": "intermedio",
+      "argomento": "War Poetry",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Wilfred Owen (1893-1918) and Siegfried Sassoon (1886-1967) were the greatest poets of World War I, transforming how war was portrayed in literature.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "War Poetry",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Sassoon, who survived the war, began as a patriotic volunteer but became a fierce critic of the war's conduct.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "War Poetry",
+      "materia": "inglese"
+    }
+  ]
+}

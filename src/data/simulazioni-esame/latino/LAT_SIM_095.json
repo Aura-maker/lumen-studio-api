@@ -1,0 +1,58 @@
+{
+  "id": "LAT_SIM_095",
+  "materia": "LINGUA E CULTURA LATINA",
+  "tipo": "ESAME DI STATO - LICEO CLASSICO/SCIENTIFICO",
+  "numero": 95,
+  "data": "2025-12-06",
+  "durata": "4 ore",
+  "intestazione": "Ministero dell'Istruzione e del Merito\nESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE\nIndirizzo: LI01 - EA01 - CLASSICO\n(Testo valido anche per gli indirizzi LI02, LI21, LIC e LIQ1)\nDisciplina: LINGUA E CULTURA LATINA",
+  "dizionari_ammessi": "È consentito l'uso del dizionario di latino.",
+  "struttura": {
+    "prima_parte": {
+      "titolo": "PRIMA PARTE: traduzione di un testo in lingua latina",
+      "titolo_brano": "L'importanza della storia",
+      "pre_testo": "Nella prefazione alla sua monumentale opera storica, Livio espone le ragioni che lo hanno spinto a narrare la storia di Roma dalle origini.",
+      "testo_latino": "Hoc illud est praecipue in cognitione rerum salubre ac frugiferum, omnis te exempli documenta in inlustri posita monumento intueri; inde tibi tuaeque rei publicae quod imitere capias, inde foedum inceptu, foedum exitu, quod vites. Ceterum aut me amor negotii suscepti fallit, aut nulla umquam res publica nec maior nec sanctior nec bonis exemplis ditior fuit.",
+      "post_testo": null,
+      "note_lessicali": {
+        "salubre ac frugiferum": "salutare e fruttuoso",
+        "documenta": "insegnamenti, esempi",
+        "foedum inceptu": "turpe nel principio"
+      },
+      "fonte": "Livio, Ab Urbe condita, Praefatio, 10"
+    },
+    "seconda_parte": {
+      "titolo": "SECONDA PARTE: risposta aperta a tre quesiti",
+      "istruzioni": "Il candidato risponda ai seguenti quesiti in modo puntuale e circostanziato.",
+      "quesiti": [
+        {
+          "numero": 1,
+          "tipo": "comprensione",
+          "testo": "Individua i riferimenti storici o mitologici e spiegane il significato.",
+          "punti_max": 5
+        },
+        {
+          "numero": 2,
+          "tipo": "analisi",
+          "testo": "Esamina la struttura del periodo latino, commentando la costruzione sintattica.",
+          "punti_max": 5
+        },
+        {
+          "numero": 3,
+          "tipo": "approfondimento",
+          "testo": "Analizza il rapporto tra il brano e i modelli greci di riferimento.",
+          "punti_max": 10
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "numeroProgressivo": 95,
+    "dataGenerazione": "2025-12-06T17:54:00.589Z",
+    "versione": "2024.1",
+    "difficolta": "intermedio",
+    "genere_letterario": "epistolografia",
+    "periodo_storico": "età augustea"
+  },
+  "contesto_storico": "Impero di Traiano"
+}

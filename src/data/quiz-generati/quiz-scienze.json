@@ -1,0 +1,1296 @@
+{
+  "materia": "scienze",
+  "totale": 90,
+  "quiz": [
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Atomo: struttura, e modelli?",
+      "rispostaCorretta": "1803",
+      "opzioni": [
+        "1803",
+        "1801",
+        "1793",
+        "1798"
+      ],
+      "spiegazione": "evoluzione dei modelli atomici include Dalton nel 1803 che concepisce l'atomo come sfera indivisibile, Thomson nel 1897 che scopre l'elettrone e propo",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Atomo: struttura, e modelli?",
+      "rispostaCorretta": "1897",
+      "opzioni": [
+        "1897",
+        "1887",
+        "1895",
+        "1892"
+      ],
+      "spiegazione": "isce l'atomo come sfera indivisibile, Thomson nel 1897 che scopre l'elettrone e propone il modello a panettone, Rutherford nel 1911 che con l'esperime",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Atomo: struttura, e modelli?",
+      "rispostaCorretta": "1911",
+      "opzioni": [
+        "1909",
+        "1911",
+        "1901",
+        "1906"
+      ],
+      "spiegazione": "e propone il modello a panettone, Rutherford nel 1911 che con l'esperimento della lamina d'oro scopre il nucleo piccolo e denso con elettroni che orb",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Atomo: struttura, e modelli?",
+      "rispostaCorretta": "1913",
+      "opzioni": [
+        "1908",
+        "1911",
+        "1903",
+        "1913"
+      ],
+      "spiegazione": "colo e denso con elettroni che orbitano, Bohr nel 1913 che colloca gli elettroni su orbite circolari quantizzate con energia definita dove i salti deg",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Atomo: struttura, e modelli?",
+      "rispostaCorretta": "1926",
+      "opzioni": [
+        "1926",
+        "1921",
+        "1924",
+        "1916"
+      ],
+      "spiegazione": "ssorbono fotoni, e il modello quantomeccanico del 1926 di Schrödinger che descrive gli elettroni come onde in orbitali che sono nuvole di probabilità.",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Atomo: struttura, e modelli?",
+      "rispostaCorretta": "1869",
+      "opzioni": [
+        "1867",
+        "1864",
+        "1859",
+        "1869"
+      ],
+      "spiegazione": "olteplicità. La tavola periodica di Mendeleev del 1869 ordina gli elementi per numero atomico e mostra proprietà periodiche come raggio atomico, energ",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il numero atomico Z indica il numero di protoni e determina l'elemento.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il numero di massa A indica la somma di protoni e neutroni.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "I legami chimici sono le forze che tengono uniti gli atomi formando molecole e composti.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Un esempio classico è il cloruro di sodio (NaCl), dove il sodio cede un elettrone al cloro.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Le Chatelier nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "protagonista principale",
+        "narratore",
+        "antagonista"
+      ],
+      "spiegazione": "temperatura. Il principio di Le Chatelier stabilisce che un sistema all'equilibrio, se perturbato, si sposta per minimizzare la p",
+      "livello": "intermedio",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Una reazione chimica è la trasformazione dei reagenti in prodotti attraverso la rottura e la formazione di legami chimici.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'agente ossidante si riduce, mentre il riducente si ossida.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Membrana plasmatica, e trasporti?",
+      "rispostaCorretta": "1972",
+      "opzioni": [
+        "1967",
+        "1962",
+        "1972",
+        "1970"
+      ],
+      "spiegazione": "mosaico fluido proposto da Singer e Nicolson nel 1972: un doppio strato di fosfolipidi (con le teste idrofile rivolte verso l'esterno e le code idrof",
+      "livello": "base",
+      "argomento": "Biologia cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La membrana plasmatica costituisce il confine della cellula e controlla gli scambi con l'ambiente esterno.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Biologia cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il colesterolo regola la fluidità della membrana, mentre glicoproteine e glicolipidi sono coinvolti nel riconoscimento cellulare.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Biologia cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Lynn Margulis nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "protagonista principale",
+        "antagonista"
+      ],
+      "spiegazione": "la teoria endosimbiontica di Lynn Margulis. I cloroplasti (nelle cellule vegetali) hanno doppia membrana, tilacoidi organizzati i",
+      "livello": "intermedio",
+      "argomento": "Biologia cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La cellula eucariote (animale o vegetale) possiede organuli, compartimenti specializzati con funzioni specifiche.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Biologia cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "I ribosomi, liberi nel citoplasma o legati al reticolo endoplasmatico, sintetizzano le proteine traducendo l'mRNA.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Biologia cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Ciclo cellulare eucarioti: interfase (G1 crescita, S duplicazione DNA, G2 preparazione) e fase M divisione (mitosi nucleare, citocinesi citoplasma).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Biologia cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Mitosi include divisione equazionale produce due cellule figlie geneticamente identiche (2n→2n+2n).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Biologia cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Mendel e le leggi dell'ereditarietà?",
+      "rispostaCorretta": "1822",
+      "opzioni": [
+        "1820",
+        "1812",
+        "1822",
+        "1817"
+      ],
+      "spiegazione": "Gregor Mendel (1822-1884) è monaco agostiniano Brno, padre genetica. Esperimenti pisello odoroso (1856-1863) pubbli",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno fu pubblicata Mendel e le leggi dell'ereditarietà?",
+      "rispostaCorretta": "1884",
+      "opzioni": [
+        "1874",
+        "1884",
+        "1879",
+        "1882"
+      ],
+      "spiegazione": "Gregor Mendel (1822-1884) è monaco agostiniano Brno, padre genetica. Esperimenti pisello odoroso (1856-1863) pubblicati",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno fu pubblicata Mendel e le leggi dell'ereditarietà?",
+      "rispostaCorretta": "1856",
+      "opzioni": [
+        "1846",
+        "1856",
+        "1854",
+        "1851"
+      ],
+      "spiegazione": "rno, padre genetica. Esperimenti pisello odoroso (1856-1863) pubblicati 1866 ignorati riscopert i 1900. Scelse pisello per include facile coltivazione",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno fu pubblicata Mendel e le leggi dell'ereditarietà?",
+      "rispostaCorretta": "1863",
+      "opzioni": [
+        "1863",
+        "1853",
+        "1858",
+        "1861"
+      ],
+      "spiegazione": "padre genetica. Esperimenti pisello odoroso (1856-1863) pubblicati 1866 ignorati riscopert i 1900. Scelse pisello per include facile coltivazione, aut",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno fu pubblicata Mendel e le leggi dell'ereditarietà?",
+      "rispostaCorretta": "1866",
+      "opzioni": [
+        "1864",
+        "1861",
+        "1856",
+        "1866"
+      ],
+      "spiegazione": "sperimenti pisello odoroso (1856-1863) pubblicati 1866 ignorati riscopert i 1900. Scelse pisello per include facile coltivazione, autofecondazione e g",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno fu pubblicata Mendel e le leggi dell'ereditarietà?",
+      "rispostaCorretta": "1900",
+      "opzioni": [
+        "1895",
+        "1898",
+        "1890",
+        "1900"
+      ],
+      "spiegazione": "(1856-1863) pubblicati 1866 ignorati riscopert i 1900. Scelse pisello per include facile coltivazione, autofecondazione e generazioni brevi, caratter",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Gregor Mendel nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "Gregor Mendel (1822-1884) è monaco agostiniano Brno, padre genetica. Esperimenti pisello odoroso (18",
+      "livello": "intermedio",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Quadrato Punnett nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "romosomi diversi, o lontani). Quadrato Punnett predice è rapporti. Testcross con è omozigote recessivo verifica genotipo. Eccezion",
+      "livello": "intermedio",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Gregor Mendel (1822-1884) è monaco agostiniano Brno, padre genetica.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Esperimenti pisello odoroso (1856-1863) pubblicati 1866 ignorati riscopert i 1900.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne DNA, RNA e sintesi proteica?",
+      "rispostaCorretta": "1953",
+      "opzioni": [
+        "1953",
+        "1943",
+        "1948",
+        "1951"
+      ],
+      "spiegazione": "la informazione genetica. Struttura Watson-Crick (1953): doppia elica antiparallela, scheletro zucchero-fosfato, basi azotate appaiate (adenina-timina",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Il Il nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Il Il DNA è l'acido desossiribonucleico molecola informazione genetica. Struttura Watson-Crick (1953",
+      "livello": "intermedio",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Struttura Watson nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "narratore",
+        "personaggio secondario"
+      ],
+      "spiegazione": "lecola informazione genetica. Struttura Watson-Crick (1953): doppia elica antiparallela, scheletro zucchero-fosfato, basi azotate",
+      "livello": "intermedio",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il Il DNA è l'acido desossiribonucleico molecola informazione genetica.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Nucleotide unità: desossiribosio, fosfato e base (purine A G, pirimidine T C).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Mutazioni, e variabilità genetica?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "natura",
+        "morte"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Mutazione alterazione sequenza DNA.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Inserzione delezione basi include frameshift (sfasamento lettura se non multiplo 3) e cambia intera proteina.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ingegneria genetica, e biotecnologie?",
+      "rispostaCorretta": "1996",
+      "opzioni": [
+        "1994",
+        "1996",
+        "1986",
+        "1991"
+      ],
+      "spiegazione": "teine). Clonazione organismi include Dolly pecora 1996 primo mammifero da cellula somatica (trasferimento nucleo ovocita enucleato), clonazione terape",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ingegneria genetica, e biotecnologie?",
+      "rispostaCorretta": "2012",
+      "opzioni": [
+        "2007",
+        "2012",
+        "2002",
+        "2010"
+      ],
+      "spiegazione": "a), retinite pigmentosa. CRISPR-Cas9 rivoluzione (2012 Doudna Charpentier Nobel 2020): editing genomico preciso e guida RNA complementare sequenza tar",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ingegneria genetica, e biotecnologie?",
+      "rispostaCorretta": "2020",
+      "opzioni": [
+        "2015",
+        "2010",
+        "2020",
+        "2018"
+      ],
+      "spiegazione": "R-Cas9 rivoluzione (2012 Doudna Charpentier Nobel 2020): editing genomico preciso e guida RNA complementare sequenza target, Cas9 nucleasi taglia DNA,",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Ingegneria genetica, e biotecnologie?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "morte",
+        "natura",
+        "libertà",
+        "amore"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Flavr Savr nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "en rice vitamina A e pomodoro Flavr Savr maturazione è ritardata. Terapia genica include correggere geni difettosi malattie geneti",
+      "livello": "intermedio",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Doudna Charpentier nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "CRISPR-Cas9 rivoluzione (2012 Doudna Charpentier Nobel 2020): editing genomico preciso e guida RNA complementare sequenza target,",
+      "livello": "intermedio",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'ingegneria genetica manipolazione Il DNA ricombinante.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Darwin, e teoria evoluzione per selezione naturale?",
+      "rispostaCorretta": "1809",
+      "opzioni": [
+        "1799",
+        "1804",
+        "1809",
+        "1807"
+      ],
+      "spiegazione": "Charles Darwin (1809-1882) è naturalista inglese, viaggio Beagle (1831-1836) Sud America Galapagos osserva variabili",
+      "livello": "base",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Darwin, e teoria evoluzione per selezione naturale?",
+      "rispostaCorretta": "1882",
+      "opzioni": [
+        "1872",
+        "1880",
+        "1882",
+        "1877"
+      ],
+      "spiegazione": "Charles Darwin (1809-1882) è naturalista inglese, viaggio Beagle (1831-1836) Sud America Galapagos osserva variabilità sp",
+      "livello": "base",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Darwin, e teoria evoluzione per selezione naturale?",
+      "rispostaCorretta": "1831",
+      "opzioni": [
+        "1831",
+        "1821",
+        "1829",
+        "1826"
+      ],
+      "spiegazione": "1809-1882) è naturalista inglese, viaggio Beagle (1831-1836) Sud America Galapagos osserva variabilità specie adattamenti. Origine specie (1859) rivol",
+      "livello": "base",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Darwin, e teoria evoluzione per selezione naturale?",
+      "rispostaCorretta": "1836",
+      "opzioni": [
+        "1826",
+        "1836",
+        "1834",
+        "1831"
+      ],
+      "spiegazione": "1882) è naturalista inglese, viaggio Beagle (1831-1836) Sud America Galapagos osserva variabilità specie adattamenti. Origine specie (1859) rivoluzion",
+      "livello": "base",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Darwin, e teoria evoluzione per selezione naturale?",
+      "rispostaCorretta": "1859",
+      "opzioni": [
+        "1857",
+        "1849",
+        "1854",
+        "1859"
+      ],
+      "spiegazione": "a variabilità specie adattamenti. Origine specie (1859) rivoluzione biologica. Osservazioni chiave include organismi producono più discendenti di quan",
+      "livello": "base",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Darwin, e teoria evoluzione per selezione naturale?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "tempo"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Darwin, e teoria evoluzione per selezione naturale?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "natura",
+        "morte"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Darwin, e teoria evoluzione per selezione naturale?",
+      "rispostaCorretta": "viaggio",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "viaggio"
+      ],
+      "spiegazione": "Il tema del viaggio è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Charles Darwin nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Charles Darwin (1809-1882) è naturalista inglese, viaggio Beagle (1831-1836) Sud America Galapagos o",
+      "livello": "intermedio",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Sud America nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario"
+      ],
+      "spiegazione": "e, viaggio Beagle (1831-1836) Sud America Galapagos osserva variabilità specie adattamenti. Origine specie (1859) rivoluzione biol",
+      "livello": "intermedio",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Charles Darwin (1809-1882) è naturalista inglese, viaggio Beagle (1831-1836) Sud America Galapagos osserva variabilità specie adattamenti.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Origine specie (1859) rivoluzione biologica.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Neodarwinismo: sintesi moderna?",
+      "rispostaCorretta": "1930",
+      "opzioni": [
+        "1930",
+        "1920",
+        "1925",
+        "1928"
+      ],
+      "spiegazione": "eodarwinismo, o teoria sintetica evoluzione (anni 1930-40) integra Darwin genetica Mendel biologia è molecolare. Darwin ignorava meccanismo ereditarie",
+      "livello": "base",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Neodarwinismo: sintesi moderna?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "tempo",
+        "morte",
+        "libertà",
+        "amore"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Neodarwinismo: sintesi moderna?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "natura"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Equilibrio Hardy nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "e insieme alleli popolazione. Equilibrio Hardy-Weinberg include in assenza evoluzione (mutazioni, selezione, deriva, migrazione e",
+      "livello": "intermedio",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Gould Eldredge nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "narratore",
+        "personaggio secondario"
+      ],
+      "spiegazione": "ti). Punteggiato equilibrato (Gould Eldredge): evoluzione non graduale, ma stasi lunghe punteggiate da cambiamenti rapidi",
+      "livello": "intermedio",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Neodarwinismo, o teoria sintetica evoluzione (anni 1930-40) integra Darwin genetica Mendel biologia è molecolare.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Darwin ignorava meccanismo ereditarietà variabilità.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Meccanismi, e prove dell'evoluzione?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "tempo",
+        "libertà",
+        "morte",
+        "amore"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Meccanismi, e prove dell'evoluzione?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "amore",
+        "libertà",
+        "natura",
+        "morte"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Amish Ellis nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "narratore",
+        "protagonista principale",
+        "personaggio secondario"
+      ],
+      "spiegazione": "ividui colonizzano area nuova Amish Ellis-van Creveld). Prove molecolari include orologio molecolare (mutazioni neutre tasso costa",
+      "livello": "intermedio",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Ricombinazione genetica meiosi include crossing-over e assortimento indipendente, fecondazione rimescola geni genitori.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne PCR e amplificazione DNA?",
+      "rispostaCorretta": "1983",
+      "opzioni": [
+        "1983",
+        "1973",
+        "1978",
+        "1981"
+      ],
+      "spiegazione": "(Polymerase Chain Reaction) inventata Kary Mullis 1983 Nobel 1993, rivoluziona biologia molecolare. Amplifica segmento Il DNA specifico da poche copie",
+      "livello": "base",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne PCR e amplificazione DNA?",
+      "rispostaCorretta": "1993",
+      "opzioni": [
+        "1991",
+        "1988",
+        "1983",
+        "1993"
+      ],
+      "spiegazione": "Chain Reaction) inventata Kary Mullis 1983 Nobel 1993, rivoluziona biologia molecolare. Amplifica segmento Il DNA specifico da poche copie a miliardi",
+      "livello": "base",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente PCR e amplificazione DNA?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "morte",
+        "amore",
+        "tempo",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente PCR e amplificazione DNA?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "morte",
+        "libertà",
+        "natura",
+        "amore"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Polymerase Chain nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "narratore",
+        "personaggio secondario"
+      ],
+      "spiegazione": "R reazione catena polimerasi (Polymerase Chain Reaction) inventata Kary Mullis 1983 Nobel 1993, rivoluziona biologia molecolare. A",
+      "livello": "intermedio",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Kary Mullis nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "ase Chain Reaction) inventata Kary Mullis 1983 Nobel 1993, rivoluziona biologia molecolare. Amplifica segmento Il DNA specifico da",
+      "livello": "intermedio",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "PCR reazione catena polimerasi (Polymerase Chain Reaction) inventata Kary Mullis 1983 Nobel 1993, rivoluziona biologia molecolare.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Amplifica segmento Il DNA specifico da poche copie a miliardi.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Clonazione organismi, e cellule staminali?",
+      "rispostaCorretta": "1996",
+      "opzioni": [
+        "1996",
+        "1994",
+        "1991",
+        "1986"
+      ],
+      "spiegazione": "cellula donatrice ovocita enucleato, Dolly pecora 1996 primo mammifero clonato (Wilmut), inefficiente molti tentativi falliti anomalie, invecchiamento",
+      "livello": "base",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Clonazione organismi, e cellule staminali?",
+      "rispostaCorretta": "2012",
+      "opzioni": [
+        "2010",
+        "2007",
+        "2002",
+        "2012"
+      ],
+      "spiegazione": "mento) e indotte pluripotenti iPS (Yamanaka Nobel 2012 riprogrammare cellule adulte pluripotenti introducendo 4 geni trascrizione Oct4 Sox2 Klf4 c-Myc",
+      "livello": "base",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Yamanaka Nobel nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": ") e indotte pluripotenti iPS (Yamanaka Nobel 2012 riprogrammare cellule adulte pluripotenti introducendo 4 geni trascrizione Oct4",
+      "livello": "intermedio",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Clonazione produzione è organismi geneticamente identici.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Terapeutica include produce cellule staminali embrionali geneticamente identiche paziente per terapie, embrione distrutto stadio blastocisti.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Terapie geniche e CRISPR?",
+      "rispostaCorretta": "1999",
+      "opzioni": [
+        "1997",
+        "1994",
+        "1989",
+        "1999"
+      ],
+      "spiegazione": "ale (vettore integra gene oncogene leucemie trial 1999 Jesse Gelsinger morte), risposta immunitaria vettore, espressione gene insufficiente eccessiva.",
+      "livello": "base",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Terapie geniche e CRISPR?",
+      "rispostaCorretta": "2018",
+      "opzioni": [
+        "2016",
+        "2013",
+        "2008",
+        "2018"
+      ],
+      "spiegazione": "ng germinale modifica ereditaria, caso He Jiankui 2018 gemelle cinesi modificate gene CCR5 resistenza HIV condanna internazionale",
+      "livello": "base",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Terapie geniche e CRISPR?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "patria",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Terapie geniche e CRISPR?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "tempo",
+        "amore"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Jesse Gelsinger nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "narratore",
+        "personaggio secondario"
+      ],
+      "spiegazione": "oncogene leucemie trial 1999 Jesse Gelsinger morte), risposta immunitaria vettore, espressione gene insufficiente eccessiva. CRIS",
+      "livello": "intermedio",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha He Jiankui nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario"
+      ],
+      "spiegazione": "ale modifica ereditaria, caso He Jiankui 2018 gemelle cinesi modificate gene CCR5 resistenza HIV condanna internazionale",
+      "livello": "intermedio",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Terapia genica è correggere malattie genetiche introducendo gene funzionale sostituendo difettoso.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Ex vivo include cellule prelevate modificate reimpiantate.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "LAT_SIM_153",
+  "materia": "LINGUA E CULTURA LATINA",
+  "tipo": "ESAME DI STATO - LICEO CLASSICO/SCIENTIFICO",
+  "numero": 153,
+  "data": "2025-12-06",
+  "durata": "4 ore",
+  "intestazione": "Ministero dell'Istruzione e del Merito\nESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE\nIndirizzo: LI01 - EA01 - CLASSICO\n(Testo valido anche per gli indirizzi LI02, LI21, LIC e LIQ1)\nDisciplina: LINGUA E CULTURA LATINA",
+  "dizionari_ammessi": "È consentito l'uso del dizionario di latino.",
+  "struttura": {
+    "prima_parte": {
+      "titolo": "PRIMA PARTE: traduzione di un testo in lingua latina",
+      "titolo_brano": "Il valore dell'amicizia",
+      "pre_testo": "Cicerone, nel dialogo sull'amicizia, espone attraverso le parole di Lelio l'importanza fondamentale dell'amicizia nella vita umana.",
+      "testo_latino": "Ego vos hortari tantum possum, ut amicitiam omnibus rebus humanis anteponatis; nihil est enim tam naturae aptum, tam conveniens ad res vel secundas vel adversas. Sed hoc primum sentio, nisi in bonis amicitiam esse non posse; neque id ad vivum reseco, ut illi qui haec subtilius disserunt, fortasse vere, sed ad communem utilitatem parum; negant enim quemquam esse virum bonum nisi sapientem. Sit ita sane; sed eam sapientiam interpretantur quam adhuc mortalis nemo est consecutus.",
+      "post_testo": null,
+      "note_lessicali": {
+        "ad vivum reseco": "esamino minuziosamente",
+        "disserunt": "discutono",
+        "sit ita sane": "sia pure così"
+      },
+      "fonte": "Cicerone, Laelius de amicitia, 17-18"
+    },
+    "seconda_parte": {
+      "titolo": "SECONDA PARTE: risposta aperta a tre quesiti",
+      "istruzioni": "Il candidato risponda ai seguenti quesiti in modo puntuale e circostanziato.",
+      "quesiti": [
+        {
+          "numero": 1,
+          "tipo": "comprensione",
+          "testo": "Analizza il contenuto del brano, evidenziando il messaggio centrale e la sua articolazione.",
+          "punti_max": 5
+        },
+        {
+          "numero": 2,
+          "tipo": "analisi",
+          "testo": "Analizza l'uso dei modi e dei tempi verbali in relazione al contenuto.",
+          "punti_max": 5
+        },
+        {
+          "numero": 3,
+          "tipo": "approfondimento",
+          "testo": "Proponi un'interpretazione personale supportata da argomentazioni testuali.",
+          "punti_max": 10
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "numeroProgressivo": 153,
+    "dataGenerazione": "2025-12-06T17:54:00.598Z",
+    "versione": "2024.1",
+    "difficolta": "esperto",
+    "genere_letterario": "lirica",
+    "periodo_storico": "età imperiale"
+  },
+  "contesto_storico": "Dinastia giulio-claudia"
+}

@@ -1,0 +1,671 @@
+// Schema Prisma per ImparaFacile - App educativa completa
+generator client {
+  provider      = "prisma-client-js"
+  engineType    = "library"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ============ ENUMS ============
+enum Ruolo {
+  STUDENTE
+  DOCENTE
+  ADMIN
+}
+
+enum TipoQuiz {
+  MULTIPLA
+  VERO_FALSO
+  RISPOSTA_APERTA
+}
+
+enum DifficoltaQuiz {
+  FACILE
+  MEDIO
+  DIFFICILE
+  ESPERTO
+}
+
+enum CondizioneLibro {
+  NUOVO
+  OTTIMO
+  BUONO
+  USATO
+  DANNEGGIATO
+}
+
+enum StatoAnnuncio {
+  ATTIVO
+  IN_TRATTATIVA
+  VENDUTO
+  SCAMBIATO
+  ANNULLATO
+}
+
+enum TipoBadge {
+  PRIMA_LEZIONE
+  STREAK_7_GIORNI
+  STREAK_30_GIORNI
+  MAESTRO_MATERIA
+  QUIZ_PERFETTO
+  FLASHCARD_CHAMPION
+  VENDITORE_AFFIDABILE
+  STUDENTE_MODELLO
+}
+
+// ============ UTENTI E AUTENTICAZIONE ============
+model Utente {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  updatedAt           DateTime            @updatedAt
+  
+  // Dati base
+  email               String              @unique
+  password            String?             // null per OAuth
+  nome                String
+  cognome             String?
+  username            String?             @unique
+  
+  // Profilo scolastico
+  scuola              String?
+  classe              String?
+  annoScolastico      String?
+  
+  // Ruolo e permessi
+  ruolo               Ruolo               @default(STUDENTE)
+  
+  // Avatar e personalizzazione
+  avatarUrl           String?
+  bio                 String?
+  preferenze          Json?
+  
+  // OAuth
+  googleId            String?             @unique
+  appleId             String?             @unique
+  spidId              String?             @unique
+  
+  // Reset password
+  resetToken          String?
+  resetTokenExp       DateTime?
+  
+  // Gamification
+  xp                  Int                 @default(0)
+  livelloGlobale      Int                 @default(1)
+  streakGiorni        Int                 @default(0)
+  ultimaAttivita      DateTime?
+  
+  // Statistiche
+  tempoStudioTotale   Int                 @default(0) // in minuti
+  quizCompletati      Int                 @default(0)
+  accuratezzaMedia    Float               @default(0)
+  
+  // Relazioni
+  badges              BadgeUtente[]
+  progressi           Progresso[]
+  progressiMateria    ProgressoMateria[]
+  risultatiQuiz       RisultatoQuiz[]
+  sessioniStudio      SessioneStudio[]
+  flashcardViste      FlashcardVista[]
+  
+  // Marketplace
+  libriInVendita      Libro[]             @relation("Venditore")
+  libriAcquistati     Transazione[]       @relation("Acquirente")
+  libriVenduti        Transazione[]       @relation("VenditoreTransazione")
+  recensioniDate      RecensioneVenditore[] @relation("RecensioneDa")
+  recensioniRicevute  RecensioneVenditore[] @relation("RecensioneA")
+  
+  // Chat marketplace
+  messaggiInviati     MessaggioChat[]     @relation("Mittente")
+  chatComeAcquirente  ChatMarketplace[]   @relation("Acquirente")
+  chatComeVenditore   ChatMarketplace[]   @relation("Venditore")
+  
+  // Notifiche
+  notifiche           Notifica[]
+  deviceTokens        DeviceToken[]
+  
+  // Obiettivi
+  obiettiviSettimanali ObiettivoSettimanale[]
+  
+  @@index([email])
+  @@index([username])
+}
+
+// ============ STRUTTURA EDUCATIVA ============
+model Materia {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  updatedAt           DateTime            @updatedAt
+  
+  nome                String              @unique
+  emoji               String?
+  descrizione         String              @db.Text
+  colore              String?             // Colore tema per UI
+  ordine              Int                 @default(0)
+  
+  // Metadati
+  annoScolastico      String[]            // es: ["4", "5"]
+  programmaMinisteriale String?           @db.Text
+  
+  argomenti           Argomento[]
+  progressiMateria    ProgressoMateria[]
+  libri               Libro[]
+  
+  @@index([nome])
+}
+
+model Argomento {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  updatedAt           DateTime            @updatedAt
+  
+  titolo              String
+  descrizione         String              @db.Text
+  ordine              Int                 @default(0)
+  annoRiferimento     String?             // "4" o "5"
+  
+  materia             Materia             @relation(fields: [materiaId], references: [id], onDelete: Cascade)
+  materiaId           String
+  
+  sottoargomenti      Sottoargomento[]
+  
+  @@index([materiaId])
+}
+
+model Sottoargomento {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  updatedAt           DateTime            @updatedAt
+  
+  titolo              String
+  riassunto           String              @db.Text // Min 500 parole
+  ordine              Int                 @default(0)
+  
+  // Metadati educativi
+  livelloDifficolta   String              // base/intermedio/avanzato
+  tempoLettura        Int                 // in minuti
+  tags                String[]
+  collegamenti        String[]            // ID di altri sottoargomenti collegati
+  
+  // Collegamenti multimediali
+  immagini            String[]
+  video               String[]
+  risorse             Json?               // Link esterni, PDF, etc.
+  
+  argomento           Argomento           @relation(fields: [argomentoId], references: [id], onDelete: Cascade)
+  argomentoId         String
+  
+  quiz                Quiz[]
+  flashcards          Flashcard[]
+  progressi           Progresso[]
+  
+  @@index([argomentoId])
+}
+
+// ============ QUIZ ============
+model Quiz {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  updatedAt           DateTime            @updatedAt
+  
+  domanda             String              @db.Text
+  tipo                TipoQuiz
+  difficolta          DifficoltaQuiz
+  
+  // Opzioni (per multipla)
+  opzioni             Json?               // Array di {testo, id}
+  rispostaCorretta    String              // ID opzione o "true"/"false"
+  
+  // Spiegazione
+  spiegazione         String              @db.Text
+  
+  // Per domande numeriche
+  formula             String?
+  passaggiSoluzione   Json?               // Step by step
+  unita               String?
+  
+  // Metadati
+  puntiXP             Int                 @default(10)
+  tempoMassimo        Int?                // in secondi
+  
+  sottoargomento      Sottoargomento      @relation(fields: [sottoargomentoId], references: [id], onDelete: Cascade)
+  sottoargomentoId    String
+  
+  risultati           RisultatoQuiz[]
+  simulazioni         SimulazioneQuiz[]
+  
+  @@index([sottoargomentoId])
+  @@index([tipo])
+  @@index([difficolta])
+}
+
+// ============ FLASHCARDS ============
+model Flashcard {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  updatedAt           DateTime            @updatedAt
+  
+  fronte              String              @db.Text // Max 20 parole
+  retro               String              @db.Text // Max 60 parole
+  
+  // Metadati
+  tags                String[]
+  livello             String              // facile/medio/difficile
+  
+  // Media opzionale
+  immagineFronte      String?
+  immagineRetro       String?
+  altTextFronte       String?
+  altTextRetro        String?
+  
+  // Formula (per materie STEM)
+  formula             String?
+  spiegazioneFormula  String?             @db.Text
+  
+  sottoargomento      Sottoargomento      @relation(fields: [sottoargomentoId], references: [id], onDelete: Cascade)
+  sottoargomentoId    String
+  
+  viste               FlashcardVista[]
+  
+  @@index([sottoargomentoId])
+}
+
+// ============ PROGRESSI E GAMIFICATION ============
+model Progresso {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  updatedAt           DateTime            @updatedAt
+  
+  percentualeCompletamento Float          @default(0)
+  xpGuadagnati        Int                 @default(0)
+  tempoStudio         Int                 @default(0) // minuti
+  
+  utente              Utente              @relation(fields: [utenteId], references: [id], onDelete: Cascade)
+  utenteId            String
+  
+  sottoargomento      Sottoargomento      @relation(fields: [sottoargomentoId], references: [id], onDelete: Cascade)
+  sottoargomentoId    String
+  
+  @@unique([utenteId, sottoargomentoId])
+  @@index([utenteId])
+  @@index([sottoargomentoId])
+}
+
+model ProgressoMateria {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  updatedAt           DateTime            @updatedAt
+  
+  livelloMateria      Int                 @default(1)
+  xpMateria           Int                 @default(0)
+  percentualeCompletamento Float          @default(0)
+  
+  utente              Utente              @relation(fields: [utenteId], references: [id], onDelete: Cascade)
+  utenteId            String
+  
+  materia             Materia             @relation(fields: [materiaId], references: [id], onDelete: Cascade)
+  materiaId           String
+  
+  @@unique([utenteId, materiaId])
+  @@index([utenteId])
+  @@index([materiaId])
+}
+
+model RisultatoQuiz {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  
+  rispostaData        String
+  corretta            Boolean
+  tempoRisposta       Int                 // secondi
+  xpGuadagnati        Int
+  
+  utente              Utente              @relation(fields: [utenteId], references: [id], onDelete: Cascade)
+  utenteId            String
+  
+  quiz                Quiz                @relation(fields: [quizId], references: [id], onDelete: Cascade)
+  quizId              String
+  
+  @@index([utenteId])
+  @@index([quizId])
+}
+
+model SessioneStudio {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  terminataAt         DateTime?
+  
+  durata              Int                 @default(0) // minuti
+  xpGuadagnati        Int                 @default(0)
+  
+  utente              Utente              @relation(fields: [utenteId], references: [id], onDelete: Cascade)
+  utenteId            String
+  
+  @@index([utenteId])
+}
+
+model FlashcardVista {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  
+  conosciuta          Boolean
+  tempoRisposta       Int                 // secondi
+  
+  utente              Utente              @relation(fields: [utenteId], references: [id], onDelete: Cascade)
+  utenteId            String
+  
+  flashcard           Flashcard           @relation(fields: [flashcardId], references: [id], onDelete: Cascade)
+  flashcardId         String
+  
+  @@index([utenteId])
+  @@index([flashcardId])
+}
+
+// ============ BADGES E OBIETTIVI ============
+model Badge {
+  id                  String              @id @default(uuid())
+  
+  tipo                TipoBadge           @unique
+  nome                String
+  descrizione         String
+  icona               String
+  xpRichiesti         Int                 @default(0)
+  
+  utenti              BadgeUtente[]
+}
+
+model BadgeUtente {
+  id                  String              @id @default(uuid())
+  ottenutoAt          DateTime            @default(now())
+  
+  utente              Utente              @relation(fields: [utenteId], references: [id], onDelete: Cascade)
+  utenteId            String
+  
+  badge               Badge               @relation(fields: [badgeId], references: [id], onDelete: Cascade)
+  badgeId             String
+  
+  @@unique([utenteId, badgeId])
+  @@index([utenteId])
+}
+
+model ObiettivoSettimanale {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  
+  settimana           DateTime            // Lunedì della settimana
+  
+  // Obiettivi
+  minutiStudio        Int                 @default(300) // 5 ore
+  quizDaCompletare    Int                 @default(50)
+  flashcardDaRivedere Int                 @default(100)
+  
+  // Progressi
+  minutiCompletati    Int                 @default(0)
+  quizCompletati      Int                 @default(0)
+  flashcardCompletate Int                 @default(0)
+  
+  completato          Boolean             @default(false)
+  xpBonus             Int                 @default(0)
+  
+  utente              Utente              @relation(fields: [utenteId], references: [id], onDelete: Cascade)
+  utenteId            String
+  
+  @@unique([utenteId, settimana])
+  @@index([utenteId])
+}
+
+// ============ MARKETPLACE LIBRI ============
+model Libro {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  updatedAt           DateTime            @updatedAt
+  
+  // Dati libro
+  titolo              String
+  autori              String[]
+  isbn                String?
+  casaEditrice        String?
+  annoEdizione        String?
+  lingua              String              @default("italiano")
+  
+  // Classificazione
+  materia             Materia?            @relation(fields: [materiaId], references: [id])
+  materiaId           String?
+  classeConsigliata   String?
+  
+  // Stato vendita
+  condizione          CondizioneLibro
+  prezzo              Float?              // null = scambio
+  valuta              String              @default("EUR")
+  accettaScambio      Boolean             @default(false)
+  
+  // Descrizione
+  descrizione         String              @db.Text
+  note                String?
+  
+  // Foto (3-5 richieste)
+  foto                FotoLibro[]
+  
+  // Località
+  citta               String
+  provincia           String?
+  regione             String?
+  
+  // Spedizione
+  spedizioneDisponibile Boolean           @default(true)
+  costoSpedizione     Float?
+  
+  // Stato annuncio
+  stato               StatoAnnuncio       @default(ATTIVO)
+  visualizzazioni     Int                 @default(0)
+  
+  // Venditore
+  venditore           Utente              @relation("Venditore", fields: [venditoreId], references: [id], onDelete: Cascade)
+  venditoreId         String
+  
+  // Relazioni
+  chat                ChatMarketplace[]
+  transazioni         Transazione[]
+  segnalazioni        SegnalazioneAnnuncio[]
+  
+  @@index([venditoreId])
+  @@index([stato])
+  @@index([isbn])
+  @@index([materiaId])
+}
+
+model FotoLibro {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  
+  url                 String
+  altText             String              // Generato automaticamente
+  ordine              Int                 @default(0)
+  
+  // Metadati
+  dimensione          Int?                // bytes
+  formato             String?
+  hash                String?             // Per deduplicazione
+  
+  libro               Libro               @relation(fields: [libroId], references: [id], onDelete: Cascade)
+  libroId             String
+  
+  @@index([libroId])
+}
+
+model Transazione {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  completataAt        DateTime?
+  
+  tipo                String              // "vendita" o "scambio"
+  prezzoFinale        Float?
+  
+  // Stato
+  stato               String              // "in_corso", "completata", "annullata"
+  
+  libro               Libro               @relation(fields: [libroId], references: [id])
+  libroId             String
+  
+  acquirente          Utente              @relation("Acquirente", fields: [acquirenteId], references: [id])
+  acquirenteId        String
+  
+  venditore           Utente              @relation("VenditoreTransazione", fields: [venditoreId], references: [id])
+  venditoreId         String
+  
+  // Scambio (se applicabile)
+  libroScambio        String?             // ID del libro offerto in scambio
+  
+  recensione          RecensioneVenditore?
+  
+  @@index([acquirenteId])
+  @@index([venditoreId])
+  @@index([libroId])
+}
+
+model RecensioneVenditore {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  
+  valutazione         Int                 // 1-5 stelle
+  commento            String?             @db.Text
+  
+  transazione         Transazione         @relation(fields: [transazioneId], references: [id], onDelete: Cascade)
+  transazioneId       String              @unique
+  
+  recensore           Utente              @relation("RecensioneDa", fields: [recensoreId], references: [id])
+  recensoreId         String
+  
+  venditore           Utente              @relation("RecensioneA", fields: [venditoreId], references: [id])
+  venditoreId         String
+  
+  @@index([recensoreId])
+  @@index([venditoreId])
+}
+
+// ============ CHAT MARKETPLACE ============
+model ChatMarketplace {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  updatedAt           DateTime            @updatedAt
+  
+  // Stato chat
+  attiva              Boolean             @default(true)
+  archiviata          Boolean             @default(false)
+  
+  libro               Libro               @relation(fields: [libroId], references: [id], onDelete: Cascade)
+  libroId             String
+  
+  acquirente          Utente              @relation("Acquirente", fields: [acquirenteId], references: [id])
+  acquirenteId        String
+  
+  venditore           Utente              @relation("Venditore", fields: [venditoreId], references: [id])
+  venditoreId         String
+  
+  messaggi            MessaggioChat[]
+  
+  @@unique([libroId, acquirenteId])
+  @@index([acquirenteId])
+  @@index([venditoreId])
+  @@index([libroId])
+}
+
+model MessaggioChat {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  
+  testo               String              @db.Text
+  immagineUrl         String?
+  
+  // Stati messaggio
+  inviato             Boolean             @default(true)
+  consegnato          Boolean             @default(false)
+  letto               Boolean             @default(false)
+  lettoAt             DateTime?
+  
+  chat                ChatMarketplace     @relation(fields: [chatId], references: [id], onDelete: Cascade)
+  chatId              String
+  
+  mittente            Utente              @relation("Mittente", fields: [mittenteId], references: [id])
+  mittenteId          String
+  
+  @@index([chatId])
+  @@index([mittenteId])
+}
+
+// ============ MODERAZIONE E SICUREZZA ============
+model SegnalazioneAnnuncio {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  
+  motivo              String              // "inappropriato", "truffa", "spam", etc.
+  descrizione         String?             @db.Text
+  stato               String              @default("in_attesa") // "in_attesa", "verificata", "respinta"
+  
+  libro               Libro               @relation(fields: [libroId], references: [id], onDelete: Cascade)
+  libroId             String
+  
+  @@index([libroId])
+  @@index([stato])
+}
+
+// ============ NOTIFICHE ============
+model Notifica {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  
+  tipo                String              // "nuovo_messaggio", "badge_ottenuto", "obiettivo_raggiunto", etc.
+  titolo              String
+  messaggio           String
+  dati                Json?               // Dati aggiuntivi specifici per tipo
+  
+  letta               Boolean             @default(false)
+  lettaAt             DateTime?
+  
+  utente              Utente              @relation(fields: [utenteId], references: [id], onDelete: Cascade)
+  utenteId            String
+  
+  @@index([utenteId])
+  @@index([letta])
+}
+
+model DeviceToken {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  
+  token               String              @unique
+  piattaforma         String              // 'android','ios','web'
+  attivo              Boolean             @default(true)
+  
+  utente              Utente              @relation(fields: [utenteId], references: [id], onDelete: Cascade)
+  utenteId            String
+  
+  @@index([utenteId])
+}
+
+// ============ SIMULAZIONI ESAME ============
+model SimulazioneEsame {
+  id                  String              @id @default(uuid())
+  createdAt           DateTime            @default(now())
+  
+  nome                String
+  descrizione         String?
+  numeroDomande       Int                 // 20, 40, 60
+  tempoLimite         Int                 // minuti
+  
+  quiz                SimulazioneQuiz[]
+}
+
+model SimulazioneQuiz {
+  simulazione         SimulazioneEsame    @relation(fields: [simulazioneId], references: [id], onDelete: Cascade)
+  simulazioneId       String
+  
+  quiz                Quiz                @relation(fields: [quizId], references: [id], onDelete: Cascade)
+  quizId              String
+  
+  ordine              Int
+  
+  @@id([simulazioneId, quizId])
+}

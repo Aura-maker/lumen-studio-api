@@ -1,0 +1,145 @@
+{
+  "id": "MAT_SIM_004",
+  "materia": "MATEMATICA",
+  "tipo": "ESAME DI STATO - LICEO SCIENTIFICO",
+  "numero": 4,
+  "data": "2025-12-06",
+  "durata": "6 ore",
+  "intestazione": "Ministero dell'Istruzione e del Merito\nESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE\nIndirizzo: LICEO SCIENTIFICO\nTema di: MATEMATICA",
+  "istruzioni": "Il candidato risolva uno dei due problemi e risponda a 4 quesiti.",
+  "strumenti_ammessi": "È consentito l'uso della calcolatrice non programmabile.",
+  "problemi": [
+    {
+      "numero": "PROBLEMA 1",
+      "titolo": "Geometria analitica nello spazio",
+      "introduzione": null,
+      "contesto": "Nel riferimento cartesiano Oxyz, si considerino il piano π: x + 2y - z = 3 e la retta r: (x-1)/2 = (y+1)/1 = z/(-1).",
+      "funzioni": null,
+      "dati": null,
+      "punti": [
+        {
+          "lettera": "a",
+          "testo": "Verificare che r e π sono incidenti e trovare il punto di intersezione."
+        },
+        {
+          "lettera": "b",
+          "testo": "Calcolare l'angolo tra r e π."
+        },
+        {
+          "lettera": "c",
+          "testo": "Trovare l'equazione della retta s passante per P(1,0,2), parallela a π e incidente r."
+        },
+        {
+          "lettera": "d",
+          "testo": "Determinare il piano contenente r e perpendicolare a π."
+        },
+        {
+          "lettera": "e",
+          "testo": "Calcolare la distanza del punto Q(0,0,0) dalla retta r."
+        }
+      ]
+    },
+    {
+      "numero": "PROBLEMA 2",
+      "titolo": "Studio di funzione con parametro",
+      "introduzione": "Sia data la famiglia di funzioni:",
+      "contesto": null,
+      "funzioni": {
+        "f_k(x)": "(x² - k)·e^(-x) con k ∈ ℝ"
+      },
+      "dati": null,
+      "punti": [
+        {
+          "lettera": "a",
+          "testo": "Determinare dominio, simmetrie e comportamento agli estremi per ogni k."
+        },
+        {
+          "lettera": "b",
+          "testo": "Studiare segno, monotonia e concavità di f_k(x) al variare di k."
+        },
+        {
+          "lettera": "c",
+          "testo": "Determinare per quali valori di k la funzione ha esattamente due zeri."
+        },
+        {
+          "lettera": "d",
+          "testo": "Calcolare l'area della regione compresa tra il grafico di f₁(x) e l'asse x."
+        },
+        {
+          "lettera": "e",
+          "testo": "Trovare il valore di k per cui il massimo relativo di f_k(x) vale 1."
+        }
+      ]
+    }
+  ],
+  "quesiti": [
+    {
+      "numero": 1,
+      "argomento": "geometria",
+      "testo": "Trovare il piano tangente alla superficie z = x² + y² nel punto (1, 1, 2).",
+      "suggerimento": null
+    },
+    {
+      "numero": 2,
+      "argomento": "probabilita",
+      "testo": "In un'urna ci sono n palline numerate. Si estrae fino a ottenere la pallina 1. Calcolare E[estrazioni].",
+      "suggerimento": null
+    },
+    {
+      "numero": 3,
+      "argomento": "equazioni_diff",
+      "testo": "Trovare le curve ortogonali alla famiglia y = cx².",
+      "suggerimento": null
+    },
+    {
+      "numero": 4,
+      "argomento": "trigonometria",
+      "testo": "Dimostrare: tan(x) + tan(y) + tan(z) = tan(x)·tan(y)·tan(z) se x + y + z = π.",
+      "suggerimento": null
+    },
+    {
+      "numero": 5,
+      "argomento": "numeri_complessi",
+      "testo": "Calcolare: Σ(k=0 to n-1) e^(2πik/n).",
+      "suggerimento": null
+    },
+    {
+      "numero": 6,
+      "argomento": "limiti",
+      "testo": "Determinare lim(x→0) [arcsin(x) - x]/(x³)",
+      "suggerimento": "Taylor"
+    },
+    {
+      "numero": 7,
+      "argomento": "derivate",
+      "testo": "Calcolare la derivata di f(x) = arctan(√((1-x)/(1+x))) e semplificare.",
+      "suggerimento": null
+    },
+    {
+      "numero": 8,
+      "argomento": "integrali",
+      "testo": "Calcolare: ∫ √(tan x) dx",
+      "suggerimento": "Sostituzione"
+    }
+  ],
+  "metadata": {
+    "numeroProgressivo": 4,
+    "dataGenerazione": "2025-12-06T17:54:00.491Z",
+    "versione": "2024.1",
+    "difficolta": "base",
+    "argomenti_coperti": [
+      "Analisi di famiglia di funzioni",
+      "Modello di crescita",
+      "limiti",
+      "derivate",
+      "integrali",
+      "geometria",
+      "probabilita",
+      "equazioni_diff",
+      "trigonometria",
+      "numeri_complessi"
+    ],
+    "formule_utilizzate": 13
+  },
+  "note_particolari": "Simulazione con focus su geometria e probabilità"
+}

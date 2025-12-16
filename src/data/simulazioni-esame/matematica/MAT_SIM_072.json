@@ -1,0 +1,149 @@
+{
+  "id": "MAT_SIM_072",
+  "materia": "MATEMATICA",
+  "tipo": "ESAME DI STATO - LICEO SCIENTIFICO",
+  "numero": 72,
+  "data": "2025-12-06",
+  "durata": "6 ore",
+  "intestazione": "Ministero dell'Istruzione e del Merito\nESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE\nIndirizzo: LICEO SCIENTIFICO\nTema di: MATEMATICA",
+  "istruzioni": "Il candidato risolva uno dei due problemi e risponda a 4 quesiti.",
+  "strumenti_ammessi": "È consentito l'uso della calcolatrice non programmabile.",
+  "problemi": [
+    {
+      "numero": "PROBLEMA 1",
+      "titolo": "Equazioni differenziali e modelli",
+      "introduzione": null,
+      "contesto": "La temperatura T di un corpo segue la legge di Newton del raffreddamento: dT/dt = -k(T - Tₐ) dove Tₐ = 20°C è la temperatura ambiente.",
+      "funzioni": null,
+      "dati": {
+        "T(0)": "100°C",
+        "T(10)": "60°C"
+      },
+      "punti": [
+        {
+          "lettera": "a",
+          "testo": "Risolvere l'equazione differenziale e determinare T(t)."
+        },
+        {
+          "lettera": "b",
+          "testo": "Calcolare il valore della costante k."
+        },
+        {
+          "lettera": "c",
+          "testo": "Dopo quanto tempo la temperatura sarà 30°C?"
+        },
+        {
+          "lettera": "d",
+          "testo": "Calcolare la velocità di raffreddamento quando T = 50°C."
+        },
+        {
+          "lettera": "e",
+          "testo": "Determinare il tempo necessario affinché la temperatura scenda del 90% rispetto a (T₀ - Tₐ)."
+        }
+      ]
+    },
+    {
+      "numero": "PROBLEMA 2",
+      "titolo": "Successioni e serie",
+      "introduzione": "Si consideri la successione definita per ricorrenza:",
+      "contesto": null,
+      "funzioni": null,
+      "dati": {
+        "a₁": "1",
+        "aₙ₊₁": "(aₙ + 2)/(aₙ + 1)"
+      },
+      "punti": [
+        {
+          "lettera": "a",
+          "testo": "Dimostrare che la successione è limitata."
+        },
+        {
+          "lettera": "b",
+          "testo": "Studiare la monotonia della successione."
+        },
+        {
+          "lettera": "c",
+          "testo": "Calcolare il limite della successione."
+        },
+        {
+          "lettera": "d",
+          "testo": "Determinare la velocità di convergenza."
+        },
+        {
+          "lettera": "e",
+          "testo": "Studiare la serie Σ(aₙ - L) dove L è il limite trovato."
+        }
+      ]
+    }
+  ],
+  "quesiti": [
+    {
+      "numero": 1,
+      "argomento": "numeri_complessi",
+      "testo": "Trovare z ∈ ℂ tale che z + 1/z sia reale.",
+      "suggerimento": null
+    },
+    {
+      "numero": 2,
+      "argomento": "limiti",
+      "testo": "Studiare lim(x→+∞) (1 + 1/x + 1/x²)^(x²)",
+      "suggerimento": "Limite notevole"
+    },
+    {
+      "numero": 3,
+      "argomento": "derivate",
+      "testo": "Calcolare f'(x) se f(x) = ∫₀^(x²) e^(-t²) dt.",
+      "suggerimento": "Teorema fondamentale"
+    },
+    {
+      "numero": 4,
+      "argomento": "integrali",
+      "testo": "Calcolare: ∫ x²·arctan(x) dx",
+      "suggerimento": "Per parti"
+    },
+    {
+      "numero": 5,
+      "argomento": "geometria",
+      "testo": "Trovare il piano tangente alla superficie z = x² + y² nel punto (1, 1, 2).",
+      "suggerimento": null
+    },
+    {
+      "numero": 6,
+      "argomento": "probabilita",
+      "testo": "In un'urna ci sono n palline numerate. Si estrae fino a ottenere la pallina 1. Calcolare E[estrazioni].",
+      "suggerimento": null
+    },
+    {
+      "numero": 7,
+      "argomento": "equazioni_diff",
+      "testo": "Trovare le curve ortogonali alla famiglia y = cx².",
+      "suggerimento": null
+    },
+    {
+      "numero": 8,
+      "argomento": "trigonometria",
+      "testo": "Dimostrare: tan(x) + tan(y) + tan(z) = tan(x)·tan(y)·tan(z) se x + y + z = π.",
+      "suggerimento": null
+    }
+  ],
+  "metadata": {
+    "numeroProgressivo": 72,
+    "dataGenerazione": "2025-12-06T17:54:00.506Z",
+    "versione": "2024.1",
+    "difficolta": "intermedio",
+    "argomenti_coperti": [
+      "Studio di funzione parametrica",
+      "Ottimizzazione geometrica",
+      "limiti",
+      "derivate",
+      "integrali",
+      "geometria",
+      "probabilita",
+      "equazioni_diff",
+      "trigonometria",
+      "numeri_complessi"
+    ],
+    "formule_utilizzate": 11
+  },
+  "note_particolari": "Simulazione con focus su analisi avanzata"
+}

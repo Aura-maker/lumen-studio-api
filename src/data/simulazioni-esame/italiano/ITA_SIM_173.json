@@ -1,0 +1,139 @@
+{
+  "id": "ITA_SIM_173",
+  "materia": "ITALIANO",
+  "tipo": "ESAME DI STATO",
+  "numero": 173,
+  "data": "2025-12-06",
+  "durata": "6 ore",
+  "intestazione": "Ministero dell'Istruzione e del Merito\nESAMI DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE\nPROVA DI ITALIANO",
+  "istruzioni": "Svolgi la prova, scegliendo tra una delle seguenti proposte.",
+  "tracce": [
+    {
+      "tipologia": "A",
+      "proposta": "A1",
+      "titolo": "ANALISI E INTERPRETAZIONE DI UN TESTO LETTERARIO ITALIANO",
+      "autore": "Eugenio Montale",
+      "opera": "Le occasioni",
+      "titoloComponente": "Non recidere, forbice, quel volto",
+      "periodo": "Novecento",
+      "testo": "Non recidere, forbice, quel volto,\nsolo nella memoria che si sfolla,\nnon far del grande suo viso in ascolto\nla mia nebbia di sempre.\n\nUn freddo cala... Duro il colpo svetta.\nE l'acacia ferita da sé scrolla\nil guscio di cicala\nnella prima belletta di Novembre.",
+      "note": "",
+      "comprensione_analisi": {
+        "istruzioni": "Puoi rispondere punto per punto oppure costruire un unico discorso che comprenda le risposte alle domande proposte.",
+        "domande": [
+          "Sintetizza i principali temi della poesia.",
+          "Analizza la struttura metrica e le scelte formali del componimento.",
+          "Individua e commenta le principali figure retoriche presenti.",
+          "Quale rapporto si delinea tra l'io lirico e la memoria?",
+          "Analizza il lessico utilizzato e i campi semantici prevalenti.",
+          "Come si caratterizza il tono del componimento?"
+        ]
+      },
+      "interpretazione": "Partendo dalla lirica proposta, elabora una tua riflessione sul tema della memoria e del tempo nella lirica del Novecento, facendo riferimento ad altri testi di Montale o di altri autori del Novecento che conosci."
+    },
+    {
+      "tipologia": "A",
+      "proposta": "A2",
+      "titolo": "ANALISI E INTERPRETAZIONE DI UN TESTO LETTERARIO ITALIANO",
+      "autore": "Italo Calvino",
+      "opera": "Le città invisibili",
+      "anno": "1972",
+      "introduzione": "Marco Polo descrive al Khan una delle città del suo impero.",
+      "testo": "La città di Leonia rifà se stessa tutti i giorni: ogni mattina la popolazione si risveglia tra lenzuola fresche, si lava con saponette appena sgusciate dall'involucro, indossa vestaglie nuove fiammanti, estrae dal più perfezionato frigorifero barattoli di latta ancora intonsi, ascoltando le ultime filastrocche dall'ultimo modello d'apparecchio.",
+      "comprensione_analisi": {
+        "istruzioni": "Puoi rispondere punto per punto oppure costruire un unico discorso che comprenda le risposte alle domande proposte.",
+        "domande": [
+          "Sintetizza il contenuto del brano, individuandone i passaggi principali.",
+          "Analizza il punto di vista narrativo e la focalizzazione.",
+          "Come si caratterizzano i personaggi presenti nel brano?",
+          "Quali tecniche narrative utilizza l'autore?",
+          "Individua e commenta le scelte stilistiche e lessicali.",
+          "Quale atmosfera emerge dal testo e attraverso quali elementi viene costruita?"
+        ]
+      },
+      "interpretazione": "Il brano propone una riflessione sulla società dei consumi e sul rapporto tra progresso e sostenibilità. Elabora le tue considerazioni in merito, facendo riferimento ad altri autori o opere che hanno affrontato tematiche simili."
+    },
+    {
+      "tipologia": "B",
+      "proposta": "B1",
+      "titolo": "ANALISI E PRODUZIONE DI UN TESTO ARGOMENTATIVO",
+      "testoCitato": {
+        "autore": "Norberto Bobbio",
+        "trattoDa": "Il futuro della democrazia",
+        "anno": "1984",
+        "testo": "La democrazia non consiste soltanto nel diritto di partecipare alle decisioni collettive, ma anche nel dovere di informarsi, di discutere, di confrontarsi con gli altri."
+      },
+      "comprensione_analisi": [
+        "Riassumi le tesi principali sostenute nel testo.",
+        "Su quali argomenti si fonda il ragionamento dell'autore?",
+        "Qual è la struttura argomentativa del testo?",
+        "Individua almeno un esempio di connettivo testuale e spiegane la funzione."
+      ],
+      "produzione": "Condividi la riflessione dell'autore sul tema \"Democrazia e partecipazione\"? Argomenta il tuo punto di vista elaborando un testo coerente e coeso."
+    },
+    {
+      "tipologia": "B",
+      "proposta": "B2",
+      "titolo": "ANALISI E PRODUZIONE DI UN TESTO ARGOMENTATIVO",
+      "ambito": "SOCIALE",
+      "testoCitato": {
+        "autore": "Italo Calvino",
+        "trattoDa": "Lezioni americane",
+        "anno": "1988",
+        "testo": "La leggerezza per me si associa con la precisione e la determinazione, non con la vaghezza e l'abbandono al caso."
+      },
+      "comprensione_analisi": [
+        "Sintetizza il contenuto del testo, mettendone in evidenza gli snodi argomentativi.",
+        "Evidenzia la tesi principale dell'autore.",
+        "Quale funzione hanno gli esempi riportati nel testo?",
+        "L'autore adopera un registro formale o informale? Motiva la tua risposta."
+      ],
+      "produzione": "Sviluppa le tue argomentazioni sul tema \"Leggerezza e profondità\" proposto dall'autore."
+    },
+    {
+      "tipologia": "B",
+      "proposta": "B3",
+      "titolo": "ANALISI E PRODUZIONE DI UN TESTO ARGOMENTATIVO",
+      "ambito": "STORICO-CULTURALE",
+      "testoCitato": {
+        "autore": "Amartya Sen",
+        "trattoDa": "L'idea di giustizia",
+        "anno": "2009",
+        "testo": "Lo sviluppo può essere visto come un processo di espansione delle libertà reali godute dagli esseri umani."
+      },
+      "comprensione_analisi": [
+        "Quali sono i punti chiave del ragionamento dell'autore?",
+        "Come si sviluppa l'argomentazione nel testo?"
+      ],
+      "produzione": "Rifletti sul tema \"Giustizia e sviluppo\" esprimendo il tuo punto di vista."
+    },
+    {
+      "tipologia": "C",
+      "proposta": "C1",
+      "titolo": "RIFLESSIONE CRITICA DI CARATTERE ESPOSITIVO-ARGOMENTATIVO SU TEMATICHE DI ATTUALITÀ",
+      "argomento": "Il valore del silenzio",
+      "citazione": "Il silenzio è un vero amico che non tradisce mai",
+      "autore_citazione": "Confucio",
+      "consegna": "Rifletti sul tema \"Il valore del silenzio\" partendo dalla citazione proposta. Puoi articolare il tuo elaborato in paragrafi opportunamente titolati."
+    },
+    {
+      "tipologia": "C",
+      "proposta": "C2",
+      "titolo": "RIFLESSIONE CRITICA DI CARATTERE ESPOSITIVO-ARGOMENTATIVO SU TEMATICHE DI ATTUALITÀ",
+      "argomento": "La gentilezza come virtù",
+      "citazione": "La gentilezza è una lingua che i sordi possono sentire e i ciechi possono vedere",
+      "autore_citazione": "Mark Twain",
+      "consegna": "A partire dalla citazione proposta, rifletti sul tema \"La gentilezza come virtù\" facendo riferimento alle tue esperienze e letture."
+    }
+  ],
+  "metadata": {
+    "numeroProgressivo": 173,
+    "dataGenerazione": "2025-12-06T17:54:00.476Z",
+    "versione": "2024.1",
+    "difficolta": "esperto",
+    "temi_principali": [
+      "Il valore della memoria",
+      "L'importanza del viaggio"
+    ]
+  }
+}

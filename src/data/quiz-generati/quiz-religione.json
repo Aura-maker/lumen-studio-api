@@ -1,0 +1,999 @@
+{
+  "materia": "religione",
+  "totale": 67,
+  "quiz": [
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Principi fondamentali: dignità, bene comune, solidarietà?",
+      "rispostaCorretta": "1891",
+      "opzioni": [
+        "1891",
+        "1881",
+        "1886",
+        "1889"
+      ],
+      "spiegazione": "omiche politiche. Nasce Rerum Novarum Leone XIII (1891) questione operaia rivoluzione industriale, risponde socialismo liberalismo. Principi fondament",
+      "livello": "base",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Principi fondamentali: dignità, bene comune, solidarietà?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "patria",
+        "morte"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Principi fondamentali: dignità, bene comune, solidarietà?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "morte",
+        "amore",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Principi fondamentali: dignità, bene comune, solidarietà?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "morte",
+        "patria"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Nasce Rerum nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "personaggio secondario",
+        "protagonista principale",
+        "narratore"
+      ],
+      "spiegazione": "sociali economiche politiche. Nasce Rerum Novarum Leone XIII (1891) questione operaia rivoluzione industriale, risponde socialismo",
+      "livello": "intermedio",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Novarum Leone nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "omiche politiche. Nasce Rerum Novarum Leone XIII (1891) questione operaia rivoluzione industriale, risponde socialismo liberalismo",
+      "livello": "intermedio",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Dottrina sociale Chiesa (DSC) corpus insegnamenti magistero cattolico questioni sociali economiche politiche.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Nasce Rerum Novarum Leone XIII (1891) questione operaia rivoluzione industriale, risponde socialismo liberalismo.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Encicliche sociali da Leone XIII a Francesco?",
+      "rispostaCorretta": "1891",
+      "opzioni": [
+        "1891",
+        "1881",
+        "1886",
+        "1889"
+      ],
+      "spiegazione": "Rerum Novarum (1891) Leone XIII: prima enciclica sociale, questione operaia, critica socialismo (proprietà colletti",
+      "livello": "base",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Encicliche sociali da Leone XIII a Francesco?",
+      "rispostaCorretta": "1931",
+      "opzioni": [
+        "1929",
+        "1926",
+        "1921",
+        "1931"
+      ],
+      "spiegazione": "tato interviene tutela deboli. Quadragesimo Anno (1931) Pio XI: 40 anni Rerum, Grande Depressione, critica capitalismo finanziario concentrazione ricc",
+      "livello": "base",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Encicliche sociali da Leone XIII a Francesco?",
+      "rispostaCorretta": "1961",
+      "opzioni": [
+        "1959",
+        "1956",
+        "1951",
+        "1961"
+      ],
+      "spiegazione": ", giustizia sociale distributiva. Mater Magistra (1961) Giovanni XXIII: socializzazione crescente interdipendenza, sviluppo agricoltura paesi arretrat",
+      "livello": "base",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Encicliche sociali da Leone XIII a Francesco?",
+      "rispostaCorretta": "1963",
+      "opzioni": [
+        "1961",
+        "1958",
+        "1963",
+        "1953"
+      ],
+      "spiegazione": "partecipazione lavoratori gestione. Pacem Terris (1963): pace fondata verità giustizia amore libertà e diritti umani universali (Dichiarazione ONU 194",
+      "livello": "base",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Encicliche sociali da Leone XIII a Francesco?",
+      "rispostaCorretta": "1948",
+      "opzioni": [
+        "1943",
+        "1946",
+        "1938",
+        "1948"
+      ],
+      "spiegazione": "rtà e diritti umani universali (Dichiarazione ONU 1948), disarmo nucleare, ONU strumento pace. Gaudium Spes (1965) Concilio Vaticano II: costituzione",
+      "livello": "base",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Encicliche sociali da Leone XIII a Francesco?",
+      "rispostaCorretta": "1965",
+      "opzioni": [
+        "1955",
+        "1960",
+        "1963",
+        "1965"
+      ],
+      "spiegazione": "sarmo nucleare, ONU strumento pace. Gaudium Spes (1965) Concilio Vaticano II: costituzione pastorale Chiesa mondo contemporaneo, dialogo cultura moder",
+      "livello": "base",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Encicliche sociali da Leone XIII a Francesco?",
+      "rispostaCorretta": "1967",
+      "opzioni": [
+        "1967",
+        "1957",
+        "1962",
+        "1965"
+      ],
+      "spiegazione": "ace sviluppo e segni tempi. Populorum Progressio (1967) Paolo VI: sviluppo integrale popoli non solo economico, nuovo nome pace sviluppo, commercio in",
+      "livello": "base",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Encicliche sociali da Leone XIII a Francesco?",
+      "rispostaCorretta": "1981",
+      "opzioni": [
+        "1979",
+        "1976",
+        "1971",
+        "1981"
+      ],
+      "spiegazione": "iluppo tutto uomo tutti uomini. Laborem Exercens (1981) Giovanni Paolo II: 90 anni Rerum, lavoro chiave questione sociale, dimensione oggettiva (produ",
+      "livello": "base",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Encicliche sociali da Leone XIII a Francesco?",
+      "rispostaCorretta": "1987",
+      "opzioni": [
+        "1985",
+        "1982",
+        "1977",
+        "1987"
+      ],
+      "spiegazione": "e disoccupazione piaga. Sollicitudo Rei Socialis (1987): 20 anni Populorum, sottosviluppo problema morale, strutture peccato (economiche politiche), o",
+      "livello": "base",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Encicliche sociali da Leone XIII a Francesco?",
+      "rispostaCorretta": "1991",
+      "opzioni": [
+        "1981",
+        "1991",
+        "1986",
+        "1989"
+      ],
+      "spiegazione": "solidarietà Nord-Sud Est-Ovest. Centesimus Annus (1991): 100 anni Rerum, crollo comunismo, economia mercato libera, ma regolata etica solidarietà e de",
+      "livello": "base",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Encicliche sociali da Leone XIII a Francesco?",
+      "rispostaCorretta": "100",
+      "opzioni": [
+        "98",
+        "95",
+        "90",
+        "100"
+      ],
+      "spiegazione": "ietà Nord-Sud Est-Ovest. Centesimus Annus (1991): 100 anni Rerum, crollo comunismo, economia mercato libera, ma regolata etica solidarietà e democrazi",
+      "livello": "base",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Encicliche sociali da Leone XIII a Francesco?",
+      "rispostaCorretta": "2009",
+      "opzioni": [
+        "2009",
+        "1999",
+        "2007",
+        "2004"
+      ],
+      "spiegazione": "e (aborto eutanasia), ecologia. Caritas Veritate (2009) Benedetto XVI: globalizzazione crisi finanziaria 2008, sviluppo umano integrale carità verità,",
+      "livello": "base",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Encicliche sociali da Leone XIII a Francesco?",
+      "rispostaCorretta": "2008",
+      "opzioni": [
+        "2008",
+        "1998",
+        "2003",
+        "2006"
+      ],
+      "spiegazione": "Benedetto XVI: globalizzazione crisi finanziaria 2008, sviluppo umano integrale carità verità, principio gratuità economia e autorità politica mondia",
+      "livello": "base",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Encicliche sociali da Leone XIII a Francesco?",
+      "rispostaCorretta": "2015",
+      "opzioni": [
+        "2013",
+        "2010",
+        "2005",
+        "2015"
+      ],
+      "spiegazione": "onomia e autorità politica mondiale. Laudato Si' (2015) Francesco include ecologia integrale, cura casa comune, crisi ambientale sociale connesse, par",
+      "livello": "base",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Encicliche sociali da Leone XIII a Francesco?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "amore",
+        "morte",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Encicliche sociali da Leone XIII a Francesco?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "morte",
+        "patria",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Encicliche sociali da Leone XIII a Francesco?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "amore",
+        "patria",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Rerum Novarum nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Rerum Novarum (1891) Leone XIII: prima enciclica sociale, questione operaia, critica socialismo (pro",
+      "livello": "intermedio",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Quadragesimo Anno nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "ato interviene tutela deboli. Quadragesimo Anno (1931) Pio XI: 40 anni Rerum, Grande Depressione, critica capitalismo finanziario",
+      "livello": "intermedio",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Inizio vita: aborto, fecondazione, ricerca embrionale?",
+      "rispostaCorretta": "194",
+      "opzioni": [
+        "194",
+        "192",
+        "184",
+        "189"
+      ],
+      "spiegazione": "tto vita fondamentale prioritario su altri. Legge 194 Italia (1978): aborto depenalizzato 90 giorni circostanze, Chiesa contraria difende vita sempre,",
+      "livello": "base",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Inizio vita: aborto, fecondazione, ricerca embrionale?",
+      "rispostaCorretta": "1978",
+      "opzioni": [
+        "1976",
+        "1973",
+        "1968",
+        "1978"
+      ],
+      "spiegazione": "damentale prioritario su altri. Legge 194 Italia (1978): aborto depenalizzato 90 giorni circostanze, Chiesa contraria difende vita sempre, sostegno do",
+      "livello": "base",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Inizio vita: aborto, fecondazione, ricerca embrionale?",
+      "rispostaCorretta": "2008",
+      "opzioni": [
+        "2006",
+        "2003",
+        "1998",
+        "2008"
+      ],
+      "spiegazione": "strumentalizza donna bambino. Dignitas Personae (2008): istruzioni bioetica, no clonazione ibridazione selezione sesso eugenetica e sì diagnosi prena",
+      "livello": "base",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Inizio vita: aborto, fecondazione, ricerca embrionale?",
+      "rispostaCorretta": "1968",
+      "opzioni": [
+        "1958",
+        "1966",
+        "1968",
+        "1963"
+      ],
+      "spiegazione": "unitivo procreativo atto sessuale (Humanae Vitae 1968 Paolo VI profetico AIDS divorzio)",
+      "livello": "base",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Inizio vita: aborto, fecondazione, ricerca embrionale?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "patria",
+        "morte",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Inizio vita: aborto, fecondazione, ricerca embrionale?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "morte",
+        "amore",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Inizio vita: aborto, fecondazione, ricerca embrionale?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "natura",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Centri Aiuto nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "ostegno donne difficoltà (CAV Centri Aiuto Vita) e prevenzione educazione. Procreazione assistita include tecniche aiuto concepime",
+      "livello": "intermedio",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Dignitas Personae nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "strumentalizza donna bambino. Dignitas Personae (2008): istruzioni bioetica, no clonazione ibridazione selezione sesso eugenetica",
+      "livello": "intermedio",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Bioetica disciplina è studia problemi morali vita salute progresso biomedico.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Fine vita: eutanasia, cure palliative, accanimento?",
+      "rispostaCorretta": "219",
+      "opzioni": [
+        "209",
+        "219",
+        "214",
+        "217"
+      ],
+      "spiegazione": "animento, no eutanasia, fiduciario decide e legge 219/2017 Italia. Stato vegetativo persistente include coscienza assente funzioni vitali, Terri Schia",
+      "livello": "base",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Fine vita: eutanasia, cure palliative, accanimento?",
+      "rispostaCorretta": "2017",
+      "opzioni": [
+        "2017",
+        "2007",
+        "2012",
+        "2015"
+      ],
+      "spiegazione": "ento, no eutanasia, fiduciario decide e legge 219/2017 Italia. Stato vegetativo persistente include coscienza assente funzioni vitali, Terri Schiavo U",
+      "livello": "base",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Fine vita: eutanasia, cure palliative, accanimento?",
+      "rispostaCorretta": "2005",
+      "opzioni": [
+        "2003",
+        "2000",
+        "1995",
+        "2005"
+      ],
+      "spiegazione": "nzioni vitali, Terri Schiavo USA caso emblematico 2005 sospensione nutrizione idratazione morte, Giovanni Paolo II (2004) nutrizione idratazione cura",
+      "livello": "base",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Fine vita: eutanasia, cure palliative, accanimento?",
+      "rispostaCorretta": "2004",
+      "opzioni": [
+        "2002",
+        "2004",
+        "1994",
+        "1999"
+      ],
+      "spiegazione": "nutrizione idratazione morte, Giovanni Paolo II (2004) nutrizione idratazione cura ordinaria dovuta sempre (non accanimento), dibattito aperto condiz",
+      "livello": "base",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Fine vita: eutanasia, cure palliative, accanimento?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "patria",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Fine vita: eutanasia, cure palliative, accanimento?",
+      "rispostaCorretta": "famiglia",
+      "opzioni": [
+        "famiglia",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del famiglia è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Englaro Welby nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "lazione se inefficaci) e caso Englaro Welby Italia dibattito. Principio doppio effetto include terapia dolore (morfina) lecita anc",
+      "livello": "intermedio",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Terri Schiavo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "protagonista principale",
+        "antagonista"
+      ],
+      "spiegazione": "enza assente funzioni vitali, Terri Schiavo USA caso emblematico 2005 sospensione nutrizione idratazione morte, Giovanni Paolo II",
+      "livello": "intermedio",
+      "argomento": "Bioetica, e questioni morali",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Concilio Vaticano II: Nostra Aetate, e dialogo?",
+      "rispostaCorretta": "1962",
+      "opzioni": [
+        "1957",
+        "1960",
+        "1952",
+        "1962"
+      ],
+      "spiegazione": "Concilio Vaticano II (1962-1965) Giovanni XXIII Paolo VI: aggiornamento (aggiornamento) Chiesa mondo moderno, apertura dia",
+      "livello": "base",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Concilio Vaticano II: Nostra Aetate, e dialogo?",
+      "rispostaCorretta": "1965",
+      "opzioni": [
+        "1963",
+        "1960",
+        "1955",
+        "1965"
+      ],
+      "spiegazione": "Concilio Vaticano II (1962-1965) Giovanni XXIII Paolo VI: aggiornamento (aggiornamento) Chiesa mondo moderno, apertura dialogo.",
+      "livello": "base",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Concilio Vaticano II: Nostra Aetate, e dialogo?",
+      "rispostaCorretta": "1986",
+      "opzioni": [
+        "1984",
+        "1976",
+        "1986",
+        "1981"
+      ],
+      "spiegazione": "dialogo fraterno, Giovanni Paolo II sinagoga Roma 1986 visita storica Muro Pianto Gerusalemme 2000 perdono Shoah. Islam comprende Abramo comune, un so",
+      "livello": "base",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Concilio Vaticano II: Nostra Aetate, e dialogo?",
+      "rispostaCorretta": "2000",
+      "opzioni": [
+        "2000",
+        "1998",
+        "1990",
+        "1995"
+      ],
+      "spiegazione": "Roma 1986 visita storica Muro Pianto Gerusalemme 2000 perdono Shoah. Islam comprende Abramo comune, un solo Dio, Gesù profeta non Figlio Dio, Maria v",
+      "livello": "base",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Concilio Vaticano II: Nostra Aetate, e dialogo?",
+      "rispostaCorretta": "2019",
+      "opzioni": [
+        "2017",
+        "2014",
+        "2009",
+        "2019"
+      ],
+      "spiegazione": "schea Roma, documento fratellanza umana Abu Dhabi 2019 Francesco Tayyeb. Induismo Buddismo include ricerca Assoluto ascesi meditazione compassione, el",
+      "livello": "base",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Concilio Vaticano II: Nostra Aetate, e dialogo?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "morte",
+        "amore",
+        "patria",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Concilio Vaticano II: Nostra Aetate, e dialogo?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "patria",
+        "morte",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Concilio Vaticano II: Nostra Aetate, e dialogo?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "libertà",
+        "natura",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Concilio Vaticano nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "personaggio secondario",
+        "protagonista principale",
+        "narratore"
+      ],
+      "spiegazione": "Concilio Vaticano II (1962-1965) Giovanni XXIII Paolo VI: aggiornamento (aggiornamento) Chiesa mondo",
+      "livello": "intermedio",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Spirito Santo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "ico salvatore ma vie diverse, Spirito Santo è L'opera ovunque. Nostra Aetate (1965): dichiarazione relazioni Chiesa religioni non",
+      "livello": "intermedio",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Concilio Vaticano II (1962-1965) Giovanni XXIII Paolo VI: aggiornamento (aggiornamento) Chiesa mondo moderno, apertura dialogo.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Prima include extra Ecclesiam nulla salus (fuori Chiesa nessuna salvezza) esclusivismo e altre religioni errore.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ecumenismo: unità cristiani, e confessioni?",
+      "rispostaCorretta": "1054",
+      "opzioni": [
+        "1052",
+        "1054",
+        "1044",
+        "1049"
+      ],
+      "spiegazione": "nità cristiani divisi, superare scismi divisioni (1054 Oriente-Occidente, 1517 Riforma protestante). Unitatis Redintegratio (1964) Concilio include de",
+      "livello": "base",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ecumenismo: unità cristiani, e confessioni?",
+      "rispostaCorretta": "1517",
+      "opzioni": [
+        "1507",
+        "1515",
+        "1512",
+        "1517"
+      ],
+      "spiegazione": "uperare scismi divisioni (1054 Oriente-Occidente, 1517 Riforma protestante). Unitatis Redintegratio (1964) Concilio include decreto ecumenismo, divisi",
+      "livello": "base",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ecumenismo: unità cristiani, e confessioni?",
+      "rispostaCorretta": "1964",
+      "opzioni": [
+        "1964",
+        "1954",
+        "1959",
+        "1962"
+      ],
+      "spiegazione": "517 Riforma protestante). Unitatis Redintegratio (1964) Concilio include decreto ecumenismo, divisione scandalo contraddice volontà Cristo (Giovanni 1",
+      "livello": "base",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ecumenismo: unità cristiani, e confessioni?",
+      "rispostaCorretta": "1999",
+      "opzioni": [
+        "1989",
+        "1997",
+        "1999",
+        "1994"
+      ],
+      "spiegazione": "li), Dichiarazione congiunta giustificazione fede 1999 luterani-cattolici accordo, ostacoli restano (transustanziazione successione apostolica papa Ma",
+      "livello": "base",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ecumenismo: unità cristiani, e confessioni?",
+      "rispostaCorretta": "2016",
+      "opzioni": [
+        "2014",
+        "2011",
+        "2006",
+        "2016"
+      ],
+      "spiegazione": "ostolica papa Maria santi), Francesco Lund Svezia 2016 commemorazione Riforma, settimana preghiera unità cristiani gennaio.. Anglicani: via media catt",
+      "livello": "base",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ecumenismo: unità cristiani, e confessioni?",
+      "rispostaCorretta": "1948",
+      "opzioni": [
+        "1948",
+        "1946",
+        "1938",
+        "1943"
+      ],
+      "spiegazione": "vimenti ecumenici: Consiglio Mondiale Chiese (WCC 1948 Ginevra ortodossi protestanti no cattolici osservatori), Comunità Taizé monaci ecumenici preghi",
+      "livello": "base",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Ecumenismo: unità cristiani, e confessioni?",
+      "rispostaCorretta": "patria",
+      "opzioni": [
+        "morte",
+        "amore",
+        "patria",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del patria è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Unitatis Redintegratio nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "protagonista principale",
+        "antagonista"
+      ],
+      "spiegazione": "e, 1517 Riforma protestante). Unitatis Redintegratio (1964) Concilio include decreto ecumenismo, divisione scandalo contraddice vo",
+      "livello": "intermedio",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Chiese Ortodosse nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "narratore",
+        "personaggio secondario"
+      ],
+      "spiegazione": "o teologico, collaborazione.. Chiese Ortodosse: scisma 1054 filioque primato papa, patriarcati (Costantinopoli Mosca Gerusalemme),",
+      "livello": "intermedio",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Ecumenismo: movimento unità cristiani divisi, superare scismi divisioni (1054 Oriente-Occidente, 1517 Riforma protestante).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "materia": "religione"
+    }
+  ]
+}

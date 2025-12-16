@@ -1,0 +1,149 @@
+{
+  "id": "MAT_SIM_021",
+  "materia": "MATEMATICA",
+  "tipo": "ESAME DI STATO - LICEO SCIENTIFICO",
+  "numero": 21,
+  "data": "2025-12-06",
+  "durata": "6 ore",
+  "intestazione": "Ministero dell'Istruzione e del Merito\nESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE\nIndirizzo: LICEO SCIENTIFICO\nTema di: MATEMATICA",
+  "istruzioni": "Il candidato risolva uno dei due problemi e risponda a 4 quesiti.",
+  "strumenti_ammessi": "È consentito l'uso della calcolatrice non programmabile.",
+  "problemi": [
+    {
+      "numero": "PROBLEMA 1",
+      "titolo": "Successioni e serie",
+      "introduzione": "Si consideri la successione definita per ricorrenza:",
+      "contesto": null,
+      "funzioni": null,
+      "dati": {
+        "a₁": "1",
+        "aₙ₊₁": "(aₙ + 2)/(aₙ + 1)"
+      },
+      "punti": [
+        {
+          "lettera": "a",
+          "testo": "Dimostrare che la successione è limitata."
+        },
+        {
+          "lettera": "b",
+          "testo": "Studiare la monotonia della successione."
+        },
+        {
+          "lettera": "c",
+          "testo": "Calcolare il limite della successione."
+        },
+        {
+          "lettera": "d",
+          "testo": "Determinare la velocità di convergenza."
+        },
+        {
+          "lettera": "e",
+          "testo": "Studiare la serie Σ(aₙ - L) dove L è il limite trovato."
+        }
+      ]
+    },
+    {
+      "numero": "PROBLEMA 2",
+      "titolo": "Equazioni differenziali e modelli",
+      "introduzione": null,
+      "contesto": "La temperatura T di un corpo segue la legge di Newton del raffreddamento: dT/dt = -k(T - Tₐ) dove Tₐ = 20°C è la temperatura ambiente.",
+      "funzioni": null,
+      "dati": {
+        "T(0)": "100°C",
+        "T(10)": "60°C"
+      },
+      "punti": [
+        {
+          "lettera": "a",
+          "testo": "Risolvere l'equazione differenziale e determinare T(t)."
+        },
+        {
+          "lettera": "b",
+          "testo": "Calcolare il valore della costante k."
+        },
+        {
+          "lettera": "c",
+          "testo": "Dopo quanto tempo la temperatura sarà 30°C?"
+        },
+        {
+          "lettera": "d",
+          "testo": "Calcolare la velocità di raffreddamento quando T = 50°C."
+        },
+        {
+          "lettera": "e",
+          "testo": "Determinare il tempo necessario affinché la temperatura scenda del 90% rispetto a (T₀ - Tₐ)."
+        }
+      ]
+    }
+  ],
+  "quesiti": [
+    {
+      "numero": 1,
+      "argomento": "probabilita",
+      "testo": "In un gioco si lanciano 3 dadi. Calcolare P(somma = 10).",
+      "suggerimento": null
+    },
+    {
+      "numero": 2,
+      "argomento": "equazioni_diff",
+      "testo": "Risolvere: x²y'' - 2xy' + 2y = 0 (equazione di Eulero).",
+      "suggerimento": null
+    },
+    {
+      "numero": 3,
+      "argomento": "trigonometria",
+      "testo": "Risolvere: sin(x) + sin(2x) + sin(3x) = 0 per x ∈ [0, 2π].",
+      "suggerimento": null
+    },
+    {
+      "numero": 4,
+      "argomento": "numeri_complessi",
+      "testo": "Risolvere: |z|² + z + z̄ = 0.",
+      "suggerimento": null
+    },
+    {
+      "numero": 5,
+      "argomento": "limiti",
+      "testo": "Determinare a,b ∈ ℝ tali che lim(x→0) [e^(ax)-bcos(x)-1]/x² = 2",
+      "suggerimento": null
+    },
+    {
+      "numero": 6,
+      "argomento": "derivate",
+      "testo": "Data f(x) = |x|·sin(1/x) per x≠0, f(0)=0, studiare derivabilità in x=0.",
+      "suggerimento": null
+    },
+    {
+      "numero": 7,
+      "argomento": "integrali",
+      "testo": "Calcolare: ∫ x·e^x·sin(x) dx",
+      "suggerimento": "Per parti ripetute"
+    },
+    {
+      "numero": 8,
+      "argomento": "geometria",
+      "testo": "Data l'iperbole xy = 4, trovare le tangenti parallele alla retta x + y = 0.",
+      "suggerimento": null
+    }
+  ],
+  "metadata": {
+    "numeroProgressivo": 21,
+    "dataGenerazione": "2025-12-06T17:54:00.494Z",
+    "versione": "2024.1",
+    "difficolta": "base",
+    "argomenti_coperti": [
+      "Studio di funzione parametrica",
+      "Ottimizzazione geometrica",
+      "limiti",
+      "derivate",
+      "integrali",
+      "geometria",
+      "probabilita",
+      "equazioni_diff",
+      "trigonometria",
+      "numeri_complessi"
+    ],
+    "formule_utilizzate": 8
+  },
+  "note_particolari": "Simulazione con focus su analisi avanzata"
+}

@@ -1,0 +1,309 @@
+{
+  "materia": "matematica",
+  "totale": 23,
+  "quiz": [
+    {
+      "tipo": "vero_falso",
+      "domanda": "Una funzione reale di variabile reale è una legge f: A→B che associa a ogni x∈A (dominio) un unico y∈B (codominio).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Funzioni reali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La notazione f(x) indica il valore della funzione in x.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Funzioni reali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Nelle composizioni di trasformazioni l'ordine è importante e si applicano prima le parentesi più interne.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Funzioni reali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Nelle composizioni di trasformazioni l'ordine è importante e si applicano ultima le parentesi più interne.",
+      "rispostaCorretta": "Falso",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione non corretta.",
+      "livello": "base",
+      "argomento": "Funzioni reali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il limite descrive il comportamento di una funzione vicino a un punto o all'infinito.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Limiti, e continuità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il limite lim(x→x₀) f(x) = L significa che f(x) si avvicina arbitrariamente a L quando x si avvicina sufficientemente a x₀ escludendo x₀.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Limiti, e continuità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Continuità, e teoremi fondamentali?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "natura"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Limiti, e continuità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Una funzione è continua in x₀ se sono verificate tre condizioni: 1) f(x₀) è definita, 2) lim(x→x₀) f(x) esiste, 3) lim(x→x₀) f(x) = f(x₀).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Limiti, e continuità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Equivalentemente, la continuità richiede che lim(x→x₀⁺) f(x) = lim(x→x₀⁻) f(x) = f(x₀).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Limiti, e continuità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La derivata f'(x₀) misura la velocità di variazione istantanea della funzione f nel punto x₀.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Derivate, e applicazioni",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il rapporto incrementale Δf/Δx = [f(x₀+h)-f(x₀)]/h rappresenta la variazione media nell'intervallo [x₀, x₀+h].",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Derivate, e applicazioni",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il viceversa è falso: f'(x₀)=0 non implica necessariamente un estremo, come mostra l'esempio di x³ nell'origine che è un flesso.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Derivate, e applicazioni",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Lo studio completo di una funzione è una procedura sistematica per tracciare il grafico qualitativo attraverso dieci passi fondamentali.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Derivate, e applicazioni",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "1) Dominio: determinare l'insieme di definizione escludendo i punti problematici come zeri del denominatore o argomenti negativi di radici pari.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Derivate, e applicazioni",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Integrale indefinito, e primitive?",
+      "rispostaCorretta": "famiglia",
+      "opzioni": [
+        "famiglia",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del famiglia è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Una primitiva o antiderivata F di una funzione f su un intervallo I è una funzione tale che F'(x)=f(x) per ogni x∈I.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Se F è una primitiva di f, allora anche F+c è una primitiva, dove c è una costante arbitraria, poiché la derivata di una costante è zero.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Una funzione è integrabile secondo Riemann se questo limite esiste ed è unico.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Le funzioni continue sono sempre integrabili.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il calcolo combinatorio si occupa di contare le configurazioni possibili.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Probabilità, e statistica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il principio di moltiplicazione stabilisce che per k scelte successive con n₁, n₂, .",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Probabilità, e statistica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Una variabile aleatoria X è una funzione dallo spazio campionario Ω ai numeri reali che associa un valore numerico a ogni esito.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Probabilità, e statistica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Le variabili discrete assumono valori finiti o numerabili come nei lanci di dadi, monete o conteggi di difetti.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Probabilità, e statistica",
+      "materia": "matematica"
+    }
+  ]
+}

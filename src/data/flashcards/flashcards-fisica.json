@@ -1,0 +1,198 @@
+{
+  "materia": "fisica",
+  "totale": 24,
+  "flashcards": [
+    {
+      "fronte": "Come si manifesta il tema del tempo in Corrente elettrica, e resistenza?",
+      "retro": "La corrente elettrica I rappresenta il flusso di cariche attraverso un conduttore ed è definita come l'intensità di carica che transita per unità di tempo: I=Q/t, con unità di misura l'Ampere (A=C/s).",
+      "categoria": "temi",
+      "materia": "fisica",
+      "argomento": "Corrente elettrica, e circuiti",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1745?",
+      "retro": "Gli esperimenti storici comprendono la bottiglia di Leyda (primo condensatore del 1745) e gli esperimenti di Franklin sull'elettricità atmosferica",
+      "categoria": "date",
+      "materia": "fisica",
+      "argomento": "Corrente elettrica, e circuiti",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Condensatori, e circuiti RC?",
+      "retro": "Il circuito RC (resistore-condensatore) presenta fenomeni transitori: durante la carica del condensatore attraverso un resistore, corrente e tensione variano esponenzialmente nel tempo secondo Q(t)=Q_max(1-e^(-t/τ)), dove τ=RC è la costante di tempo caratteristica che indica il tempo per raggiungere il 63% della carica.",
+      "categoria": "temi",
+      "materia": "fisica",
+      "argomento": "Corrente elettrica, e circuiti",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1820?",
+      "retro": "Esperimento Oersted (1820): corrente filo devia ago magnetico, scopre legame elettricità magnetismo",
+      "categoria": "date",
+      "materia": "fisica",
+      "argomento": "Magnetismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Campo magnetico, e forza di Lorentz?",
+      "retro": "Magnetismo fenomeno forze attrattive repulsive magneti (magnetite naturale, calamite artificiali).",
+      "categoria": "temi",
+      "materia": "fisica",
+      "argomento": "Magnetismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1831?",
+      "retro": "La scoperta di Faraday (1831) dimostrò che un magnete mosso vicino a una spira genera corrente, ma solo durante la variazion",
+      "categoria": "date",
+      "materia": "fisica",
+      "argomento": "Induzione elettromagnetica",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1865?",
+      "retro": "La corrente di spostamento introdotta da Maxwell nel 1865 è il termine ε₀ dΦ_E/dt aggiunto alla legge di Ampère: un campo elettrico variabile genera un c",
+      "categoria": "date",
+      "materia": "fisica",
+      "argomento": "Induzione elettromagnetica",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Le applicazioni spaziano dalle comunicazioni all'imaging medico, dall'astronomia multibanda alle tecnologie moderne..",
+      "categoria": "definizioni",
+      "materia": "fisica",
+      "argomento": "Induzione elettromagnetica",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 800?",
+      "retro": "La fisica classica fine '800: velocità luce costante esperimento Michelson-Morley (1887) contraddice trasformazioni Galileo,",
+      "categoria": "date",
+      "materia": "fisica",
+      "argomento": "Relatività ristretta",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1887?",
+      "retro": "La fisica classica fine '800: velocità luce costante esperimento Michelson-Morley (1887) contraddice trasformazioni Galileo, non rileva etere (mezzo propagazione luce ipotizzato)",
+      "categoria": "date",
+      "materia": "fisica",
+      "argomento": "Relatività ristretta",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1905?",
+      "retro": "Einstein (1905) teoria relatività ristretta rivoluziona concetti spazio tempo",
+      "categoria": "date",
+      "materia": "fisica",
+      "argomento": "Relatività ristretta",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Postulati relatività, e dilatazione tempo?",
+      "retro": "Einstein (1905) teoria relatività ristretta rivoluziona concetti spazio tempo.",
+      "categoria": "temi",
+      "materia": "fisica",
+      "argomento": "Relatività ristretta",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1915?",
+      "retro": "Relatività generale (1915): estensione gravità curvatura spaziotempo, conferme perielo Mercurio lenti gravitazionali onde",
+      "categoria": "date",
+      "materia": "fisica",
+      "argomento": "Relatività ristretta",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Equivalenza massa-energia E=mc²?",
+      "retro": "Relatività generale (1915): estensione gravità curvatura spaziotempo, conferme perielo Mercurio lenti gravitazionali onde gravitazionali.",
+      "categoria": "temi",
+      "materia": "fisica",
+      "argomento": "Relatività ristretta",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1900?",
+      "retro": "emerge da tre fenomeni fondamentali: il corpo nero con la quantizzazione dell'energia di Planck nel 1900 (E = nhf), l'effetto fotoelettrico spiegato da Einstein nel 1905 con i fotoni come luce quantiz",
+      "categoria": "date",
+      "materia": "fisica",
+      "argomento": "Fisica quantistica, e nucleare",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1905?",
+      "retro": "zazione dell'energia di Planck nel 1900 (E = nhf), l'effetto fotoelettrico spiegato da Einstein nel 1905 con i fotoni come luce quantizzata, e gli spettri atomici interpretati da Bohr nel 1913 con liv",
+      "categoria": "date",
+      "materia": "fisica",
+      "argomento": "Fisica quantistica, e nucleare",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1913?",
+      "retro": "instein nel 1905 con i fotoni come luce quantizzata, e gli spettri atomici interpretati da Bohr nel 1913 con livelli energetici quantizzati",
+      "categoria": "date",
+      "materia": "fisica",
+      "argomento": "Fisica quantistica, e nucleare",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1924?",
+      "retro": "i elettroni e la materia mostrano proprietà sia particellari sia ondulatorie secondo De Broglie nel 1924 (λ = h/p)",
+      "categoria": "date",
+      "materia": "fisica",
+      "argomento": "Fisica quantistica, e nucleare",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1927?",
+      "retro": "v), confermata dalla diffrazione di elettroni nei cristalli nell'esperimento di Davisson-Germer del 1927 e utilizzata nel microscopio elettronico per ottenere risoluzione maggiore di quello ottico",
+      "categoria": "date",
+      "materia": "fisica",
+      "argomento": "Fisica quantistica, e nucleare",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Dualità onda-particella, e principio indeterminazione?",
+      "retro": "L'esperimento della doppia fenditura dimostra che elettroni singoli creano frange di interferenza passando attraverso entrambe le fenditure contemporaneamente, ma questo comportamento collassa quando vengono osservati.",
+      "categoria": "temi",
+      "materia": "fisica",
+      "argomento": "Fisica quantistica, e nucleare",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 235?",
+      "retro": "Fissione nucleare nucleo pesante (uranio-235 plutonio-239) assorbe neutrone si spezza due frammenti più neutroni liberando energia (~200 MeV)",
+      "categoria": "date",
+      "materia": "fisica",
+      "argomento": "Fisica quantistica, e nucleare",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 239?",
+      "retro": "Fissione nucleare nucleo pesante (uranio-235 plutonio-239) assorbe neutrone si spezza due frammenti più neutroni liberando energia (~200 MeV)",
+      "categoria": "date",
+      "materia": "fisica",
+      "argomento": "Fisica quantistica, e nucleare",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 200?",
+      "retro": "(uranio-235 plutonio-239) assorbe neutrone si spezza due frammenti più neutroni liberando energia (~200 MeV)",
+      "categoria": "date",
+      "materia": "fisica",
+      "argomento": "Fisica quantistica, e nucleare",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Fisica nucleare: fissione, fusione, radioattività?",
+      "retro": "La legge decadimento N(t)=N₀e^(-λt) esponenziale e tempo dimezzamento t_(1/2)=ln(2)/λ tempo dimezzare nuclei.",
+      "categoria": "temi",
+      "materia": "fisica",
+      "argomento": "Fisica quantistica, e nucleare",
+      "difficolta": "avanzato"
+    }
+  ]
+}

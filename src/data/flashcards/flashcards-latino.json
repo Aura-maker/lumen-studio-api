@@ -1,0 +1,662 @@
+{
+  "materia": "latino",
+  "totale": 82,
+  "flashcards": [
+    {
+      "fronte": "Come si manifesta il tema del morte in Vita e contesto storico?",
+      "retro": "Seneca tentò di ritirarsi a vita privata, ma nel 65 d.C., sospettato di coinvolgimento nella congiura di Pisone, fu costretto al suicidio per taglio delle vene, una morte stoica narrata da Tacito negli Annales.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del politica in Vita e contesto storico?",
+      "retro": "La sua carriera politica iniziò sotto Caligola e proseguì con Claudio, raggiungendo la questura e la pretura.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del famiglia in Vita e contesto storico?",
+      "retro": "Lucio Anneo Seneca nacque a Cordova, in Spagna, intorno al 4 a.C., da una famiglia equestre colta.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "La sua influenza fu enorme sul cristianesimo (esiste una corrispondenza apocrifa con san Paolo), sul Medioevo, sull'umanesimo e sull'età moderna, in particolare su Montaigne e i moralisti francesi..",
+      "categoria": "definizioni",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Stoicismo romano, e pensiero filosofico?",
+      "retro": "L'etica costituisce il centro della filosofia senecana: vivere secondo natura e ragione significa praticare la virtù, unico vero bene, mentre i vizi sono gli unici veri mali; tutto il resto (ricchezza, salute, morte) è indifferente.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del libertà in Stoicismo romano, e pensiero filosofico?",
+      "retro": "Sul piano fisico, lo stoicismo concepisce un mondo governato dal logos, principio razionale e provvidenziale; tutto è materia, compresa l'anima e il divino; il destino è necessario e determinato, ma l'uomo conserva la libertà interiore attraverso l'accettazione.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Stoicismo romano, e pensiero filosofico?",
+      "retro": "Il tempo è prezioso: nel De brevitate vitae Seneca critica lo spreco del tempo nelle futilità, proponendo un carpe diem filosofico.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del destino in Stoicismo romano, e pensiero filosofico?",
+      "retro": "Sul piano fisico, lo stoicismo concepisce un mondo governato dal logos, principio razionale e provvidenziale; tutto è materia, compresa l'anima e il divino; il destino è necessario e determinato, ma l'uomo conserva la libertà interiore attraverso l'accettazione.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Stoicismo romano, e pensiero filosofico?",
+      "retro": "L'etica costituisce il centro della filosofia senecana: vivere secondo natura e ragione significa praticare la virtù, unico vero bene, mentre i vizi sono gli unici veri mali; tutto il resto (ricchezza, salute, morte) è indifferente.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 124?",
+      "retro": "Si tratta di 124 lettere raccolte in 20 libri, formalmente indirizzate all'amico Lucilio, procuratore della Sicil",
+      "categoria": "date",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Epistole morali a Lucilio?",
+      "retro": "Gli argomenti trattati sono vari e comprendono l'uso del tempo, la lettura, l'amicizia, la ricchezza, la morte, la schiavitù, l'esilio, la provvidenza, il suicidio, le virtù, i vizi e le passioni.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del libertà in Epistole morali a Lucilio?",
+      "retro": "Tra le lettere più celebri: la 47 sugli schiavi, dove Seneca afferma che sono uomini e servi della fortuna, non della natura, e devono essere trattati umanamente; la 70 sul suicidio, con Catone come exemplum virtutis e simbolo di libertà; la 77 sulla morte di Marcellino, dove il suicidio viene approvato in caso di malattia; la 90 sul progresso tecnico che non coincide con quello morale; la 12 sulla vecchiaia come preparazione alla morte.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Epistole morali a Lucilio?",
+      "retro": "Gli argomenti trattati sono vari e comprendono l'uso del tempo, la lettura, l'amicizia, la ricchezza, la morte, la schiavitù, l'esilio, la provvidenza, il suicidio, le virtù, i vizi e le passioni.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Epistole morali a Lucilio?",
+      "retro": "Tra le lettere più celebri: la 47 sugli schiavi, dove Seneca afferma che sono uomini e servi della fortuna, non della natura, e devono essere trattati umanamente; la 70 sul suicidio, con Catone come exemplum virtutis e simbolo di libertà; la 77 sulla morte di Marcellino, dove il suicidio viene approvato in caso di malattia; la 90 sul progresso tecnico che non coincide con quello morale; la 12 sulla vecchiaia come preparazione alla morte.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del amore in Tragedie: temi, e struttura?",
+      "retro": "Nove tragedie cothurnatae soggetto mitologico greco trasmesse: Hercules furens (follia Ercole uccide famiglia), Troades (Troiane prigioniere), Phoenissae (Edipo Tebe), Medea (vendetta Medea), Phaedra (amore incestuoso Fedra figliastro Ippolito), Oedipus (Edipo scoperta orribile), Agamemnon (Clitemnestra uccide Agamennone), Thyestes (Atreo vendetta fratello Tieste imbandisce figli), Hercules Oetaeus (morte Ercole).",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Tragedie: temi, e struttura?",
+      "retro": "Nove tragedie cothurnatae soggetto mitologico greco trasmesse: Hercules furens (follia Ercole uccide famiglia), Troades (Troiane prigioniere), Phoenissae (Edipo Tebe), Medea (vendetta Medea), Phaedra (amore incestuoso Fedra figliastro Ippolito), Oedipus (Edipo scoperta orribile), Agamemnon (Clitemnestra uccide Agamennone), Thyestes (Atreo vendetta fratello Tieste imbandisce figli), Hercules Oetaeus (morte Ercole).",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del famiglia in Tragedie: temi, e struttura?",
+      "retro": "Nove tragedie cothurnatae soggetto mitologico greco trasmesse: Hercules furens (follia Ercole uccide famiglia), Troades (Troiane prigioniere), Phoenissae (Edipo Tebe), Medea (vendetta Medea), Phaedra (amore incestuoso Fedra figliastro Ippolito), Oedipus (Edipo scoperta orribile), Agamemnon (Clitemnestra uccide Agamennone), Thyestes (Atreo vendetta fratello Tieste imbandisce figli), Hercules Oetaeus (morte Ercole).",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Modelli include Euripide Sofocle, ma rielaborazione originale amplificazione patetica orrori.",
+      "categoria": "definizioni",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Definisci: tragedia",
+      "retro": "L'influenza enorme teatro rinascimentale europeo include Shakespeare (Tito Andronico), tragedia francese Seicento (Corneille Racine) e melodramma barocco.",
+      "categoria": "definizioni",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Di cosa tratta \"non vitae sed scholae discimus\"?",
+      "retro": "mi memorabili chiudono sequenze pensiero include \"non vitae sed scholae discimus\", \"errare humanum est perseverare diabolicum\", massime filosofiche dense..",
+      "categoria": "opere",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"non vitae sed scholae discimus\"?",
+      "retro": "Catone Socrate",
+      "categoria": "autori",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Di cosa tratta \"errare humanum est perseverare diabolicum\"?",
+      "retro": "nsiero include \"non vitae sed scholae discimus\", \"errare humanum est perseverare diabolicum\", massime filosofiche dense..",
+      "categoria": "opere",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"errare humanum est perseverare diabolicum\"?",
+      "retro": "Catone Socrate",
+      "categoria": "autori",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Stile, e peculiarità linguistiche?",
+      "retro": "Antitesi paradossi: contrasti concettuali evidenziano contradictio (vita-morte, ricchezza-povertà, libertà-schiavitù), paradossi stoici (solo sapiente ricco libero felice anche povero schiavo)..",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del libertà in Stile, e peculiarità linguistiche?",
+      "retro": "Antitesi paradossi: contrasti concettuali evidenziano contradictio (vita-morte, ricchezza-povertà, libertà-schiavitù), paradossi stoici (solo sapiente ricco libero felice anche povero schiavo)..",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Exempla storici mitologici: Catone Socrate modelli virtù, personaggi negativi Caligola Nerone tiranni..",
+      "categoria": "definizioni",
+      "materia": "latino",
+      "argomento": "Lucio Anneo Seneca",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 112?",
+      "retro": "sotto Nerva, proconsole d'Asia nel 112-113 d.C",
+      "categoria": "date",
+      "materia": "latino",
+      "argomento": "Publio Cornelio Tacito",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 113?",
+      "retro": "sotto Nerva, proconsole d'Asia nel 112-113 d.C",
+      "categoria": "date",
+      "materia": "latino",
+      "argomento": "Publio Cornelio Tacito",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 117?",
+      "retro": "Sotto Nerva (96-98 d.C.) e Traiano (98-117 d.C.), principi illuminati, Tacito rimase comunque disincantato: la libertà era perduta irrevers",
+      "categoria": "date",
+      "materia": "latino",
+      "argomento": "Publio Cornelio Tacito",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 120?",
+      "retro": "Morì intorno al 120 d.C",
+      "categoria": "date",
+      "materia": "latino",
+      "argomento": "Publio Cornelio Tacito",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 102?",
+      "retro": "in età matura, comprendono: l'Agricola (98 d.C.), la Germania (98 d.C.), il Dialogus de oratoribus (102 d.C.?), le Historiae (100-110 d.C., lacunose) e gli Annales (110-120 d.C., lacunosi)",
+      "categoria": "date",
+      "materia": "latino",
+      "argomento": "Publio Cornelio Tacito",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 100?",
+      "retro": ": l'Agricola (98 d.C.), la Germania (98 d.C.), il Dialogus de oratoribus (102 d.C.?), le Historiae (100-110 d.C., lacunose) e gli Annales (110-120 d.C., lacunosi)",
+      "categoria": "date",
+      "materia": "latino",
+      "argomento": "Publio Cornelio Tacito",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 110?",
+      "retro": "Agricola (98 d.C.), la Germania (98 d.C.), il Dialogus de oratoribus (102 d.C.?), le Historiae (100-110 d.C., lacunose) e gli Annales (110-120 d.C., lacunosi)",
+      "categoria": "date",
+      "materia": "latino",
+      "argomento": "Publio Cornelio Tacito",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del libertà in Vita e carriera?",
+      "retro": "Sotto Nerva (96-98 d.C.) e Traiano (98-117 d.C.), principi illuminati, Tacito rimase comunque disincantato: la libertà era perduta irreversibilmente e il principato era intrinsecamente tirannico.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Publio Cornelio Tacito",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del famiglia in Vita e carriera?",
+      "retro": "Publio (o Gaio) Cornelio Tacito nacque tra il 55 e il 58 d.C., probabilmente nella Gallia Narbonense o nell'Italia settentrionale, da una famiglia di rango equestre.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Publio Cornelio Tacito",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: poema",
+      "retro": "Alcune opere sono perdute, tra cui una biografia del padre e un poema.",
+      "categoria": "definizioni",
+      "materia": "latino",
+      "argomento": "Publio Cornelio Tacito",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Di cosa tratta \"Annali dalla morte del divo Augusto\"?",
+      "retro": "Annales ab excessu divi Augusti (\"Annali dalla morte del divo Augusto\") ultima opera Tacito, 16 o 18 libri narrano dinastia giulio-claudia da morte Augusto 14 d.",
+      "categoria": "opere",
+      "materia": "latino",
+      "argomento": "Publio Cornelio Tacito",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"Annali dalla morte del divo Augusto\"?",
+      "retro": "Aufidio Basso",
+      "categoria": "autori",
+      "materia": "latino",
+      "argomento": "Publio Cornelio Tacito",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Annales: struttura, e contenuti?",
+      "retro": "Annales ab excessu divi Augusti (\"Annali dalla morte del divo Augusto\") ultima opera Tacito, 16 o 18 libri narrano dinastia giulio-claudia da morte Augusto 14 d.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Publio Cornelio Tacito",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del memoria in Annales: struttura, e contenuti?",
+      "retro": "Fonti: acta senatus, acta diurna, storici precedenti (Aufidio Basso Plinio Vecchio), memoria personale indiretta..",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Publio Cornelio Tacito",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Historiae: guerre civili, e dinastia flavia?",
+      "retro": "A morte Domiziano 96.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Publio Cornelio Tacito",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Historiae: guerre civili, e dinastia flavia?",
+      "retro": "Tacito testimone oculare eventi include visse tirannide Domiziano, presente quando scrive e ma distacco temporale permette di giudizio.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Publio Cornelio Tacito",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in Historiae: guerre civili, e dinastia flavia?",
+      "retro": "Trasmissione include conservati libri I-IV (eventi 69 integri), inizio V (guerra giudaica 70) e resto perduto (Flavi 70-96).",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Publio Cornelio Tacito",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Di cosa tratta \"ubi solitudinem faciunt pacem appellant\"?",
+      "retro": "e chiudono sequenze giudizi taglienti memorabili \"ubi solitudinem faciunt pacem appellant\" (dove fanno deserto lo chiamano pace), \"omne ignotum pro magnifico\" (tutto ignoto appare magnifico)..",
+      "categoria": "opere",
+      "materia": "latino",
+      "argomento": "Tacito: stile, e visione politica",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"ubi solitudinem faciunt pacem appellant\"?",
+      "retro": "Seneca Petronio",
+      "categoria": "autori",
+      "materia": "latino",
+      "argomento": "Tacito: stile, e visione politica",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Di cosa tratta \"omne ignotum pro magnifico\"?",
+      "retro": "ppellant\" (dove fanno deserto lo chiamano pace), \"omne ignotum pro magnifico\" (tutto ignoto appare magnifico)..",
+      "categoria": "opere",
+      "materia": "latino",
+      "argomento": "Tacito: stile, e visione politica",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"omne ignotum pro magnifico\"?",
+      "retro": "Seneca Petronio",
+      "categoria": "autori",
+      "materia": "latino",
+      "argomento": "Tacito: stile, e visione politica",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Caratteristiche stilistiche, e lingua?",
+      "retro": "Drammatizzazione: storia come tragedia, discorsi diretti indiretti personaggi rivelano carattere, scene madri descritte vivide (morte Agrippina, incendio Roma, suicidio Seneca Petronio)..",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Tacito: stile, e visione politica",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del pace in Caratteristiche stilistiche, e lingua?",
+      "retro": "Sententiae aforismi lapidari include chiudono sequenze giudizi taglienti memorabili \"ubi solitudinem faciunt pacem appellant\" (dove fanno deserto lo chiamano pace), \"omne ignotum pro magnifico\" (tutto ignoto appare magnifico)..",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Tacito: stile, e visione politica",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Influenza: umanisti (Machiavelli Guicciardini storiografia drammatica psicologica), storiografia moderna metodologia critica fonti.",
+      "categoria": "definizioni",
+      "materia": "latino",
+      "argomento": "Tacito: stile, e visione politica",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Definisci: tragedia",
+      "retro": "Drammatizzazione: storia come tragedia, discorsi diretti indiretti personaggi rivelano carattere, scene madri descritte vivide (morte Agrippina, incendio Roma, suicidio Seneca Petronio)..",
+      "categoria": "definizioni",
+      "materia": "latino",
+      "argomento": "Tacito: stile, e visione politica",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Come si manifesta il tema del libertà in Visione politica, e personaggi?",
+      "retro": "Nostalgia res publica libertà senatoriale, ma consapevole impossibile tornare include principato necessità storica dopo guerre civili e ma intrinsecamente tirannico concentrazione potere una persona corrompe.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Tacito: stile, e visione politica",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del politica in Visione politica, e personaggi?",
+      "retro": "Visione politica Tacito pessimistica è disincantata aristocratica.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Tacito: stile, e visione politica",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del pace in Visione politica, e personaggi?",
+      "retro": "Personaggi complessi non manichei include Tiberio intelligente capace e ma dissimulatore crudele, Nerone artista sensibile, ma matricida pazzo, Seneca sapiente filosofo, ma ricchissimo cortigiano compromesso, Agrippina ambiziosa spietata, ma anche madre, Germanico virtuoso popolare, ma forse ingenuo.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Tacito: stile, e visione politica",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Eredità: modello storiografia drammatica letteraria vs scientifica positivista.",
+      "categoria": "definizioni",
+      "materia": "latino",
+      "argomento": "Tacito: stile, e visione politica",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 113?",
+      "retro": "Gaio Plinio Cecilio Secondo detto Giovane (61 e il 113 d.C",
+      "categoria": "date",
+      "materia": "latino",
+      "argomento": "Plinio il Giovane",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 100?",
+      "retro": "era senatoriale brillante include questore tribuno pretore prefetto erario saturno console suffetto 100 e legato Bitinia-Ponto 110-113 dove muore",
+      "categoria": "date",
+      "materia": "latino",
+      "argomento": "Plinio il Giovane",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 110?",
+      "retro": "nclude questore tribuno pretore prefetto erario saturno console suffetto 100 e legato Bitinia-Ponto 110-113 dove muore",
+      "categoria": "date",
+      "materia": "latino",
+      "argomento": "Plinio il Giovane",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 247?",
+      "retro": "Epistulae 10 libri pubblicati vivente (I-IX) o postumi (X), 247 lettere amici intellettuali più 121 scambio imperatore Traiano (X)",
+      "categoria": "date",
+      "materia": "latino",
+      "argomento": "Plinio il Giovane",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 121?",
+      "retro": "Epistulae 10 libri pubblicati vivente (I-IX) o postumi (X), 247 lettere amici intellettuali più 121 scambio imperatore Traiano (X)",
+      "categoria": "date",
+      "materia": "latino",
+      "argomento": "Plinio il Giovane",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Vita e Epistolario?",
+      "retro": "Tra le lettere più celebri: VI 16 e 20 eruzione Vesuvio morte zio testimonianza oculare preziosa vulcanologia archeologia, X 96-97 cristiani Bitinia consulta Traiano come trattare setta illecita non pericolosa politicamente, risposta Traiano moderazione è non ricercare ma se denunciati punire se non abiurano.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Plinio il Giovane",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Vita e Epistolario?",
+      "retro": "Adottato zio Plinio Vecchio naturalista morto eruzione Vesuvio 79.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Plinio il Giovane",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del politica in Vita e Epistolario?",
+      "retro": "Tra le lettere più celebri: VI 16 e 20 eruzione Vesuvio morte zio testimonianza oculare preziosa vulcanologia archeologia, X 96-97 cristiani Bitinia consulta Traiano come trattare setta illecita non pericolosa politicamente, risposta Traiano moderazione è non ricercare ma se denunciati punire se non abiurano.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Plinio il Giovane",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del famiglia in Vita e Epistolario?",
+      "retro": ") da Como famiglia è ricca.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Plinio il Giovane",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Uomo integro è moderato lealista compromesso con potere.",
+      "categoria": "definizioni",
+      "materia": "latino",
+      "argomento": "Plinio il Giovane",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Di cosa tratta \"buono\"?",
+      "retro": "eto senatoriale collaborazionista con principato \"buono\" Traiano Adriano Antonini vs opposizione stoica repubblicana..",
+      "categoria": "opere",
+      "materia": "latino",
+      "argomento": "Plinio il Giovane",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"buono\"?",
+      "retro": "Pompei Ercolano",
+      "categoria": "autori",
+      "materia": "latino",
+      "argomento": "Plinio il Giovane",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Carattere morale Plinio include moderato equilibrato, lealista acritico Traiano (Panegyricus), benefico generoso (fonda biblioteca terme Como, aiuta Svetonio Marziale) e buon amministratore scrupoloso (lettere Traiano consulta ogni dettaglio), uomo mediocre senza genio Tacito e ma onesto laborioso civile, rappresenta ceto senatoriale collaborazionista con principato \"buono\" Traiano Adriano Antonini vs opposizione stoica repubblicana..",
+      "categoria": "definizioni",
+      "materia": "latino",
+      "argomento": "Plinio il Giovane",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 125?",
+      "retro": "Lucio Apuleio (125 e il 170 d.C",
+      "categoria": "date",
+      "materia": "latino",
+      "argomento": "Apuleio",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 170?",
+      "retro": "Lucio Apuleio (125 e il 170 d.C",
+      "categoria": "date",
+      "materia": "latino",
+      "argomento": "Apuleio",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del amore in Vita e Metamorfosi: struttura romanzo?",
+      "retro": "Trama include Lucio giovane curioso magia ospite Ipata Tessaglia presso Milone moglie Panfila maga, ama serva Fotide, spia Panfila trasformarsi uccello e chiede Fotide unguento, ma sbaglia diventa asino conservando intelligenza umana, disavventure comiche tragiche asino (briganti, torture e pericoli, desiderio ritrasformarsi mangiando rose), rapito briganti con fanciulla Carite, favola Amore Psiche narrata vecchia, Carite liberata sposo Tlepolemo ucciso rivale lei suicida, Lucio-asino vaga subisce umiliazioni violenze, portato Corinto spettacolo osceno con donna condannata e fugge, notte prega Iside apparizione dea, processione Iside mangia corona rose sacerdote ritrova forma umana e iniziato misteri Iside, seguita da Osiride a Roma, dedica vita religione.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Apuleio",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del religione in Vita e Metamorfosi: struttura romanzo?",
+      "retro": "Trama include Lucio giovane curioso magia ospite Ipata Tessaglia presso Milone moglie Panfila maga, ama serva Fotide, spia Panfila trasformarsi uccello e chiede Fotide unguento, ma sbaglia diventa asino conservando intelligenza umana, disavventure comiche tragiche asino (briganti, torture e pericoli, desiderio ritrasformarsi mangiando rose), rapito briganti con fanciulla Carite, favola Amore Psiche narrata vecchia, Carite liberata sposo Tlepolemo ucciso rivale lei suicida, Lucio-asino vaga subisce umiliazioni violenze, portato Corinto spettacolo osceno con donna condannata e fugge, notte prega Iside apparizione dea, processione Iside mangia corona rose sacerdote ritrova forma umana e iniziato misteri Iside, seguita da Osiride a Roma, dedica vita religione.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Apuleio",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del famiglia in Vita e Metamorfosi: struttura romanzo?",
+      "retro": "Circa) da Madaura Numidia (Africa) famiglia ricca colta.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Apuleio",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: romanzo",
+      "retro": "Metamorfosi o Asino d'oro unico romanzo latino integro conservato, 11 libri.",
+      "categoria": "definizioni",
+      "materia": "latino",
+      "argomento": "Apuleio",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Come si manifesta il tema del amore in Temi religiosi, Amore Psiche, e stile?",
+      "retro": "Favola Amore Psiche (IV-VI): Psiche bellissima principessa adorata come Venere, dea gelosa ordina Amore ucciderla ma Amore innamora sposa condizione mai guardarlo, Psiche castello invisibile felice, sorelle invidiose convincono guardare sposo dormiente, Psiche vede Amore bellissimo, ma goccia olio lampada sveglia lui fugge, Psiche disperata cerca sposo, Venere impone prove impossibili (separare semi, vello arieti e acqua Stige e scatola bellezza Proserpina), Amore intercede Giove, Psiche immortalata sposalizio divino figlia Voluttà.",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Apuleio",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "L'influenza si manifesta in Boccaccio (Psiche), Ariosto, La Fontaine favola La Fontaine asino, Romanticismo (rivalutazione fantasy fiaba), narrativa moderna (Calvino).",
+      "categoria": "definizioni",
+      "materia": "latino",
+      "argomento": "Apuleio",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Periodo latino, e costrutti complessi?",
+      "retro": "Subordinate include infinitive (soggettive oggettive), participiali (ablativo assoluto, participio congiunto) e relative proprie improprie (nesso relativo), completive (ut ne quod), finali (ut ne ad quo), consecutive (ut non) e causali (cum quod quia), temporali (cum postquam ubi), concessive (cum quamvis) e condizionali (si nisi).",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Analisi linguistica, e traduzione",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del amore in Lessico storico, e traduzione avanzata?",
+      "retro": "Sinonimi sfumature include amare diligere (amore passione affetto stima), bellum proelium pugna (guerra battaglia combattimento) e domus aedes (casa edificio), manus cohors legio (reparto coorte legione).",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Analisi linguistica, e traduzione",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Lessico storico, e traduzione avanzata?",
+      "retro": "Trappole include falsi amici (templum tempo non tempio, domus signore non casa sempre, ordo ordine e ma anche ceto), polisemia (res cosa stato proprietà guerra) e costrutti ambigui (cum quando poiché sebbene con), participi (presente futuro perfetto valore diverso).",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Analisi linguistica, e traduzione",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Lessico storico, e traduzione avanzata?",
+      "retro": "Traduzione include non letterale meccanica, ma comprensione contesto analisi sintattica (individuare principale subordinate), riconoscimento costrutti (ablativo assoluto participio congiunto infinitive) e scelta lessicale appropriata italiano (evitare calco passivo latino usando attivo italiano, ordine parole naturale italiano non latino).",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Analisi linguistica, e traduzione",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del religione in Lessico storico, e traduzione avanzata?",
+      "retro": "Termini tecnici include istituzioni romane (consul praetor tribunus censor pontifex augur senatus), cariche militari (legatus centurio) e vita pubblica (forum comitia curia), privata (paterfamilias cliens patronus), religione (numen fas nefas pietas religio).",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Analisi linguistica, e traduzione",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in Lessico storico, e traduzione avanzata?",
+      "retro": "Sinonimi sfumature include amare diligere (amore passione affetto stima), bellum proelium pugna (guerra battaglia combattimento) e domus aedes (casa edificio), manus cohors legio (reparto coorte legione).",
+      "categoria": "temi",
+      "materia": "latino",
+      "argomento": "Analisi linguistica, e traduzione",
+      "difficolta": "avanzato"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "GRE_SIM_061",
+  "materia": "LINGUA E CULTURA GRECA",
+  "tipo": "ESAME DI STATO - LICEO CLASSICO",
+  "numero": 61,
+  "data": "2025-12-06",
+  "durata": "6 ore",
+  "intestazione": "Ministero dell'Istruzione e del Merito\nESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE\nIndirizzo: LI01 - CLASSICO\nDisciplina: LINGUA E CULTURA GRECA",
+  "dizionari_ammessi": "È consentito l'uso del dizionario di greco.",
+  "struttura": {
+    "prima_parte": {
+      "titolo": "PRIMA PARTE: traduzione di un testo in lingua greca",
+      "titolo_brano": "La giustizia divina",
+      "pre_testo": "Antigone difende davanti a Creonte la sua decisione di seppellire il fratello Polinice, richiamandosi alle leggi non scritte degli dei.",
+      "testo_greco": "Οὐ γάρ τί μοι Ζεὺς ἦν ὁ κηρύξας τάδε, \nοὐδ' ἡ ξύνοικος τῶν κάτω θεῶν Δίκη \nτοιούσδ' ἐν ἀνθρώποισιν ὥρισεν νόμους· \nοὐδὲ σθένειν τοσοῦτον ᾠόμην τὰ σὰ \nκηρύγμαθ' ὥστ' ἄγραπτα κἀσφαλῆ θεῶν \nνόμιμα δύνασθαι θνητὸν ὄνθ' ὑπερδραμεῖν. \nΟὐ γάρ τι νῦν γε κἀχθές, ἀλλ' ἀεί ποτε \nζῇ ταῦτα, κοὐδεὶς οἶδεν ἐξ ὅτου 'φάνη.",
+      "post_testo": null,
+      "note_lessicali": {
+        "κηρύξας": "che ha proclamato",
+        "ξύνοικος": "che abita con",
+        "ἄγραπτα": "non scritte",
+        "κἀσφαλῆ": "e immutabili"
+      },
+      "fonte": "Sofocle, Antigone, vv. 450-457"
+    },
+    "seconda_parte": {
+      "titolo": "SECONDA PARTE: risposta aperta a tre quesiti",
+      "istruzioni": "Il candidato risponda ai seguenti quesiti in modo puntuale e circostanziato.",
+      "quesiti": [
+        {
+          "numero": 1,
+          "tipo": "comprensione",
+          "testo": "Spiega come il brano si inserisce nel dibattito filosofico/letterario dell'epoca.",
+          "punti_max": 5
+        },
+        {
+          "numero": 2,
+          "tipo": "analisi",
+          "testo": "Individua eventuali figure di suono e commentane l'effetto.",
+          "punti_max": 5
+        },
+        {
+          "numero": 3,
+          "tipo": "approfondimento",
+          "testo": "Rifletti sull'attualità del messaggio, collegandolo a questioni contemporanee.",
+          "punti_max": 10
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "numeroProgressivo": 61,
+    "dataGenerazione": "2025-12-06T17:54:00.549Z",
+    "versione": "2024.1",
+    "difficolta": "intermedio",
+    "genere_letterario": "filosofia",
+    "periodo_storico": "età classica"
+  },
+  "note_culturali": "Testo fondamentale per comprendere la democrazia ateniese"
+}

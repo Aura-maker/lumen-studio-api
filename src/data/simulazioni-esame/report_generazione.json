@@ -1,0 +1,27 @@
+{
+  "titolo": "REPORT GENERAZIONE SIMULAZIONI ESAME",
+  "data": "2025-12-06T17:54:00.607Z",
+  "risultati": {
+    "italiano": {
+      "generate": 200,
+      "percorso": "C:\\Users\\alber\\Desktop\\progetto\\files\\src\\data\\simulazioni-esame\\italiano"
+    },
+    "matematica": {
+      "generate": 200,
+      "percorso": "C:\\Users\\alber\\Desktop\\progetto\\files\\src\\data\\simulazioni-esame\\matematica"
+    },
+    "greco": {
+      "generate": 200,
+      "percorso": "C:\\Users\\alber\\Desktop\\progetto\\files\\src\\data\\simulazioni-esame\\greco"
+    },
+    "latino": {
+      "generate": 200,
+      "percorso": "C:\\Users\\alber\\Desktop\\progetto\\files\\src\\data\\simulazioni-esame\\latino"
+    }
+  },
+  "statistiche": {
+    "totale_simulazioni": 800,
+    "tempo_generazione": "0.17 secondi",
+    "media_per_simulazione": "0.21 ms"
+  }
+}

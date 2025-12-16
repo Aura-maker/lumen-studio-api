@@ -1,0 +1,558 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+model Utente {
+  id                   String                   @id @default(uuid())
+  createdAt            DateTime                 @default(now())
+  updatedAt            DateTime                 @updatedAt
+  email                String                   @unique
+  password             String?
+  nome                 String
+  ruolo                Ruolo                    @default(STUDENTE)
+  avatarUrl            String?
+  preferenze           Json?
+  socialId             String?
+  socialProvider       String?
+  resetToken           String?
+  resetTokenExp        DateTime?
+  punti                Int                      @default(0)
+  livello              Int                      @default(1)
+  achievements         AchievementUtente[]
+  activityLogs         ActivityLog[]
+  challengesSfidante   Challenge[]              @relation("ChallengeSfidante")
+  challengesSfidato    Challenge[]              @relation("ChallengeSfidato")
+  dailyChallenges      DailyChallenge[]
+  dailyGoals           DailyGoal[]
+  deviceTokens         DeviceToken[]
+  distintiviUtente     DistintivoUtente[]
+  flashcardCreate      Flashcard[]
+  friendshipsRicevute  Friendship[]             @relation("FriendshipDestinatario")
+  friendshipsRichieste Friendship[]             @relation("FriendshipRichiedente")
+  groupMessages        GroupMessage[]
+  leagueParticipation  LeagueUser[]
+  libriVenduti         Libro[]
+  notifiche            Notifica[]
+  pianiRipasso         PianoRipasso[]
+  profiloMaturita      ProfiloMaturita?
+  progressi            Progresso[]
+  progressiFlashcard   ProgressoFlashcard[]
+  quizCreate           Quiz[]
+  refreshTokens        RefreshToken[]
+  ricercheRecenti      RicercaRecente[]
+  sessioniStudio       SessioneStudio[]
+  simulazioniEsame     SimulazioneEsame[]
+  statistiche          StatisticheGiornaliere[]
+  streak               Streak?
+  studyGroupsCreati    StudyGroup[]             @relation("StudyGroupCreatore")
+  studyGroupsMembro    StudyGroupMember[]
+  tournamentPlayers    TournamentPlayer[]
+}
+
+model DeviceToken {
+  id          String   @id @default(uuid())
+  utenteId    String
+  token       String   @unique
+  piattaforma String
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  utente      Utente   @relation(fields: [utenteId], references: [id])
+}
+
+model Materia {
+  id          String        @id @default(uuid())
+  nome        String
+  descrizione String?
+  createdAt   DateTime      @default(now())
+  updatedAt   DateTime      @updatedAt
+  argomenti   Argomento[]
+  sezioniAnno SezioneAnno[]
+}
+
+model SezioneAnno {
+  id        String  @id @default(uuid())
+  etichetta String
+  materiaId String
+  materia   Materia @relation(fields: [materiaId], references: [id])
+}
+
+model Argomento {
+  id          String      @id @default(uuid())
+  titolo      String
+  descrizione String?
+  da          String?
+  a           String?
+  materiaId   String
+  createdAt   DateTime    @default(now())
+  updatedAt   DateTime    @updatedAt
+  materia     Materia     @relation(fields: [materiaId], references: [id])
+  flashcard   Flashcard[]
+  quiz        Quiz[]
+}
+
+model Quiz {
+  id           String      @id @default(uuid())
+  titolo       String
+  descrizione  String?
+  punteggioMax Int         @default(100)
+  tempoLimite  Int?
+  argomentoId  String
+  creatoDaId   String?
+  pubblico     Boolean     @default(false)
+  createdAt    DateTime    @default(now())
+  updatedAt    DateTime    @updatedAt
+  domande      Domanda[]
+  progressi    Progresso[]
+  argomento    Argomento   @relation(fields: [argomentoId], references: [id])
+  creatoDa     Utente?     @relation(fields: [creatoDaId], references: [id])
+}
+
+model Domanda {
+  id          String   @id @default(uuid())
+  testo       String
+  tipo        String
+  scelte      Json?
+  immagineUrl String?
+  spiegazione String?
+  linkLezione String?
+  riassuntoId String?
+  quizId      String
+  punti       Int      @default(1)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  quiz        Quiz     @relation(fields: [quizId], references: [id])
+}
+
+model Progresso {
+  id           String   @id @default(uuid())
+  utenteId     String
+  quizId       String
+  punteggio    Int
+  punteggioMax Int
+  tempoUsato   Int
+  completatoAt DateTime @default(now())
+  risposte     Json?
+  quiz         Quiz     @relation(fields: [quizId], references: [id])
+  utente       Utente   @relation(fields: [utenteId], references: [id])
+}
+
+model Distintivo {
+  id          String             @id @default(uuid())
+  chiave      String             @unique
+  titolo      String
+  descrizione String?
+  iconaUrl    String?
+  punti       Int                @default(0)
+  utenti      DistintivoUtente[]
+}
+
+model DistintivoUtente {
+  id           String     @id @default(uuid())
+  utenteId     String
+  distintivoId String
+  assegnatoAt  DateTime   @default(now())
+  meta         Json?
+  distintivo   Distintivo @relation(fields: [distintivoId], references: [id])
+  utente       Utente     @relation(fields: [utenteId], references: [id])
+}
+
+model Notifica {
+  id        String   @id @default(uuid())
+  utenteId  String?
+  titolo    String
+  corpo     String
+  payload   Json?
+  letta     Boolean  @default(false)
+  canale    String
+  createdAt DateTime @default(now())
+  utente    Utente?  @relation(fields: [utenteId], references: [id])
+}
+
+model RefreshToken {
+  id        String   @id @default(uuid())
+  utenteId  String
+  hash      String
+  expiresAt DateTime
+  revoked   Boolean  @default(false)
+  createdAt DateTime @default(now())
+  utente    Utente   @relation(fields: [utenteId], references: [id])
+}
+
+model AnalisiAggregata {
+  id        String   @id @default(uuid())
+  tipo      String
+  dati      Json
+  createdAt DateTime @default(now())
+}
+
+model Flashcard {
+  id          String               @id @default(uuid())
+  fronte      String
+  retro       String
+  immagineUrl String?
+  argomentoId String
+  creatoDaId  String?
+  pubblico    Boolean              @default(true)
+  createdAt   DateTime             @default(now())
+  updatedAt   DateTime             @updatedAt
+  argomento   Argomento            @relation(fields: [argomentoId], references: [id])
+  creatoDa    Utente?              @relation(fields: [creatoDaId], references: [id])
+  progressi   ProgressoFlashcard[]
+}
+
+model ProgressoFlashcard {
+  id                String    @id @default(uuid())
+  utenteId          String
+  flashcardId       String
+  livelloMemoria    Int       @default(0)
+  ultimaRevisione   DateTime?
+  prossimaRevisione DateTime?
+  createdAt         DateTime  @default(now())
+  updatedAt         DateTime  @updatedAt
+  flashcard         Flashcard @relation(fields: [flashcardId], references: [id])
+  utente            Utente    @relation(fields: [utenteId], references: [id])
+
+  @@unique([utenteId, flashcardId])
+}
+
+model Libro {
+  id           String   @id @default(uuid())
+  titolo       String
+  autore       String?
+  editore      String?
+  isbn         String?
+  materia      String?
+  anno         String?
+  condizione   String
+  prezzo       Float?
+  descrizione  String?
+  fotoUrl      String?
+  venditoreId  String
+  venduto      Boolean  @default(false)
+  compratoreId String?
+  contatti     Json?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  venditore    Utente   @relation(fields: [venditoreId], references: [id])
+}
+
+model SessioneStudio {
+  id           String    @id @default(uuid())
+  utenteId     String
+  tipo         String
+  materia      String?
+  argomento    String?
+  durataMinuti Int
+  completata   Boolean   @default(true)
+  xpGuadagnati Int       @default(0)
+  inizioAt     DateTime
+  fineAt       DateTime?
+  createdAt    DateTime  @default(now())
+  utente       Utente    @relation(fields: [utenteId], references: [id])
+}
+
+model StatisticheGiornaliere {
+  id                 String   @id @default(uuid())
+  utenteId           String
+  data               DateTime @db.Date
+  minutiStudio       Int      @default(0)
+  sessioniComplete   Int      @default(0)
+  quizCompletati     Int      @default(0)
+  quizCorretti       Int      @default(0)
+  flashcardViste     Int      @default(0)
+  flashcardRicordate Int      @default(0)
+  xpGuadagnati       Int      @default(0)
+  materiePrincipali  Json?
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+  utente             Utente   @relation(fields: [utenteId], references: [id])
+
+  @@unique([utenteId, data])
+}
+
+model Streak {
+  id             String    @id @default(uuid())
+  utenteId       String    @unique
+  streakCorrente Int       @default(0)
+  streakMassimo  Int       @default(0)
+  ultimoGiorno   DateTime?
+  freezeUsati    Int       @default(0)
+  createdAt      DateTime  @default(now())
+  updatedAt      DateTime  @updatedAt
+  utente         Utente    @relation(fields: [utenteId], references: [id])
+}
+
+model AchievementUtente {
+  id          String   @id @default(uuid())
+  utenteId    String
+  achievement String
+  sbloccatoAt DateTime @default(now())
+  visto       Boolean  @default(false)
+  metadata    Json?
+  utente      Utente   @relation(fields: [utenteId], references: [id])
+
+  @@unique([utenteId, achievement])
+}
+
+model ProfiloMaturita {
+  id                 String   @id @default(uuid())
+  utenteId           String   @unique
+  indirizzo          String   @default("scientifico")
+  scuola             String?
+  creditiTerzo       Int      @default(0)
+  creditiQuarto      Int      @default(0)
+  creditiQuinto      Int      @default(0)
+  obiettivoPunteggio Int      @default(80)
+  materiePriorita    Json?
+  modalitaStudio     String   @default("normale")
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+  utente             Utente   @relation(fields: [utenteId], references: [id])
+}
+
+model SimulazioneEsame {
+  id           String   @id @default(uuid())
+  utenteId     String
+  tipoProva    String
+  tipologia    String?
+  materia      String?
+  punteggio    Int
+  punteggioMax Int
+  durataMinuti Int
+  risposte     Json?
+  feedback     Json?
+  completataAt DateTime @default(now())
+  utente       Utente   @relation(fields: [utenteId], references: [id])
+}
+
+model PianoRipasso {
+  id              String   @id @default(uuid())
+  utenteId        String
+  dataInizio      DateTime
+  dataFine        DateTime
+  modalita        String
+  materiePriorita Json?
+  piano           Json
+  completamento   Float    @default(0)
+  attivo          Boolean  @default(true)
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  utente          Utente   @relation(fields: [utenteId], references: [id])
+}
+
+model ActivityLog {
+  id        String   @id @default(uuid())
+  utenteId  String?
+  tipo      String
+  dettagli  Json?
+  createdAt DateTime @default(now())
+  utente    Utente?  @relation(fields: [utenteId], references: [id])
+}
+
+model RicercaRecente {
+  id        String   @id @default(uuid())
+  utenteId  String
+  query     String
+  filtri    Json?
+  risultati Int      @default(0)
+  createdAt DateTime @default(now())
+  utente    Utente   @relation(fields: [utenteId], references: [id])
+}
+
+model League {
+  id           String       @id @default(uuid())
+  nome         String
+  livello      Int
+  icona        String
+  colore       String
+  xpMinimo     Int
+  createdAt    DateTime     @default(now())
+  partecipanti LeagueUser[]
+}
+
+model LeagueUser {
+  id            String   @id @default(uuid())
+  utenteId      String
+  leagueId      String
+  groupId       String
+  xpSettimanale Int      @default(0)
+  xpGiornaliero Int      @default(0)
+  posizione     Int      @default(0)
+  promosso      Boolean  @default(false)
+  retrocesso    Boolean  @default(false)
+  settimana     DateTime @db.Date
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  league        League   @relation(fields: [leagueId], references: [id])
+  utente        Utente   @relation(fields: [utenteId], references: [id])
+
+  @@unique([utenteId, settimana])
+}
+
+model DailyGoal {
+  id              String   @id @default(uuid())
+  utenteId        String
+  data            DateTime @db.Date
+  tipoObiettivo   String
+  target          Int
+  corrente        Int      @default(0)
+  completato      Boolean  @default(false)
+  ricompensaXP    Int?
+  ricompensaExtra Json?
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  utente          Utente   @relation(fields: [utenteId], references: [id])
+
+  @@unique([utenteId, data, tipoObiettivo])
+}
+
+model DailyChallenge {
+  id           String   @id @default(uuid())
+  utenteId     String
+  data         DateTime @db.Date
+  tipo         String
+  titolo       String
+  descrizione  String
+  xpRicompensa Int
+  difficolta   String
+  progresso    Int      @default(0)
+  completato   Boolean  @default(false)
+  scadenza     DateTime
+  createdAt    DateTime @default(now())
+  utente       Utente   @relation(fields: [utenteId], references: [id])
+
+  @@unique([utenteId, data, tipo])
+}
+
+model Friendship {
+  id             String   @id @default(uuid())
+  richiedenteId  String
+  destinatarioId String
+  stato          String   @default("pending")
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+  destinatario   Utente   @relation("FriendshipDestinatario", fields: [destinatarioId], references: [id])
+  richiedente    Utente   @relation("FriendshipRichiedente", fields: [richiedenteId], references: [id])
+
+  @@unique([richiedenteId, destinatarioId])
+}
+
+model Challenge {
+  id           String    @id @default(uuid())
+  sfidanteId   String
+  sfidatoId    String
+  tipo         String
+  materia      String?
+  difficolta   String    @default("medium")
+  numeroRound  Int       @default(10)
+  tempoLimite  Int       @default(30)
+  puntataXP    Int       @default(50)
+  stato        String    @default("pending")
+  domande      Json?
+  risposte     Json?
+  punteggi     Json?
+  vincitore    String?
+  iniziataAt   DateTime?
+  completataAt DateTime?
+  scadenza     DateTime
+  createdAt    DateTime  @default(now())
+  sfidante     Utente    @relation("ChallengeSfidante", fields: [sfidanteId], references: [id])
+  sfidato      Utente    @relation("ChallengeSfidato", fields: [sfidatoId], references: [id])
+}
+
+model StudyGroup {
+  id          String             @id @default(uuid())
+  nome        String
+  descrizione String?
+  materia     String?
+  creatoreId  String
+  maxMembri   Int                @default(50)
+  privacy     String             @default("public")
+  statistiche Json?
+  createdAt   DateTime           @default(now())
+  updatedAt   DateTime           @updatedAt
+  obiettivi   GroupGoal[]
+  messaggi    GroupMessage[]
+  creatore    Utente             @relation("StudyGroupCreatore", fields: [creatoreId], references: [id])
+  membri      StudyGroupMember[]
+}
+
+model StudyGroupMember {
+  id            String     @id @default(uuid())
+  gruppoId      String
+  utenteId      String
+  ruolo         String     @default("member")
+  contributioXP Int        @default(0)
+  unitoAt       DateTime   @default(now())
+  gruppo        StudyGroup @relation(fields: [gruppoId], references: [id])
+  utente        Utente     @relation(fields: [utenteId], references: [id])
+
+  @@unique([gruppoId, utenteId])
+}
+
+model GroupGoal {
+  id           String     @id @default(uuid())
+  gruppoId     String
+  titolo       String
+  descrizione  String?
+  target       String
+  progresso    Float      @default(0)
+  scadenza     DateTime
+  ricompensa   Json?
+  completato   Boolean    @default(false)
+  contributori Json?
+  createdAt    DateTime   @default(now())
+  gruppo       StudyGroup @relation(fields: [gruppoId], references: [id])
+}
+
+model GroupMessage {
+  id        String     @id @default(uuid())
+  gruppoId  String
+  autoreId  String
+  messaggio String
+  tipo      String     @default("text")
+  metadata  Json?
+  createdAt DateTime   @default(now())
+  autore    Utente     @relation(fields: [autoreId], references: [id])
+  gruppo    StudyGroup @relation(fields: [gruppoId], references: [id])
+}
+
+model Tournament {
+  id              String             @id @default(uuid())
+  materia         String
+  tipo            String             @default("weekly")
+  stato           String             @default("registration")
+  maxPartecipanti Int                @default(64)
+  rounds          Json?
+  premi           Json?
+  inizioAt        DateTime
+  fineAt          DateTime
+  createdAt       DateTime           @default(now())
+  partecipanti    TournamentPlayer[]
+}
+
+model TournamentPlayer {
+  id          String     @id @default(uuid())
+  torneoId    String
+  utenteId    String
+  posizione   Int?
+  punteggio   Int        @default(0)
+  eliminatoAt DateTime?
+  createdAt   DateTime   @default(now())
+  torneo      Tournament @relation(fields: [torneoId], references: [id])
+  utente      Utente     @relation(fields: [utenteId], references: [id])
+
+  @@unique([torneoId, utenteId])
+}
+
+enum Ruolo {
+  STUDENTE
+  DOCENTE
+  ADMIN
+}

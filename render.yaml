@@ -1,0 +1,20 @@
+# Render.com deployment configuration
+services:
+  - type: web
+    name: imparafacile-api
+    env: node
+    region: frankfurt
+    plan: free
+    buildCommand: npm ci
+    startCommand: node server-stable.js
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        sync: false
+      - key: JWT_SECRET
+        generateValue: true
+      - key: PORT
+        value: 4000
+    autoDeploy: true

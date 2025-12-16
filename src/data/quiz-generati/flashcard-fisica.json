@@ -1,0 +1,126 @@
+{
+  "materia": "fisica",
+  "totale": 10,
+  "flashcards": [
+    {
+      "id": "fisica-1",
+      "fronte": "Seconda legge di Newton",
+      "retro": "F = ma (forza = massa × accelerazione)",
+      "materia": "fisica",
+      "categoria": "Meccanica",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    },
+    {
+      "id": "fisica-2",
+      "fronte": "Energia cinetica",
+      "retro": "Ec = ½mv²",
+      "materia": "fisica",
+      "categoria": "Meccanica",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    },
+    {
+      "id": "fisica-3",
+      "fronte": "Energia potenziale gravitazionale",
+      "retro": "Ep = mgh",
+      "materia": "fisica",
+      "categoria": "Meccanica",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    },
+    {
+      "id": "fisica-4",
+      "fronte": "Legge di gravitazione universale",
+      "retro": "F = Gm₁m₂/r²",
+      "materia": "fisica",
+      "categoria": "Gravitazione",
+      "difficolta": 2,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    },
+    {
+      "id": "fisica-5",
+      "fronte": "Legge di Ohm",
+      "retro": "V = IR (tensione = corrente × resistenza)",
+      "materia": "fisica",
+      "categoria": "Elettricità",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    },
+    {
+      "id": "fisica-6",
+      "fronte": "Potenza elettrica",
+      "retro": "P = VI",
+      "materia": "fisica",
+      "categoria": "Elettricità",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    },
+    {
+      "id": "fisica-7",
+      "fronte": "Legge di Coulomb",
+      "retro": "F = kq₁q₂/r²",
+      "materia": "fisica",
+      "categoria": "Elettricità",
+      "difficolta": 2,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    },
+    {
+      "id": "fisica-8",
+      "fronte": "Equazione di Einstein",
+      "retro": "E = mc²",
+      "materia": "fisica",
+      "categoria": "Relatività",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    },
+    {
+      "id": "fisica-9",
+      "fronte": "Legge dei gas perfetti",
+      "retro": "PV = nRT",
+      "materia": "fisica",
+      "categoria": "Termodinamica",
+      "difficolta": 2,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    },
+    {
+      "id": "fisica-10",
+      "fronte": "Primo principio termodinamica",
+      "retro": "ΔU = Q - L",
+      "materia": "fisica",
+      "categoria": "Termodinamica",
+      "difficolta": 2,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.074Z"
+    }
+  ]
+}

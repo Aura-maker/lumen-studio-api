@@ -1,0 +1,210 @@
+# ═══════════════════════════════════════════════════════════════════════════════
+# DOCKER COMPOSE - INFRASTRUTTURA PRODUZIONE IMPARAFACILE
+# ═══════════════════════════════════════════════════════════════════════════════
+# Scalabile per migliaia di utenti
+
+version: '3.8'
+
+services:
+  # ─────────────────────────────────────────────────────────────────────────────
+  # API BACKEND (scalabile orizzontalmente)
+  # ─────────────────────────────────────────────────────────────────────────────
+  api:
+    build:
+      context: ..
+      dockerfile: infrastructure/Dockerfile
+    ports:
+      - "4000:4000"
+    environment:
+      - NODE_ENV=production
+      - DATABASE_URL=postgresql://imparafacile:${DB_PASSWORD}@postgres:5432/imparafacile
+      - REDIS_URL=redis://redis:6379
+      - JWT_SECRET=${JWT_SECRET}
+      - JWT_EXPIRES_IN=15m
+      - COOKIE_SECURE=true
+      - COOKIE_SAMESITE=strict
+    depends_on:
+      - postgres
+      - redis
+    deploy:
+      replicas: 3
+      resources:
+        limits:
+          cpus: '1'
+          memory: 1G
+        reservations:
+          cpus: '0.5'
+          memory: 512M
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:4000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - imparafacile-network
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # POSTGRESQL DATABASE (con replica)
+  # ─────────────────────────────────────────────────────────────────────────────
+  postgres:
+    image: postgres:15-alpine
+    environment:
+      - POSTGRES_USER=imparafacile
+      - POSTGRES_PASSWORD=${DB_PASSWORD}
+      - POSTGRES_DB=imparafacile
+      - PGDATA=/var/lib/postgresql/data/pgdata
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init-db.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5432:5432"
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 4G
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U imparafacile"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - imparafacile-network
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # REDIS (cache + sessioni + code)
+  # ─────────────────────────────────────────────────────────────────────────────
+  redis:
+    image: redis:7-alpine
+    command: redis-server --appendonly yes --maxmemory 512mb --maxmemory-policy allkeys-lru
+    volumes:
+      - redis_data:/data
+    ports:
+      - "6379:6379"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 512M
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - imparafacile-network
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # NGINX LOAD BALANCER + SSL
+  # ─────────────────────────────────────────────────────────────────────────────
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./ssl:/etc/nginx/ssl:ro
+      - nginx_logs:/var/log/nginx
+    depends_on:
+      - api
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 256M
+    networks:
+      - imparafacile-network
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # WORKER PER TASK ASINCRONI (email, notifiche push, analytics)
+  # ─────────────────────────────────────────────────────────────────────────────
+  worker:
+    build:
+      context: ..
+      dockerfile: infrastructure/Dockerfile.worker
+    environment:
+      - NODE_ENV=production
+      - DATABASE_URL=postgresql://imparafacile:${DB_PASSWORD}@postgres:5432/imparafacile
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    deploy:
+      replicas: 2
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 512M
+    networks:
+      - imparafacile-network
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # PROMETHEUS (metriche)
+  # ─────────────────────────────────────────────────────────────────────────────
+  prometheus:
+    image: prom/prometheus:latest
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - prometheus_data:/prometheus
+    ports:
+      - "9090:9090"
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--storage.tsdb.retention.time=30d'
+    networks:
+      - imparafacile-network
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # GRAFANA (dashboard monitoring)
+  # ─────────────────────────────────────────────────────────────────────────────
+  grafana:
+    image: grafana/grafana:latest
+    ports:
+      - "3001:3000"
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=${GRAFANA_PASSWORD}
+      - GF_USERS_ALLOW_SIGN_UP=false
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./grafana/dashboards:/etc/grafana/provisioning/dashboards
+      - ./grafana/datasources:/etc/grafana/provisioning/datasources
+    depends_on:
+      - prometheus
+    networks:
+      - imparafacile-network
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # PGADMIN (gestione database)
+  # ─────────────────────────────────────────────────────────────────────────────
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=${PGADMIN_EMAIL}
+      - PGADMIN_DEFAULT_PASSWORD=${PGADMIN_PASSWORD}
+    ports:
+      - "5050:80"
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+    depends_on:
+      - postgres
+    networks:
+      - imparafacile-network
+
+networks:
+  imparafacile-network:
+    driver: bridge
+
+volumes:
+  postgres_data:
+  redis_data:
+  nginx_logs:
+  prometheus_data:
+  grafana_data:
+  pgadmin_data:

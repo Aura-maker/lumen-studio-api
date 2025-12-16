@@ -1,0 +1,3591 @@
+{
+  "materia": "storia",
+  "totale": 245,
+  "quiz": [
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Le cause della Rivoluzione?",
+      "rispostaCorretta": "1789",
+      "opzioni": [
+        "1787",
+        "1784",
+        "1779",
+        "1789"
+      ],
+      "spiegazione": "La Rivoluzione francese (1789-1799) ha cause complesse e multiple. Le cause economiche includono la crisi finanziaria dello S",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Le cause della Rivoluzione?",
+      "rispostaCorretta": "1799",
+      "opzioni": [
+        "1797",
+        "1799",
+        "1789",
+        "1794"
+      ],
+      "spiegazione": "La Rivoluzione francese (1789-1799) ha cause complesse e multiple. Le cause economiche includono la crisi finanziaria dello Stato",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Le cause della Rivoluzione?",
+      "rispostaCorretta": "175",
+      "opzioni": [
+        "170",
+        "175",
+        "173",
+        "165"
+      ],
+      "spiegazione": "azione degli Stati Generali nel maggio 1789, dopo 175 anni, scatena il conflitto sul voto per testa o per ordine. Il Terzo Stato si proclama Assemblea",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Le cause della Rivoluzione?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "libertà",
+        "patria",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Le cause della Rivoluzione?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "guerra"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Rivoluzione nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "La Rivoluzione francese (1789-1799) ha cause complesse e multiple. Le cause economiche includono la",
+      "livello": "intermedio",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Terzo Stato nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "protagonista principale",
+        "antagonista",
+        "narratore"
+      ],
+      "spiegazione": "fiscale iniquo che grava sul Terzo Stato mentre nobiltà e clero sono esentati dalle tasse. Le cause sociali derivano dall'Ancien",
+      "livello": "intermedio",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La Rivoluzione francese (1789-1799) ha cause complesse e multiple.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Le cause politiche comprendono l'assolutismo monarchico, l'influenza dell'Illuminismo con gli ideali di libertà e uguaglianza e sovranità popolare.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Le fasi: monarchia costituzionale 1789-1792?",
+      "rispostaCorretta": "1789",
+      "opzioni": [
+        "1789",
+        "1779",
+        "1787",
+        "1784"
+      ],
+      "spiegazione": "tituente abolisce i privilegi feudali il 4 agosto 1789, segnando la fine dell'Ancien Régime. La Dichiarazione dei diritti dell'uomo e del cittadino de",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Le fasi: monarchia costituzionale 1789-1792?",
+      "rispostaCorretta": "1791",
+      "opzioni": [
+        "1791",
+        "1781",
+        "1789",
+        "1786"
+      ],
+      "spiegazione": "fondamenti del nuovo ordine. La Costituzione del 1791 stabilisce una monarchia costituzionale con suffragio censitario e la divisione dei poteri seco",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Le fasi: monarchia costituzionale 1789-1792?",
+      "rispostaCorretta": "1792",
+      "opzioni": [
+        "1792",
+        "1782",
+        "1787",
+        "1790"
+      ],
+      "spiegazione": "ro Austria e Prussia viene dichiarata nell'aprile 1792, segnando l'inizio del conflitto europeo contro la Rivoluzione.",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Le fasi: monarchia costituzionale 1789-1792?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "libertà",
+        "patria",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Le fasi: monarchia costituzionale 1789-1792?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "libertà",
+        "guerra",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Assemblea Costituente nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "L'Assemblea Costituente abolisce i privilegi feudali il 4 agosto 1789, segnando la fine dell'Ancien Ré",
+      "livello": "intermedio",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Dichiarazione nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "o la fine dell'Ancien Régime. La Dichiarazione dei diritti dell'uomo e del cittadino del 26 agosto proclama i principi di libertà,",
+      "livello": "intermedio",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'Assemblea Costituente abolisce i privilegi feudali il 4 agosto 1789, segnando la fine dell'Ancien Régime.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La Costituzione del 1791 stabilisce una monarchia costituzionale con suffragio censitario e la divisione dei poteri secondo i principi illuministici.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Repubblica e Terrore 1792-1794?",
+      "rispostaCorretta": "1792",
+      "opzioni": [
+        "1787",
+        "1782",
+        "1790",
+        "1792"
+      ],
+      "spiegazione": "ata dalla vittoria francese a Valmy nel settembre 1792, salvando la Rivoluzione. La Convenzione proclama la Repubblica il 21 settembre 1792, abolendo",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Repubblica e Terrore 1792-1794?",
+      "rispostaCorretta": "1793",
+      "opzioni": [
+        "1793",
+        "1783",
+        "1791",
+        "1788"
+      ],
+      "spiegazione": "te e l'esecuzione alla ghigliottina il 21 gennaio 1793, provocando la coalizione europea contro la Francia. I Giacobini guidati da Robespierre prendon",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Repubblica e Terrore 1792-1794?",
+      "rispostaCorretta": "1794",
+      "opzioni": [
+        "1789",
+        "1792",
+        "1784",
+        "1794"
+      ],
+      "spiegazione": "on le esecuzioni di Danton e Hébert. Il 27 luglio 1794 (9 Termidoro) un colpo di stato rovescia Robespierre, che viene ghigliottinato il giorno dopo,",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Repubblica e Terrore 1792-1794?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "amore",
+        "morte",
+        "patria",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Repubblica e Terrore 1792-1794?",
+      "rispostaCorretta": "patria",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "morte",
+        "patria"
+      ],
+      "spiegazione": "Il tema del patria è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Convenzione nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "792, salvando la Rivoluzione. La Convenzione proclama la Repubblica il 21 settembre 1792, abolendo definitivamente la monarchia. I",
+      "livello": "intermedio",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Salute Pubblica nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "aratterizzato dal Comitato di Salute Pubblica, dal Tribunale Rivoluzionario e dall'uso sistematico della ghigliottina contro i nem",
+      "livello": "intermedio",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'invasione prussiana viene fermata dalla vittoria francese a Valmy nel settembre 1792, salvando la Rivoluzione.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La Convenzione proclama la Repubblica il 21 settembre 1792, abolendo definitivamente la monarchia.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Direttorio, e colpo Stato Napoleone 1795-1799?",
+      "rispostaCorretta": "1796",
+      "opzioni": [
+        "1786",
+        "1796",
+        "1794",
+        "1791"
+      ],
+      "spiegazione": "torie del generale Napoleone Bonaparte in Italia (1796-97) e la spedizione in Egitto (1798) che lo rendono popolare. Il 9 novembre 1799 (18 Brumaio de",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Direttorio, e colpo Stato Napoleone 1795-1799?",
+      "rispostaCorretta": "1798",
+      "opzioni": [
+        "1798",
+        "1796",
+        "1788",
+        "1793"
+      ],
+      "spiegazione": "te in Italia (1796-97) e la spedizione in Egitto (1798) che lo rendono popolare. Il 9 novembre 1799 (18 Brumaio dell'Anno VIII) Napoleone attua il col",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Direttorio, e colpo Stato Napoleone 1795-1799?",
+      "rispostaCorretta": "1799",
+      "opzioni": [
+        "1797",
+        "1799",
+        "1789",
+        "1794"
+      ],
+      "spiegazione": "tto (1798) che lo rendono popolare. Il 9 novembre 1799 (18 Brumaio dell'Anno VIII) Napoleone attua il colpo di stato con l'aiuto del fratello Luciano,",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Direttorio, e colpo Stato Napoleone 1795-1799?",
+      "rispostaCorretta": "politica",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "politica"
+      ],
+      "spiegazione": "Il tema del politica è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Costituzione nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "protagonista principale",
+        "antagonista"
+      ],
+      "spiegazione": "La Costituzione dell'Anno III stabilisce il potere esecutivo di cinque Direttori e quello legislativ",
+      "livello": "intermedio",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Napoleone Bonaparte nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "protagonista principale",
+        "narratore",
+        "personaggio secondario"
+      ],
+      "spiegazione": "dono le vittorie del generale Napoleone Bonaparte in Italia (1796-97) e la spedizione in Egitto (1798) che lo rendono popolare. Il",
+      "livello": "intermedio",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "I moderati prendono il potere reprimendo sia i giacobini che i monarchici.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il regime soffre di instabilità politica, corruzione dilagante e inflazione economica che minano la sua credibilità.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ascesa e Consolato 1799-1804?",
+      "rispostaCorretta": "1769",
+      "opzioni": [
+        "1764",
+        "1769",
+        "1759",
+        "1767"
+      ],
+      "spiegazione": "Napoleone Bonaparte (1769-1821) nasce in Corsica e diventa ufficiale d'artiglieria. Emerge con le campagne d'Italia del 1",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ascesa e Consolato 1799-1804?",
+      "rispostaCorretta": "1821",
+      "opzioni": [
+        "1819",
+        "1811",
+        "1821",
+        "1816"
+      ],
+      "spiegazione": "Napoleone Bonaparte (1769-1821) nasce in Corsica e diventa ufficiale d'artiglieria. Emerge con le campagne d'Italia del 1796-9",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ascesa e Consolato 1799-1804?",
+      "rispostaCorretta": "1796",
+      "opzioni": [
+        "1794",
+        "1791",
+        "1786",
+        "1796"
+      ],
+      "spiegazione": "'artiglieria. Emerge con le campagne d'Italia del 1796-97 sconfiggendo gli austriaci e con la spedizione in Egitto del 1798. Attua il colpo di stato d",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ascesa e Consolato 1799-1804?",
+      "rispostaCorretta": "1798",
+      "opzioni": [
+        "1798",
+        "1788",
+        "1793",
+        "1796"
+      ],
+      "spiegazione": "o gli austriaci e con la spedizione in Egitto del 1798. Attua il colpo di stato del 18 Brumaio 1799 instaurando il Consolato come Primo Console con po",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ascesa e Consolato 1799-1804?",
+      "rispostaCorretta": "1799",
+      "opzioni": [
+        "1799",
+        "1789",
+        "1794",
+        "1797"
+      ],
+      "spiegazione": "del 1798. Attua il colpo di stato del 18 Brumaio 1799 instaurando il Consolato come Primo Console con poteri vastissimi. Le riforme fondamentali comp",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ascesa e Consolato 1799-1804?",
+      "rispostaCorretta": "1804",
+      "opzioni": [
+        "1799",
+        "1802",
+        "1794",
+        "1804"
+      ],
+      "spiegazione": "rme fondamentali comprendono il Codice Civile del 1804 che stabilisce l'uguaglianza giuridica, la proprietà privata, l'autorità del capofamiglia e la",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ascesa e Consolato 1799-1804?",
+      "rispostaCorretta": "1801",
+      "opzioni": [
+        "1796",
+        "1791",
+        "1801",
+        "1799"
+      ],
+      "spiegazione": "iglia e la laicità dello Stato; il Concordato del 1801 con papa Pio VII che ristabilisce la pace religiosa mentre la Chiesa riconosce la vendita dei b",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ascesa e Consolato 1799-1804?",
+      "rispostaCorretta": "1800",
+      "opzioni": [
+        "1795",
+        "1800",
+        "1790",
+        "1798"
+      ],
+      "spiegazione": "otere. Le vittorie militari includono Marengo del 1800 contro l'Austria. Nel 1802 diventa Console a vita.",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ascesa e Consolato 1799-1804?",
+      "rispostaCorretta": "1802",
+      "opzioni": [
+        "1802",
+        "1792",
+        "1797",
+        "1800"
+      ],
+      "spiegazione": "includono Marengo del 1800 contro l'Austria. Nel 1802 diventa Console a vita.",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Ascesa e Consolato 1799-1804?",
+      "rispostaCorretta": "pace",
+      "opzioni": [
+        "morte",
+        "amore",
+        "libertà",
+        "pace"
+      ],
+      "spiegazione": "Il tema del pace è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Ascesa e Consolato 1799-1804?",
+      "rispostaCorretta": "famiglia",
+      "opzioni": [
+        "famiglia",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del famiglia è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Napoleone Bonaparte nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "narratore",
+        "protagonista principale",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Napoleone Bonaparte (1769-1821) nasce in Corsica e diventa ufficiale d'artiglieria. Emerge con le ca",
+      "livello": "intermedio",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Primo Console nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "instaurando il Consolato come Primo Console con poteri vastissimi. Le riforme fondamentali comprendono il Codice Civile del 1804 c",
+      "livello": "intermedio",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Napoleone Bonaparte (1769-1821) nasce in Corsica e diventa ufficiale d'artiglieria.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Emerge con le campagne d'Italia del 1796-97 sconfiggendo gli austriaci e con la spedizione in Egitto del 1798.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Impero, e espansione 1804-1812?",
+      "rispostaCorretta": "1804",
+      "opzioni": [
+        "1802",
+        "1799",
+        "1794",
+        "1804"
+      ],
+      "spiegazione": "Il 2 dicembre 1804 Napoleone si incorona Imperatore nella cattedrale di Notre-Dame davanti al papa. L'espansione m",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Impero, e espansione 1804-1812?",
+      "rispostaCorretta": "1805",
+      "opzioni": [
+        "1800",
+        "1803",
+        "1795",
+        "1805"
+      ],
+      "spiegazione": "in Europa comprende la vittoria di Austerlitz del 1805 contro Austria e Russia, considerata un capolavoro strategico; Jena del 1806 dove la Prussia vi",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Impero, e espansione 1804-1812?",
+      "rispostaCorretta": "1806",
+      "opzioni": [
+        "1804",
+        "1796",
+        "1806",
+        "1801"
+      ],
+      "spiegazione": "a, considerata un capolavoro strategico; Jena del 1806 dove la Prussia viene annientata; Friedland del 1807 che porta alla pace di Tilsit con la Russi",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Impero, e espansione 1804-1812?",
+      "rispostaCorretta": "1807",
+      "opzioni": [
+        "1807",
+        "1805",
+        "1797",
+        "1802"
+      ],
+      "spiegazione": "6 dove la Prussia viene annientata; Friedland del 1807 che porta alla pace di Tilsit con la Russia. Napoleone controlla Germania, Italia e Spagna. Il",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Impero, e espansione 1804-1812?",
+      "rispostaCorretta": "1810",
+      "opzioni": [
+        "1800",
+        "1808",
+        "1810",
+        "1805"
+      ],
+      "spiegazione": "in Vestfalia. L'apice del potere si raggiunge nel 1810-11 con un impero che si estende dalla Spagna alla Polonia. Tuttavia iniziano i problemi: la Spa",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Impero, e espansione 1804-1812?",
+      "rispostaCorretta": "pace",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "pace"
+      ],
+      "spiegazione": "Il tema del pace è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Il Sistema nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "personaggio secondario",
+        "antagonista"
+      ],
+      "spiegazione": "la Germania, Italia e Spagna. Il Sistema Continentale istituisce un blocco economico contro l'Inghilterra. Crea il Regno d'Italia,",
+      "livello": "intermedio",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il 2 dicembre 1804 Napoleone si incorona Imperatore nella cattedrale di Notre-Dame davanti al papa.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Napoleone controlla Germania, Italia e Spagna.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Campagna Russia, e crollo 1812-1814?",
+      "rispostaCorretta": "1812",
+      "opzioni": [
+        "1807",
+        "1810",
+        "1802",
+        "1812"
+      ],
+      "spiegazione": "Giugno 1812 invasione Russia con Grande Armata 600. 000 soldati. Russi ritirata è tattica terra bruciata. B",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Campagna Russia, e crollo 1812-1814?",
+      "rispostaCorretta": "600",
+      "opzioni": [
+        "595",
+        "590",
+        "598",
+        "600"
+      ],
+      "spiegazione": "Giugno 1812 invasione Russia con Grande Armata 600. 000 soldati. Russi ritirata è tattica terra bruciata. Borodino settembre è battaglia sanguinosa",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Campagna Russia, e crollo 1812-1814?",
+      "rispostaCorretta": "000",
+      "opzioni": [
+        "-2",
+        "-5",
+        "-10",
+        "000"
+      ],
+      "spiegazione": "ugno 1812 invasione Russia con Grande Armata 600. 000 soldati. Russi ritirata è tattica terra bruciata. Borodino settembre è battaglia sanguinosa. Mos",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Campagna Russia, e crollo 1812-1814?",
+      "rispostaCorretta": "1813",
+      "opzioni": [
+        "1811",
+        "1808",
+        "1803",
+        "1813"
+      ],
+      "spiegazione": "contro Francia. Battaglia Nazioni Lipsia ottobre 1813 sconfitta. Invasione Francia. Abdicazione Fontainebleau 6 aprile 1814. Esilio Elba. Restaurazio",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Campagna Russia, e crollo 1812-1814?",
+      "rispostaCorretta": "1814",
+      "opzioni": [
+        "1814",
+        "1812",
+        "1804",
+        "1809"
+      ],
+      "spiegazione": "sione Francia. Abdicazione Fontainebleau 6 aprile 1814. Esilio Elba. Restaurazione Luigi XVIII Borbone. Congresso Vienna ridisegna Europa",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Grande Armata nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "gno 1812 invasione Russia con Grande Armata 600. 000 soldati. Russi ritirata è tattica terra bruciata. Borodino settembre è battag",
+      "livello": "intermedio",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Battaglia Nazioni nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "stria, Svezia contro Francia. Battaglia Nazioni Lipsia ottobre 1813 sconfitta. Invasione Francia. Abdicazione Fontainebleau 6 apri",
+      "livello": "intermedio",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Giugno 1812 invasione Russia con Grande Armata 600.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Russi ritirata è tattica terra bruciata.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cento Giorni e Waterloo 1815?",
+      "rispostaCorretta": "1815",
+      "opzioni": [
+        "1813",
+        "1805",
+        "1815",
+        "1810"
+      ],
+      "spiegazione": "1 marzo 1815 Napoleone fugge Elba, sbarca Golfo Juan Francia. Marcia su Parigi e è soldati inviati catturarl",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cento Giorni e Waterloo 1815?",
+      "rispostaCorretta": "1821",
+      "opzioni": [
+        "1821",
+        "1811",
+        "1816",
+        "1819"
+      ],
+      "spiegazione": "ugno. Esilio Sant'Elena Atlantico, muore 5 maggio 1821. Fine epopea",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Golfo Juan nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "Napoleone fugge Elba, sbarca Golfo Juan Francia. Marcia su Parigi e è soldati inviati catturarlo si uniscono. Luigi XVIII fugge.",
+      "livello": "intermedio",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Cento Giorni nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "ge. Napoleone torna è potere. Cento Giorni include tenta riconciliazione liberali, Atto Addizionale costituzione. Ma Europa lo dic",
+      "livello": "intermedio",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "1 marzo 1815 Napoleone fugge Elba, sbarca Golfo Juan Francia.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Marcia su Parigi e è soldati inviati catturarlo si uniscono.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Eredità napoleonica?",
+      "rispostaCorretta": "300",
+      "opzioni": [
+        "300",
+        "298",
+        "290",
+        "295"
+      ],
+      "spiegazione": "sse Sacro Romano Impero, riorganizzò Germania (da 300 a 39 stati) e rafforzò Prussia. Diffuse nazionalismo è con reazioni contro occupazione francese.",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Eredità napoleonica?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "morte",
+        "amore",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Codice Civile nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "narratore",
+        "personaggio secondario"
+      ],
+      "spiegazione": "che diffuse ideali borghesi, Codice Civile (base diritto europeo), amministrazione razionale, meritocrazia e laicità Stato. Distr",
+      "livello": "intermedio",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Distrusse Sacro nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "personaggio secondario",
+        "antagonista"
+      ],
+      "spiegazione": "meritocrazia e laicità Stato. Distrusse Sacro Romano Impero, riorganizzò Germania (da 300 a 39 stati) e rafforzò Prussia. Diffuse",
+      "livello": "intermedio",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Eredità duplice: despota che tradì libertà rivoluzionarie con censura, polizia e autoritarismo.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Ma anche modernizzatore che diffuse ideali borghesi, Codice Civile (base diritto europeo), amministrazione razionale, meritocrazia e laicità Stato.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Napoleone Bonaparte",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il Congresso di Vienna e il nuovo assetto europeo?",
+      "rispostaCorretta": "1814",
+      "opzioni": [
+        "1804",
+        "1814",
+        "1812",
+        "1809"
+      ],
+      "spiegazione": "l Congresso di Vienna, riunitosi tra il settembre 1814, il giugno 1815 e ridisegnò completamente la carta politica europea dopo la sconfitta di Napole",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il Congresso di Vienna e il nuovo assetto europeo?",
+      "rispostaCorretta": "1815",
+      "opzioni": [
+        "1815",
+        "1805",
+        "1810",
+        "1813"
+      ],
+      "spiegazione": "ienna, riunitosi tra il settembre 1814, il giugno 1815 e ridisegnò completamente la carta politica europea dopo la sconfitta di Napoleone. I principi",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il Congresso di Vienna e il nuovo assetto europeo?",
+      "rispostaCorretta": "1848",
+      "opzioni": [
+        "1846",
+        "1848",
+        "1843",
+        "1838"
+      ],
+      "spiegazione": "e potenze. Questo è Il è Il sistema resse fino al 1848 grazie a una ferrea repressione di ogni movimento liberale, e nazionale. Tuttavia, le idee di l",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il Congresso di Vienna e il nuovo assetto europeo?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "morte",
+        "patria",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il Congresso di Vienna e il nuovo assetto europeo?",
+      "rispostaCorretta": "politica",
+      "opzioni": [
+        "libertà",
+        "politica",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del politica è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Il Congresso nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "Il Congresso di Vienna, riunitosi tra il settembre 1814, il giugno 1815 e ridisegnò completamente la",
+      "livello": "intermedio",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Francia nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario"
+      ],
+      "spiegazione": "librio tra le grandi potenze. La Francia, rappresentata da Talleyrand e riuscì abilmente a partecipare alle trattative evitando pe",
+      "livello": "intermedio",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La Francia, rappresentata da Talleyrand e riuscì abilmente a partecipare alle trattative evitando pesanti punizioni.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'Austria ottenne il Lombardo-Veneto e consolidando il suo dominio sull'Italia settentrionale.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I moti rivoluzionari del 1820-1821 e 1830-1831?",
+      "rispostaCorretta": "1820",
+      "opzioni": [
+        "1818",
+        "1810",
+        "1815",
+        "1820"
+      ],
+      "spiegazione": "I moti del 1820-1821 rappresentarono il primo grande tentativo di abbattere l'ordine della Restaurazione. In Sp",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I moti rivoluzionari del 1820-1821 e 1830-1831?",
+      "rispostaCorretta": "1821",
+      "opzioni": [
+        "1816",
+        "1821",
+        "1819",
+        "1811"
+      ],
+      "spiegazione": "I moti del 1820-1821 rappresentarono il primo grande tentativo di abbattere l'ordine della Restaurazione. In Spagna,",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I moti rivoluzionari del 1820-1821 e 1830-1831?",
+      "rispostaCorretta": "1812",
+      "opzioni": [
+        "1810",
+        "1807",
+        "1802",
+        "1812"
+      ],
+      "spiegazione": "Ferdinando VII a ripristinare la costituzione del 1812 e ma l'intervento della Santa Alleanza attraverso la Francia ripristinò l'assolutismo nel 1823.",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I moti rivoluzionari del 1820-1821 e 1830-1831?",
+      "rispostaCorretta": "1823",
+      "opzioni": [
+        "1821",
+        "1823",
+        "1813",
+        "1818"
+      ],
+      "spiegazione": "ttraverso la Francia ripristinò l'assolutismo nel 1823. In Italia scoppiarono moti carbonari nel Regno delle Due Sicilie (luglio 1820) e nel Regno di",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I moti rivoluzionari del 1820-1821 e 1830-1831?",
+      "rispostaCorretta": "1829",
+      "opzioni": [
+        "1829",
+        "1819",
+        "1827",
+        "1824"
+      ],
+      "spiegazione": "uistare l'indipendenza dall'Impero Ottomano (1821-1829) è grazie all'intervento di Russia, Francia e Inghilterra, mosse sia da interessi geopolitici s",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I moti rivoluzionari del 1820-1821 e 1830-1831?",
+      "rispostaCorretta": "1830",
+      "opzioni": [
+        "1828",
+        "1830",
+        "1820",
+        "1825"
+      ],
+      "spiegazione": "litici sia dal filellenismo romantico. I moti del 1830-1831 ebbero esiti diversi include in Francia, la rivoluzione di luglio abbatté Carlo X e instau",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I moti rivoluzionari del 1820-1821 e 1830-1831?",
+      "rispostaCorretta": "1831",
+      "opzioni": [
+        "1826",
+        "1829",
+        "1821",
+        "1831"
+      ],
+      "spiegazione": "i sia dal filellenismo romantico. I moti del 1830-1831 ebbero esiti diversi include in Francia, la rivoluzione di luglio abbatté Carlo X e instaurò un",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente I moti rivoluzionari del 1820-1821 e 1830-1831?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "guerra",
+        "morte"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha In Spagna nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "l'ordine della Restaurazione. In Spagna, l'insurrezione militare guidata dal colonnello Riego costrinse il re Ferdinando VII a rip",
+      "livello": "intermedio",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Santa Alleanza nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "1812 e ma l'intervento della Santa Alleanza attraverso la Francia ripristinò l'assolutismo nel 1823. In Italia scoppiarono moti c",
+      "livello": "intermedio",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "I moti del 1820-1821 rappresentarono il primo grande tentativo di abbattere l'ordine della Restaurazione.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "In Italia scoppiarono moti carbonari nel Regno delle Due Sicilie (luglio 1820) e nel Regno di Sardegna (marzo 1821).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il 1848: la primavera dei popoli?",
+      "rispostaCorretta": "1848",
+      "opzioni": [
+        "1843",
+        "1838",
+        "1848",
+        "1846"
+      ],
+      "spiegazione": "Il 1848 fu l'anno delle rivoluzioni che attraversarono tutta l'Europa, dalla Francia all'Impero Asburgi",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il 1848: la primavera dei popoli?",
+      "rispostaCorretta": "1849",
+      "opzioni": [
+        "1849",
+        "1847",
+        "1839",
+        "1844"
+      ],
+      "spiegazione": "uglio 1848) e soprattutto quella di Novara (marzo 1849) costrinsero Carlo Alberto all'abdicazione. Nel frattempo, a Roma era stata proclamata la Repub",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il 1848: la primavera dei popoli?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "tempo"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il 1848: la primavera dei popoli?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "amore",
+        "libertà",
+        "morte",
+        "guerra"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Impero Asburgico nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "a l'Europa, dalla Francia all'Impero Asburgico e dalla Germania all'Italia. In Francia, la rivoluzione di febbraio abbatté Luigi F",
+      "livello": "intermedio",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha In Francia nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "e dalla Germania all'Italia. In Francia, la rivoluzione di febbraio abbatté Luigi Filippo, e proclamò la Seconda Repubblica e è c",
+      "livello": "intermedio",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il 1848 fu l'anno delle rivoluzioni che attraversarono tutta l'Europa, dalla Francia all'Impero Asburgico e dalla Germania all'Italia.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Nell'Impero Asburgico e le rivoluzioni scoppiarono a Vienna, Budapest, Praga, Milano, Venezia, spinte da rivendicazioni sia liberali sia nazionali.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Restaurazione e Rivoluzioni (1815-1848)",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cavour e la politica piemontese?",
+      "rispostaCorretta": "1852",
+      "opzioni": [
+        "1852",
+        "1842",
+        "1847",
+        "1850"
+      ],
+      "spiegazione": "Divenuto primo ministro del Regno di Sardegna nel 1852, Cavour perseguì una strategia articolata su più fronti. In campo economico, promosse la modern",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cavour e la politica piemontese?",
+      "rispostaCorretta": "1855",
+      "opzioni": [
+        "1855",
+        "1845",
+        "1853",
+        "1850"
+      ],
+      "spiegazione": "ustria.. La partecipazione alla Guerra di Crimea (1855-1856) al fianco di Francia e Inghilterra contro la Russia servì a inserire la \"questione italia",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cavour e la politica piemontese?",
+      "rispostaCorretta": "1856",
+      "opzioni": [
+        "1851",
+        "1846",
+        "1854",
+        "1856"
+      ],
+      "spiegazione": "a.. La partecipazione alla Guerra di Crimea (1855-1856) al fianco di Francia e Inghilterra contro la Russia servì a inserire la \"questione italiana\" n",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cavour e la politica piemontese?",
+      "rispostaCorretta": "1858",
+      "opzioni": [
+        "1856",
+        "1858",
+        "1853",
+        "1848"
+      ],
+      "spiegazione": "ro diplomatico fu l'accordo di Plombières (luglio 1858) con Napoleone III: in cambio di Nizza e Savoia, la Francia si impegnava ad aiutare il Piemonte",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cavour e la politica piemontese?",
+      "rispostaCorretta": "1859",
+      "opzioni": [
+        "1849",
+        "1854",
+        "1857",
+        "1859"
+      ],
+      "spiegazione": "lta Italia.. La guerra fu provocata abilmente nel 1859: l'Austria, spinta dalle provocazioni piemontesi, dichiarò guerra, permettendo l'intervento fra",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cavour e la politica piemontese?",
+      "rispostaCorretta": "1860",
+      "opzioni": [
+        "1860",
+        "1858",
+        "1850",
+        "1855"
+      ],
+      "spiegazione": "Cavour si dimise furioso, ma tornò al potere nel 1860 per gestire la crisi delle annessioni dell'Italia centrale e l'impresa dei Mille, trasformando",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Cavour e la politica piemontese?",
+      "rispostaCorretta": "politica",
+      "opzioni": [
+        "morte",
+        "amore",
+        "politica",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del politica è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Cavour e la politica piemontese?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "guerra",
+        "morte"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Camillo Benso nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "Camillo Benso conte di Cavour rappresentò la figura chiave del processo di unificazione italiana, in",
+      "livello": "intermedio",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Al Congresso nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "personaggio secondario",
+        "antagonista"
+      ],
+      "spiegazione": "aliana\" nell'agenda europea.. Al Congresso di Parigi del 1856, Cavour denunciò la situazione italiana, guadagnando l'attenzione in",
+      "livello": "intermedio",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Divenuto primo ministro del Regno di Sardegna nel 1852, Cavour perseguì una strategia articolata su più fronti.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne La Seconda Guerra d'Indipendenza e l'impresa dei Mille?",
+      "rispostaCorretta": "1859",
+      "opzioni": [
+        "1859",
+        "1849",
+        "1857",
+        "1854"
+      ],
+      "spiegazione": "La Seconda Guerra d'Indipendenza (aprile-luglio 1859) fu il momento decisivo del processo unitario. Dopo l'armistizio di Villafranca, che aveva delu",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne La Seconda Guerra d'Indipendenza e l'impresa dei Mille?",
+      "rispostaCorretta": "1860",
+      "opzioni": [
+        "1855",
+        "1860",
+        "1858",
+        "1850"
+      ],
+      "spiegazione": "l Piemonte. Cavour, tornato al potere nel gennaio 1860 e organizzò plebisciti che sancirono le annessioni, cedendo in cambio Nizza e Savoia alla Franc",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne La Seconda Guerra d'Indipendenza e l'impresa dei Mille?",
+      "rispostaCorretta": "1861",
+      "opzioni": [
+        "1859",
+        "1851",
+        "1856",
+        "1861"
+      ],
+      "spiegazione": "ue Sicilie confermarono l'annessione. Il 17 marzo 1861 fu proclamato il Regno d'Italia con Vittorio Emanuele II re, Torino capitale, lo Statuto Albert",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente La Seconda Guerra d'Indipendenza e l'impresa dei Mille?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "guerra"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Seconda nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "narratore",
+        "protagonista principale",
+        "personaggio secondario"
+      ],
+      "spiegazione": "La Seconda Guerra d'Indipendenza (aprile-luglio 1859) fu il momento decisivo del processo unitario.",
+      "livello": "intermedio",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Due Sicilie nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "dato. Intanto nel Regno delle Due Sicilie la situazione era esplosiva include la rivolta di Palermo dell'aprile 1860 fu l'occasion",
+      "livello": "intermedio",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La Seconda Guerra d'Indipendenza (aprile-luglio 1859) fu il momento decisivo del processo unitario.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Intanto nel Regno delle Due Sicilie la situazione era esplosiva include la rivolta di Palermo dell'aprile 1860 fu l'occasione per l'impresa dei Mille.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il completamento dell'unità: Veneto e Roma?",
+      "rispostaCorretta": "1866",
+      "opzioni": [
+        "1866",
+        "1864",
+        "1856",
+        "1861"
+      ],
+      "spiegazione": "lizzò in due tappe: l'acquisizione del Veneto nel 1866 e di Roma nel 1870. La Terza Guerra d'Indipendenza (1866) fu combattuta in alleanza con la Prus",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il completamento dell'unità: Veneto e Roma?",
+      "rispostaCorretta": "1870",
+      "opzioni": [
+        "1870",
+        "1860",
+        "1865",
+        "1868"
+      ],
+      "spiegazione": "l'acquisizione del Veneto nel 1866 e di Roma nel 1870. La Terza Guerra d'Indipendenza (1866) fu combattuta in alleanza con la Prussia contro l'Austri",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il completamento dell'unità: Veneto e Roma?",
+      "rispostaCorretta": "1862",
+      "opzioni": [
+        "1857",
+        "1852",
+        "1860",
+        "1862"
+      ],
+      "spiegazione": "baldini di prendere Roma con la forza (Aspromonte 1862, Mentana 1867) furono bloccati proprio dai francesi.. La svolta venne con la guerra franco-prus",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il completamento dell'unità: Veneto e Roma?",
+      "rispostaCorretta": "1867",
+      "opzioni": [
+        "1865",
+        "1867",
+        "1857",
+        "1862"
+      ],
+      "spiegazione": "ndere Roma con la forza (Aspromonte 1862, Mentana 1867) furono bloccati proprio dai francesi.. La svolta venne con la guerra franco-prussiana del 1870",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il completamento dell'unità: Veneto e Roma?",
+      "rispostaCorretta": "1871",
+      "opzioni": [
+        "1869",
+        "1866",
+        "1861",
+        "1871"
+      ],
+      "spiegazione": "ntificie.. Un plebiscito sancì l'annessione e nel 1871 Roma divenne capitale del Regno.. Per regolare i rapporti con la Santa Sede fu emanata la legge",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il completamento dell'unità: Veneto e Roma?",
+      "rispostaCorretta": "1929",
+      "opzioni": [
+        "1919",
+        "1924",
+        "1927",
+        "1929"
+      ],
+      "spiegazione": "a politica italiana fino ai Patti Lateranensi del 1929.. Con Roma capitale, l'unità territoriale era completata, anche se rimanevano irredente Trento,",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il completamento dell'unità: Veneto e Roma?",
+      "rispostaCorretta": "politica",
+      "opzioni": [
+        "politica",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del politica è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il completamento dell'unità: Veneto e Roma?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "guerra",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Terza nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "nel 1866 e di Roma nel 1870. La Terza Guerra d'Indipendenza (1866) fu combattuta in alleanza con la Prussia contro l'Austria nel",
+      "livello": "intermedio",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Porta Pia nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "Roma attraverso la breccia di Porta Pia, dopo una resistenza simbolica delle truppe pontificie.. Un plebiscito sancì l'annessione",
+      "livello": "intermedio",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il completamento dell'unità italiana si realizzò in due tappe: l'acquisizione del Veneto nel 1866 e di Roma nel 1870.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La Terza Guerra d'Indipendenza (1866) fu combattuta in alleanza con la Prussia contro l'Austria nel quadro della guerra austro-prussiana.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Risorgimento e Unità d'Italia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cause, e scoppio della Prima Guerra Mondiale?",
+      "rispostaCorretta": "1914",
+      "opzioni": [
+        "1912",
+        "1909",
+        "1904",
+        "1914"
+      ],
+      "spiegazione": "La Prima Guerra Mondiale (1914-1918) è fu il risultato di una complessa serie di cause profonde, e occasioni. Le cause struttu",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cause, e scoppio della Prima Guerra Mondiale?",
+      "rispostaCorretta": "1918",
+      "opzioni": [
+        "1916",
+        "1913",
+        "1908",
+        "1918"
+      ],
+      "spiegazione": "La Prima Guerra Mondiale (1914-1918) è fu il risultato di una complessa serie di cause profonde, e occasioni. Le cause strutturali",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Cause, e scoppio della Prima Guerra Mondiale?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "morte",
+        "amore",
+        "libertà",
+        "guerra"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Prima nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "La Prima Guerra Mondiale (1914-1918) è fu il risultato di una complessa serie di cause profonde, e o",
+      "livello": "intermedio",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Guerra Mondiale nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "La Prima Guerra Mondiale (1914-1918) è fu il risultato di una complessa serie di cause profonde, e occasioni.",
+      "livello": "intermedio",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La Prima Guerra Mondiale (1914-1918) è fu il risultato di una complessa serie di cause profonde, e occasioni.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "I nazionalismi aggressivi, specialmente nei Balcani dove l'Impero Austro-Ungarico e l'Impero Ottomano erano è in crisi.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne L'Italia dalla neutralità all'intervento?",
+      "rispostaCorretta": "1915",
+      "opzioni": [
+        "1905",
+        "1910",
+        "1913",
+        "1915"
+      ],
+      "spiegazione": "'Intesa, culminate nel Patto di Londra (26 aprile 1915): in cambio dell'intervento, l'Italia avrebbe ottenuto Trento, Trieste, l'Alto Adige, l'Istria,",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne L'Italia dalla neutralità all'intervento?",
+      "rispostaCorretta": "1916",
+      "opzioni": [
+        "1906",
+        "1914",
+        "1916",
+        "1911"
+      ],
+      "spiegazione": "ermania, con cui entrò in guerra solo nell'agosto 1916).. L'ingresso in guerra fu quindi deciso da una minoranza attiva contro la volontà della maggio",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente L'Italia dalla neutralità all'intervento?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "guerra",
+        "amore",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Triplice Alleanza nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "onostante facesse parte della Triplice Alleanza con Germania e Austria. Le ragioni erano molteplici include l'alleanza era difensi",
+      "livello": "intermedio",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Esteri Sonnino nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "Salandra e il ministro degli Esteri Sonnino condussero trattative segrete con l'Intesa, culminate nel Patto di Londra (26 aprile",
+      "livello": "intermedio",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Allo scoppio della guerra, l'Italia si dichiarò neutrale nonostante facesse parte della Triplice Alleanza con Germania e Austria.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Le ragioni erano molteplici include l'alleanza era difensiva mentre l'Austria aveva è attaccato.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne La guerra italiana e il dopoguerra?",
+      "rispostaCorretta": "1916",
+      "opzioni": [
+        "1916",
+        "1906",
+        "1911",
+        "1914"
+      ],
+      "spiegazione": "ce, con decimazioni e e fucilazioni sommarie. Nel 1916 l'Austria lanciò la Strafexpedition (spedizione punitiva) dall'altopiano di Asiago, fermata a f",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne La guerra italiana e il dopoguerra?",
+      "rispostaCorretta": "1917",
+      "opzioni": [
+        "1912",
+        "1915",
+        "1917",
+        "1907"
+      ],
+      "spiegazione": "a) dall'altopiano di Asiago, fermata a fatica. Il 1917 fu l'anno della crisi include disfatta di Caporetto (24 ottobre), con sfondamento austro-tedesc",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne La guerra italiana e il dopoguerra?",
+      "rispostaCorretta": "1918",
+      "opzioni": [
+        "1908",
+        "1918",
+        "1916",
+        "1913"
+      ],
+      "spiegazione": "SA entravano in guerra a fianco dell'Intesa.. Nel 1918 l'offensiva austriaca sul Piave (giugno) fu respinta; in ottobre l'Italia lanciò l'offensiva fi",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne La guerra italiana e il dopoguerra?",
+      "rispostaCorretta": "600",
+      "opzioni": [
+        "600",
+        "590",
+        "595",
+        "598"
+      ],
+      "spiegazione": "ento e Trieste.. La guerra era costata all'Italia 600.000 morti e un milione di feriti.. Al tavolo di pace di Versailles (1919), il presidente USA Wil",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne La guerra italiana e il dopoguerra?",
+      "rispostaCorretta": "000",
+      "opzioni": [
+        "-10",
+        "000",
+        "-5",
+        "-2"
+      ],
+      "spiegazione": "e Trieste.. La guerra era costata all'Italia 600.000 morti e un milione di feriti.. Al tavolo di pace di Versailles (1919), il presidente USA Wilson",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne La guerra italiana e il dopoguerra?",
+      "rispostaCorretta": "1919",
+      "opzioni": [
+        "1919",
+        "1914",
+        "1917",
+        "1909"
+      ],
+      "spiegazione": "ione di feriti.. Al tavolo di pace di Versailles (1919), il presidente USA Wilson si oppose alle richieste italiane sulla Dalmazia previste dal Patto",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne La guerra italiana e il dopoguerra?",
+      "rispostaCorretta": "1920",
+      "opzioni": [
+        "1915",
+        "1920",
+        "1910",
+        "1918"
+      ],
+      "spiegazione": "oni operaie, e contadine del \"biennio rosso\" 1919-1920), creò le condizioni per l'ascesa del fascismo",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente La guerra italiana e il dopoguerra?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "tempo"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente La guerra italiana e il dopoguerra?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "guerra",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente La guerra italiana e il dopoguerra?",
+      "rispostaCorretta": "pace",
+      "opzioni": [
+        "amore",
+        "pace",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del pace è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Luigi Cadorna nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "protagonista principale",
+        "antagonista",
+        "narratore"
+      ],
+      "spiegazione": "na e e trincea. Il comandante Luigi Cadorna impose è una strategia di offensive frontali suicide che costarono centinaia di miglia",
+      "livello": "intermedio",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Armando Diaz nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "protagonista principale",
+        "narratore",
+        "personaggio secondario"
+      ],
+      "spiegazione": "ave. Cadorna fu sostituito da Armando Diaz, che riorganizzò l'esercito puntando sul morale e la difesa. La resistenza sul Piave (\"",
+      "livello": "intermedio",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La guerra dell'Italia si combatté principalmente sul fronte dell'Isonzo, , sugli altipiani e in condizioni durissime di alta montagna e e trincea.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il comandante Luigi Cadorna impose è una strategia di offensive frontali suicide che costarono centinaia di migliaia di vite per guadagni minimi.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il fascismo italiano?",
+      "rispostaCorretta": "1919",
+      "opzioni": [
+        "1919",
+        "1909",
+        "1917",
+        "1914"
+      ],
+      "spiegazione": "ntista e fondò i Fasci di combattimento nel marzo 1919 a Milano. Inizialmente il movimento aveva un programma confuso, misto di elementi nazionalisti,",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il fascismo italiano?",
+      "rispostaCorretta": "1920",
+      "opzioni": [
+        "1910",
+        "1915",
+        "1920",
+        "1918"
+      ],
+      "spiegazione": "ari e e repubblicani. Il vero decollo avvenne nel 1920-1921 con le squadre d'azione che, finanziate da agrari, e industriali e attaccarono sistematica",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il fascismo italiano?",
+      "rispostaCorretta": "1921",
+      "opzioni": [
+        "1921",
+        "1919",
+        "1911",
+        "1916"
+      ],
+      "spiegazione": "e repubblicani. Il vero decollo avvenne nel 1920-1921 con le squadre d'azione che, finanziate da agrari, e industriali e attaccarono sistematicamente",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il fascismo italiano?",
+      "rispostaCorretta": "1922",
+      "opzioni": [
+        "1922",
+        "1912",
+        "1917",
+        "1920"
+      ],
+      "spiegazione": "ceti conservatori. La marcia su Roma (28 ottobre 1922) fu più una manifestazione di forza che una vera insurrezione include il re Vittorio Emanuele I",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il fascismo italiano?",
+      "rispostaCorretta": "1924",
+      "opzioni": [
+        "1914",
+        "1922",
+        "1924",
+        "1919"
+      ],
+      "spiegazione": "uzionale, ma dopo il delitto Matteotti (10 giugno 1924) e quando il deputato socialista Giacomo Matteotti che aveva denunciato le violenze fasciste fu",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il fascismo italiano?",
+      "rispostaCorretta": "1925",
+      "opzioni": [
+        "1925",
+        "1915",
+        "1920",
+        "1923"
+      ],
+      "spiegazione": "el governo, ma il re non intervenne. Il 3 gennaio 1925 Mussolini con un discorso alla Camera si assunse la responsabilità politica dell'accaduto e e a",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il fascismo italiano?",
+      "rispostaCorretta": "1926",
+      "opzioni": [
+        "1916",
+        "1924",
+        "1926",
+        "1921"
+      ],
+      "spiegazione": "e annunciò la svolta autoritaria. Tra il 1925, il 1926 furono emanate le leggi fascistissime che instaurarono la dittatura include soppressione dei pa",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il fascismo italiano?",
+      "rispostaCorretta": "1929",
+      "opzioni": [
+        "1929",
+        "1919",
+        "1924",
+        "1927"
+      ],
+      "spiegazione": "lla propaganda capillare. I Patti Lateranensi del 1929 con la Chiesa diedero è al regime un importante sostegno. Negli anni Trenta il regime cercò con",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il fascismo italiano?",
+      "rispostaCorretta": "1935",
+      "opzioni": [
+        "1933",
+        "1925",
+        "1935",
+        "1930"
+      ],
+      "spiegazione": "ografica, e coloniale. L'aggressione all'Etiopia (1935-1936) è e la proclamazione dell'Impero diedero a Mussolini il massimo di popolarità. L'alleanza",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il fascismo italiano?",
+      "rispostaCorretta": "1936",
+      "opzioni": [
+        "1934",
+        "1931",
+        "1926",
+        "1936"
+      ],
+      "spiegazione": "ica, e coloniale. L'aggressione all'Etiopia (1935-1936) è e la proclamazione dell'Impero diedero a Mussolini il massimo di popolarità. L'alleanza con",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il fascismo italiano?",
+      "rispostaCorretta": "1938",
+      "opzioni": [
+        "1938",
+        "1928",
+        "1933",
+        "1936"
+      ],
+      "spiegazione": "a con la Germania nazista e le leggi razziali del 1938 contro gli ebrei, l'entrata nella Seconda Guerra Mondiale nel 1940 portarono il regime al disas",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il fascismo italiano?",
+      "rispostaCorretta": "1940",
+      "opzioni": [
+        "1938",
+        "1940",
+        "1930",
+        "1935"
+      ],
+      "spiegazione": "brei, l'entrata nella Seconda Guerra Mondiale nel 1940 portarono il regime al disastro.",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il fascismo italiano?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "morte",
+        "amore",
+        "patria",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il fascismo italiano?",
+      "rispostaCorretta": "politica",
+      "opzioni": [
+        "politica",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del politica è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il fascismo italiano?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "guerra"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Benito Mussolini nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "risi del dopoguerra italiano. Benito Mussolini, ex socialista interventista e fondò i Fasci di combattimento nel marzo 1919 a Mila",
+      "livello": "intermedio",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Partito Nazionale nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "narratore",
+        "personaggio secondario"
+      ],
+      "spiegazione": "ini trasformò il movimento in Partito Nazionale Fascista e è abbandonando il repubblicanesimo, e alleandosi con la monarchia e i c",
+      "livello": "intermedio",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il fascismo è nacque nel clima di crisi del dopoguerra italiano.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Benito Mussolini, ex socialista interventista e fondò i Fasci di combattimento nel marzo 1919 a Milano.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il nazismo tedesco?",
+      "rispostaCorretta": "1919",
+      "opzioni": [
+        "1917",
+        "1914",
+        "1909",
+        "1919"
+      ],
+      "spiegazione": "e veterano della Prima Guerra Mondiale, aderì nel 1919 al piccolo Partito Nazionalsocialista dei Lavoratori Tedeschi (NSDAP) e di cui divenne rapidame",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il nazismo tedesco?",
+      "rispostaCorretta": "1923",
+      "opzioni": [
+        "1918",
+        "1913",
+        "1923",
+        "1921"
+      ],
+      "spiegazione": "lles. Il tentativo di colpo di stato a Monaco nel 1923 (putsch della birreria) fallì e Hitler fu imprigionato, periodo in cui scrisse il Mein Kampf (L",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il nazismo tedesco?",
+      "rispostaCorretta": "1929",
+      "opzioni": [
+        "1924",
+        "1919",
+        "1927",
+        "1929"
+      ],
+      "spiegazione": "il partito su basi legali. La crisi economica del 1929, che colpì duramente la Germania con sei milioni di disoccupati e fu l'occasione decisiva. Il n",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il nazismo tedesco?",
+      "rispostaCorretta": "1932",
+      "opzioni": [
+        "1930",
+        "1927",
+        "1922",
+        "1932"
+      ],
+      "spiegazione": "lavoro e rinascita nazionale. Nelle elezioni del 1932 divenne il primo partito. Il 30 gennaio 1933 il presidente Hindenburg nominò Hitler cancelliere",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il nazismo tedesco?",
+      "rispostaCorretta": "1933",
+      "opzioni": [
+        "1933",
+        "1923",
+        "1928",
+        "1931"
+      ],
+      "spiegazione": "del 1932 divenne il primo partito. Il 30 gennaio 1933 il presidente Hindenburg nominò Hitler cancelliere è e sperando di controllarlo. Hitler invece",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il nazismo tedesco?",
+      "rispostaCorretta": "1934",
+      "opzioni": [
+        "1929",
+        "1932",
+        "1924",
+        "1934"
+      ],
+      "spiegazione": "teri. Con la Notte dei lunghi coltelli (30 giugno 1934) eliminò le SA e il loro capo Röhm. Alla morte di Hindenburg (agosto 1934) Hitler assunse anche",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il nazismo tedesco?",
+      "rispostaCorretta": "1935",
+      "opzioni": [
+        "1930",
+        "1925",
+        "1935",
+        "1933"
+      ],
+      "spiegazione": "ale del nazismo furono le leggi di Norimberga del 1935 che privarono gli ebrei di ogni diritto, la Notte dei cristalli (novembre 1938) con la distruzi",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il nazismo tedesco?",
+      "rispostaCorretta": "1938",
+      "opzioni": [
+        "1936",
+        "1933",
+        "1928",
+        "1938"
+      ],
+      "spiegazione": "di ogni diritto, la Notte dei cristalli (novembre 1938) con la distruzione di sinagoghe, e negozi ebraici, e soprattutto la Soluzione Finale della que",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il nazismo tedesco?",
+      "rispostaCorretta": "1942",
+      "opzioni": [
+        "1942",
+        "1932",
+        "1937",
+        "1940"
+      ],
+      "spiegazione": "zione Finale della questione ebraica e decisa nel 1942: lo sterminio sistematico di sei milioni di ebrei nei campi di morte come Auschwitz, Treblinka,",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il nazismo tedesco?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "amore",
+        "libertà",
+        "patria",
+        "morte"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il nazismo tedesco?",
+      "rispostaCorretta": "politica",
+      "opzioni": [
+        "amore",
+        "morte",
+        "politica",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del politica è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il nazismo tedesco?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "morte",
+        "guerra",
+        "libertà",
+        "amore"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Adolf Hitler nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "e, e criminale del Novecento. Adolf Hitler, austriaco trasferito a Monaco e veterano della Prima Guerra Mondiale, aderì nel 1919 a",
+      "livello": "intermedio",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Prima Guerra nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "ito a Monaco e veterano della Prima Guerra Mondiale, aderì nel 1919 al piccolo Partito Nazionalsocialista dei Lavoratori Tedeschi",
+      "livello": "intermedio",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il nazionalsocialismo tedesco fu il regime totalitario più radicale, e criminale del Novecento.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Uscito di prigione e ricostruì il partito su basi legali.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Totalitarismi del Novecento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cause, e fasi della Seconda Guerra Mondiale?",
+      "rispostaCorretta": "1939",
+      "opzioni": [
+        "1937",
+        "1939",
+        "1929",
+        "1934"
+      ],
+      "spiegazione": "La Seconda Guerra Mondiale (1939-1945) è fu il conflitto più devastante della storia, con oltre 50 milioni di morti. Le cause fu",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cause, e fasi della Seconda Guerra Mondiale?",
+      "rispostaCorretta": "1945",
+      "opzioni": [
+        "1943",
+        "1940",
+        "1935",
+        "1945"
+      ],
+      "spiegazione": "La Seconda Guerra Mondiale (1939-1945) è fu il conflitto più devastante della storia, con oltre 50 milioni di morti. Le cause furono",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cause, e fasi della Seconda Guerra Mondiale?",
+      "rispostaCorretta": "1938",
+      "opzioni": [
+        "1933",
+        "1936",
+        "1928",
+        "1938"
+      ],
+      "spiegazione": "politica aggressiva di Hitler (annessione Austria 1938, Sudeti 1938, invasione Cecoslovacchia marzo 1939), l'inefficacia dell'appeasement franco-brita",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cause, e fasi della Seconda Guerra Mondiale?",
+      "rispostaCorretta": "1941",
+      "opzioni": [
+        "1936",
+        "1931",
+        "1939",
+        "1941"
+      ],
+      "spiegazione": "etagna dichiararono è guerra. La prima fase (1939-1941) vide trionfi tedeschi comprende Polonia conquistata in tre settimane con la guerra lampo, Dani",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cause, e fasi della Seconda Guerra Mondiale?",
+      "rispostaCorretta": "1940",
+      "opzioni": [
+        "1930",
+        "1938",
+        "1935",
+        "1940"
+      ],
+      "spiegazione": "po, Danimarca e Norvegia occupate nella primavera 1940, Francia sconfitta in sei settimane (giugno 1940) con l'armistizio che creava un governo collab",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cause, e fasi della Seconda Guerra Mondiale?",
+      "rispostaCorretta": "1943",
+      "opzioni": [
+        "1943",
+        "1933",
+        "1938",
+        "1941"
+      ],
+      "spiegazione": "Africa furono è disastrose. La seconda fase (1941-1943) iniziò con l'Operazione Barbarossa include invasione tedesca dell'URSS (22 giugno 1941) che se",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cause, e fasi della Seconda Guerra Mondiale?",
+      "rispostaCorretta": "1942",
+      "opzioni": [
+        "1942",
+        "1932",
+        "1937",
+        "1940"
+      ],
+      "spiegazione": "bor (7 dicembre 1941) portò gli USA in guerra. Il 1942 segnò la svolta include sconfitta tedesca a Stalingrado e sconfitta italo-tedesca a El-Alamein,",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cause, e fasi della Seconda Guerra Mondiale?",
+      "rispostaCorretta": "1944",
+      "opzioni": [
+        "1944",
+        "1934",
+        "1939",
+        "1942"
+      ],
+      "spiegazione": "bblica Sociale Italiana al è nord. La terza fase (1944-1945) vide l'avanzata alleata include sbarco in Normandia (6 giugno 1944), liberazione di Parig",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Cause, e fasi della Seconda Guerra Mondiale?",
+      "rispostaCorretta": "politica",
+      "opzioni": [
+        "politica",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del politica è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Cause, e fasi della Seconda Guerra Mondiale?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "guerra"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Seconda nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "personaggio secondario",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "La Seconda Guerra Mondiale (1939-1945) è fu il conflitto più devastante della storia, con oltre 50 m",
+      "livello": "intermedio",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Guerra Mondiale nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "La Seconda Guerra Mondiale (1939-1945) è fu il conflitto più devastante della storia, con oltre 50 milioni di m",
+      "livello": "intermedio",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La Seconda Guerra Mondiale (1939-1945) è fu il conflitto più devastante della storia, con oltre 50 milioni di morti.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il 1 settembre 1939 la Germania invase la Polonia; Francia e Gran Bretagna dichiararono è guerra.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Blocchi contrapposti, e crisi di Berlino?",
+      "rispostaCorretta": "1947",
+      "opzioni": [
+        "1942",
+        "1937",
+        "1947",
+        "1945"
+      ],
+      "spiegazione": "Guerra fredda (1947-1991) è confronto globale tra USA e URSS senza scontro militare diretto. Dopo Seconda Guerra Mo",
+      "livello": "base",
+      "argomento": "Guerra fredda",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Blocchi contrapposti, e crisi di Berlino?",
+      "rispostaCorretta": "1991",
+      "opzioni": [
+        "1991",
+        "1981",
+        "1986",
+        "1989"
+      ],
+      "spiegazione": "Guerra fredda (1947-1991) è confronto globale tra USA e URSS senza scontro militare diretto. Dopo Seconda Guerra Mondial",
+      "livello": "base",
+      "argomento": "Guerra fredda",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Blocchi contrapposti, e crisi di Berlino?",
+      "rispostaCorretta": "1949",
+      "opzioni": [
+        "1949",
+        "1947",
+        "1939",
+        "1944"
+      ],
+      "spiegazione": "ntale per ricostruire, e impedire comunismo. NATO 1949: alleanza militare occidentale. URSS risponde con Patto Varsavia 1955. Germania divisa comprend",
+      "livello": "base",
+      "argomento": "Guerra fredda",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Blocchi contrapposti, e crisi di Berlino?",
+      "rispostaCorretta": "1955",
+      "opzioni": [
+        "1953",
+        "1950",
+        "1945",
+        "1955"
+      ],
+      "spiegazione": "are occidentale. URSS risponde con Patto Varsavia 1955. Germania divisa comprende RFT occidentale e RDT comunista. Berlino simbolo divisione include c",
+      "livello": "base",
+      "argomento": "Guerra fredda",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Blocchi contrapposti, e crisi di Berlino?",
+      "rispostaCorretta": "1948",
+      "opzioni": [
+        "1948",
+        "1946",
+        "1938",
+        "1943"
+      ],
+      "spiegazione": "imbolo divisione include città divisa in settori, 1948-49 blocco sovietico, ponte aereo americano. 1961 costruzione Muro Berlino per impedire fughe da",
+      "livello": "base",
+      "argomento": "Guerra fredda",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Blocchi contrapposti, e crisi di Berlino?",
+      "rispostaCorretta": "1961",
+      "opzioni": [
+        "1961",
+        "1951",
+        "1956",
+        "1959"
+      ],
+      "spiegazione": "1948-49 blocco sovietico, ponte aereo americano. 1961 costruzione Muro Berlino per impedire fughe da Est a Ovest. Muro diventa simbolo Guerra fredda",
+      "livello": "base",
+      "argomento": "Guerra fredda",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Blocchi contrapposti, e crisi di Berlino?",
+      "rispostaCorretta": "1989",
+      "opzioni": [
+        "1979",
+        "1987",
+        "1984",
+        "1989"
+      ],
+      "spiegazione": ". Muro diventa simbolo Guerra fredda e cadrà solo 1989. Crisi Cuba 1962: missili sovietici a Cuba, Kennedy blocco navale, rischio guerra nucleare e ac",
+      "livello": "base",
+      "argomento": "Guerra fredda",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Blocchi contrapposti, e crisi di Berlino?",
+      "rispostaCorretta": "1962",
+      "opzioni": [
+        "1960",
+        "1957",
+        "1952",
+        "1962"
+      ],
+      "spiegazione": "mbolo Guerra fredda e cadrà solo 1989. Crisi Cuba 1962: missili sovietici a Cuba, Kennedy blocco navale, rischio guerra nucleare e accordo ritiro miss",
+      "livello": "base",
+      "argomento": "Guerra fredda",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Blocchi contrapposti, e crisi di Berlino?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "amore",
+        "guerra",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Guerra fredda",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Dopo Seconda nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "nza scontro militare diretto. Dopo Seconda Guerra Mondiale mondo diviso in due blocchi comprende Occidente capitalista guidato da",
+      "livello": "intermedio",
+      "argomento": "Guerra fredda",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Guerra Mondiale nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "ilitare diretto. Dopo Seconda Guerra Mondiale mondo diviso in due blocchi comprende Occidente capitalista guidato da USA, Est comu",
+      "livello": "intermedio",
+      "argomento": "Guerra fredda",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Guerra fredda (1947-1991) è confronto globale tra USA e URSS senza scontro militare diretto.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Guerra fredda",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Dopo Seconda Guerra Mondiale mondo diviso in due blocchi comprende Occidente capitalista guidato da USA, Est comunista guidato da URSS.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Guerra fredda",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Costituzione, e primo dopoguerra?",
+      "rispostaCorretta": "1945",
+      "opzioni": [
+        "1940",
+        "1935",
+        "1945",
+        "1943"
+      ],
+      "spiegazione": "Dopo Liberazione 1945 Italia sceglie forma stato con referendum 2 giugno 1946: repubblica vince 54% contro monarchia,",
+      "livello": "base",
+      "argomento": "Italia repubblicana",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Costituzione, e primo dopoguerra?",
+      "rispostaCorretta": "1946",
+      "opzioni": [
+        "1941",
+        "1936",
+        "1944",
+        "1946"
+      ],
+      "spiegazione": "talia sceglie forma stato con referendum 2 giugno 1946: repubblica vince 54% contro monarchia, fine Savoia. Assemblea Costituente eletta 1946 redige C",
+      "livello": "base",
+      "argomento": "Italia repubblicana",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Costituzione, e primo dopoguerra?",
+      "rispostaCorretta": "1947",
+      "opzioni": [
+        "1942",
+        "1937",
+        "1945",
+        "1947"
+      ],
+      "spiegazione": "ituente eletta 1946 redige Costituzione approvata 1947 e in vigore 1 gennaio 1948. Costituzione democratica e antifascista, fondata su lavoro. Princip",
+      "livello": "base",
+      "argomento": "Italia repubblicana",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Costituzione, e primo dopoguerra?",
+      "rispostaCorretta": "1948",
+      "opzioni": [
+        "1948",
+        "1938",
+        "1943",
+        "1946"
+      ],
+      "spiegazione": "Costituzione approvata 1947 e in vigore 1 gennaio 1948. Costituzione democratica e antifascista, fondata su lavoro. Principi fondamentali include sovr",
+      "livello": "base",
+      "argomento": "Italia repubblicana",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Costituzione, e primo dopoguerra?",
+      "rispostaCorretta": "1958",
+      "opzioni": [
+        "1958",
+        "1948",
+        "1953",
+        "1956"
+      ],
+      "spiegazione": "no Marshall e industria, Fiat, miracolo economico 1958-63. Emigrazione Sud-Nord. Contestazione studentesca e e operaia 1968-69. Anni di piombo 1970-80",
+      "livello": "base",
+      "argomento": "Italia repubblicana",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Costituzione, e primo dopoguerra?",
+      "rispostaCorretta": "1968",
+      "opzioni": [
+        "1966",
+        "1963",
+        "1958",
+        "1968"
+      ],
+      "spiegazione": "e Sud-Nord. Contestazione studentesca e e operaia 1968-69. Anni di piombo 1970-80: terrorismo rosso (Brigate Rosse), nero e strage Piazza Fontana 1969",
+      "livello": "base",
+      "argomento": "Italia repubblicana",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Costituzione, e primo dopoguerra?",
+      "rispostaCorretta": "1970",
+      "opzioni": [
+        "1960",
+        "1965",
+        "1968",
+        "1970"
+      ],
+      "spiegazione": "e studentesca e e operaia 1968-69. Anni di piombo 1970-80: terrorismo rosso (Brigate Rosse), nero e strage Piazza Fontana 1969, rapimento Moro 1978. C",
+      "livello": "base",
+      "argomento": "Italia repubblicana",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Costituzione, e primo dopoguerra?",
+      "rispostaCorretta": "1969",
+      "opzioni": [
+        "1969",
+        "1967",
+        "1964",
+        "1959"
+      ],
+      "spiegazione": "sso (Brigate Rosse), nero e strage Piazza Fontana 1969, rapimento Moro 1978. Compromesso storico DC-PCI fallisce. Tangentopoli 1992: inchiesta Mani Pu",
+      "livello": "base",
+      "argomento": "Italia repubblicana",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Costituzione, e primo dopoguerra?",
+      "rispostaCorretta": "1978",
+      "opzioni": [
+        "1973",
+        "1968",
+        "1976",
+        "1978"
+      ],
+      "spiegazione": "nero e strage Piazza Fontana 1969, rapimento Moro 1978. Compromesso storico DC-PCI fallisce. Tangentopoli 1992: inchiesta Mani Pulite scopre corruzion",
+      "livello": "base",
+      "argomento": "Italia repubblicana",
+      "materia": "storia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Costituzione, e primo dopoguerra?",
+      "rispostaCorretta": "1992",
+      "opzioni": [
+        "1992",
+        "1982",
+        "1987",
+        "1990"
+      ],
+      "spiegazione": "Compromesso storico DC-PCI fallisce. Tangentopoli 1992: inchiesta Mani Pulite scopre corruzione, fine Prima Repubblica, crollo DC e PSI. Seconda Repub",
+      "livello": "base",
+      "argomento": "Italia repubblicana",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Costituzione, e primo dopoguerra?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "amore",
+        "libertà",
+        "patria",
+        "morte"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Italia repubblicana",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Dopo Liberazione nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "Dopo Liberazione 1945 Italia sceglie forma stato con referendum 2 giugno 1946: repubblica vince 54%",
+      "livello": "intermedio",
+      "argomento": "Italia repubblicana",
+      "materia": "storia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Assemblea Costituente nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "ontro monarchia, fine Savoia. Assemblea Costituente eletta 1946 redige Costituzione approvata 1947 e in vigore 1 gennaio 1948. Cos",
+      "livello": "intermedio",
+      "argomento": "Italia repubblicana",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Dopo Liberazione 1945 Italia sceglie forma stato con referendum 2 giugno 1946: repubblica vince 54% contro monarchia, fine Savoia.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Italia repubblicana",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Assemblea Costituente eletta 1946 redige Costituzione approvata 1947 e in vigore 1 gennaio 1948.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Italia repubblicana",
+      "materia": "storia"
+    }
+  ]
+}

@@ -1,0 +1,5390 @@
+{
+  "materia": "italiano",
+  "totale": 370,
+  "quiz": [
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e formazione culturale?",
+      "rispostaCorretta": "1778",
+      "opzioni": [
+        "1778",
+        "1768",
+        "1773",
+        "1776"
+      ],
+      "spiegazione": "Ugo Foscolo nasce nel 1778 a Zante, isola greca sotto dominio veneziano, da padre veneziano e madre greca. Questa doppia o",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e formazione culturale?",
+      "rispostaCorretta": "1788",
+      "opzioni": [
+        "1786",
+        "1788",
+        "1783",
+        "1778"
+      ],
+      "spiegazione": "e istanze romantiche. Dopo la morte del padre nel 1788, si trasferisce a Venezia dove entra in contatto con l'ambiente culturale illuminista, frequent",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e formazione culturale?",
+      "rispostaCorretta": "1797",
+      "opzioni": [
+        "1797",
+        "1787",
+        "1792",
+        "1795"
+      ],
+      "spiegazione": "one il liberatore. Il Trattato di Campoformio del 1797, con cui Napoleone cede Venezia all'Austria, rappresenta una delusione cocente che lo porta a s",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e formazione culturale?",
+      "rispostaCorretta": "1827",
+      "opzioni": [
+        "1825",
+        "1817",
+        "1827",
+        "1822"
+      ],
+      "spiegazione": "ancia, Inghilterra. Muore in povertà a Londra nel 1827. La formazione culturale è eclettica: studia gli illuministi francesi, i classici greci e latin",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e formazione culturale?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "patria",
+        "morte",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e formazione culturale?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "libertà",
+        "patria",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e formazione culturale?",
+      "rispostaCorretta": "patria",
+      "opzioni": [
+        "amore",
+        "patria",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del patria è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Ugo Foscolo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "Ugo Foscolo nasce nel 1778 a Zante, isola greca sotto dominio veneziano, da padre veneziano e madre",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Melchiorre Cesarotti nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "ari e stringendo amicizia con Melchiorre Cesarotti. Qui abbraccia con entusiasmo gli ideali della Rivoluzione francese, vedendo in",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Ugo Foscolo nasce nel 1778 a Zante, isola greca sotto dominio veneziano, da padre veneziano e madre greca.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Questa doppia origine segna profondamente la sua identità, facendone un ponte tra la tradizione classica e le nuove istanze romantiche.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Ideali neoclassici e sensibilità preromantica?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "morte",
+        "libertà",
+        "amore",
+        "patria"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Ideali neoclassici e sensibilità preromantica?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "morte",
+        "amore",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Ideali neoclassici e sensibilità preromantica?",
+      "rispostaCorretta": "memoria",
+      "opzioni": [
+        "memoria",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del memoria è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Dal Neoclassicismo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "lassicismo e Preromanticismo. Dal Neoclassicismo deriva l'amore per la bellezza classica, l'armonia delle forme, l'imitazione dei",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Le Grazie nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "nulla. Nell'opera incompiuta Le Grazie, le tre dee (Venere, Vesta, Pallade) rappresentano valori estetici ed etici che temperano",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Foscolo incarna la sintesi perfetta tra Neoclassicismo e Preromanticismo.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La bellezza assume una funzione civilizzatrice: addolcisce i costumi e consola dall'orrore del nulla.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno fu pubblicata Ultime lettere di Jacopo Ortis?",
+      "rispostaCorretta": "1802",
+      "opzioni": [
+        "1802",
+        "1792",
+        "1797",
+        "1800"
+      ],
+      "spiegazione": "po Ortis, pubblicato nell'edizione definitiva del 1802, è il primo romanzo epistolare italiano moderno, ispirato ai Dolori del giovane Werther di Goet",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Ultime lettere di Jacopo Ortis?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "amore",
+        "morte",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Ultime lettere di Jacopo Ortis?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "patria",
+        "morte"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Ultime lettere di Jacopo Ortis?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "libertà",
+        "patria",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Le Ultime nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "Le Ultime lettere di Jacopo Ortis, pubblicato nell'edizione definitiva del 1802, è il primo romanzo",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Jacopo Ortis nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "Le Ultime lettere di Jacopo Ortis, pubblicato nell'edizione definitiva del 1802, è il primo romanzo epistolare italiano m",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il romanzo intreccia magistralmente passione amorosa e passione politica, suicidio individuale e morte della patria.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno fu pubblicata I Sepolcri e poetica civile?",
+      "rispostaCorretta": "1807",
+      "opzioni": [
+        "1807",
+        "1797",
+        "1802",
+        "1805"
+      ],
+      "spiegazione": "I Sepolcri, pubblicato nel 1807, è un carme di 295 endecasillabi sciolti, capolavoro assoluto della poesia civile foscoliana. L",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno fu pubblicata I Sepolcri e poetica civile?",
+      "rispostaCorretta": "295",
+      "opzioni": [
+        "295",
+        "285",
+        "290",
+        "293"
+      ],
+      "spiegazione": "I Sepolcri, pubblicato nel 1807, è un carme di 295 endecasillabi sciolti, capolavoro assoluto della poesia civile foscoliana. L'occasione compositi",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I Sepolcri e poetica civile?",
+      "rispostaCorretta": "1804",
+      "opzioni": [
+        "1804",
+        "1794",
+        "1802",
+        "1799"
+      ],
+      "spiegazione": "ositiva è l'editto napoleonico di Saint-Cloud del 1804, che imponeva le sepolture fuori dalle mura cittadine in cimiteri uguali per tutti. Foscolo svi",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente I Sepolcri e poetica civile?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "amore",
+        "patria",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente I Sepolcri e poetica civile?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "patria",
+        "amore",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente I Sepolcri e poetica civile?",
+      "rispostaCorretta": "patria",
+      "opzioni": [
+        "patria",
+        "libertà",
+        "morte",
+        "amore"
+      ],
+      "spiegazione": "Il tema del patria è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Santa Croce nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale",
+        "narratore"
+      ],
+      "spiegazione": "non ha patria, alla chiesa di Santa Croce a Firenze, autentico tempio delle glorie italiane dove riposano Machiavelli, Michelangel",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "I Sepolcri, pubblicato nel 1807, è un carme di 295 endecasillabi sciolti, capolavoro assoluto della poesia civile foscoliana.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Foscolo sviluppa una riflessione complessa e articolata sul significato delle tombe.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Le odi e i sonetti?",
+      "rispostaCorretta": "1798",
+      "opzioni": [
+        "1798",
+        "1796",
+        "1788",
+        "1793"
+      ],
+      "spiegazione": "I dodici sonetti maggiori, composti tra il 1798 e il 1803, rappresentano il vertice assoluto della lirica foscoliana. 'Alla sera' esprime il de",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Le odi e i sonetti?",
+      "rispostaCorretta": "1803",
+      "opzioni": [
+        "1803",
+        "1793",
+        "1798",
+        "1801"
+      ],
+      "spiegazione": "odici sonetti maggiori, composti tra il 1798 e il 1803, rappresentano il vertice assoluto della lirica foscoliana. 'Alla sera' esprime il desiderio di",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Le odi e i sonetti?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "amore",
+        "morte",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Le odi e i sonetti?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "amore",
+        "patria",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Le odi e i sonetti?",
+      "rispostaCorretta": "patria",
+      "opzioni": [
+        "morte",
+        "libertà",
+        "amore",
+        "patria"
+      ],
+      "spiegazione": "Il tema del patria è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Le Grazie nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "ma sempre fluida ed elegante. Le Grazie, rimasto incompiuto, doveva essere un inno neoclassico alla bellezza civilizzatrice dell'u",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Luigia Pallavicini nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "magini mitologiche. Le odi 'A Luigia Pallavicini caduta da cavallo' e 'All'amica risanata' celebrano la bellezza femminile con raf",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "I dodici sonetti maggiori, composti tra il 1798 e il 1803, rappresentano il vertice assoluto della lirica foscoliana.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "'In morte del fratello Giovanni' riprende il tema catulliano del colloquio con il fratello morto, caricandolo di straordinaria intensità emotiva.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il mito dell'eroe e la tensione verso l'eterno?",
+      "rispostaCorretta": "1827",
+      "opzioni": [
+        "1822",
+        "1827",
+        "1817",
+        "1825"
+      ],
+      "spiegazione": "italiana in Europa. Morì in povertà a Londra nel 1827, ma le sue spoglie furono traslate a Santa Croce nel 1871, realizzando così il suo sogno poetic",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il mito dell'eroe e la tensione verso l'eterno?",
+      "rispostaCorretta": "1871",
+      "opzioni": [
+        "1871",
+        "1866",
+        "1861",
+        "1869"
+      ],
+      "spiegazione": "le sue spoglie furono traslate a Santa Croce nel 1871, realizzando così il suo sogno poetico di riposare tra i grandi d'Italia.",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il mito dell'eroe e la tensione verso l'eterno?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "morte",
+        "patria",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il mito dell'eroe e la tensione verso l'eterno?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "morte",
+        "amore",
+        "patria",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il mito dell'eroe e la tensione verso l'eterno?",
+      "rispostaCorretta": "patria",
+      "opzioni": [
+        "patria",
+        "libertà",
+        "morte",
+        "amore"
+      ],
+      "spiegazione": "Il tema del patria è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Jacopo Ortis nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "o pur sapendolo ineluttabile. Jacopo Ortis rappresenta l'eroe che sceglie il suicidio come estrema affermazione di libertà. I gran",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Santa Croce nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "tà. I grandi uomini sepolti a Santa Croce sono eroi civili che hanno lasciato una traccia immortale nella storia. Ulisse, evocato",
+      "livello": "intermedio",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'intera opera foscoliana è attraversata dal mito dell'eroe, figura titanica che si oppone al destino pur sapendolo ineluttabile.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Jacopo Ortis rappresenta l'eroe che sceglie il suicidio come estrema affermazione di libertà.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Ugo Foscolo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Differenze rispetto al Romanticismo maturo?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "amore",
+        "patria",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Differenze rispetto al Romanticismo maturo?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "morte",
+        "amore",
+        "natura",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Differenze rispetto al Romanticismo maturo?",
+      "rispostaCorretta": "politica",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "politica",
+        "morte"
+      ],
+      "spiegazione": "Il tema del politica è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Il Preromanticismo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "personaggio secondario",
+        "antagonista",
+        "narratore"
+      ],
+      "spiegazione": "Il Preromanticismo (fine Settecento-inizi Ottocento) è fase di transizione tra Illuminismo e Romanti",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Il Romanticismo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "o ai modelli settecenteschi.. Il Romanticismo maturo sarà più radicale: rottura con classicismo, affermazione del primato del sent",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il Preromanticismo (fine Settecento-inizi Ottocento) è fase di transizione tra Illuminismo e Romanticismo maturo..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Non è movimento organizzato ma clima culturale caratterizzato dall'emergere di nuove sensibilità..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Sensibilità, malinconia, natura?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "morte",
+        "patria",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Sensibilità, malinconia, natura?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "amore",
+        "libertà",
+        "patria",
+        "morte"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Sensibilità, malinconia, natura?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "natura",
+        "libertà",
+        "morte",
+        "amore"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Il Preromanticismo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "Il Preromanticismo introduce nuova sensibilità che privilegia sentimento su ragione, interiorità su",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il Preromanticismo introduce nuova sensibilità che privilegia sentimento su ragione, interiorità su esteriorità, soggettività su universalità..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il melanconico è figura positiva che sente profondamente, soffre nobilmente, si oppone alla superficialità borghese..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Poetiche europee di riferimento?",
+      "rispostaCorretta": "1774",
+      "opzioni": [
+        "1769",
+        "1774",
+        "1764",
+        "1772"
+      ],
+      "spiegazione": "oethe giovanile con I dolori del giovane Werther (1774), romanzo epistolare su amore impossibile e suicidio che diventa modello europeo; Schiller dram",
+      "livello": "base",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Poetiche europee di riferimento?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "amore",
+        "patria",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Poetiche europee di riferimento?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "patria",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Poetiche europee di riferimento?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "morte",
+        "patria"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Il Preromanticismo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "Il Preromanticismo europeo fornisce modelli alla letteratura italiana.. In Inghilterra: poesia sepol",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha In Inghilterra nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "i alla letteratura italiana.. In Inghilterra: poesia sepolcrale di Edward Young (Night Thoughts, meditazione sulla morte e immorta",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il Preromanticismo europeo fornisce modelli alla letteratura italiana..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Influenze sulla letteratura italiana?",
+      "rispostaCorretta": "1816",
+      "opzioni": [
+        "1814",
+        "1811",
+        "1806",
+        "1816"
+      ],
+      "spiegazione": "onica.. Il dibattito tra classicisti e romantici (1816-1820) nasce proprio da eredità preromantica: Madame de Staël invita italiani a tradurre lettera",
+      "livello": "base",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Influenze sulla letteratura italiana?",
+      "rispostaCorretta": "1820",
+      "opzioni": [
+        "1820",
+        "1818",
+        "1810",
+        "1815"
+      ],
+      "spiegazione": ".. Il dibattito tra classicisti e romantici (1816-1820) nasce proprio da eredità preromantica: Madame de Staël invita italiani a tradurre letterature",
+      "livello": "base",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Influenze sulla letteratura italiana?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "morte",
+        "amore",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Influenze sulla letteratura italiana?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "morte",
+        "patria"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Influenze sulla letteratura italiana?",
+      "rispostaCorretta": "patria",
+      "opzioni": [
+        "morte",
+        "libertà",
+        "patria",
+        "amore"
+      ],
+      "spiegazione": "Il tema del patria è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Il Preromanticismo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Il Preromanticismo europeo influenza profondamente letteratura italiana.. Foscolo è figura emblemati",
+      "livello": "intermedio",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il Preromanticismo europeo influenza profondamente letteratura italiana..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Cesarotti traduce Ossian diffondendo gusto per poesia primitiva e malinconica..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Preromanticismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e formazione religiosa?",
+      "rispostaCorretta": "1785",
+      "opzioni": [
+        "1785",
+        "1783",
+        "1775",
+        "1780"
+      ],
+      "spiegazione": "Alessandro Manzoni (1785-1873) nasce a Milano da Pietro Manzoni e Giulia Beccaria, figlia di Cesare Beccaria.. Famiglia",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e formazione religiosa?",
+      "rispostaCorretta": "1873",
+      "opzioni": [
+        "1863",
+        "1873",
+        "1871",
+        "1868"
+      ],
+      "spiegazione": "Alessandro Manzoni (1785-1873) nasce a Milano da Pietro Manzoni e Giulia Beccaria, figlia di Cesare Beccaria.. Famiglia nobil",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e formazione religiosa?",
+      "rispostaCorretta": "1805",
+      "opzioni": [
+        "1805",
+        "1795",
+        "1800",
+        "1803"
+      ],
+      "spiegazione": "uenta ambiente neoclassico (Monti, Foscolo).. Nel 1805 raggiunge la madre a Parigi, frequenta salotti intellettuali degli Idéologues (filosofi sensist",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e formazione religiosa?",
+      "rispostaCorretta": "1810",
+      "opzioni": [
+        "1810",
+        "1800",
+        "1808",
+        "1805"
+      ],
+      "spiegazione": "isti).. Matura visione razionalista e laica.. Nel 1810 avviene conversione al cattolicesimo, evento cruciale che segna tutta la produzione.. Non impro",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e formazione religiosa?",
+      "rispostaCorretta": "memoria",
+      "opzioni": [
+        "memoria",
+        "morte",
+        "libertà",
+        "amore"
+      ],
+      "spiegazione": "Il tema del memoria è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e formazione religiosa?",
+      "rispostaCorretta": "famiglia",
+      "opzioni": [
+        "libertà",
+        "famiglia",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del famiglia è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Alessandro Manzoni nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Alessandro Manzoni (1785-1873) nasce a Milano da Pietro Manzoni e Giulia Beccaria, figlia di Cesare",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Pietro Manzoni nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "(1785-1873) nasce a Milano da Pietro Manzoni e Giulia Beccaria, figlia di Cesare Beccaria.. Famiglia nobiltà illuminista lombarda.",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Alessandro Manzoni (1785-1873) nasce a Milano da Pietro Manzoni e Giulia Beccaria, figlia di Cesare Beccaria..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Famiglia nobiltà illuminista lombarda..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Conversione al cattolicesimo?",
+      "rispostaCorretta": "1810",
+      "opzioni": [
+        "1810",
+        "1808",
+        "1805",
+        "1800"
+      ],
+      "spiegazione": "La conversione del 1810 è snodo fondamentale della vita e opera manzoniana.. Precedentemente Manzoni era sensista e mat",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Precedentemente Manzoni nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "lla vita e opera manzoniana.. Precedentemente Manzoni era sensista e materialista, seguace degli Idéologues parigini.. La conversi",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Provvidenza nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "ia e della condizione umana.. La Provvidenza non è intervento magico ma presenza misteriosa che guida gli eventi permettendo che d",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La conversione del 1810 è snodo fondamentale della vita e opera manzoniana..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Precedentemente Manzoni era sensista e materialista, seguace degli Idéologues parigini..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Poetica e lettera sul Romanticismo?",
+      "rispostaCorretta": "1823",
+      "opzioni": [
+        "1818",
+        "1821",
+        "1813",
+        "1823"
+      ],
+      "spiegazione": "La Lettera sul Romanticismo (1823) a Cesare d'Azeglio espone la poetica manzoniana.. Rifiuta mitologia pagana, soggetti fantastic",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Poetica e lettera sul Romanticismo?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "amore",
+        "tempo",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Poetica e lettera sul Romanticismo?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "morte",
+        "libertà",
+        "amore",
+        "natura"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Lettera nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale",
+        "narratore"
+      ],
+      "spiegazione": "La Lettera sul Romanticismo (1823) a Cesare d'Azeglio espone la poetica manzoniana.. Rifiuta mitolog",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Il Romanticismo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "ressante (trama avvincente).. Il Romanticismo italiano secondo Manzoni deve essere cristiano (non titanico come quello tedesco), s",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La Lettera sul Romanticismo (1823) a Cesare d'Azeglio espone la poetica manzoniana..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Rifiuta mitologia pagana, soggetti fantastici, imitazione servile dei classici..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Inni Sacri?",
+      "rispostaCorretta": "1812",
+      "opzioni": [
+        "1810",
+        "1807",
+        "1802",
+        "1812"
+      ],
+      "spiegazione": "Gli Inni Sacri (1812-1822) celebrano principali feste cristiane: Resurrezione, Nome di Maria, Natale, Passione, Pent",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Inni Sacri?",
+      "rispostaCorretta": "1822",
+      "opzioni": [
+        "1817",
+        "1812",
+        "1820",
+        "1822"
+      ],
+      "spiegazione": "Gli Inni Sacri (1812-1822) celebrano principali feste cristiane: Resurrezione, Nome di Maria, Natale, Passione, Pentecost",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Inni Sacri?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "morte",
+        "amore",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Gli Inni nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "Gli Inni Sacri (1812-1822) celebrano principali feste cristiane: Resurrezione, Nome di Maria, Natale",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Resurrezione nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "ega a sentimenti universali.. La Resurrezione canta trionfo di Cristo sulla morte, speranza di vita eterna, gioia pasquale.. Il No",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Gli Inni Sacri (1812-1822) celebrano principali feste cristiane: Resurrezione, Nome di Maria, Natale, Passione, Pentecoste..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Progetto iniziale prevedeva dodici inni ma Manzoni ne completò cinque..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Adelchi?",
+      "rispostaCorretta": "1822",
+      "opzioni": [
+        "1822",
+        "1812",
+        "1817",
+        "1820"
+      ],
+      "spiegazione": "Adelchi (1822) è tragedia in cinque atti ambientata nell'Italia longobarda (774).. Carlo Magno invade regno l",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Adelchi?",
+      "rispostaCorretta": "774",
+      "opzioni": [
+        "774",
+        "764",
+        "772",
+        "769"
+      ],
+      "spiegazione": "in cinque atti ambientata nell'Italia longobarda (774).. Carlo Magno invade regno longobardo su richiesta del papa.. Desiderio re longobardo resiste..",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Adelchi?",
+      "rispostaCorretta": "patria",
+      "opzioni": [
+        "patria",
+        "morte",
+        "libertà",
+        "amore"
+      ],
+      "spiegazione": "Il tema del patria è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Carlo Magno nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "ell'Italia longobarda (774).. Carlo Magno invade regno longobardo su richiesta del papa.. Desiderio re longobardo resiste.. Adelch",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Adelchi (1822) è tragedia in cinque atti ambientata nell'Italia longobarda (774)..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Carlo Magno invade regno longobardo su richiesta del papa..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I Promessi Sposi: genesi?",
+      "rispostaCorretta": "1821",
+      "opzioni": [
+        "1819",
+        "1816",
+        "1811",
+        "1821"
+      ],
+      "spiegazione": "Genesi dei Promessi Sposi è lunga e complessa.. 1821: Manzoni inizia Fermo e Lucia, primo abbozzo in quattro tomi, linguaggio misto (lombardismi, fr",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I Promessi Sposi: genesi?",
+      "rispostaCorretta": "1823",
+      "opzioni": [
+        "1823",
+        "1813",
+        "1818",
+        "1821"
+      ],
+      "spiegazione": "io misto (lombardismi, francesismi, toscanismi).. 1823-1827: prima revisione e riduzione a tre tomi, pubblicazione (1827) come I Promessi Sposi.. Ma M",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I Promessi Sposi: genesi?",
+      "rispostaCorretta": "1827",
+      "opzioni": [
+        "1827",
+        "1817",
+        "1822",
+        "1825"
+      ],
+      "spiegazione": "sto (lombardismi, francesismi, toscanismi).. 1823-1827: prima revisione e riduzione a tre tomi, pubblicazione (1827) come I Promessi Sposi.. Ma Manzon",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I Promessi Sposi: genesi?",
+      "rispostaCorretta": "1840",
+      "opzioni": [
+        "1830",
+        "1835",
+        "1840",
+        "1838"
+      ],
+      "spiegazione": ".. Decide radicale riscrittura linguistica.. 1827-1840: \"sciacqua i panni in Arno\", soggiorna a Firenze per studiare fiorentino parlato colto.. 1840-1",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I Promessi Sposi: genesi?",
+      "rispostaCorretta": "1842",
+      "opzioni": [
+        "1840",
+        "1837",
+        "1832",
+        "1842"
+      ],
+      "spiegazione": "enze per studiare fiorentino parlato colto.. 1840-1842: edizione definitiva con illustrazioni di Francesco Gonin diventa modello lingua italiana moder",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I Promessi Sposi: genesi?",
+      "rispostaCorretta": "1868",
+      "opzioni": [
+        "1858",
+        "1866",
+        "1863",
+        "1868"
+      ],
+      "spiegazione": "l'unione della lingua e dei mezzi di diffonderla (1868) teorizza questione della lingua",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente I Promessi Sposi: genesi?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "amore",
+        "libertà",
+        "morte",
+        "natura"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Promessi Sposi nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "Genesi dei Promessi Sposi è lunga e complessa.. 1821: Manzoni inizia Fermo e Lucia, primo abbozzo in quattro to",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Ma Manzoni nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "1827) come I Promessi Sposi.. Ma Manzoni insoddisfatto della lingua: troppo composita, non comprensibile a tutta Italia.. Decide r",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Genesi dei Promessi Sposi è lunga e complessa..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "1821: Manzoni inizia Fermo e Lucia, primo abbozzo in quattro tomi, linguaggio misto (lombardismi, francesismi, toscanismi)..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I Promessi Sposi: lingua e rifacimento?",
+      "rispostaCorretta": "1827",
+      "opzioni": [
+        "1827",
+        "1817",
+        "1822",
+        "1825"
+      ],
+      "spiegazione": "tradizionale ma rinnovata dall'uso.. Riscrittura (1827-1840) implica studio sul campo: Manzoni soggiorna a Firenze, frequenta famiglie colte, ascolta",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I Promessi Sposi: lingua e rifacimento?",
+      "rispostaCorretta": "1840",
+      "opzioni": [
+        "1838",
+        "1835",
+        "1840",
+        "1830"
+      ],
+      "spiegazione": "zionale ma rinnovata dall'uso.. Riscrittura (1827-1840) implica studio sul campo: Manzoni soggiorna a Firenze, frequenta famiglie colte, ascolta conve",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente I Promessi Sposi: lingua e rifacimento?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "natura",
+        "morte"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente I Promessi Sposi: lingua e rifacimento?",
+      "rispostaCorretta": "pace",
+      "opzioni": [
+        "amore",
+        "pace",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del pace è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Promessi Sposi nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "antagonista",
+        "personaggio secondario",
+        "protagonista principale"
+      ],
+      "spiegazione": "e della lingua è centrale nei Promessi Sposi.. Prima versione (Fermo e Lucia) linguaggio composito: lombardismi, francesismi, lati",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La questione della lingua è centrale nei Promessi Sposi..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Prima versione (Fermo e Lucia) linguaggio composito: lombardismi, francesismi, latinismi, toscanismi..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente I Promessi Sposi: caratteri dei personaggi?",
+      "rispostaCorretta": "pace",
+      "opzioni": [
+        "morte",
+        "amore",
+        "pace",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del pace è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Personaggi Promessi nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "Personaggi Promessi Sposi sono tra più memorabili letteratura italiana.. Renzo Tramaglino: giovane t",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Renzo Tramaglino nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "personaggio secondario",
+        "protagonista principale",
+        "narratore"
+      ],
+      "spiegazione": "rabili letteratura italiana.. Renzo Tramaglino: giovane tessitore, istintivo, generoso, coraggioso ma ingenuo e impetuoso, capace",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Personaggi Promessi Sposi sono tra più memorabili letteratura italiana..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Renzo Tramaglino: giovane tessitore, istintivo, generoso, coraggioso ma ingenuo e impetuoso, capace di errori ma anche di crescita morale..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente I Promessi Sposi: temi fondamentali?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "amore",
+        "patria",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente I Promessi Sposi: temi fondamentali?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "guerra",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente I Promessi Sposi: temi fondamentali?",
+      "rispostaCorretta": "pace",
+      "opzioni": [
+        "pace",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del pace è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Promessi Sposi nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "protagonista principale",
+        "narratore",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Temi fondamentali Promessi Sposi: Provvidenza guida eventi attraverso libere scelte umane; dal male (rapimento Lucia,",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Giustizia: terrena imperfetta, amministrata da potenti per proprio vantaggio; divina perfetta, si realizza oltre la storia..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Umili esaltati: Renzo e Lucia sono umili contadini ma hanno dignità morale superiore ai potenti; portano valori evangelici (fede, carità, pazienza)..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I Promessi Sposi: struttura, narratore e visione provvidenziale?",
+      "rispostaCorretta": "1628",
+      "opzioni": [
+        "1628",
+        "1618",
+        "1623",
+        "1626"
+      ],
+      "spiegazione": "apitoli narra vicenda Renzo e Lucia dal settembre 1628 ad autunno 1630.. Ambientazione Lombardia spagnola (Lecco, Milano, Bergamo).. Trama: matrimonio",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I Promessi Sposi: struttura, narratore e visione provvidenziale?",
+      "rispostaCorretta": "1630",
+      "opzioni": [
+        "1630",
+        "1620",
+        "1625",
+        "1628"
+      ],
+      "spiegazione": "cenda Renzo e Lucia dal settembre 1628 ad autunno 1630.. Ambientazione Lombardia spagnola (Lecco, Milano, Bergamo).. Trama: matrimonio impedito da don",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente I Promessi Sposi: struttura, narratore e visione provvidenziale?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "amore",
+        "libertà",
+        "morte",
+        "patria"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente I Promessi Sposi: struttura, narratore e visione provvidenziale?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "natura",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente I Promessi Sposi: struttura, narratore e visione provvidenziale?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "guerra"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Ambientazione Lombardia nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "personaggio secondario",
+        "narratore",
+        "antagonista"
+      ],
+      "spiegazione": "tembre 1628 ad autunno 1630.. Ambientazione Lombardia spagnola (Lecco, Milano, Bergamo).. Trama: matrimonio impedito da don Rodrig",
+      "livello": "intermedio",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Struttura 38 capitoli narra vicenda Renzo e Lucia dal settembre 1628 ad autunno 1630..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Ambientazione Lombardia spagnola (Lecco, Milano, Bergamo)..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Alessandro Manzoni",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e formazione a Recanati?",
+      "rispostaCorretta": "1798",
+      "opzioni": [
+        "1796",
+        "1788",
+        "1798",
+        "1793"
+      ],
+      "spiegazione": "Giacomo Leopardi nasce a Recanati (Marche) nel 1798 da famiglia nobile decaduta.. Padre conte Monaldo uomo colto ma retrivo, madre Adelaide Antici",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e formazione a Recanati?",
+      "rispostaCorretta": "1809",
+      "opzioni": [
+        "1807",
+        "1804",
+        "1799",
+        "1809"
+      ],
+      "spiegazione": "liare oppressivo.. Studio matto e disperatissimo (1809-1816) compromette salute ma forma cultura straordinaria: greco, latino, ebraico, opere erudite,",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e formazione a Recanati?",
+      "rispostaCorretta": "1816",
+      "opzioni": [
+        "1816",
+        "1806",
+        "1811",
+        "1814"
+      ],
+      "spiegazione": "oppressivo.. Studio matto e disperatissimo (1809-1816) compromette salute ma forma cultura straordinaria: greco, latino, ebraico, opere erudite, trad",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e formazione a Recanati?",
+      "rispostaCorretta": "1819",
+      "opzioni": [
+        "1819",
+        "1817",
+        "1814",
+        "1809"
+      ],
+      "spiegazione": "rudite, traduzioni.. Conversione letteraria (1816-1819) scopre poesia e autori moderni.. Conversione filosofica (1819-1823) elabora sistema di pensier",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e formazione a Recanati?",
+      "rispostaCorretta": "1823",
+      "opzioni": [
+        "1821",
+        "1818",
+        "1813",
+        "1823"
+      ],
+      "spiegazione": "a e autori moderni.. Conversione filosofica (1819-1823) elabora sistema di pensiero.. Tenta fuga da Recanati 1819 ma padre scopre e impedisce.. Solo 1",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e formazione a Recanati?",
+      "rispostaCorretta": "1822",
+      "opzioni": [
+        "1822",
+        "1812",
+        "1817",
+        "1820"
+      ],
+      "spiegazione": "Recanati 1819 ma padre scopre e impedisce.. Solo 1822 riesce ad allontanarsi: Roma (delusione per ambiente clericale), Bologna, Milano, Firenze, Pisa",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e formazione a Recanati?",
+      "rispostaCorretta": "1837",
+      "opzioni": [
+        "1835",
+        "1837",
+        "1827",
+        "1832"
+      ],
+      "spiegazione": ".. Ultimi anni a Napoli con amico Ranieri.. Muore 1837 durante epidemia colera a Torre del Greco.. Sepolto a Napoli. Lascia Zibaldone (4526 pagine di",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e formazione a Recanati?",
+      "rispostaCorretta": "4526",
+      "opzioni": [
+        "4526",
+        "4524",
+        "4516",
+        "4521"
+      ],
+      "spiegazione": "e del Greco.. Sepolto a Napoli. Lascia Zibaldone (4526 pagine di pensieri), Canti (poesie), Operette morali (prose filosofiche), Epistolario vastissim",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e formazione a Recanati?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "patria",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e formazione a Recanati?",
+      "rispostaCorretta": "famiglia",
+      "opzioni": [
+        "famiglia",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del famiglia è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Giacomo Leopardi nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "Giacomo Leopardi nasce a Recanati (Marche) nel 1798 da famiglia nobile decaduta.. Padre conte Monald",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Adelaide Antici nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "narratore",
+        "protagonista principale",
+        "personaggio secondario"
+      ],
+      "spiegazione": "uomo colto ma retrivo, madre Adelaide Antici austera e bigotta.. Ambiente familiare oppressivo.. Studio matto e disperatissimo (1",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Giacomo Leopardi nasce a Recanati (Marche) nel 1798 da famiglia nobile decaduta..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Padre conte Monaldo uomo colto ma retrivo, madre Adelaide Antici austera e bigotta..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Pensiero filosofico: materialismo, sensismo, natura matrigna?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "morte",
+        "amore",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Pensiero filosofico: materialismo, sensismo, natura matrigna?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "tempo",
+        "libertà",
+        "morte",
+        "amore"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Pensiero filosofico: materialismo, sensismo, natura matrigna?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "natura",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Pensiero leopardiano si forma attraverso letture illuministe, sensismo settecentesco, materialismo..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'uomo è materia, non c'è anima immortale, morte è annullamento totale..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Teoria del piacere esposta nello Zibaldone: l'uomo desidera piacere infinito per intensità e durata..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Ma può ottenere solo piaceri finiti, limitati, momentanei..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Pessimismo storico e pessimismo cosmico?",
+      "rispostaCorretta": "1823",
+      "opzioni": [
+        "1813",
+        "1818",
+        "1821",
+        "1823"
+      ],
+      "spiegazione": "ismo storico a cosmico.. Pessimismo storico (fino 1823): antichità età felice, uomo viveva in armonia con natura, aveva illusioni necessarie (gloria,",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Pessimismo storico e pessimismo cosmico?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "patria"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Pessimismo storico e pessimismo cosmico?",
+      "rispostaCorretta": "gloria",
+      "opzioni": [
+        "gloria",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del gloria è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Pessimismo storico e pessimismo cosmico?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "tempo",
+        "morte"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Dialogo Natura nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "narratore",
+        "personaggio secondario",
+        "protagonista principale"
+      ],
+      "spiegazione": "o segnato da Operette morali (Dialogo Natura-Islandese) dove natura dichiara indifferenza al dolore individui",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Evoluzione pensiero leopardiano da pessimismo storico a cosmico..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Civiltà moderna con ragione ha distrutto illusioni, portato infelicità..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Operette morali: analisi e temi?",
+      "rispostaCorretta": "1827",
+      "opzioni": [
+        "1822",
+        "1825",
+        "1817",
+        "1827"
+      ],
+      "spiegazione": "Operette morali (1827, ampliate 1834) capolavoro prosa filosofica leopardiana.. 24 testi in forma dialoghi, apologhi,",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Operette morali: analisi e temi?",
+      "rispostaCorretta": "1834",
+      "opzioni": [
+        "1824",
+        "1834",
+        "1829",
+        "1832"
+      ],
+      "spiegazione": "Operette morali (1827, ampliate 1834) capolavoro prosa filosofica leopardiana.. 24 testi in forma dialoghi, apologhi, narrazioni fan",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Operette morali: analisi e temi?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "amore",
+        "libertà",
+        "morte",
+        "natura"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Torquato Tasso nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "personaggio secondario",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "vo sarà migliore.. Dialogo di Torquato Tasso e del suo Genio familiare: felicità è impossibile, massima fortuna è non essere nati.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Cristoforo Colombo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "mo contro accuse.. Dialogo di Cristoforo Colombo e Pietro Gutierrez: sul coraggio di affrontare ignoto.. Stile cristallino, ironic",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Operette morali (1827, ampliate 1834) capolavoro prosa filosofica leopardiana..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "24 testi in forma dialoghi, apologhi, narrazioni fantastiche espongono sistema filosofico..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I Canti: Idilli, Grandi canzoni, L'infinito, A Silvia, La Ginestra?",
+      "rispostaCorretta": "1835",
+      "opzioni": [
+        "1830",
+        "1833",
+        "1835",
+        "1825"
+      ],
+      "spiegazione": "I Canti raccolta definitiva (1835) testimonia evoluzione poetica leopardiana.. Primi idilli (1819-1821): Infinito, Sera del dì di",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I Canti: Idilli, Grandi canzoni, L'infinito, A Silvia, La Ginestra?",
+      "rispostaCorretta": "1819",
+      "opzioni": [
+        "1819",
+        "1817",
+        "1809",
+        "1814"
+      ],
+      "spiegazione": "ia evoluzione poetica leopardiana.. Primi idilli (1819-1821): Infinito, Sera del dì di festa, Alla luna, Il sogno, La vita solitaria.. Poetica del vag",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I Canti: Idilli, Grandi canzoni, L'infinito, A Silvia, La Ginestra?",
+      "rispostaCorretta": "1821",
+      "opzioni": [
+        "1821",
+        "1819",
+        "1811",
+        "1816"
+      ],
+      "spiegazione": "oluzione poetica leopardiana.. Primi idilli (1819-1821): Infinito, Sera del dì di festa, Alla luna, Il sogno, La vita solitaria.. Poetica del vago e i",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I Canti: Idilli, Grandi canzoni, L'infinito, A Silvia, La Ginestra?",
+      "rispostaCorretta": "1828",
+      "opzioni": [
+        "1818",
+        "1826",
+        "1823",
+        "1828"
+      ],
+      "spiegazione": "esistenziali).. Grandi idilli pisano-recanatesi (1828-1830): A Silvia (giovinezza stroncata, illusioni perdute), Ricordanze (memoria infanzia, bellez",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I Canti: Idilli, Grandi canzoni, L'infinito, A Silvia, La Ginestra?",
+      "rispostaCorretta": "1830",
+      "opzioni": [
+        "1828",
+        "1825",
+        "1820",
+        "1830"
+      ],
+      "spiegazione": "tenziali).. Grandi idilli pisano-recanatesi (1828-1830): A Silvia (giovinezza stroncata, illusioni perdute), Ricordanze (memoria infanzia, bellezza pa",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne I Canti: Idilli, Grandi canzoni, L'infinito, A Silvia, La Ginestra?",
+      "rispostaCorretta": "1836",
+      "opzioni": [
+        "1834",
+        "1831",
+        "1826",
+        "1836"
+      ],
+      "spiegazione": "ia più filosofica.. Ginestra o fiore del deserto (1836): testamento poetico, propone alleanza uomini contro natura matrigna, solidarietà laica.. Stile",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente I Canti: Idilli, Grandi canzoni, L'infinito, A Silvia, La Ginestra?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "amore",
+        "morte",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente I Canti: Idilli, Grandi canzoni, L'infinito, A Silvia, La Ginestra?",
+      "rispostaCorretta": "memoria",
+      "opzioni": [
+        "memoria",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del memoria è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente I Canti: Idilli, Grandi canzoni, L'infinito, A Silvia, La Ginestra?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "natura",
+        "amore",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Ad Angelo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "denza).. Canzoni filosofiche: Ad Angelo Mai, Ultimo canto di Saffo (temi esistenziali).. Grandi idilli pisano-recanatesi (1828-183",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Ciclo Aspasia nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "narratore",
+        "personaggio secondario"
+      ],
+      "spiegazione": "ultime su senso esistenza).. Ciclo Aspasia: amore Fanny, disincanto, poesia più filosofica.. Ginestra o fiore del deserto (1836):",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "I Canti raccolta definitiva (1835) testimonia evoluzione poetica leopardiana..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Primi idilli (1819-1821): Infinito, Sera del dì di festa, Alla luna, Il sogno, La vita solitaria..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Origini e contesto storico?",
+      "rispostaCorretta": "1860",
+      "opzioni": [
+        "1858",
+        "1855",
+        "1860",
+        "1850"
+      ],
+      "spiegazione": "La Scapigliatura nasce a Milano tra anni 1860 e 1870 come movimento di giovani artisti e intellettuali ribelli contro conformismo borghese, t",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Origini e contesto storico?",
+      "rispostaCorretta": "1870",
+      "opzioni": [
+        "1868",
+        "1860",
+        "1865",
+        "1870"
+      ],
+      "spiegazione": "La Scapigliatura nasce a Milano tra anni 1860 e 1870 come movimento di giovani artisti e intellettuali ribelli contro conformismo borghese, tradizio",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Origini e contesto storico?",
+      "rispostaCorretta": "1862",
+      "opzioni": [
+        "1857",
+        "1860",
+        "1862",
+        "1852"
+      ],
+      "spiegazione": "Cletto Arrighi La scapigliatura e il 6 febbraio (1862), ispirato alla bohème parigina descritta da Murger.. Il contesto storico è quello dell'Italia",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Scapigliatura nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "La Scapigliatura nasce a Milano tra anni 1860 e 1870 come movimento di giovani artisti e intellettua",
+      "livello": "intermedio",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Cletto Arrighi nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "Il nome deriva dal romanzo di Cletto Arrighi La scapigliatura e il 6 febbraio (1862), ispirato alla bohème parigina descritta da M",
+      "livello": "intermedio",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il nome deriva dal romanzo di Cletto Arrighi La scapigliatura e il 6 febbraio (1862), ispirato alla bohème parigina descritta da Murger..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Milano è città contraddittoria: moderna e industriale ma culturalmente provinciale, ricca ma diseguale..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Temi decadenti e avversione al positivismo?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "patria",
+        "amore",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Temi decadenti e avversione al positivismo?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "morte",
+        "patria"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Gli scapigliati rifiutano radicalmente l'ottimismo positivista, la fede nel progresso scientifico, il razionalismo borghese..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Contro questo mondo ordinato oppongono l'irrazionale, il mistero, la follia, la morte..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Autori principali: Praga, Tarchetti, Boito?",
+      "rispostaCorretta": "1839",
+      "opzioni": [
+        "1829",
+        "1834",
+        "1839",
+        "1837"
+      ],
+      "spiegazione": "Emilio Praga (1839-1875) poeta e narratore, con Penombre (1864) raccolta poetica introduce temi malinconici, nottu",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Autori principali: Praga, Tarchetti, Boito?",
+      "rispostaCorretta": "1875",
+      "opzioni": [
+        "1865",
+        "1873",
+        "1870",
+        "1875"
+      ],
+      "spiegazione": "Emilio Praga (1839-1875) poeta e narratore, con Penombre (1864) raccolta poetica introduce temi malinconici, notturni,",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Autori principali: Praga, Tarchetti, Boito?",
+      "rispostaCorretta": "1864",
+      "opzioni": [
+        "1864",
+        "1854",
+        "1859",
+        "1862"
+      ],
+      "spiegazione": "raga (1839-1875) poeta e narratore, con Penombre (1864) raccolta poetica introduce temi malinconici, notturni, macabri.. Fiabe e leggende (1867) prose",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Autori principali: Praga, Tarchetti, Boito?",
+      "rispostaCorretta": "1867",
+      "opzioni": [
+        "1862",
+        "1865",
+        "1857",
+        "1867"
+      ],
+      "spiegazione": "alinconici, notturni, macabri.. Fiabe e leggende (1867) prose fantastiche.. Muore a trentasei anni per alcol e stenti, incarnando destino tipico dello",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Autori principali: Praga, Tarchetti, Boito?",
+      "rispostaCorretta": "1869",
+      "opzioni": [
+        "1867",
+        "1864",
+        "1859",
+        "1869"
+      ],
+      "spiegazione": "co dello scapigliato.. Iginio Ugo Tarchetti (1839-1869) narratore più radicale.. Fosca (1869) romanzo epistolare su amore morboso per donna malata, br",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Autori principali: Praga, Tarchetti, Boito?",
+      "rispostaCorretta": "1842",
+      "opzioni": [
+        "1842",
+        "1840",
+        "1837",
+        "1832"
+      ],
+      "spiegazione": "di tisi prima di completare Fosca.. Arrigo Boito (1842-1918) figura più complessa: poeta, musicista, librettista.. Inizia come scapigliato provocatori",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Autori principali: Praga, Tarchetti, Boito?",
+      "rispostaCorretta": "1918",
+      "opzioni": [
+        "1918",
+        "1908",
+        "1913",
+        "1916"
+      ],
+      "spiegazione": "si prima di completare Fosca.. Arrigo Boito (1842-1918) figura più complessa: poeta, musicista, librettista.. Inizia come scapigliato provocatorio poi",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Autori principali: Praga, Tarchetti, Boito?",
+      "rispostaCorretta": "1877",
+      "opzioni": [
+        "1872",
+        "1867",
+        "1877",
+        "1875"
+      ],
+      "spiegazione": "poi carriera più tradizionale.. Libro dei versi (1877) con poesie dualistiche.. Mefistofele (1868) opera lirica incompiuta.. Soprattutto noto come li",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Autori principali: Praga, Tarchetti, Boito?",
+      "rispostaCorretta": "1868",
+      "opzioni": [
+        "1868",
+        "1866",
+        "1858",
+        "1863"
+      ],
+      "spiegazione": "ersi (1877) con poesie dualistiche.. Mefistofele (1868) opera lirica incompiuta.. Soprattutto noto come librettista di Verdi (Otello, Falstaff), Ponch",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Autori principali: Praga, Tarchetti, Boito?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "amore",
+        "morte",
+        "patria",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Autori principali: Praga, Tarchetti, Boito?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "morte",
+        "patria"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Autori principali: Praga, Tarchetti, Boito?",
+      "rispostaCorretta": "destino",
+      "opzioni": [
+        "destino",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del destino è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Emilio Praga nell'opera?",
+      "rispostaCorretta": "narratore",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Emilio Praga (1839-1875) poeta e narratore, con Penombre (1864) raccolta poetica introduce temi mali",
+      "livello": "intermedio",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Iginio Ugo nell'opera?",
+      "rispostaCorretta": "narratore",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "narratore",
+        "personaggio secondario"
+      ],
+      "spiegazione": "no tipico dello scapigliato.. Iginio Ugo Tarchetti (1839-1869) narratore più radicale.. Fosca (1869) romanzo epistolare su amore m",
+      "livello": "intermedio",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Emilio Praga (1839-1875) poeta e narratore, con Penombre (1864) raccolta poetica introduce temi malinconici, notturni, macabri..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Fiabe e leggende (1867) prose fantastiche..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Linguaggio e stile innovativo?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "morte",
+        "amore",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Lo stile scapigliato è caratterizzato da forte sperimentalismo e rottura con tradizione..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Mescolano registri linguistici: termini aulici accanto a parole crude e dialettali, linguaggio medico-scientifico accanto a lirismo esasperato..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Collegamento al realismo europeo?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "morte",
+        "amore",
+        "tempo",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Collegamento al realismo europeo?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "natura",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Conoscono Poe nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale",
+        "narratore"
+      ],
+      "spiegazione": "ti che vanno oltre realismo.. Conoscono Poe, Hoffmann, letteratura fantastica.. In Italia rappresentano alternativa sia al romanti",
+      "livello": "intermedio",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha In Italia nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "ann, letteratura fantastica.. In Italia rappresentano alternativa sia al romanticismo tardivo sia al nascente verismo: mentre Verg",
+      "livello": "intermedio",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Scapigliatura ha rapporto ambiguo con Realismo e Naturalismo europei..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Tarchetti descrive malattia con precisione quasi medica..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "La Scapigliatura",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Caratteristiche generali del Realismo?",
+      "rispostaCorretta": "1848",
+      "opzioni": [
+        "1838",
+        "1848",
+        "1846",
+        "1843"
+      ],
+      "spiegazione": "itica sociale.. Nasce in Francia dopo rivoluzione 1848, si diffonde in tutta Europa.. Si oppone al Romanticismo sentimentale ed evasivo che aveva domi",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Caratteristiche generali del Realismo?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "libertà",
+        "tempo",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Il Realismo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Il Realismo europeo metà Ottocento rappresenta la realtà sociale contemporanea con oggettività, rigo",
+      "livello": "intermedio",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Nasce in Francia dopo rivoluzione 1848, si diffonde in tutta Europa..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Si oppone al Romanticismo sentimentale ed evasivo che aveva dominato prima metà secolo..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Balzac e il romanzo della società?",
+      "rispostaCorretta": "1799",
+      "opzioni": [
+        "1797",
+        "1794",
+        "1789",
+        "1799"
+      ],
+      "spiegazione": "Honoré de Balzac (1799-1850) è padre del romanzo realista moderno.. La Commedia umana è progetto monumentale: oltre no",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Balzac e il romanzo della società?",
+      "rispostaCorretta": "1850",
+      "opzioni": [
+        "1848",
+        "1845",
+        "1840",
+        "1850"
+      ],
+      "spiegazione": "Honoré de Balzac (1799-1850) è padre del romanzo realista moderno.. La Commedia umana è progetto monumentale: oltre novanta",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Balzac e il romanzo della società?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "natura",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Balzac e il romanzo della società?",
+      "rispostaCorretta": "politica",
+      "opzioni": [
+        "politica",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del politica è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Commedia nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario"
+      ],
+      "spiegazione": "el romanzo realista moderno.. La Commedia umana è progetto monumentale: oltre novanta romanzi e racconti che rappresentano la soci",
+      "livello": "intermedio",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Eugenia Grandet nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "tate della società parigina.. Eugenia Grandet rappresenta l'avarizia provinciale.. Illusioni perdute descrive il giornalismo corro",
+      "livello": "intermedio",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Honoré de Balzac (1799-1850) è padre del romanzo realista moderno..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Flaubert e il romanzo oggettivo?",
+      "rispostaCorretta": "1821",
+      "opzioni": [
+        "1821",
+        "1811",
+        "1816",
+        "1819"
+      ],
+      "spiegazione": "Gustave Flaubert (1821-1880) porta il Realismo alla perfezione formale attraverso l'impersonalità narrativa.. Madame B",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Flaubert e il romanzo oggettivo?",
+      "rispostaCorretta": "1880",
+      "opzioni": [
+        "1880",
+        "1870",
+        "1875",
+        "1878"
+      ],
+      "spiegazione": "Gustave Flaubert (1821-1880) porta il Realismo alla perfezione formale attraverso l'impersonalità narrativa.. Madame Bovary",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Flaubert e il romanzo oggettivo?",
+      "rispostaCorretta": "1857",
+      "opzioni": [
+        "1855",
+        "1857",
+        "1847",
+        "1852"
+      ],
+      "spiegazione": "averso l'impersonalità narrativa.. Madame Bovary (1857) è il capolavoro: Emma Bovary, moglie di un mediocre medico di provincia, ha letto troppi roman",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Flaubert e il romanzo oggettivo?",
+      "rispostaCorretta": "1869",
+      "opzioni": [
+        "1869",
+        "1859",
+        "1864",
+        "1867"
+      ],
+      "spiegazione": "e nell'immaginazione.. L'Educazione sentimentale (1869) narra formazione disincantata di un giovane nella Parigi del 1848, amore impossibile, fallimen",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Flaubert e il romanzo oggettivo?",
+      "rispostaCorretta": "1848",
+      "opzioni": [
+        "1838",
+        "1843",
+        "1848",
+        "1846"
+      ],
+      "spiegazione": "zione disincantata di un giovane nella Parigi del 1848, amore impossibile, fallimento delle illusioni politiche e sentimentali.. Salammbô (1862) roman",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Flaubert e il romanzo oggettivo?",
+      "rispostaCorretta": "1862",
+      "opzioni": [
+        "1857",
+        "1860",
+        "1852",
+        "1862"
+      ],
+      "spiegazione": "le illusioni politiche e sentimentali.. Salammbô (1862) romanzo storico ambientato a Cartagine antica, ricerca archeologica e ricostruzione documentar",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Flaubert e il romanzo oggettivo?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "amore",
+        "patria",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Gustave Flaubert nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "personaggio secondario",
+        "narratore",
+        "antagonista"
+      ],
+      "spiegazione": "Gustave Flaubert (1821-1880) porta il Realismo alla perfezione formale attraverso l'impersonalità na",
+      "livello": "intermedio",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Madame Bovary nell'opera?",
+      "rispostaCorretta": "narratore",
+      "opzioni": [
+        "narratore",
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario"
+      ],
+      "spiegazione": "o l'impersonalità narrativa.. Madame Bovary (1857) è il capolavoro: Emma Bovary, moglie di un mediocre medico di provincia, ha let",
+      "livello": "intermedio",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Gustave Flaubert (1821-1880) porta il Realismo alla perfezione formale attraverso l'impersonalità narrativa..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Insoddisfatta della mediocrità quotidiana, cerca evasione in adulteri ma trova solo vuoto e menzogna..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Tolstoj e Dostoevskij?",
+      "rispostaCorretta": "1828",
+      "opzioni": [
+        "1828",
+        "1818",
+        "1823",
+        "1826"
+      ],
+      "spiegazione": "prie, più filosofiche e spirituali.. Lev Tolstoj (1828-1910) in Guerra e pace (1865-1869) crea affresco epocale della Russia napoleonica attraverso ce",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Tolstoj e Dostoevskij?",
+      "rispostaCorretta": "1910",
+      "opzioni": [
+        "1910",
+        "1900",
+        "1905",
+        "1908"
+      ],
+      "spiegazione": "più filosofiche e spirituali.. Lev Tolstoj (1828-1910) in Guerra e pace (1865-1869) crea affresco epocale della Russia napoleonica attraverso centina",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Tolstoj e Dostoevskij?",
+      "rispostaCorretta": "1865",
+      "opzioni": [
+        "1863",
+        "1865",
+        "1860",
+        "1855"
+      ],
+      "spiegazione": "tuali.. Lev Tolstoj (1828-1910) in Guerra e pace (1865-1869) crea affresco epocale della Russia napoleonica attraverso centinaia di personaggi e famig",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Tolstoj e Dostoevskij?",
+      "rispostaCorretta": "1869",
+      "opzioni": [
+        "1867",
+        "1864",
+        "1859",
+        "1869"
+      ],
+      "spiegazione": ".. Lev Tolstoj (1828-1910) in Guerra e pace (1865-1869) crea affresco epocale della Russia napoleonica attraverso centinaia di personaggi e famiglie a",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Tolstoj e Dostoevskij?",
+      "rispostaCorretta": "1877",
+      "opzioni": [
+        "1875",
+        "1877",
+        "1867",
+        "1872"
+      ],
+      "spiegazione": ", sul fato, sul senso della vita.. Anna Karenina (1877) narra adulterio di Anna con l'ufficiale Vronskij, condanna sociale, suicidio sotto il treno..",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Tolstoj e Dostoevskij?",
+      "rispostaCorretta": "1821",
+      "opzioni": [
+        "1821",
+        "1811",
+        "1816",
+        "1819"
+      ],
+      "spiegazione": "analisi psicologica profonda.. Fëdor Dostoevskij (1821-1881) esplora abissi psicologici e morali.. Delitto e castigo (1866): studente Raskolnikov ucci",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Tolstoj e Dostoevskij?",
+      "rispostaCorretta": "1881",
+      "opzioni": [
+        "1881",
+        "1876",
+        "1871",
+        "1879"
+      ],
+      "spiegazione": "si psicologica profonda.. Fëdor Dostoevskij (1821-1881) esplora abissi psicologici e morali.. Delitto e castigo (1866): studente Raskolnikov uccide ve",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Tolstoj e Dostoevskij?",
+      "rispostaCorretta": "1866",
+      "opzioni": [
+        "1866",
+        "1856",
+        "1861",
+        "1864"
+      ],
+      "spiegazione": "abissi psicologici e morali.. Delitto e castigo (1866): studente Raskolnikov uccide vecchia usuraia per teoria del superuomo che può trasgredire mora",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Tolstoj e Dostoevskij?",
+      "rispostaCorretta": "1868",
+      "opzioni": [
+        "1858",
+        "1868",
+        "1866",
+        "1863"
+      ],
+      "spiegazione": "nzione nell'amore di Sonja prostituta.. L'Idiota (1868): principe Myskin, uomo di bontà assoluta simile a Cristo, si distrugge nel mondo corrotto.. I",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Tolstoj e Dostoevskij?",
+      "rispostaCorretta": "1880",
+      "opzioni": [
+        "1875",
+        "1880",
+        "1878",
+        "1870"
+      ],
+      "spiegazione": "trugge nel mondo corrotto.. I Fratelli Karamazov (1880): parricidio, fede e dubbio, capitolo del Grande Inquisitore.. I Demoni (1872): nichilismo rivo",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Tolstoj e Dostoevskij?",
+      "rispostaCorretta": "1872",
+      "opzioni": [
+        "1872",
+        "1870",
+        "1862",
+        "1867"
+      ],
+      "spiegazione": "bbio, capitolo del Grande Inquisitore.. I Demoni (1872): nichilismo rivoluzionario.. Temi: male, libertà, responsabilità, fede, dubbio, redenzione.. S",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Tolstoj e Dostoevskij?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "amore",
+        "patria",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Tolstoj e Dostoevskij?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "morte",
+        "patria"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Tolstoj e Dostoevskij?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "amore",
+        "guerra",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Lev Tolstoj nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "iù filosofiche e spirituali.. Lev Tolstoj (1828-1910) in Guerra e pace (1865-1869) crea affresco epocale della Russia napoleonica",
+      "livello": "intermedio",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Anna Karenina nell'opera?",
+      "rispostaCorretta": "narratore",
+      "opzioni": [
+        "protagonista principale",
+        "personaggio secondario",
+        "antagonista",
+        "narratore"
+      ],
+      "spiegazione": "fato, sul senso della vita.. Anna Karenina (1877) narra adulterio di Anna con l'ufficiale Vronskij, condanna sociale, suicidio so",
+      "livello": "intermedio",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il realismo russo ha caratteristiche proprie, più filosofiche e spirituali..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Intreccia vicende private e grandi eventi storici, riflette su libertà e necessità nella storia, sul fato, sul senso della vita..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Realismo europeo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Poetica verista e contesto?",
+      "rispostaCorretta": "1870",
+      "opzioni": [
+        "1868",
+        "1865",
+        "1860",
+        "1870"
+      ],
+      "spiegazione": "Il Verismo italiano nasce negli anni 1870-1880 come applicazione del Naturalismo francese al contesto italiano.. La poetica si basa sull'",
+      "livello": "base",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Poetica verista e contesto?",
+      "rispostaCorretta": "1880",
+      "opzioni": [
+        "1870",
+        "1878",
+        "1880",
+        "1875"
+      ],
+      "spiegazione": "Il Verismo italiano nasce negli anni 1870-1880 come applicazione del Naturalismo francese al contesto italiano.. La poetica si basa sull'imper",
+      "livello": "base",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Poetica verista e contesto?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "natura",
+        "morte",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Il Verismo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Il Verismo italiano nasce negli anni 1870-1880 come applicazione del Naturalismo francese al contest",
+      "livello": "intermedio",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha De Roberto nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Capuana teorico del Verismo, De Roberto, altri minori",
+      "livello": "intermedio",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il Verismo italiano nasce negli anni 1870-1880 come applicazione del Naturalismo francese al contesto italiano..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La poetica si basa sull'impersonalità: l'autore deve eclissarsi, la storia deve sembrare raccontarsi da sé..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Giovanni Verga: vita, opere e I Malavoglia?",
+      "rispostaCorretta": "1840",
+      "opzioni": [
+        "1840",
+        "1835",
+        "1838",
+        "1830"
+      ],
+      "spiegazione": "Giovanni Verga (1840-1922) nasce a Catania da famiglia borghese.. Inizia con romanzi romantici poi scopre Naturalism",
+      "livello": "base",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Giovanni Verga: vita, opere e I Malavoglia?",
+      "rispostaCorretta": "1922",
+      "opzioni": [
+        "1912",
+        "1922",
+        "1920",
+        "1917"
+      ],
+      "spiegazione": "Giovanni Verga (1840-1922) nasce a Catania da famiglia borghese.. Inizia con romanzi romantici poi scopre Naturalismo e a",
+      "livello": "base",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Giovanni Verga: vita, opere e I Malavoglia?",
+      "rispostaCorretta": "1881",
+      "opzioni": [
+        "1879",
+        "1871",
+        "1876",
+        "1881"
+      ],
+      "spiegazione": "e all'aristocratico.. Completa solo I Malavoglia (1881) e Mastro-don Gesualdo (1889).. Vita dei campi (1880) raccolte novelle veriste: Rosso Malpelo,",
+      "livello": "base",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Giovanni Verga: vita, opere e I Malavoglia?",
+      "rispostaCorretta": "1889",
+      "opzioni": [
+        "1884",
+        "1879",
+        "1889",
+        "1887"
+      ],
+      "spiegazione": "a solo I Malavoglia (1881) e Mastro-don Gesualdo (1889).. Vita dei campi (1880) raccolte novelle veriste: Rosso Malpelo, La Lupa, Cavalleria rusticana",
+      "livello": "base",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Giovanni Verga: vita, opere e I Malavoglia?",
+      "rispostaCorretta": "1880",
+      "opzioni": [
+        "1878",
+        "1875",
+        "1870",
+        "1880"
+      ],
+      "spiegazione": "1) e Mastro-don Gesualdo (1889).. Vita dei campi (1880) raccolte novelle veriste: Rosso Malpelo, La Lupa, Cavalleria rusticana.. Novelle rusticane (18",
+      "livello": "base",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Giovanni Verga: vita, opere e I Malavoglia?",
+      "rispostaCorretta": "1883",
+      "opzioni": [
+        "1878",
+        "1881",
+        "1873",
+        "1883"
+      ],
+      "spiegazione": "a Lupa, Cavalleria rusticana.. Novelle rusticane (1883).. I Malavoglia ambientato ad Aci Trezza, famiglia di pescatori rovinata da affare dei lupini a",
+      "livello": "base",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Giovanni Verga: vita, opere e I Malavoglia?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "natura",
+        "morte"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Giovanni Verga: vita, opere e I Malavoglia?",
+      "rispostaCorretta": "religione",
+      "opzioni": [
+        "morte",
+        "amore",
+        "libertà",
+        "religione"
+      ],
+      "spiegazione": "Il tema del religione è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Giovanni Verga: vita, opere e I Malavoglia?",
+      "rispostaCorretta": "famiglia",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "famiglia"
+      ],
+      "spiegazione": "Il tema del famiglia è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Giovanni Verga nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "Giovanni Verga (1840-1922) nasce a Catania da famiglia borghese.. Inizia con romanzi romantici poi s",
+      "livello": "intermedio",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Rosso Malpelo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "80) raccolte novelle veriste: Rosso Malpelo, La Lupa, Cavalleria rusticana.. Novelle rusticane (1883).. I Malavoglia ambientato ad",
+      "livello": "intermedio",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Giovanni Verga (1840-1922) nasce a Catania da famiglia borghese..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Inizia con romanzi romantici poi scopre Naturalismo e approda al Verismo..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Verismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e poetica del fanciullino?",
+      "rispostaCorretta": "1855",
+      "opzioni": [
+        "1853",
+        "1850",
+        "1845",
+        "1855"
+      ],
+      "spiegazione": "Giovanni Pascoli (1855-1912) nasce a San Mauro di Romagna.. Trauma fondamentale: 10 agosto 1867 padre Ruggero assassin",
+      "livello": "base",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e poetica del fanciullino?",
+      "rispostaCorretta": "1912",
+      "opzioni": [
+        "1912",
+        "1902",
+        "1910",
+        "1907"
+      ],
+      "spiegazione": "Giovanni Pascoli (1855-1912) nasce a San Mauro di Romagna.. Trauma fondamentale: 10 agosto 1867 padre Ruggero assassinato m",
+      "livello": "base",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e poetica del fanciullino?",
+      "rispostaCorretta": "1867",
+      "opzioni": [
+        "1865",
+        "1862",
+        "1857",
+        "1867"
+      ],
+      "spiegazione": "Mauro di Romagna.. Trauma fondamentale: 10 agosto 1867 padre Ruggero assassinato misteriosamente.. Seguono altri lutti familiari (madre, sorella, frat",
+      "livello": "base",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e poetica del fanciullino?",
+      "rispostaCorretta": "1897",
+      "opzioni": [
+        "1897",
+        "1887",
+        "1892",
+        "1895"
+      ],
+      "spiegazione": "creando nido.. Poetica esposta in Il fanciullino (1897): dentro ogni uomo c'è fanciullo che vede mondo con meraviglia, stupore, innocenza.. Il poeta a",
+      "livello": "base",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e poetica del fanciullino?",
+      "rispostaCorretta": "1891",
+      "opzioni": [
+        "1891",
+        "1881",
+        "1889",
+        "1886"
+      ],
+      "spiegazione": "ale.. Anticipa Simbolismo ed Ermetismo.. Myricae (1891-1911) prima raccolta: poesie brevi su natura umile.. Canti di Castelvecchio (1903): temi famili",
+      "livello": "base",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e poetica del fanciullino?",
+      "rispostaCorretta": "1911",
+      "opzioni": [
+        "1911",
+        "1909",
+        "1901",
+        "1906"
+      ],
+      "spiegazione": "Anticipa Simbolismo ed Ermetismo.. Myricae (1891-1911) prima raccolta: poesie brevi su natura umile.. Canti di Castelvecchio (1903): temi familiari,",
+      "livello": "base",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e poetica del fanciullino?",
+      "rispostaCorretta": "1903",
+      "opzioni": [
+        "1893",
+        "1903",
+        "1901",
+        "1898"
+      ],
+      "spiegazione": "e brevi su natura umile.. Canti di Castelvecchio (1903): temi familiari, campestri.. Poemetti (1897-1909): poemetti narrativi mondo contadino.. Poemi",
+      "livello": "base",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e poetica del fanciullino?",
+      "rispostaCorretta": "1909",
+      "opzioni": [
+        "1909",
+        "1899",
+        "1904",
+        "1907"
+      ],
+      "spiegazione": "1903): temi familiari, campestri.. Poemetti (1897-1909): poemetti narrativi mondo contadino.. Poemi conviviali (1904): miti classici reinterpretati..",
+      "livello": "base",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e poetica del fanciullino?",
+      "rispostaCorretta": "1904",
+      "opzioni": [
+        "1904",
+        "1894",
+        "1899",
+        "1902"
+      ],
+      "spiegazione": "tti narrativi mondo contadino.. Poemi conviviali (1904): miti classici reinterpretati.. Poesie latine. Pascoli è poeta simbolista che nasconde abissi",
+      "livello": "base",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e poetica del fanciullino?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "patria",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e poetica del fanciullino?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "amore",
+        "natura",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Giovanni Pascoli nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "protagonista principale",
+        "antagonista"
+      ],
+      "spiegazione": "Giovanni Pascoli (1855-1912) nasce a San Mauro di Romagna.. Trauma fondamentale: 10 agosto 1867 padr",
+      "livello": "intermedio",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha San Mauro nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "i Pascoli (1855-1912) nasce a San Mauro di Romagna.. Trauma fondamentale: 10 agosto 1867 padre Ruggero assassinato misteriosamente",
+      "livello": "intermedio",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Giovanni Pascoli (1855-1912) nasce a San Mauro di Romagna..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Trauma fondamentale: 10 agosto 1867 padre Ruggero assassinato misteriosamente..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Estetismo, superuomo e opere principali?",
+      "rispostaCorretta": "1863",
+      "opzioni": [
+        "1861",
+        "1853",
+        "1858",
+        "1863"
+      ],
+      "spiegazione": "Gabriele D'Annunzio (1863-1938) figura poliedrica: poeta, romanziere, drammaturgo, eroe di guerra, politico.. Vita intens",
+      "livello": "base",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Estetismo, superuomo e opere principali?",
+      "rispostaCorretta": "1938",
+      "opzioni": [
+        "1936",
+        "1938",
+        "1928",
+        "1933"
+      ],
+      "spiegazione": "Gabriele D'Annunzio (1863-1938) figura poliedrica: poeta, romanziere, drammaturgo, eroe di guerra, politico.. Vita intensa: am",
+      "livello": "base",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Estetismo, superuomo e opere principali?",
+      "rispostaCorretta": "1880",
+      "opzioni": [
+        "1878",
+        "1880",
+        "1870",
+        "1875"
+      ],
+      "spiegazione": "olve da estetismo a superomismo.. Estetismo (anni 1880-90): culto della bellezza, arte per l'arte, vita come opera d'arte.. Il Piacere (1889) manifest",
+      "livello": "base",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Estetismo, superuomo e opere principali?",
+      "rispostaCorretta": "1889",
+      "opzioni": [
+        "1887",
+        "1884",
+        "1879",
+        "1889"
+      ],
+      "spiegazione": "per l'arte, vita come opera d'arte.. Il Piacere (1889) manifesto: Andrea Sperelli esteta raffinato ma vuoto.. Superomismo (anni 1890-1900) da Nietzsc",
+      "livello": "base",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Estetismo, superuomo e opere principali?",
+      "rispostaCorretta": "1890",
+      "opzioni": [
+        "1888",
+        "1885",
+        "1880",
+        "1890"
+      ],
+      "spiegazione": "lli esteta raffinato ma vuoto.. Superomismo (anni 1890-1900) da Nietzsche: Oltreuomo superiore che domina massa con volontà di potenza.. Romanzi: Trio",
+      "livello": "base",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Estetismo, superuomo e opere principali?",
+      "rispostaCorretta": "1900",
+      "opzioni": [
+        "1895",
+        "1890",
+        "1900",
+        "1898"
+      ],
+      "spiegazione": "steta raffinato ma vuoto.. Superomismo (anni 1890-1900) da Nietzsche: Oltreuomo superiore che domina massa con volontà di potenza.. Romanzi: Trionfo d",
+      "livello": "base",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Estetismo, superuomo e opere principali?",
+      "rispostaCorretta": "1903",
+      "opzioni": [
+        "1898",
+        "1893",
+        "1903",
+        "1901"
+      ],
+      "spiegazione": "uoco.. Teatro: Figlia di Iorio.. Poesia: Alcyone (1903) delle Laudi capolavoro lirico, panismo, fusione io-natura.. Lingua dannunziana sontuosa, prezi",
+      "livello": "base",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Estetismo, superuomo e opere principali?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "morte",
+        "patria",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Estetismo, superuomo e opere principali?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "libertà",
+        "natura",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Estetismo, superuomo e opere principali?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "guerra",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Eleonora Duse nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale",
+        "narratore"
+      ],
+      "spiegazione": "ta intensa: amori scandalosi (Eleonora Duse), lusso, debiti, fuga in Francia, guerra (volo su Vienna, Fiume).. Poetica evolve da e",
+      "livello": "intermedio",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Il Piacere nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "rte, vita come opera d'arte.. Il Piacere (1889) manifesto: Andrea Sperelli esteta raffinato ma vuoto.. Superomismo (anni 1890-1900",
+      "livello": "intermedio",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Gabriele D'Annunzio (1863-1938) figura poliedrica: poeta, romanziere, drammaturgo, eroe di guerra, politico..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Vita intensa: amori scandalosi (Eleonora Duse), lusso, debiti, fuga in Francia, guerra (volo su Vienna, Fiume)..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Luigi Pirandello: relativismo e teatro?",
+      "rispostaCorretta": "1867",
+      "opzioni": [
+        "1865",
+        "1867",
+        "1862",
+        "1857"
+      ],
+      "spiegazione": "Luigi Pirandello (1867-1936) da Agrigento.. Studia a Bonn. Moglie malata mentale.. . Opera ruota su relativismo: non e",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Luigi Pirandello: relativismo e teatro?",
+      "rispostaCorretta": "1936",
+      "opzioni": [
+        "1936",
+        "1934",
+        "1926",
+        "1931"
+      ],
+      "spiegazione": "Luigi Pirandello (1867-1936) da Agrigento.. Studia a Bonn. Moglie malata mentale.. . Opera ruota su relativismo: non esiste",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Luigi Pirandello: relativismo e teatro?",
+      "rispostaCorretta": "1908",
+      "opzioni": [
+        "1908",
+        "1898",
+        "1903",
+        "1906"
+      ],
+      "spiegazione": "identità è frammentata, molteplice.. L'umorismo (1908): differenza tra comico (riso) e umorismo (sorriso amaro che vede contraddizioni tragiche).. Il",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Luigi Pirandello: relativismo e teatro?",
+      "rispostaCorretta": "1904",
+      "opzioni": [
+        "1902",
+        "1904",
+        "1894",
+        "1899"
+      ],
+      "spiegazione": "e contraddizioni tragiche).. Il fu Mattia Pascal (1904): Mattia creduto morto vive con nuova identità ma scopre impossibilità vivere senza identità so",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Luigi Pirandello: relativismo e teatro?",
+      "rispostaCorretta": "1921",
+      "opzioni": [
+        "1921",
+        "1911",
+        "1916",
+        "1919"
+      ],
+      "spiegazione": ", meta-teatro.. Sei personaggi in cerca d'autore (1921): personaggi cercano autore che dia loro forma, mescolano finzione e realtà.. Enrico IV: follia",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Luigi Pirandello nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "Luigi Pirandello (1867-1936) da Agrigento.. Studia a Bonn. Moglie malata mentale.. . Opera ruota su",
+      "livello": "intermedio",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Mattia Pascal nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "traddizioni tragiche).. Il fu Mattia Pascal (1904): Mattia creduto morto vive con nuova identità ma scopre impossibilità vivere se",
+      "livello": "intermedio",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Luigi Pirandello (1867-1936) da Agrigento..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Opera ruota su relativismo: non esiste verità unica, identità è frammentata, molteplice..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Italo Svevo: psicanalisi e inettitudine?",
+      "rispostaCorretta": "1861",
+      "opzioni": [
+        "1861",
+        "1851",
+        "1856",
+        "1859"
+      ],
+      "spiegazione": "Italo Svevo (Ettore Schmitz, 1861-1928) da Trieste mitteleuropea.. Lavora in commercio, scrive di notte.. Conosce Joyce. Introduc",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Italo Svevo: psicanalisi e inettitudine?",
+      "rispostaCorretta": "1928",
+      "opzioni": [
+        "1926",
+        "1923",
+        "1918",
+        "1928"
+      ],
+      "spiegazione": "Italo Svevo (Ettore Schmitz, 1861-1928) da Trieste mitteleuropea.. Lavora in commercio, scrive di notte.. Conosce Joyce. Introduce rom",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Italo Svevo: psicanalisi e inettitudine?",
+      "rispostaCorretta": "1892",
+      "opzioni": [
+        "1887",
+        "1882",
+        "1890",
+        "1892"
+      ],
+      "spiegazione": "di agire, diviso tra volontà e abulia.. Una vita (1892): Alfonso Nitti impiegato che si suicida.. Senilità (1898): Emilio Brentani che invecchia prima",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Italo Svevo: psicanalisi e inettitudine?",
+      "rispostaCorretta": "1898",
+      "opzioni": [
+        "1896",
+        "1888",
+        "1898",
+        "1893"
+      ],
+      "spiegazione": "lfonso Nitti impiegato che si suicida.. Senilità (1898): Emilio Brentani che invecchia prima del tempo.. La coscienza di Zeno (1923) capolavoro: Zeno",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Italo Svevo: psicanalisi e inettitudine?",
+      "rispostaCorretta": "1923",
+      "opzioni": [
+        "1923",
+        "1913",
+        "1918",
+        "1921"
+      ],
+      "spiegazione": "invecchia prima del tempo.. La coscienza di Zeno (1923) capolavoro: Zeno Cosini scrive autobiografia su consiglio psicoanalista ma mente, si autoingan",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Italo Svevo: psicanalisi e inettitudine?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "libertà",
+        "tempo",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Italo Svevo: psicanalisi e inettitudine?",
+      "rispostaCorretta": "pace",
+      "opzioni": [
+        "pace",
+        "amore",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del pace è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Italo Svevo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "Italo Svevo (Ettore Schmitz, 1861-1928) da Trieste mitteleuropea.. Lavora in commercio, scrive di no",
+      "livello": "intermedio",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Ettore Schmitz nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Italo Svevo (Ettore Schmitz, 1861-1928) da Trieste mitteleuropea.. Lavora in commercio, scrive di notte.. Conosce",
+      "livello": "intermedio",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Italo Svevo (Ettore Schmitz, 1861-1928) da Trieste mitteleuropea..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Lavora in commercio, scrive di notte..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ermetismo: Ungaretti, Montale, Quasimodo?",
+      "rispostaCorretta": "1920",
+      "opzioni": [
+        "1918",
+        "1920",
+        "1910",
+        "1915"
+      ],
+      "spiegazione": "Ermetismo corrente poetica anni 1920-40: essenzialità, parola assoluta, oscurità simbolica.. Giuseppe Ungaretti (1888-1970): L'Alleg",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ermetismo: Ungaretti, Montale, Quasimodo?",
+      "rispostaCorretta": "1888",
+      "opzioni": [
+        "1883",
+        "1878",
+        "1886",
+        "1888"
+      ],
+      "spiegazione": "ssoluta, oscurità simbolica.. Giuseppe Ungaretti (1888-1970): L'Allegria poesie di guerra, versi brevissimi, parola nuda.. \"M'illumino/d'immenso\", \"Si",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ermetismo: Ungaretti, Montale, Quasimodo?",
+      "rispostaCorretta": "1970",
+      "opzioni": [
+        "1960",
+        "1968",
+        "1970",
+        "1965"
+      ],
+      "spiegazione": "ta, oscurità simbolica.. Giuseppe Ungaretti (1888-1970): L'Allegria poesie di guerra, versi brevissimi, parola nuda.. \"M'illumino/d'immenso\", \"Si sta/",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ermetismo: Ungaretti, Montale, Quasimodo?",
+      "rispostaCorretta": "1896",
+      "opzioni": [
+        "1891",
+        "1886",
+        "1896",
+        "1894"
+      ],
+      "spiegazione": "utunno/sugli alberi/le foglie\".. Eugenio Montale (1896-1981) Nobel 1975: Ossi di seppia (1925) male di vivere, paesaggio ligure arido, correlativo ogg",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ermetismo: Ungaretti, Montale, Quasimodo?",
+      "rispostaCorretta": "1981",
+      "opzioni": [
+        "1981",
+        "1971",
+        "1976",
+        "1979"
+      ],
+      "spiegazione": "o/sugli alberi/le foglie\".. Eugenio Montale (1896-1981) Nobel 1975: Ossi di seppia (1925) male di vivere, paesaggio ligure arido, correlativo oggettiv",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ermetismo: Ungaretti, Montale, Quasimodo?",
+      "rispostaCorretta": "1975",
+      "opzioni": [
+        "1975",
+        "1970",
+        "1965",
+        "1973"
+      ],
+      "spiegazione": "ri/le foglie\".. Eugenio Montale (1896-1981) Nobel 1975: Ossi di seppia (1925) male di vivere, paesaggio ligure arido, correlativo oggettivo.. \"Meriggi",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ermetismo: Ungaretti, Montale, Quasimodo?",
+      "rispostaCorretta": "1925",
+      "opzioni": [
+        "1925",
+        "1915",
+        "1920",
+        "1923"
+      ],
+      "spiegazione": "o Montale (1896-1981) Nobel 1975: Ossi di seppia (1925) male di vivere, paesaggio ligure arido, correlativo oggettivo.. \"Meriggiare pallido e assorto\"",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ermetismo: Ungaretti, Montale, Quasimodo?",
+      "rispostaCorretta": "1901",
+      "opzioni": [
+        "1899",
+        "1901",
+        "1896",
+        "1891"
+      ],
+      "spiegazione": ".. Le Occasioni, La Bufera.. Salvatore Quasimodo (1901-1968) Nobel 1959: Acque e terre, Ed è subito sera poesia pura ermetica.. Dopo guerra poesia più",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ermetismo: Ungaretti, Montale, Quasimodo?",
+      "rispostaCorretta": "1968",
+      "opzioni": [
+        "1963",
+        "1958",
+        "1968",
+        "1966"
+      ],
+      "spiegazione": "Occasioni, La Bufera.. Salvatore Quasimodo (1901-1968) Nobel 1959: Acque e terre, Ed è subito sera poesia pura ermetica.. Dopo guerra poesia più impe",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Ermetismo: Ungaretti, Montale, Quasimodo?",
+      "rispostaCorretta": "1959",
+      "opzioni": [
+        "1959",
+        "1957",
+        "1949",
+        "1954"
+      ],
+      "spiegazione": "La Bufera.. Salvatore Quasimodo (1901-1968) Nobel 1959: Acque e terre, Ed è subito sera poesia pura ermetica.. Dopo guerra poesia più impegnata",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Ermetismo: Ungaretti, Montale, Quasimodo?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "morte",
+        "guerra"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Giuseppe Ungaretti nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "ssoluta, oscurità simbolica.. Giuseppe Ungaretti (1888-1970): L'Allegria poesie di guerra, versi brevissimi, parola nuda.. \"M'illu",
+      "livello": "intermedio",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Eugenio Montale nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "nno/sugli alberi/le foglie\".. Eugenio Montale (1896-1981) Nobel 1975: Ossi di seppia (1925) male di vivere, paesaggio ligure arido",
+      "livello": "intermedio",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Ermetismo corrente poetica anni 1920-40: essenzialità, parola assoluta, oscurità simbolica..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Giuseppe Ungaretti (1888-1970): L'Allegria poesie di guerra, versi brevissimi, parola nuda..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Neorealismo e oltre: Pavese, Calvino?",
+      "rispostaCorretta": "1908",
+      "opzioni": [
+        "1898",
+        "1906",
+        "1908",
+        "1903"
+      ],
+      "spiegazione": "Cesare Pavese (1908-1950): mito, solitudine, colline Langhe.. La luna e i falò (1950), Dialoghi con Leucò rielabora",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Neorealismo e oltre: Pavese, Calvino?",
+      "rispostaCorretta": "1950",
+      "opzioni": [
+        "1948",
+        "1945",
+        "1940",
+        "1950"
+      ],
+      "spiegazione": "Cesare Pavese (1908-1950): mito, solitudine, colline Langhe.. La luna e i falò (1950), Dialoghi con Leucò rielaborazione",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Neorealismo e oltre: Pavese, Calvino?",
+      "rispostaCorretta": "1923",
+      "opzioni": [
+        "1913",
+        "1921",
+        "1923",
+        "1918"
+      ],
+      "spiegazione": "elaborazione miti.. Suicidio 1950. Italo Calvino (1923-1985): da neorealismo (Sentiero nidi ragno, 1947) a fantastico (Barone rampante, Visconte dimez",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Neorealismo e oltre: Pavese, Calvino?",
+      "rispostaCorretta": "1985",
+      "opzioni": [
+        "1983",
+        "1985",
+        "1975",
+        "1980"
+      ],
+      "spiegazione": "razione miti.. Suicidio 1950. Italo Calvino (1923-1985): da neorealismo (Sentiero nidi ragno, 1947) a fantastico (Barone rampante, Visconte dimezzato,",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Neorealismo e oltre: Pavese, Calvino?",
+      "rispostaCorretta": "1947",
+      "opzioni": [
+        "1945",
+        "1937",
+        "1947",
+        "1942"
+      ],
+      "spiegazione": "(1923-1985): da neorealismo (Sentiero nidi ragno, 1947) a fantastico (Barone rampante, Visconte dimezzato, Cavaliere inesistente trilogia Nostri anten",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Cesare Pavese nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Cesare Pavese (1908-1950): mito, solitudine, colline Langhe.. La luna e i falò (1950), Dialoghi con",
+      "livello": "intermedio",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Italo Calvino nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "razione miti.. Suicidio 1950. Italo Calvino (1923-1985): da neorealismo (Sentiero nidi ragno, 1947) a fantastico (Barone rampante,",
+      "livello": "intermedio",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Cesare Pavese (1908-1950): mito, solitudine, colline Langhe..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La luna e i falò (1950), Dialoghi con Leucò rielaborazione miti..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Il Novecento: Pirandello, Svevo, poeti",
+      "materia": "italiano"
+    }
+  ]
+}

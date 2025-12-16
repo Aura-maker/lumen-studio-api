@@ -1,0 +1,58 @@
+{
+  "id": "GRE_SIM_047",
+  "materia": "LINGUA E CULTURA GRECA",
+  "tipo": "ESAME DI STATO - LICEO CLASSICO",
+  "numero": 47,
+  "data": "2025-12-06",
+  "durata": "6 ore",
+  "intestazione": "Ministero dell'Istruzione e del Merito\nESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE\nIndirizzo: LI01 - CLASSICO\nDisciplina: LINGUA E CULTURA GRECA",
+  "dizionari_ammessi": "È consentito l'uso del dizionario di greco.",
+  "struttura": {
+    "prima_parte": {
+      "titolo": "PRIMA PARTE: traduzione di un testo in lingua greca",
+      "titolo_brano": "Il valore della filosofia",
+      "pre_testo": "Aristotele riflette sulla natura della felicità e sul ruolo della contemplazione filosofica nel raggiungimento del bene supremo.",
+      "testo_greco": "Εἰ δ' ἐστὶν ἡ εὐδαιμονία κατ' ἀρετὴν ἐνέργεια, εὔλογον κατὰ τὴν κρατίστην· αὕτη δ' ἂν εἴη τοῦ ἀρίστου. Εἴτε δὴ νοῦς τοῦτο εἴτε ἄλλο τι, ὃ δὴ κατὰ φύσιν δοκεῖ ἄρχειν καὶ ἡγεῖσθαι καὶ ἔννοιαν ἔχειν περὶ καλῶν καὶ θείων, εἴτε θεῖον ὂν καὶ αὐτὸ εἴτε τῶν ἐν ἡμῖν τὸ θειότατον, ἡ τούτου ἐνέργεια κατὰ τὴν οἰκείαν ἀρετὴν εἴη ἂν ἡ τελεία εὐδαιμονία.",
+      "post_testo": null,
+      "note_lessicali": {
+        "εὐδαιμονία": "felicità, beatitudine",
+        "κρατίστην": "la più eccellente",
+        "νοῦς": "intelletto, mente"
+      },
+      "fonte": "Aristotele, Etica Nicomachea, X, 7, 1177a"
+    },
+    "seconda_parte": {
+      "titolo": "SECONDA PARTE: risposta aperta a tre quesiti",
+      "istruzioni": "Il candidato risponda ai seguenti quesiti in modo puntuale e circostanziato.",
+      "quesiti": [
+        {
+          "numero": 1,
+          "tipo": "comprensione",
+          "testo": "Individua i riferimenti mitologici o storici presenti e spiegane la funzione nel testo.",
+          "punti_max": 5
+        },
+        {
+          "numero": 2,
+          "tipo": "analisi",
+          "testo": "Esamina la struttura sintattica del periodo greco, commentando l'uso di ipotassi e paratassi.",
+          "punti_max": 5
+        },
+        {
+          "numero": 3,
+          "tipo": "approfondimento",
+          "testo": "Confronta la posizione dell'autore con quella di altri pensatori greci sullo stesso tema.",
+          "punti_max": 10
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "numeroProgressivo": 47,
+    "dataGenerazione": "2025-12-06T17:54:00.547Z",
+    "versione": "2024.1",
+    "difficolta": "base",
+    "genere_letterario": "filosofia",
+    "periodo_storico": "età arcaica"
+  },
+  "note_culturali": "Documento essenziale per la filosofia occidentale"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "LAT_SIM_169",
+  "materia": "LINGUA E CULTURA LATINA",
+  "tipo": "ESAME DI STATO - LICEO CLASSICO/SCIENTIFICO",
+  "numero": 169,
+  "data": "2025-12-06",
+  "durata": "4 ore",
+  "intestazione": "Ministero dell'Istruzione e del Merito\nESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE\nIndirizzo: LI01 - EA01 - CLASSICO\n(Testo valido anche per gli indirizzi LI02, LI21, LIC e LIQ1)\nDisciplina: LINGUA E CULTURA LATINA",
+  "dizionari_ammessi": "È consentito l'uso del dizionario di latino.",
+  "struttura": {
+    "prima_parte": {
+      "titolo": "PRIMA PARTE: traduzione di un testo in lingua latina",
+      "titolo_brano": "La clemenza del principe",
+      "pre_testo": "Seneca, precettore di Nerone, illustra al giovane imperatore l'importanza della clemenza come virtù fondamentale del buon sovrano.",
+      "testo_latino": "Clementia ergo non tantum honestiores sed tutiores praestat ornamentumque imperiorum est simul et certissima salus. Quid enim est cur reges consenuerint liberisque ac nepotibus tradiderint regna, tyrannorum exsecrabilis ac brevis potestas sit? Quid interest inter tyrannum ac regem - species enim ipsa fortunae ac licentia par est - nisi quod tyranni in voluptate saeviunt, reges non nisi ex causa ac necessitate?",
+      "post_testo": null,
+      "note_lessicali": {
+        "consenuerint": "siano invecchiati (sul trono)",
+        "exsecrabilis": "esecrabile, odiosa",
+        "licentia": "libertà di azione, potere"
+      },
+      "fonte": "Seneca, De clementia, I, 11, 4"
+    },
+    "seconda_parte": {
+      "titolo": "SECONDA PARTE: risposta aperta a tre quesiti",
+      "istruzioni": "Il candidato risponda ai seguenti quesiti in modo puntuale e circostanziato.",
+      "quesiti": [
+        {
+          "numero": 1,
+          "tipo": "comprensione",
+          "testo": "Analizza il contenuto del brano, evidenziando il messaggio centrale e la sua articolazione.",
+          "punti_max": 5
+        },
+        {
+          "numero": 2,
+          "tipo": "analisi",
+          "testo": "Analizza l'uso dei modi e dei tempi verbali in relazione al contenuto.",
+          "punti_max": 5
+        },
+        {
+          "numero": 3,
+          "tipo": "approfondimento",
+          "testo": "Proponi un'interpretazione personale supportata da argomentazioni testuali.",
+          "punti_max": 10
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "numeroProgressivo": 169,
+    "dataGenerazione": "2025-12-06T17:54:00.600Z",
+    "versione": "2024.1",
+    "difficolta": "esperto",
+    "genere_letterario": "lirica",
+    "periodo_storico": "tarda antichità"
+  },
+  "contesto_storico": "Fine della Repubblica romana"
+}

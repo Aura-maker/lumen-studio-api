@@ -1,0 +1,950 @@
+{
+  "materia": "arte",
+  "totale": 118,
+  "flashcards": [
+    {
+      "fronte": "Cosa accadde nel 1757?",
+      "retro": "Antonio Canova (1757-1822) è il massimo scultore neoclassico",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1822?",
+      "retro": "Antonio Canova (1757-1822) è il massimo scultore neoclassico",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1779?",
+      "retro": "Nasce a Possagno in Veneto, studia a Venezia e si trasferisce a Roma nel 1779 dove ottiene il successo",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del amore in Antonio Canova: scultura ideale?",
+      "retro": "I temi mitologici includono Amore e Psiche in varie versioni del bacio e stante, Paolina Borghese come Venere vincitrice che è un ritratto idealizzato della sorella di Napoleone, Teseo e il Minotauro, Ebe e le Tre Grazie che rappresentano la massima espressione della grazia femminile.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Antonio Canova: scultura ideale?",
+      "retro": "Il suo ideale di bellezza si basa sull'imitazione sublime della natura perfezionata secondo i canoni classici greci di Fidia e Prassitele, con forme pure, armoniose e idealizzate, e una levigatura del marmo estrema che crea l'effetto di carne morbida.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del famiglia in Antonio Canova: scultura ideale?",
+      "retro": "È protetto dai papi Pio VI e VII e da Napoleone, per il quale realizza ritratti della famiglia Bonaparte, e le sue opere si diffondono in tutta Europa.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "La sua tecnica prevede il modello in creta, il calco in gesso e la puntinatura per il marmo, con una levigatura maniacale, e raramente dipinge le statue seguendo l'uso antico.",
+      "categoria": "definizioni",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Di cosa tratta \"A Marat David\"?",
+      "retro": "icità monumentale, luce caravaggesca e la dedica \"A Marat David\", costituendo un esempio di pittura propagandistica.",
+      "categoria": "opere",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"A Marat David\"?",
+      "retro": "Louis David",
+      "categoria": "autori",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1748?",
+      "retro": "Jacques-Louis David (1748-1825) è un pittore neoclassico francese politicamente impegnato",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1825?",
+      "retro": "Jacques-Louis David (1748-1825) è un pittore neoclassico francese politicamente impegnato",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1775?",
+      "retro": "Si forma a Roma dal 1775 al 1780 dove studia l'antico e Raffaello",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1780?",
+      "retro": "Si forma a Roma dal 1775 al 1780 dove studia l'antico e Raffaello",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1784?",
+      "retro": "Nella prima fase monarchica dipinge il Giuramento degli Orazi del 1784, dove tre fratelli giurano di difendere Roma contro Alba, esprimendo virtù civica e sacrificio",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1793?",
+      "retro": "La Morte di Marat del 1793 appartiene alla fase rivoluzionaria e rappresenta Jean-Paul Marat, giacobino ucciso a pugnalate",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1807?",
+      "retro": "fase napoleonica diventa pittore ufficiale di Napoleone e dipinge l'Incoronazione di Napoleone del 1807 come scena storica documentaria e Napoleone che valica le Alpi come propaganda eroica",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Jacques-Louis David: pittura impegnata?",
+      "retro": "La Morte di Marat del 1793 appartiene alla fase rivoluzionaria e rappresenta Jean-Paul Marat, giacobino ucciso a pugnalate da Charlotte Corday, raffigurato come martire della rivoluzione e Cristo laico, con semplicità monumentale, luce caravaggesca e la dedica \"A Marat David\", costituendo un esempio di pittura propagandistica.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del patria in Jacques-Louis David: pittura impegnata?",
+      "retro": "Nella prima fase monarchica dipinge il Giuramento degli Orazi del 1784, dove tre fratelli giurano di difendere Roma contro Alba, esprimendo virtù civica e sacrificio per la patria con rigore compositivo in cui gli archi separano i gruppi e si crea un contrasto tra la virilità degli eroi e il pianto delle donne.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del politica in Jacques-Louis David: pittura impegnata?",
+      "retro": "Jacques-Louis David (1748-1825) è un pittore neoclassico francese politicamente impegnato.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "La sua influenza consiste nel fondare la scuola neoclassica francese con allievi come Ingres e Gros, diventando il modello della pittura di storia impegnata..",
+      "categoria": "definizioni",
+      "materia": "arte",
+      "argomento": "Neoclassicismo",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 1774?",
+      "retro": "Caspar David Friedrich (1774-1840) è pittore romantico tedesco paesaggista",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1840?",
+      "retro": "Caspar David Friedrich (1774-1840) è pittore romantico tedesco paesaggista",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1818?",
+      "retro": "Viandante mare nebbia (1818) capolavoro include uomo spalle cresta rocciosa contempla mare nebbie montagne emergenti, metaf",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Caspar David Friedrich: paesaggio dell'anima?",
+      "retro": "Abbazia querceto include rovine gotiche neve nebbia, morte spiritualità tempo.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Caspar David Friedrich: paesaggio dell'anima?",
+      "retro": "Abbazia querceto include rovine gotiche neve nebbia, morte spiritualità tempo.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Caspar David Friedrich: paesaggio dell'anima?",
+      "retro": "Concepisce paesaggio come Stimmungslandschaft (paesaggio stato animo): natura specchio interiorità, sublime contemplazione infinito e solitudine meditazione, spiritualità panteista.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del viaggio in Caspar David Friedrich: paesaggio dell'anima?",
+      "retro": "Viandante mare nebbia (1818) capolavoro include uomo spalle cresta rocciosa contempla mare nebbie montagne emergenti, metafora viaggio esistenziale ignoto e sublime romantico.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1791?",
+      "retro": "Théodore Géricault (1791-1824) romantico francese breve vita intensa",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1824?",
+      "retro": "Théodore Géricault (1791-1824) romantico francese breve vita intensa",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1819?",
+      "retro": "Zattera Medusa (1819) manifesto romanticismo include naufragio fregata Medusa 1816 sopravvissuti zattera cannibalism",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1816?",
+      "retro": "Zattera Medusa (1819) manifesto romanticismo include naufragio fregata Medusa 1816 sopravvissuti zattera cannibalismo orrore, Géricault ricerca documentaria interviste testimoni,",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1798?",
+      "retro": "Eugène Delacroix (1798-1863) è capofila romanticismo francese",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1863?",
+      "retro": "Eugène Delacroix (1798-1863) è capofila romanticismo francese",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1830?",
+      "retro": "Libertà guida popolo (1830) celebra rivoluzione luglio include Libertà donna allegorica seno scoperto bandiera tricolore g",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1832?",
+      "retro": "Viaggio Marocco 1832 scoperta luce colore Oriente influenza",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Géricault e Delacroix: passione, e colore?",
+      "retro": "Temi include sofferenza umana, tragedia e morte.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del libertà in Géricault e Delacroix: passione, e colore?",
+      "retro": "Libertà guida popolo (1830) celebra rivoluzione luglio include Libertà donna allegorica seno scoperto bandiera tricolore guida popolo armi, borghese (autoritratto?) operaio monello Gavroche, cadaveri primo piano e fumo battaglia, patriottismo rivoluzionario.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del viaggio in Géricault e Delacroix: passione, e colore?",
+      "retro": "Viaggio Marocco 1832 scoperta luce colore Oriente influenza.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: tragedia",
+      "retro": "Temi include sofferenza umana, tragedia e morte.",
+      "categoria": "definizioni",
+      "materia": "arte",
+      "argomento": "Romanticismo",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Di cosa tratta \"non dipingo angeli perché non li ho mai visti\"?",
+      "retro": "Manifesto realismo include \"non dipingo angeli perché non li ho mai visti\"..",
+      "categoria": "opere",
+      "materia": "arte",
+      "argomento": "Realismo",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"non dipingo angeli perché non li ho mai visti\"?",
+      "retro": "Gustave Courbet",
+      "categoria": "autori",
+      "materia": "arte",
+      "argomento": "Realismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1819?",
+      "retro": "Gustave Courbet (1819-1877) è fondatore realismo francese",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Realismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1877?",
+      "retro": "Gustave Courbet (1819-1877) è fondatore realismo francese",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Realismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1849?",
+      "retro": "Funerale Ornans (1849-50) scandalo: funerale contadino dimensioni monumentali riservate pittura storia, 50 personaggi",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Realismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1855?",
+      "retro": "Atelier pittore (1855) allegoria reale: Courbet centro dipinge paesaggio circondato figure simboliche (nudo verità, b",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Realismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1866?",
+      "retro": "Origine mondo (1866) provocazione: nudo femminile esplicito senza idealizzazione mitologica, scandalo oscenità vs r",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Realismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1871?",
+      "retro": "Commune Parigi 1871: Courbet membro governo rivoluzionario, abbatte colonna Vendôme simbolo bonapartismo, dopo scon",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Realismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Gustave Courbet: il pittore democratico?",
+      "retro": "Origini contadine Ornans, socialista proudhoniano e rifiuta idealizzazione romantica accademica, dipinge vero realtà contemporanea popolare senza abbellimenti.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Realismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in Gustave Courbet: il pittore democratico?",
+      "retro": "Spaccapietre: lavoratori anonimi sfruttati, denuncia sociale, distrutto guerra..",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Realismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Atelier pittore (1855) allegoria reale: Courbet centro dipinge paesaggio circondato figure simboliche (nudo verità, bambino innocenza, operai borghesi intellettuali modelli), manifesto autonomia artista..",
+      "categoria": "definizioni",
+      "materia": "arte",
+      "argomento": "Realismo",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 1814?",
+      "retro": "Jean-François Millet (1814-1875) è pittore realista mondo rurale",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Realismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1875?",
+      "retro": "Jean-François Millet (1814-1875) è pittore realista mondo rurale",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Realismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1849?",
+      "retro": "Origini contadine Normandia, Parigi formazione, Barbizon 1849 vive immerso campagna",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Realismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1857?",
+      "retro": "Angelus (1857-59) icona include coppia contadini prega campo tramonto sentendo campane Angelus, religiosità u",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Realismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Di cosa tratta \"impressionisti\"?",
+      "retro": "te (1872) porto Le Havre alba, critico Leroy usa \"impressionisti\" sprezzante, ma adottato..",
+      "categoria": "opere",
+      "materia": "arte",
+      "argomento": "Impressionismo",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"impressionisti\"?",
+      "retro": "Claude Monet",
+      "categoria": "autori",
+      "materia": "arte",
+      "argomento": "Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1840?",
+      "retro": "Claude Monet (1840-1926) è capofila impressionismo",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1926?",
+      "retro": "Claude Monet (1840-1926) è capofila impressionismo",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1872?",
+      "retro": "Nome è Il è Il movimento da Impressione sole nascente (1872) porto Le Havre alba, critico Leroy usa \"impressionisti\" sprezzante, ma adottato.",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1892?",
+      "retro": "Cattedrali Rouen (1892-94) oltre 30 versioni facciata gotica alba mezzogiorno tramonto nebbia sole, studia variazioni",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1890?",
+      "retro": "Covoni (1890-91): mucchi fieno campo estate inverno mattino sera.",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Claude Monet: impressione, e serie?",
+      "retro": "Rivoluzione: dipingere en plein air (aperto) cogliere impressione istantanea luce atmosfera mutevoli, non studio atelier, non disegno preparatorio, ma diretto colore, pennellate rapide separate giustapposte occhio ricompone distanza, colori puri non mescolati tavolozza, ombre colorate (complementari) non nere, soggetti vita moderna paesaggi urbani natura..",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Impressionismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Rivoluzione: dipingere en plein air (aperto) cogliere impressione istantanea luce atmosfera mutevoli, non studio atelier, non disegno preparatorio, ma diretto colore, pennellate rapide separate giustapposte occhio ricompone distanza, colori puri non mescolati tavolozza, ombre colorate (complementari) non nere, soggetti vita moderna paesaggi urbani natura..",
+      "categoria": "definizioni",
+      "materia": "arte",
+      "argomento": "Impressionismo",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 1841?",
+      "retro": "Pierre-Auguste Renoir (1841-1919): gioia vivere, scene vita parigina, ritratti e nudi",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1919?",
+      "retro": "Pierre-Auguste Renoir (1841-1919): gioia vivere, scene vita parigina, ritratti e nudi",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1876?",
+      "retro": "Bal Moulin Galette (1876) capolavoro include festa popolare Montmartre domenica pomeriggio, folla danza luci alberi filt",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1834?",
+      "retro": "Edgar Degas (1834-1917): appartato impressionisti metodo non temi, studia movimento corpo umano, ballerine ippodr",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1917?",
+      "retro": "Edgar Degas (1834-1917): appartato impressionisti metodo non temi, studia movimento corpo umano, ballerine ippodromi c",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Eredità: studio movimento influenza futurismo, composizioni fotografiche arte moderna.",
+      "categoria": "definizioni",
+      "materia": "arte",
+      "argomento": "Impressionismo",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 1853?",
+      "retro": "Vincent van Gogh (1853-1890) è post-impressionista olandese vita tormentata",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1890?",
+      "retro": "Vincent van Gogh (1853-1890) è post-impressionista olandese vita tormentata",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1885?",
+      "retro": "eligiosa fallita, inizia dipingere tardi 27 anni, Olanda è Il è Il periodo scuro (Mangiatori patate 1885 contadini miseria colori terrosi)",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1886?",
+      "retro": "Parigi 1886 scopre impressionismo colore schiarisce tavolozza",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1888?",
+      "retro": "Arles 1888 cerca luce meridionale, periodo fertile include Girasoli (vitalità natura colore giallo simbolo",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 2000?",
+      "retro": "Ricoveri psichiatrici Saint-Rémy Auvers-sur-Oise, continua dipingere ossessivamente (oltre 2000 opere 10 anni) e autoritratti numerosi (oltre 40) sguardo intenso sofferto",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Van Gogh: colore come espressione?",
+      "retro": "Arles 1888 cerca luce meridionale, periodo fertile include Girasoli (vitalità natura colore giallo simbolo luce felicità), Camera Arles (solitudine intimità prospettiva distorta), Caffnotte (angoscia rossi verdi violenti), Notte stellata (cielo vorticoso stelle cipressi movimento cosmico spirali).",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Di cosa tratta \"trattare natura mediante cilindro sfera cono\"?",
+      "retro": "lidità durevole vs impressionismo fugace include \"trattare natura mediante cilindro sfera cono\"..",
+      "categoria": "opere",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"trattare natura mediante cilindro sfera cono\"?",
+      "retro": "Montagna Sainte",
+      "categoria": "autori",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1839?",
+      "retro": "Paul Cézanne (1839-1906) solitario Aix-en-Provence, studia natura geometrizzazione",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1906?",
+      "retro": "Paul Cézanne (1839-1906) solitario Aix-en-Provence, studia natura geometrizzazione",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1845?",
+      "retro": "Paul Gauguin (1845-1903): banchiere Parigi abbandona tutto arte, rifiuta civiltà occidentale cerca primitivo auten",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1903?",
+      "retro": "Paul Gauguin (1845-1903): banchiere Parigi abbandona tutto arte, rifiuta civiltà occidentale cerca primitivo autentico.",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1888?",
+      "retro": "Bretagna Pont-Aven: Visione dopo sermone (1888) sintetismo colore piatto zone campiture senza chiaroscuro, prospettiva ribaltata, rosso simbol",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1891?",
+      "retro": "Tahiti 1891 fuga paradiso perduto: dipinge indigeni vita quotidiana miti polinesiani, colori intensi antina",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1897?",
+      "retro": "Da dove veniamo?? Dove andiamo? (1897) testamento spirituale: umanità nascita maturità morte, allegoria esistenza.",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Cézanne e Gauguin: struttura, e simbolo?",
+      "retro": "Da dove veniamo?? Dove andiamo? (1897) testamento spirituale: umanità nascita maturità morte, allegoria esistenza..",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Cézanne e Gauguin: struttura, e simbolo?",
+      "retro": "Paul Cézanne (1839-1906) solitario Aix-en-Provence, studia natura geometrizzazione.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Bagnanti: nudi natura composizione monumentale classica, ma modernissima semplificazione forme..",
+      "categoria": "definizioni",
+      "materia": "arte",
+      "argomento": "Post-Impressionismo",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 1907?",
+      "retro": "Cubismo (1907-1914) è rivoluzione radicale Picasso Braque",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1914?",
+      "retro": "Cubismo (1907-1914) è rivoluzione radicale Picasso Braque",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1909?",
+      "retro": "Cubismo analitico (1909-1912): oggetto scomposto piani sfaccettati mostrato simultaneamente angolazioni multiple (front",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1912?",
+      "retro": "Cubismo analitico (1909-1912): oggetto scomposto piani sfaccettati mostrato simultaneamente angolazioni multiple (fronte lat",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1937?",
+      "retro": "eriodo blu (malinconia povertà), rosa (circo arlecchini), cubismo e classicismo anni '20, Guernica (1937) capolavoro bombardamento nazi-fascisti città basca guerra civile spagnola, urlo orrore guerra",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Cubismo: Picasso e Braque?",
+      "retro": "Cubismo analitico (1909-1912): oggetto scomposto piani sfaccettati mostrato simultaneamente angolazioni multiple (fronte lato sopra) e monocromatismo grigio bruno ocra, soggetti nature morte chitarra bottiglia giornale figura, realtà concettuale non ottica.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Cubismo: Picasso e Braque?",
+      "retro": "Influenze include Cézanne geometrizzazione, maschere africane primitivismo e quarta dimensione tempo.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del guerra in Cubismo: Picasso e Braque?",
+      "retro": "Picasso genio proteiforme include periodo blu (malinconia povertà), rosa (circo arlecchini), cubismo e classicismo anni '20, Guernica (1937) capolavoro bombardamento nazi-fascisti città basca guerra civile spagnola, urlo orrore guerra forme cubiste espressioniste bianco nero grigi e simboli (toro cavallo donna lampada).",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Di cosa tratta \"museomummie\"?",
+      "retro": "hina modernità dinamismo, rifiuta passato musei (\"museomummie\"), nazionalismo interventismo..",
+      "categoria": "opere",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"museomummie\"?",
+      "retro": "Umberto Boccioni",
+      "categoria": "autori",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Di cosa tratta \"questa non pipa\"?",
+      "retro": "elga: paradossi visivi (Tradimento immagini pipa \"questa non pipa\", Impero luci giorno notte simultanei), mistero quotidiano..",
+      "categoria": "opere",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"questa non pipa\"?",
+      "retro": "Umberto Boccioni",
+      "categoria": "autori",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1909?",
+      "retro": "Futurismo (1909-) italiano Marinetti manifesto: esalta velocità macchina modernità dinamismo, rifiuta passato m",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1882?",
+      "retro": "Umberto Boccioni (1882-1916): Città sale (1910) dinamismo urbano cavallo trascina, Forme uniche continuità spazio (191",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1916?",
+      "retro": "Umberto Boccioni (1882-1916): Città sale (1910) dinamismo urbano cavallo trascina, Forme uniche continuità spazio (1913) sc",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1910?",
+      "retro": "Umberto Boccioni (1882-1916): Città sale (1910) dinamismo urbano cavallo trascina, Forme uniche continuità spazio (1913) scultura figura movim",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1913?",
+      "retro": "i (1882-1916): Città sale (1910) dinamismo urbano cavallo trascina, Forme uniche continuità spazio (1913) scultura figura movimento linee forza scie, Stati animo (1911) emozioni stazione treni partenz",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1911?",
+      "retro": "ina, Forme uniche continuità spazio (1913) scultura figura movimento linee forza scie, Stati animo (1911) emozioni stazione treni partenze.",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1863?",
+      "retro": "Edvard Munch (1863-1944) norvegese: Urlo (1893) icona angoscia esistenziale moderna, figura ponte mani guance bocc",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1944?",
+      "retro": "Edvard Munch (1863-1944) norvegese: Urlo (1893) icona angoscia esistenziale moderna, figura ponte mani guance bocca ape",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1893?",
+      "retro": "Edvard Munch (1863-1944) norvegese: Urlo (1893) icona angoscia esistenziale moderna, figura ponte mani guance bocca aperta urlo cielo sangue o",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1924?",
+      "retro": "Surrealismo (1924 Breton manifesto): automatismo psichico inconscio sogno irrazionale influenza Freud.",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1904?",
+      "retro": "Salvador Dalí (1904-1989): Persistenza memoria (1931) orologi molli paesaggio onirico, paranoia critica metodo, ipe",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1989?",
+      "retro": "Salvador Dalí (1904-1989): Persistenza memoria (1931) orologi molli paesaggio onirico, paranoia critica metodo, iperreal",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1931?",
+      "retro": "Salvador Dalí (1904-1989): Persistenza memoria (1931) orologi molli paesaggio onirico, paranoia critica metodo, iperrealismo soggetti assurdi.",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1898?",
+      "retro": "René Magritte (1898-1967) belga: paradossi visivi (Tradimento immagini pipa \"questa non pipa\", Impero luci giorno n",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1967?",
+      "retro": "René Magritte (1898-1967) belga: paradossi visivi (Tradimento immagini pipa \"questa non pipa\", Impero luci giorno notte",
+      "categoria": "date",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del memoria in Futurismo, Espressionismo, Surrealismo?",
+      "retro": "Salvador Dalí (1904-1989): Persistenza memoria (1931) orologi molli paesaggio onirico, paranoia critica metodo, iperrealismo soggetti assurdi..",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Futurismo, Espressionismo, Surrealismo?",
+      "retro": "Eredità: arte contemporanea concettuale performance inconscio.",
+      "categoria": "temi",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Futurismo (1909-) italiano Marinetti manifesto: esalta velocità macchina modernità dinamismo, rifiuta passato musei (\"museomummie\"), nazionalismo interventismo..",
+      "categoria": "definizioni",
+      "materia": "arte",
+      "argomento": "Avanguardie del Novecento",
+      "difficolta": "intermedio"
+    }
+  ]
+}

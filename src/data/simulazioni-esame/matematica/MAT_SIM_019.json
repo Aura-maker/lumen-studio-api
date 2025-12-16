@@ -1,0 +1,145 @@
+{
+  "id": "MAT_SIM_019",
+  "materia": "MATEMATICA",
+  "tipo": "ESAME DI STATO - LICEO SCIENTIFICO",
+  "numero": 19,
+  "data": "2025-12-06",
+  "durata": "6 ore",
+  "intestazione": "Ministero dell'Istruzione e del Merito\nESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE\nIndirizzo: LICEO SCIENTIFICO\nTema di: MATEMATICA",
+  "istruzioni": "Il candidato risolva uno dei due problemi e risponda a 4 quesiti.",
+  "strumenti_ammessi": "È consentito l'uso della calcolatrice non programmabile.",
+  "problemi": [
+    {
+      "numero": "PROBLEMA 1",
+      "titolo": "Studio di funzione con parametro",
+      "introduzione": "Sia data la famiglia di funzioni:",
+      "contesto": null,
+      "funzioni": {
+        "f_k(x)": "(x² - k)·e^(-x) con k ∈ ℝ"
+      },
+      "dati": null,
+      "punti": [
+        {
+          "lettera": "a",
+          "testo": "Determinare dominio, simmetrie e comportamento agli estremi per ogni k."
+        },
+        {
+          "lettera": "b",
+          "testo": "Studiare segno, monotonia e concavità di f_k(x) al variare di k."
+        },
+        {
+          "lettera": "c",
+          "testo": "Determinare per quali valori di k la funzione ha esattamente due zeri."
+        },
+        {
+          "lettera": "d",
+          "testo": "Calcolare l'area della regione compresa tra il grafico di f₁(x) e l'asse x."
+        },
+        {
+          "lettera": "e",
+          "testo": "Trovare il valore di k per cui il massimo relativo di f_k(x) vale 1."
+        }
+      ]
+    },
+    {
+      "numero": "PROBLEMA 2",
+      "titolo": "Geometria analitica nello spazio",
+      "introduzione": null,
+      "contesto": "Nel riferimento cartesiano Oxyz, si considerino il piano π: x + 2y - z = 3 e la retta r: (x-1)/2 = (y+1)/1 = z/(-1).",
+      "funzioni": null,
+      "dati": null,
+      "punti": [
+        {
+          "lettera": "a",
+          "testo": "Verificare che r e π sono incidenti e trovare il punto di intersezione."
+        },
+        {
+          "lettera": "b",
+          "testo": "Calcolare l'angolo tra r e π."
+        },
+        {
+          "lettera": "c",
+          "testo": "Trovare l'equazione della retta s passante per P(1,0,2), parallela a π e incidente r."
+        },
+        {
+          "lettera": "d",
+          "testo": "Determinare il piano contenente r e perpendicolare a π."
+        },
+        {
+          "lettera": "e",
+          "testo": "Calcolare la distanza del punto Q(0,0,0) dalla retta r."
+        }
+      ]
+    }
+  ],
+  "quesiti": [
+    {
+      "numero": 1,
+      "argomento": "integrali",
+      "testo": "Calcolare: ∫ x·e^x·sin(x) dx",
+      "suggerimento": "Per parti ripetute"
+    },
+    {
+      "numero": 2,
+      "argomento": "geometria",
+      "testo": "Data l'iperbole xy = 4, trovare le tangenti parallele alla retta x + y = 0.",
+      "suggerimento": null
+    },
+    {
+      "numero": 3,
+      "argomento": "probabilita",
+      "testo": "Calcolare la varianza di X se P(X=k) = 1/2^k per k = 1, 2, 3, ...",
+      "suggerimento": null
+    },
+    {
+      "numero": 4,
+      "argomento": "equazioni_diff",
+      "testo": "Data y'' - y = e^x, trovare una soluzione particolare.",
+      "suggerimento": null
+    },
+    {
+      "numero": 5,
+      "argomento": "trigonometria",
+      "testo": "Risolvere: cos(2x) + cos(4x) + cos(6x) = 0.",
+      "suggerimento": "Formule di prostaferesi"
+    },
+    {
+      "numero": 6,
+      "argomento": "numeri_complessi",
+      "testo": "Risolvere: z⁴ + z³ + z² + z + 1 = 0.",
+      "suggerimento": "Radici dell'unità"
+    },
+    {
+      "numero": 7,
+      "argomento": "limiti",
+      "testo": "Verificare che lim(n→∞) (1 + 2/n)^n = e²",
+      "suggerimento": null
+    },
+    {
+      "numero": 8,
+      "argomento": "derivate",
+      "testo": "Data f(x) = (sin x)^(cos x), calcolare f'(π/4).",
+      "suggerimento": "Derivata logaritmica"
+    }
+  ],
+  "metadata": {
+    "numeroProgressivo": 19,
+    "dataGenerazione": "2025-12-06T17:54:00.494Z",
+    "versione": "2024.1",
+    "difficolta": "base",
+    "argomenti_coperti": [
+      "Analisi di famiglia di funzioni",
+      "Modello di crescita",
+      "limiti",
+      "derivate",
+      "integrali",
+      "geometria",
+      "probabilita",
+      "equazioni_diff",
+      "trigonometria",
+      "numeri_complessi"
+    ],
+    "formule_utilizzate": 13
+  },
+  "note_particolari": "Simulazione con focus su geometria e probabilità"
+}

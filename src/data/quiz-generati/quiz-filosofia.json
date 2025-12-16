@@ -1,0 +1,2373 @@
+{
+  "materia": "filosofia",
+  "totale": 163,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Caratteristiche generali, e contesto?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "patria",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Caratteristiche generali, e contesto?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "morte",
+        "libertà",
+        "amore",
+        "natura"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Caratteristiche generali, e contesto?",
+      "rispostaCorretta": "pace",
+      "opzioni": [
+        "pace",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del pace è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'Illuminismo è un movimento culturale europeo del XVIII secolo.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "I mezzi di diffusione includono l'Enciclopedia di Diderot e D'Alembert, i giornali, i caffè, le accademie e la massoneria.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Voltaire: tolleranza, e ragione?",
+      "rispostaCorretta": "1694",
+      "opzioni": [
+        "1694",
+        "1692",
+        "1684",
+        "1689"
+      ],
+      "spiegazione": "François-Marie Arouet, noto come Voltaire (1694-1778), è il simbolo dell'Illuminismo. La sua vita è caratterizzata dall'imprigionamento alla Ba",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Voltaire: tolleranza, e ragione?",
+      "rispostaCorretta": "1778",
+      "opzioni": [
+        "1776",
+        "1778",
+        "1768",
+        "1773"
+      ],
+      "spiegazione": "François-Marie Arouet, noto come Voltaire (1694-1778), è il simbolo dell'Illuminismo. La sua vita è caratterizzata dall'imprigionamento alla Bastigl",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Voltaire: tolleranza, e ragione?",
+      "rispostaCorretta": "1734",
+      "opzioni": [
+        "1734",
+        "1724",
+        "1729",
+        "1732"
+      ],
+      "spiegazione": "opere principali sono le Lettere filosofiche del 1734, che elogiano la libertà inglese e criticano l'assolutismo francese, il Trattato sulla tolleran",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Voltaire: tolleranza, e ragione?",
+      "rispostaCorretta": "1763",
+      "opzioni": [
+        "1763",
+        "1753",
+        "1758",
+        "1761"
+      ],
+      "spiegazione": "utismo francese, il Trattato sulla tolleranza del 1763, che difende Calas, un protestante ingiustamente condannato, e Candido del 1759, romanzo satiri",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Voltaire: tolleranza, e ragione?",
+      "rispostaCorretta": "1759",
+      "opzioni": [
+        "1757",
+        "1754",
+        "1749",
+        "1759"
+      ],
+      "spiegazione": "otestante ingiustamente condannato, e Candido del 1759, romanzo satirico contro l'ottimismo di Leibniz. Le sue idee centrali includono la tolleranza r",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Voltaire: tolleranza, e ragione?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "patria",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Marie Arouet nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario"
+      ],
+      "spiegazione": "François-Marie Arouet, noto come Voltaire (1694-1778), è il simbolo dell'Illuminismo. La sua vita è caratteri",
+      "livello": "intermedio",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "François-Marie Arouet, noto come Voltaire (1694-1778), è il simbolo dell'Illuminismo.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il suo metodo si basa sull'ironia tagliente, la satira e la divulgazione.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Enciclopedia, e diffusione sapere?",
+      "rispostaCorretta": "1713",
+      "opzioni": [
+        "1711",
+        "1713",
+        "1703",
+        "1708"
+      ],
+      "spiegazione": "tieri è un progetto monumentale di Denis Diderot (1713-1784) e Jean d'Alembert (1717-1783). La pubblicazione avviene dal 1751 al 1772 in 35 volumi, di",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Enciclopedia, e diffusione sapere?",
+      "rispostaCorretta": "1784",
+      "opzioni": [
+        "1784",
+        "1774",
+        "1779",
+        "1782"
+      ],
+      "spiegazione": "è un progetto monumentale di Denis Diderot (1713-1784) e Jean d'Alembert (1717-1783). La pubblicazione avviene dal 1751 al 1772 in 35 volumi, di cui",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Enciclopedia, e diffusione sapere?",
+      "rispostaCorretta": "1717",
+      "opzioni": [
+        "1717",
+        "1715",
+        "1707",
+        "1712"
+      ],
+      "spiegazione": "e di Denis Diderot (1713-1784) e Jean d'Alembert (1717-1783). La pubblicazione avviene dal 1751 al 1772 in 35 volumi, di cui 28 di testo e 11 di tavol",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Enciclopedia, e diffusione sapere?",
+      "rispostaCorretta": "1783",
+      "opzioni": [
+        "1781",
+        "1773",
+        "1783",
+        "1778"
+      ],
+      "spiegazione": "Denis Diderot (1713-1784) e Jean d'Alembert (1717-1783). La pubblicazione avviene dal 1751 al 1772 in 35 volumi, di cui 28 di testo e 11 di tavole ill",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Enciclopedia, e diffusione sapere?",
+      "rispostaCorretta": "1751",
+      "opzioni": [
+        "1749",
+        "1746",
+        "1741",
+        "1751"
+      ],
+      "spiegazione": "lembert (1717-1783). La pubblicazione avviene dal 1751 al 1772 in 35 volumi, di cui 28 di testo e 11 di tavole illustrate. I collaboratori includono V",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Enciclopedia, e diffusione sapere?",
+      "rispostaCorretta": "1772",
+      "opzioni": [
+        "1767",
+        "1770",
+        "1772",
+        "1762"
+      ],
+      "spiegazione": "(1717-1783). La pubblicazione avviene dal 1751 al 1772 in 35 volumi, di cui 28 di testo e 11 di tavole illustrate. I collaboratori includono Voltaire,",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Enciclopedia, e diffusione sapere?",
+      "rispostaCorretta": "130",
+      "opzioni": [
+        "128",
+        "130",
+        "120",
+        "125"
+      ],
+      "spiegazione": "oltaire, Rousseau, Montesquieu, d'Holbach e oltre 130 autori. L'obiettivo è raccogliere tutto il sapere umano e ordinarlo razionalmente, combattere i",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Enciclopedia, e diffusione sapere?",
+      "rispostaCorretta": "religione",
+      "opzioni": [
+        "religione",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del religione è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Denis Diderot nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "è un progetto monumentale di Denis Diderot (1713-1784) e Jean d'Alembert (1717-1783). La pubblicazione avviene dal 1751 al 1772 i",
+      "livello": "intermedio",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La pubblicazione avviene dal 1751 al 1772 in 35 volumi, di cui 28 di testo e 11 di tavole illustrate.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "I collaboratori includono Voltaire, Rousseau, Montesquieu, d'Holbach e oltre 130 autori.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Montesquieu, e divisione poteri?",
+      "rispostaCorretta": "1689",
+      "opzioni": [
+        "1687",
+        "1684",
+        "1679",
+        "1689"
+      ],
+      "spiegazione": "Charles-Louis de Montesquieu (1689-1755) è un filosofo politico. La sua opera principale è Lo spirito delle leggi del 1748, un'ana",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Montesquieu, e divisione poteri?",
+      "rispostaCorretta": "1755",
+      "opzioni": [
+        "1753",
+        "1750",
+        "1745",
+        "1755"
+      ],
+      "spiegazione": "Charles-Louis de Montesquieu (1689-1755) è un filosofo politico. La sua opera principale è Lo spirito delle leggi del 1748, un'analisi",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Montesquieu, e divisione poteri?",
+      "rispostaCorretta": "1748",
+      "opzioni": [
+        "1748",
+        "1738",
+        "1743",
+        "1746"
+      ],
+      "spiegazione": "sua opera principale è Lo spirito delle leggi del 1748, un'analisi comparativa dei sistemi politici. Il suo metodo consiste nello studiare le leggi co",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Montesquieu, e divisione poteri?",
+      "rispostaCorretta": "1787",
+      "opzioni": [
+        "1787",
+        "1777",
+        "1782",
+        "1785"
+      ],
+      "spiegazione": ". L'influenza è enorme sulla Costituzione USA del 1787, sulla Rivoluzione francese e sul costituzionalismo moderno. Le Lettere persiane del 1721 sono",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Montesquieu, e divisione poteri?",
+      "rispostaCorretta": "1721",
+      "opzioni": [
+        "1711",
+        "1721",
+        "1719",
+        "1716"
+      ],
+      "spiegazione": "ostituzionalismo moderno. Le Lettere persiane del 1721 sono una satira della società francese attraverso lo sguardo straniero di un persiano che rivel",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Montesquieu, e divisione poteri?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "natura"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Le Lettere nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "ul costituzionalismo moderno. Le Lettere persiane del 1721 sono una satira della società francese attraverso lo sguardo straniero",
+      "livello": "intermedio",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Charles-Louis de Montesquieu (1689-1755) è un filosofo politico.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La sua opera principale è Lo spirito delle leggi del 1748, un'analisi comparativa dei sistemi politici.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Illuminismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Contratto sociale, e sovranità popolare?",
+      "rispostaCorretta": "1762",
+      "opzioni": [
+        "1757",
+        "1752",
+        "1760",
+        "1762"
+      ],
+      "spiegazione": "Il contratto sociale (1762) opera politica fondamentale Rousseau.. Problema: trovare forma associazione difenda persona be",
+      "livello": "base",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Contratto sociale, e sovranità popolare?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "morte",
+        "patria"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Contratto sociale, e sovranità popolare?",
+      "rispostaCorretta": "patria",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "patria",
+        "amore"
+      ],
+      "spiegazione": "Il tema del patria è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Contratto sociale, e sovranità popolare?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "amore",
+        "natura",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Influenza Rivoluzione nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "virtù cittadine senza dogmi.. Influenza Rivoluzione francese giacobini Robespierre.. Critica: rischio totalitarismo volontà genera",
+      "livello": "intermedio",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Differenza Hobbes nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "ale imposta, forzare libero.. Differenza Hobbes (contratto aliena libertà sovrano assoluto): Rousseau popolo resta sovrano",
+      "livello": "intermedio",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il contratto sociale (1762) opera politica fondamentale Rousseau..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Problema: trovare forma associazione difenda persona beni ciascuno, ma ciascuno restando libero..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Stato natura, e bontà naturale?",
+      "rispostaCorretta": "1755",
+      "opzioni": [
+        "1750",
+        "1745",
+        "1755",
+        "1753"
+      ],
+      "spiegazione": "el Discorso sull'origine della disuguaglianza del 1755, Rousseau descrive lo stato di natura come una condizione in cui l'uomo è buono, felice, libero",
+      "livello": "base",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Stato natura, e bontà naturale?",
+      "rispostaCorretta": "1762",
+      "opzioni": [
+        "1762",
+        "1757",
+        "1760",
+        "1752"
+      ],
+      "spiegazione": "nsidera pacifico. Nella pedagogia dell'Emilio del 1762, sostiene che l'educazione deve rispettare la natura del bambino senza imporre artificiosamente",
+      "livello": "base",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Stato natura, e bontà naturale?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "patria",
+        "morte",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Stato natura, e bontà naturale?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "natura",
+        "morte",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Stato natura, e bontà naturale?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "guerra"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Nel Discorso nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "narratore",
+        "protagonista principale",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Nel Discorso sull'origine della disuguaglianza del 1755, Rousseau descrive lo stato di natura come u",
+      "livello": "intermedio",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La proprietà privata è l'origine del male: \"Il primo che, recintato un terreno, disse questo è mio\" iniziò la disuguaglianza e le guerre.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La società corrompe la bontà naturale e genera vizi, competizione e invidia.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Pedagogia: Emilio?",
+      "rispostaCorretta": "1762",
+      "opzioni": [
+        "1762",
+        "1757",
+        "1752",
+        "1760"
+      ],
+      "spiegazione": "L'Emilio o Dell'educazione del 1762 è un trattato pedagogico in forma di romanzo. Il protagonista Emilio viene educato da un precet",
+      "livello": "base",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Pedagogia: Emilio?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "patria",
+        "amore",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Pedagogia: Emilio?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "natura",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Pedagogia: Emilio?",
+      "rispostaCorretta": "religione",
+      "opzioni": [
+        "libertà",
+        "religione",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del religione è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'Emilio o Dell'educazione del 1762 è un trattato pedagogico in forma di romanzo.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il protagonista Emilio viene educato da un precettore seguendo la natura.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Critica civiltà, e sentimento?",
+      "rispostaCorretta": "1750",
+      "opzioni": [
+        "1750",
+        "1748",
+        "1740",
+        "1745"
+      ],
+      "spiegazione": "Discorso scienze, e arti (1750) primo scritto celebre: progresso scientifico artistico non ha migliorato costumi, ma corrotto.",
+      "livello": "base",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Critica civiltà, e sentimento?",
+      "rispostaCorretta": "1761",
+      "opzioni": [
+        "1761",
+        "1759",
+        "1751",
+        "1756"
+      ],
+      "spiegazione": "progresso, Rousseau lo critica.. La nuova Eloisa (1761) romanzo epistolare: amore passionale Julie Saint-Preux contro convenzioni sociali, sentimento",
+      "livello": "base",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Critica civiltà, e sentimento?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "amore",
+        "morte",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Critica civiltà, e sentimento?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "natura",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Julie Saint nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "epistolare: amore passionale Julie Saint-Preux contro convenzioni sociali, sentimento contro ragione.. Confessioni (autobiografia",
+      "livello": "intermedio",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Anticipatore Romanticismo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "personaggio secondario",
+        "narratore",
+        "antagonista"
+      ],
+      "spiegazione": "ionalismo arido Illuministi.. Anticipatore Romanticismo: natura benigna consolatrice, sentimento superiore ragione, soggettività i",
+      "livello": "intermedio",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Discorso scienze, e arti (1750) primo scritto celebre: progresso scientifico artistico non ha migliorato costumi, ma corrotto..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Paradosso: mentre Illuministi esaltano progresso, Rousseau lo critica..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Jean-Jacques Rousseau",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Critica della Ragion Pura: la conoscenza?",
+      "rispostaCorretta": "1781",
+      "opzioni": [
+        "1781",
+        "1771",
+        "1776",
+        "1779"
+      ],
+      "spiegazione": "La Critica della Ragion Pura (1781, seconda edizione 1787) rappresenta l'opera fondamentale di Immanuel Kant e una svolta epocale",
+      "livello": "base",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Critica della Ragion Pura: la conoscenza?",
+      "rispostaCorretta": "1787",
+      "opzioni": [
+        "1785",
+        "1782",
+        "1777",
+        "1787"
+      ],
+      "spiegazione": "Critica della Ragion Pura (1781, seconda edizione 1787) rappresenta l'opera fondamentale di Immanuel Kant e una svolta epocale nella storia della filo",
+      "livello": "base",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Critica della Ragion Pura: la conoscenza?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "tempo",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Critica nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "personaggio secondario",
+        "antagonista"
+      ],
+      "spiegazione": "La Critica della Ragion Pura (1781, seconda edizione 1787) rappresenta l'opera fondamentale di Imman",
+      "livello": "intermedio",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Ragion Pura nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "La Critica della Ragion Pura (1781, seconda edizione 1787) rappresenta l'opera fondamentale di Immanuel Kant e una sv",
+      "livello": "intermedio",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La conoscenza nasce dall'incontro tra materia (i dati empirici forniti dalla sensibilità) e forma (le strutture a priori dell'intelletto)..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Critica della Ragion Pratica: la morale?",
+      "rispostaCorretta": "1788",
+      "opzioni": [
+        "1786",
+        "1783",
+        "1778",
+        "1788"
+      ],
+      "spiegazione": "La Critica della Ragion Pratica (1788) affronta il problema della morale cercando di fondare un'etica universale basata sulla ragione",
+      "livello": "base",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Critica della Ragion Pratica: la morale?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "patria",
+        "morte",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Critica della Ragion Pratica: la morale?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "natura"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Critica nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "antagonista",
+        "personaggio secondario",
+        "protagonista principale"
+      ],
+      "spiegazione": "La Critica della Ragion Pratica (1788) affronta il problema della morale cercando di fondare un'etic",
+      "livello": "intermedio",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Ragion Pratica nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "La Critica della Ragion Pratica (1788) affronta il problema della morale cercando di fondare un'etica universale basa",
+      "livello": "intermedio",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La Critica della Ragion Pratica (1788) affronta il problema della morale cercando di fondare un'etica universale basata sulla ragione autonoma..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Mentre nella prima Critica la ragione aveva funzione conoscitiva (teoretica), qui ha funzione pratica, cioè guida l'azione..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Critica del Giudizio: estetica, e teleologia?",
+      "rispostaCorretta": "1790",
+      "opzioni": [
+        "1780",
+        "1788",
+        "1785",
+        "1790"
+      ],
+      "spiegazione": "La Critica del Giudizio (1790) completa il sistema kantiano affrontando il problema del giudizio estetico (giudizio sul bello",
+      "livello": "base",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Critica del Giudizio: estetica, e teleologia?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "libertà",
+        "patria",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Critica del Giudizio: estetica, e teleologia?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "natura",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Critica nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale",
+        "narratore"
+      ],
+      "spiegazione": "La Critica del Giudizio (1790) completa il sistema kantiano affrontando il problema del giudizio est",
+      "livello": "intermedio",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Kant cerca di colmare il fossato tra il mondo della necessità (natura) e quello della libertà (morale)..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Quando dico \"questa rosa è bella\", non esprimo solo il mio piacere, ma pretendo che tutti dovrebbero condividere questo giudizio..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Immanuel Kant e il criticismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne La dialettica hegeliana e la Fenomenologia dello Spirito?",
+      "rispostaCorretta": "1770",
+      "opzioni": [
+        "1760",
+        "1765",
+        "1770",
+        "1768"
+      ],
+      "spiegazione": "Georg Wilhelm Friedrich Hegel (1770-1831) elabora il sistema filosofico più grandioso, e complesso dell'idealismo tedesco.. Al cent",
+      "livello": "base",
+      "argomento": "Georg Wilhelm Friedrich Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne La dialettica hegeliana e la Fenomenologia dello Spirito?",
+      "rispostaCorretta": "1831",
+      "opzioni": [
+        "1826",
+        "1821",
+        "1831",
+        "1829"
+      ],
+      "spiegazione": "Georg Wilhelm Friedrich Hegel (1770-1831) elabora il sistema filosofico più grandioso, e complesso dell'idealismo tedesco.. Al centro st",
+      "livello": "base",
+      "argomento": "Georg Wilhelm Friedrich Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne La dialettica hegeliana e la Fenomenologia dello Spirito?",
+      "rispostaCorretta": "1807",
+      "opzioni": [
+        "1802",
+        "1805",
+        "1807",
+        "1797"
+      ],
+      "spiegazione": "i auto-realizza.. La Fenomenologia dello Spirito (1807) è il grande affresco del cammino della coscienza verso il Sapere Assoluto.. Inizia con la cosc",
+      "livello": "base",
+      "argomento": "Georg Wilhelm Friedrich Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente La dialettica hegeliana e la Fenomenologia dello Spirito?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "natura",
+        "amore"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Georg Wilhelm Friedrich Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente La dialettica hegeliana e la Fenomenologia dello Spirito?",
+      "rispostaCorretta": "religione",
+      "opzioni": [
+        "religione",
+        "morte",
+        "libertà",
+        "amore"
+      ],
+      "spiegazione": "Il tema del religione è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Georg Wilhelm Friedrich Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Georg Wilhelm nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Georg Wilhelm Friedrich Hegel (1770-1831) elabora il sistema filosofico più grandioso, e complesso d",
+      "livello": "intermedio",
+      "argomento": "Georg Wilhelm Friedrich Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Friedrich Hegel nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "protagonista principale",
+        "antagonista",
+        "narratore"
+      ],
+      "spiegazione": "Georg Wilhelm Friedrich Hegel (1770-1831) elabora il sistema filosofico più grandioso, e complesso dell'idealismo",
+      "livello": "intermedio",
+      "argomento": "Georg Wilhelm Friedrich Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Georg Wilhelm Friedrich Hegel (1770-1831) elabora il sistema filosofico più grandioso, e complesso dell'idealismo tedesco..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Georg Wilhelm Friedrich Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Al centro sta il concetto di Spirito (Geist), la realtà assoluta che si auto-sviluppa dialetticamente attraverso la storia..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Georg Wilhelm Friedrich Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il sistema hegeliano: Logica, Natura, Spirito?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "tempo",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Georg Wilhelm Friedrich Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il sistema hegeliano: Logica, Natura, Spirito?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "morte",
+        "amore",
+        "natura",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Georg Wilhelm Friedrich Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il sistema hegeliano: Logica, Natura, Spirito?",
+      "rispostaCorretta": "religione",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "religione"
+      ],
+      "spiegazione": "Il tema del religione è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Georg Wilhelm Friedrich Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Scienza nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "protagonista principale",
+        "narratore",
+        "personaggio secondario"
+      ],
+      "spiegazione": "tre fasi dell'Idea assoluta.. La Scienza della Logica studia l'Idea in sé, prima della creazione del mondo: è la struttura raziona",
+      "livello": "intermedio",
+      "argomento": "Georg Wilhelm Friedrich Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Filosofia nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "narratore",
+        "personaggio secondario"
+      ],
+      "spiegazione": "oggettività, Idea assoluta).. La Filosofia della Natura studia l'Idea fuori di sé, alienata nella natura.. Hegel divide la natura",
+      "livello": "intermedio",
+      "argomento": "Georg Wilhelm Friedrich Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il sistema hegeliano maturo si articola in tre parti corrispondenti alle tre fasi dell'Idea assoluta..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Georg Wilhelm Friedrich Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La Scienza della Logica studia l'Idea in sé, prima della creazione del mondo: è la struttura razionale pura, il logos divino..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Georg Wilhelm Friedrich Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il materialismo storico e la concezione della storia?",
+      "rispostaCorretta": "1818",
+      "opzioni": [
+        "1816",
+        "1818",
+        "1808",
+        "1813"
+      ],
+      "spiegazione": "Karl Marx (1818-1883) capovolge la dialettica hegeliana: non è lo Spirito che muove la storia, ma le condizioni",
+      "livello": "base",
+      "argomento": "Karl Marx e il materialismo storico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il materialismo storico e la concezione della storia?",
+      "rispostaCorretta": "1883",
+      "opzioni": [
+        "1881",
+        "1878",
+        "1873",
+        "1883"
+      ],
+      "spiegazione": "Karl Marx (1818-1883) capovolge la dialettica hegeliana: non è lo Spirito che muove la storia, ma le condizioni mate",
+      "livello": "base",
+      "argomento": "Karl Marx e il materialismo storico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il materialismo storico e la concezione della storia?",
+      "rispostaCorretta": "1848",
+      "opzioni": [
+        "1846",
+        "1843",
+        "1838",
+        "1848"
+      ],
+      "spiegazione": "\" è il grido del Manifesto del Partito Comunista (1848)",
+      "livello": "base",
+      "argomento": "Karl Marx e il materialismo storico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Karl Marx nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "Karl Marx (1818-1883) capovolge la dialettica hegeliana: non è lo Spirito che muove la storia, ma le",
+      "livello": "intermedio",
+      "argomento": "Karl Marx e il materialismo storico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Partito Comunista nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "è il grido del Manifesto del Partito Comunista (1848)",
+      "livello": "intermedio",
+      "argomento": "Karl Marx e il materialismo storico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "\"Non è la coscienza degli uomini che determina il loro essere, ma è al contrario il loro essere sociale che determina la loro coscienza\"..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Karl Marx e il materialismo storico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La storia è lotta di classi: uomini liberi, e schiavi, patrizi, e plebei, feudatari, e servi, borghesi, e proletari sono sempre stati in opposizione..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Karl Marx e il materialismo storico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Il Capitale: critica dell'economia politica?",
+      "rispostaCorretta": "1867",
+      "opzioni": [
+        "1867",
+        "1857",
+        "1865",
+        "1862"
+      ],
+      "spiegazione": "Il Capitale (1867 il primo volume, gli altri postumi) è l'opera economica fondamentale di Marx, analisi scientifi",
+      "livello": "base",
+      "argomento": "Karl Marx e il materialismo storico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Il Capitale: critica dell'economia politica?",
+      "rispostaCorretta": "politica",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "politica"
+      ],
+      "spiegazione": "Il tema del politica è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Karl Marx e il materialismo storico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Il Capitale nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "personaggio secondario",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "Il Capitale (1867 il primo volume, gli altri postumi) è l'opera economica fondamentale di Marx, anal",
+      "livello": "intermedio",
+      "argomento": "Karl Marx e il materialismo storico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Marx parte dalla merce, cellula elementare della ricchezza capitalistica..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Karl Marx e il materialismo storico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La merce ha valore d'uso (utilità concreta) e valore di scambio (quanto vale in termini di altre merci)..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Karl Marx e il materialismo storico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne La morte di Dio e il nichilismo?",
+      "rispostaCorretta": "1844",
+      "opzioni": [
+        "1844",
+        "1839",
+        "1842",
+        "1834"
+      ],
+      "spiegazione": "Friedrich Nietzsche (1844-1900) è il filosofo che ha diagnosticato la crisi della cultura europea moderna, annunciando la",
+      "livello": "base",
+      "argomento": "Friedrich Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne La morte di Dio e il nichilismo?",
+      "rispostaCorretta": "1900",
+      "opzioni": [
+        "1895",
+        "1898",
+        "1890",
+        "1900"
+      ],
+      "spiegazione": "Friedrich Nietzsche (1844-1900) è il filosofo che ha diagnosticato la crisi della cultura europea moderna, annunciando la mort",
+      "livello": "base",
+      "argomento": "Friedrich Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente La morte di Dio e il nichilismo?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "patria",
+        "libertà",
+        "morte",
+        "amore"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Friedrich Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente La morte di Dio e il nichilismo?",
+      "rispostaCorretta": "destino",
+      "opzioni": [
+        "amore",
+        "libertà",
+        "destino",
+        "morte"
+      ],
+      "spiegazione": "Il tema del destino è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Friedrich Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente La morte di Dio e il nichilismo?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "morte",
+        "libertà",
+        "amore",
+        "natura"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Friedrich Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Friedrich Nietzsche nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Friedrich Nietzsche (1844-1900) è il filosofo che ha diagnosticato la crisi della cultura europea mo",
+      "livello": "intermedio",
+      "argomento": "Friedrich Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Nella Gaia nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "orte di Dio e il nichilismo.. Nella Gaia scienza, l'uomo folle grida nella piazza: \"Dio è morto.! Noi lo abbiamo ucciso!\".. Non si",
+      "livello": "intermedio",
+      "argomento": "Friedrich Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Nella Gaia scienza, l'uomo folle grida nella piazza: \"Dio è morto.! Noi lo abbiamo ucciso!\"..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Friedrich Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La scienza ha demolito la fede, ma ha anche mostrato che non esiste un senso oggettivo nell'universo..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Friedrich Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne La struttura della psiche e la teoria dell'inconscio?",
+      "rispostaCorretta": "1856",
+      "opzioni": [
+        "1854",
+        "1856",
+        "1846",
+        "1851"
+      ],
+      "spiegazione": "Sigmund Freud (1856-1939) fonda la psicoanalisi, rivoluzionando la comprensione della psiche umana.. La scoperta fo",
+      "livello": "base",
+      "argomento": "Sigmund Freud e la psicoanalisi",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne La struttura della psiche e la teoria dell'inconscio?",
+      "rispostaCorretta": "1939",
+      "opzioni": [
+        "1939",
+        "1937",
+        "1929",
+        "1934"
+      ],
+      "spiegazione": "Sigmund Freud (1856-1939) fonda la psicoanalisi, rivoluzionando la comprensione della psiche umana.. La scoperta fondame",
+      "livello": "base",
+      "argomento": "Sigmund Freud e la psicoanalisi",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente La struttura della psiche e la teoria dell'inconscio?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "patria",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Sigmund Freud e la psicoanalisi",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Sigmund Freud nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "Sigmund Freud (1856-1939) fonda la psicoanalisi, rivoluzionando la comprensione della psiche umana..",
+      "livello": "intermedio",
+      "argomento": "Sigmund Freud e la psicoanalisi",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Il Super nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "ulsioni in modo accettabile.. Il Super-io è l'istanza morale, interiorizzazione delle norme sociali, e parentali, sede del senso d",
+      "livello": "intermedio",
+      "argomento": "Sigmund Freud e la psicoanalisi",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Sigmund Freud (1856-1939) fonda la psicoanalisi, rivoluzionando la comprensione della psiche umana..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Sigmund Freud e la psicoanalisi",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La scoperta fondamentale è che la maggior parte della vita psichica è inconscia..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Sigmund Freud e la psicoanalisi",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Kierkegaard e l'esistenza come scelta?",
+      "rispostaCorretta": "1813",
+      "opzioni": [
+        "1811",
+        "1808",
+        "1803",
+        "1813"
+      ],
+      "spiegazione": "Søren Kierkegaard (1813-1855) è un filosofo danese considerato il padre dell'esistenzialismo. Critica il sistema hegeli",
+      "livello": "base",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Kierkegaard e l'esistenza come scelta?",
+      "rispostaCorretta": "1855",
+      "opzioni": [
+        "1853",
+        "1855",
+        "1845",
+        "1850"
+      ],
+      "spiegazione": "Søren Kierkegaard (1813-1855) è un filosofo danese considerato il padre dell'esistenzialismo. Critica il sistema hegeliano c",
+      "livello": "base",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Kierkegaard e l'esistenza come scelta?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "patria",
+        "morte",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Don Giovanni nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario"
+      ],
+      "spiegazione": "dio estetico rappresentato da Don Giovanni, che cerca il piacere immediato ma finisce nella disperazione; lo stadio etico incarnat",
+      "livello": "intermedio",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Søren Kierkegaard (1813-1855) è un filosofo danese considerato il padre dell'esistenzialismo.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Critica il sistema hegeliano che pretende di spiegare tutto razionalmente.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Heidegger e Sartre?",
+      "rispostaCorretta": "1889",
+      "opzioni": [
+        "1879",
+        "1884",
+        "1889",
+        "1887"
+      ],
+      "spiegazione": "Martin Heidegger (1889-1976) in Essere e tempo del 1927 indaga il senso dell'essere attraverso l'analisi dell'esistenz",
+      "livello": "base",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Heidegger e Sartre?",
+      "rispostaCorretta": "1976",
+      "opzioni": [
+        "1966",
+        "1971",
+        "1976",
+        "1974"
+      ],
+      "spiegazione": "Martin Heidegger (1889-1976) in Essere e tempo del 1927 indaga il senso dell'essere attraverso l'analisi dell'esistenza uma",
+      "livello": "base",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Heidegger e Sartre?",
+      "rispostaCorretta": "1927",
+      "opzioni": [
+        "1927",
+        "1917",
+        "1925",
+        "1922"
+      ],
+      "spiegazione": "artin Heidegger (1889-1976) in Essere e tempo del 1927 indaga il senso dell'essere attraverso l'analisi dell'esistenza umana, l'Esserci o Dasein. L'Es",
+      "livello": "base",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Heidegger e Sartre?",
+      "rispostaCorretta": "1905",
+      "opzioni": [
+        "1895",
+        "1903",
+        "1900",
+        "1905"
+      ],
+      "spiegazione": "mporalità costituisce l'essere. Jean-Paul Sartre (1905-1980) in L'essere e il nulla del 1943 sostiene che l'esistenza precede l'essenza: l'uomo prima",
+      "livello": "base",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Heidegger e Sartre?",
+      "rispostaCorretta": "1980",
+      "opzioni": [
+        "1980",
+        "1970",
+        "1978",
+        "1975"
+      ],
+      "spiegazione": "lità costituisce l'essere. Jean-Paul Sartre (1905-1980) in L'essere e il nulla del 1943 sostiene che l'esistenza precede l'essenza: l'uomo prima esist",
+      "livello": "base",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Heidegger e Sartre?",
+      "rispostaCorretta": "1943",
+      "opzioni": [
+        "1941",
+        "1933",
+        "1943",
+        "1938"
+      ],
+      "spiegazione": "aul Sartre (1905-1980) in L'essere e il nulla del 1943 sostiene che l'esistenza precede l'essenza: l'uomo prima esiste poi si fa. Non ha una natura pr",
+      "livello": "base",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Heidegger e Sartre?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "patria",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Heidegger e Sartre?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "patria",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Heidegger e Sartre?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "tempo",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Martin Heidegger nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Martin Heidegger (1889-1976) in Essere e tempo del 1927 indaga il senso dell'essere attraverso l'ana",
+      "livello": "intermedio",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Paul Sartre nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "tà costituisce l'essere. Jean-Paul Sartre (1905-1980) in L'essere e il nulla del 1943 sostiene che l'esistenza precede l'essenza:",
+      "livello": "intermedio",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Martin Heidegger (1889-1976) in Essere e tempo del 1927 indaga il senso dell'essere attraverso l'analisi dell'esistenza umana, l'Esserci o Dasein.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'Esserci è essere-nel-mondo, gettato in una situazione non scelta.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Adorno, Horkheimer, e critica ragione strumentale?",
+      "rispostaCorretta": "1923",
+      "opzioni": [
+        "1923",
+        "1918",
+        "1921",
+        "1913"
+      ],
+      "spiegazione": "dall'Istituto per la Ricerca Sociale fondato nel 1923 e sviluppa una teoria critica della società. Theodor Adorno (1903-1969) e Max Horkheimer (1895-",
+      "livello": "base",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Adorno, Horkheimer, e critica ragione strumentale?",
+      "rispostaCorretta": "1903",
+      "opzioni": [
+        "1903",
+        "1893",
+        "1898",
+        "1901"
+      ],
+      "spiegazione": "una teoria critica della società. Theodor Adorno (1903-1969) e Max Horkheimer (1895-1973) nella Dialettica dell'Illuminismo del 1947 analizzano come l",
+      "livello": "base",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Adorno, Horkheimer, e critica ragione strumentale?",
+      "rispostaCorretta": "1969",
+      "opzioni": [
+        "1969",
+        "1959",
+        "1964",
+        "1967"
+      ],
+      "spiegazione": "eoria critica della società. Theodor Adorno (1903-1969) e Max Horkheimer (1895-1973) nella Dialettica dell'Illuminismo del 1947 analizzano come l'Illu",
+      "livello": "base",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Adorno, Horkheimer, e critica ragione strumentale?",
+      "rispostaCorretta": "1895",
+      "opzioni": [
+        "1895",
+        "1885",
+        "1890",
+        "1893"
+      ],
+      "spiegazione": "età. Theodor Adorno (1903-1969) e Max Horkheimer (1895-1973) nella Dialettica dell'Illuminismo del 1947 analizzano come l'Illuminismo e il progresso s",
+      "livello": "base",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Adorno, Horkheimer, e critica ragione strumentale?",
+      "rispostaCorretta": "1973",
+      "opzioni": [
+        "1973",
+        "1963",
+        "1971",
+        "1968"
+      ],
+      "spiegazione": "Theodor Adorno (1903-1969) e Max Horkheimer (1895-1973) nella Dialettica dell'Illuminismo del 1947 analizzano come l'Illuminismo e il progresso si rov",
+      "livello": "base",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Adorno, Horkheimer, e critica ragione strumentale?",
+      "rispostaCorretta": "1947",
+      "opzioni": [
+        "1947",
+        "1937",
+        "1945",
+        "1942"
+      ],
+      "spiegazione": "(1895-1973) nella Dialettica dell'Illuminismo del 1947 analizzano come l'Illuminismo e il progresso si rovesciano in dominio. La ragione illuminista d",
+      "livello": "base",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Adorno, Horkheimer, e critica ragione strumentale?",
+      "rispostaCorretta": "1898",
+      "opzioni": [
+        "1896",
+        "1888",
+        "1898",
+        "1893"
+      ],
+      "spiegazione": "io organizzato scientificamente. Herbert Marcuse (1898-1979) in L'uomo a una dimensione del 1964 mostra come la società industriale avanzata integri a",
+      "livello": "base",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Adorno, Horkheimer, e critica ragione strumentale?",
+      "rispostaCorretta": "1979",
+      "opzioni": [
+        "1974",
+        "1977",
+        "1979",
+        "1969"
+      ],
+      "spiegazione": "ganizzato scientificamente. Herbert Marcuse (1898-1979) in L'uomo a una dimensione del 1964 mostra come la società industriale avanzata integri anche",
+      "livello": "base",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Adorno, Horkheimer, e critica ragione strumentale?",
+      "rispostaCorretta": "1964",
+      "opzioni": [
+        "1959",
+        "1962",
+        "1954",
+        "1964"
+      ],
+      "spiegazione": "arcuse (1898-1979) in L'uomo a una dimensione del 1964 mostra come la società industriale avanzata integri anche l'opposizione, crei bisogni falsi e r",
+      "livello": "base",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Adorno, Horkheimer, e critica ragione strumentale?",
+      "rispostaCorretta": "1892",
+      "opzioni": [
+        "1887",
+        "1882",
+        "1890",
+        "1892"
+      ],
+      "spiegazione": "È necessario il Grande Rifiuto. Walter Benjamin (1892-1940) analizza come l'opera d'arte nell'epoca della riproducibilità tecnica perda l'aura. Jürge",
+      "livello": "base",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Adorno, Horkheimer, e critica ragione strumentale?",
+      "rispostaCorretta": "1940",
+      "opzioni": [
+        "1940",
+        "1930",
+        "1935",
+        "1938"
+      ],
+      "spiegazione": "cessario il Grande Rifiuto. Walter Benjamin (1892-1940) analizza come l'opera d'arte nell'epoca della riproducibilità tecnica perda l'aura. Jürgen Hab",
+      "livello": "base",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Adorno, Horkheimer, e critica ragione strumentale?",
+      "rispostaCorretta": "1929",
+      "opzioni": [
+        "1929",
+        "1919",
+        "1927",
+        "1924"
+      ],
+      "spiegazione": "ducibilità tecnica perda l'aura. Jürgen Habermas (1929-) teorizza l'agire comunicativo razionale orientato all'intesa, non al successo, e la sfera pub",
+      "livello": "base",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Adorno, Horkheimer, e critica ragione strumentale?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "natura",
+        "amore",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Scuola nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "La Scuola di Francoforte nasce dall'Istituto per la Ricerca Sociale fondato nel 1923 e sviluppa una",
+      "livello": "intermedio",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Ricerca Sociale nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "personaggio secondario",
+        "antagonista"
+      ],
+      "spiegazione": "te nasce dall'Istituto per la Ricerca Sociale fondato nel 1923 e sviluppa una teoria critica della società. Theodor Adorno (1903-1",
+      "livello": "intermedio",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La Scuola di Francoforte nasce dall'Istituto per la Ricerca Sociale fondato nel 1923 e sviluppa una teoria critica della società.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La ragione illuminista diventa ragione strumentale basata sul calcolo mezzi-fini e sul dominio della natura e dell'uomo.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    }
+  ]
+}

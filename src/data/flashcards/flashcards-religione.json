@@ -1,0 +1,534 @@
+{
+  "materia": "religione",
+  "totale": 66,
+  "flashcards": [
+    {
+      "fronte": "Cosa accadde nel 1891?",
+      "retro": "Nasce Rerum Novarum Leone XIII (1891) questione operaia rivoluzione industriale, risponde socialismo liberalismo",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del amore in Principi fondamentali: dignità, bene comune, solidarietà?",
+      "retro": "4) Solidarietà: virtù sociale interdipendenza tra persone popoli, responsabilità reciproca, amore preferenziale poveri opzione preferenziale e cooperazione sviluppo pace.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Principi fondamentali: dignità, bene comune, solidarietà?",
+      "retro": "Principi fondamentali comprende 1) Dignità persona umana include creata immagine somiglianza Dio (Genesi), valore intrinseco inviolabile e fine non mezzo, diritti inalienabili (vita, libertà, lavoro e famiglia, educazione, religione), rispetto concepimento morte naturale e contro aborto eutanasia pena morte.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del libertà in Principi fondamentali: dignità, bene comune, solidarietà?",
+      "retro": "Principi fondamentali comprende 1) Dignità persona umana include creata immagine somiglianza Dio (Genesi), valore intrinseco inviolabile e fine non mezzo, diritti inalienabili (vita, libertà, lavoro e famiglia, educazione, religione), rispetto concepimento morte naturale e contro aborto eutanasia pena morte.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Principi fondamentali: dignità, bene comune, solidarietà?",
+      "retro": "Principi fondamentali comprende 1) Dignità persona umana include creata immagine somiglianza Dio (Genesi), valore intrinseco inviolabile e fine non mezzo, diritti inalienabili (vita, libertà, lavoro e famiglia, educazione, religione), rispetto concepimento morte naturale e contro aborto eutanasia pena morte.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del religione in Principi fondamentali: dignità, bene comune, solidarietà?",
+      "retro": "Principi fondamentali comprende 1) Dignità persona umana include creata immagine somiglianza Dio (Genesi), valore intrinseco inviolabile e fine non mezzo, diritti inalienabili (vita, libertà, lavoro e famiglia, educazione, religione), rispetto concepimento morte naturale e contro aborto eutanasia pena morte.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del politica in Principi fondamentali: dignità, bene comune, solidarietà?",
+      "retro": "Non ideologia politica, ma orientamento etico morale e laici applicano autonomia competenza, magistero offre principi non soluzioni tecniche.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del pace in Principi fondamentali: dignità, bene comune, solidarietà?",
+      "retro": "2) Bene comune: insieme condizioni sociali permettono persone gruppi realizzarsi pienamente (Gaudium Spes), tre elementi essenziali (rispetto persona, benessere sociale sviluppo e pace stabilità ordine giusto), priorità bene comune su interessi particolari e ma rispetta sussidiarietà.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del famiglia in Principi fondamentali: dignità, bene comune, solidarietà?",
+      "retro": "Principi fondamentali comprende 1) Dignità persona umana include creata immagine somiglianza Dio (Genesi), valore intrinseco inviolabile e fine non mezzo, diritti inalienabili (vita, libertà, lavoro e famiglia, educazione, religione), rispetto concepimento morte naturale e contro aborto eutanasia pena morte.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1891?",
+      "retro": "Rerum Novarum (1891) Leone XIII: prima enciclica sociale, questione operaia, critica socialismo (proprietà colletti",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1931?",
+      "retro": "Quadragesimo Anno (1931) Pio XI: 40 anni Rerum, Grande Depressione, critica capitalismo finanziario concentrazione ricc",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1961?",
+      "retro": "Mater Magistra (1961) Giovanni XXIII: socializzazione crescente interdipendenza, sviluppo agricoltura paesi arretrat",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1963?",
+      "retro": "Pacem Terris (1963): pace fondata verità giustizia amore libertà e diritti umani universali (Dichiarazione ONU 194",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1948?",
+      "retro": "s (1963): pace fondata verità giustizia amore libertà e diritti umani universali (Dichiarazione ONU 1948), disarmo nucleare, ONU strumento pace",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1965?",
+      "retro": "Gaudium Spes (1965) Concilio Vaticano II: costituzione pastorale Chiesa mondo contemporaneo, dialogo cultura moder",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1967?",
+      "retro": "Populorum Progressio (1967) Paolo VI: sviluppo integrale popoli non solo economico, nuovo nome pace sviluppo, commercio in",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1981?",
+      "retro": "Laborem Exercens (1981) Giovanni Paolo II: 90 anni Rerum, lavoro chiave questione sociale, dimensione oggettiva (produ",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1987?",
+      "retro": "Sollicitudo Rei Socialis (1987): 20 anni Populorum, sottosviluppo problema morale, strutture peccato (economiche politiche), o",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1991?",
+      "retro": "Centesimus Annus (1991): 100 anni Rerum, crollo comunismo, economia mercato libera, ma regolata etica solidarietà e de",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 100?",
+      "retro": "Centesimus Annus (1991): 100 anni Rerum, crollo comunismo, economia mercato libera, ma regolata etica solidarietà e democrazi",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 2009?",
+      "retro": "Caritas Veritate (2009) Benedetto XVI: globalizzazione crisi finanziaria 2008, sviluppo umano integrale carità verità,",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 2008?",
+      "retro": "Caritas Veritate (2009) Benedetto XVI: globalizzazione crisi finanziaria 2008, sviluppo umano integrale carità verità, principio gratuità economia e autorità politica mondia",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 2015?",
+      "retro": "Laudato Si' (2015) Francesco include ecologia integrale, cura casa comune, crisi ambientale sociale connesse, par",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del amore in Encicliche sociali da Leone XIII a Francesco?",
+      "retro": "Pacem Terris (1963): pace fondata verità giustizia amore libertà e diritti umani universali (Dichiarazione ONU 1948), disarmo nucleare, ONU strumento pace.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Encicliche sociali da Leone XIII a Francesco?",
+      "retro": "Centesimus Annus (1991): 100 anni Rerum, crollo comunismo, economia mercato libera, ma regolata etica solidarietà e democrazia valori e cultura morte (aborto eutanasia), ecologia.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del libertà in Encicliche sociali da Leone XIII a Francesco?",
+      "retro": "Pacem Terris (1963): pace fondata verità giustizia amore libertà e diritti umani universali (Dichiarazione ONU 1948), disarmo nucleare, ONU strumento pace.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del tempo in Encicliche sociali da Leone XIII a Francesco?",
+      "retro": "Gaudium Spes (1965) Concilio Vaticano II: costituzione pastorale Chiesa mondo contemporaneo, dialogo cultura moderna, dignità persona e matrimonio famiglia, cultura, economia politica, pace sviluppo e segni tempi.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Encicliche sociali da Leone XIII a Francesco?",
+      "retro": "Rerum Novarum (1891) Leone XIII: prima enciclica sociale, questione operaia, critica socialismo (proprietà collettiva nega natura umana) liberalismo (sfruttamento) e difende proprietà privata diritto naturale, ma doveri sociali e salario giusto sufficiente famiglia, diritto associazione operai (sindacati cattolici precursori), Chiesa mediazione capitale lavoro, stato interviene tutela deboli.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del politica in Encicliche sociali da Leone XIII a Francesco?",
+      "retro": "Gaudium Spes (1965) Concilio Vaticano II: costituzione pastorale Chiesa mondo contemporaneo, dialogo cultura moderna, dignità persona e matrimonio famiglia, cultura, economia politica, pace sviluppo e segni tempi.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del pace in Encicliche sociali da Leone XIII a Francesco?",
+      "retro": "Pacem Terris (1963): pace fondata verità giustizia amore libertà e diritti umani universali (Dichiarazione ONU 1948), disarmo nucleare, ONU strumento pace.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del famiglia in Encicliche sociali da Leone XIII a Francesco?",
+      "retro": "Rerum Novarum (1891) Leone XIII: prima enciclica sociale, questione operaia, critica socialismo (proprietà collettiva nega natura umana) liberalismo (sfruttamento) e difende proprietà privata diritto naturale, ma doveri sociali e salario giusto sufficiente famiglia, diritto associazione operai (sindacati cattolici precursori), Chiesa mediazione capitale lavoro, stato interviene tutela deboli.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Gaudium Spes (1965) Concilio Vaticano II: costituzione pastorale Chiesa mondo contemporaneo, dialogo cultura moderna, dignità persona e matrimonio famiglia, cultura, economia politica, pace sviluppo e segni tempi.",
+      "categoria": "definizioni",
+      "materia": "religione",
+      "argomento": "Dottrina sociale della Chiesa",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Cosa accadde nel 194?",
+      "retro": "Legge 194 Italia (1978): aborto depenalizzato 90 giorni circostanze, Chiesa contraria difende vita sempre,",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Bioetica, e questioni morali",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1978?",
+      "retro": "Legge 194 Italia (1978): aborto depenalizzato 90 giorni circostanze, Chiesa contraria difende vita sempre, sostegno do",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Bioetica, e questioni morali",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 2008?",
+      "retro": "Dignitas Personae (2008): istruzioni bioetica, no clonazione ibridazione selezione sesso eugenetica e sì diagnosi prena",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Bioetica, e questioni morali",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1968?",
+      "retro": "illola preservativo) illeciti separano significato unitivo procreativo atto sessuale (Humanae Vitae 1968 Paolo VI profetico AIDS divorzio)",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Bioetica, e questioni morali",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del amore in Inizio vita: aborto, fecondazione, ricerca embrionale?",
+      "retro": "Procreazione assistita include tecniche aiuto concepimento (FIVET inseminazione), Chiesa accetta aiuto atto coniugale (NaProTechnology) rifiuta sostituzione (fecondazione provetta separa atto procreazione amore), embrioni soprannumerari congelati distrutti immorale, selezione embrioni eugenetica e maternità surrogata (utero affitto) strumentalizza donna bambino.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Bioetica, e questioni morali",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Inizio vita: aborto, fecondazione, ricerca embrionale?",
+      "retro": "Chiesa include vita umana dono Dio sacra inviolabile concepimento morte naturale, persona dignità intrinseca ogni stadio (embrione feto malato anziano).",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Bioetica, e questioni morali",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Inizio vita: aborto, fecondazione, ricerca embrionale?",
+      "retro": "Chiesa include vita umana dono Dio sacra inviolabile concepimento morte naturale, persona dignità intrinseca ogni stadio (embrione feto malato anziano).",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Bioetica, e questioni morali",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 219?",
+      "retro": "ticipate trattamento): lecito indicare rifiuto accanimento, no eutanasia, fiduciario decide e legge 219/2017 Italia",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Bioetica, e questioni morali",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 2017?",
+      "retro": "pate trattamento): lecito indicare rifiuto accanimento, no eutanasia, fiduciario decide e legge 219/2017 Italia",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Bioetica, e questioni morali",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 2005?",
+      "retro": "egetativo persistente include coscienza assente funzioni vitali, Terri Schiavo USA caso emblematico 2005 sospensione nutrizione idratazione morte, Giovanni Paolo II (2004) nutrizione idratazione cura",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Bioetica, e questioni morali",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 2004?",
+      "retro": "erri Schiavo USA caso emblematico 2005 sospensione nutrizione idratazione morte, Giovanni Paolo II (2004) nutrizione idratazione cura ordinaria dovuta sempre (non accanimento), dibattito aperto condiz",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Bioetica, e questioni morali",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Fine vita: eutanasia, cure palliative, accanimento?",
+      "retro": "Eutanasia: provocare intenzionalmente morte paziente sofferente (attiva somministrazione farmaci letali, passiva sospensione cure ordinarie), Chiesa condanna sempre gravemente immorale omicidio suicidio assistito, anche richiesta paziente compassione falsa, Germania nazista Aktion T4 eutanasia disabili.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Bioetica, e questioni morali",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del famiglia in Fine vita: eutanasia, cure palliative, accanimento?",
+      "retro": "Cure palliative include assistenza globale paziente terminale (dolore fisico sostegno psicologico spirituale), hospice, terapia dolore, accompagnare morte dignità non abbreviare né prolungare e medicina narrativa ascolto, famiglia coinvolta.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Bioetica, e questioni morali",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Cosa accadde nel 1962?",
+      "retro": "Concilio Vaticano II (1962-1965) Giovanni XXIII Paolo VI: aggiornamento (aggiornamento) Chiesa mondo moderno, apertura dia",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1965?",
+      "retro": "Concilio Vaticano II (1962-1965) Giovanni XXIII Paolo VI: aggiornamento (aggiornamento) Chiesa mondo moderno, apertura dialogo.",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1986?",
+      "retro": "(responsabilità collettiva ebrei morte Cristo) e dialogo fraterno, Giovanni Paolo II sinagoga Roma 1986 visita storica Muro Pianto Gerusalemme 2000 perdono Shoah",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 2000?",
+      "retro": "to) e dialogo fraterno, Giovanni Paolo II sinagoga Roma 1986 visita storica Muro Pianto Gerusalemme 2000 perdono Shoah",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 2019?",
+      "retro": "a pace Giovanni Paolo II, Francesco imam grande Moschea Roma, documento fratellanza umana Abu Dhabi 2019 Francesco Tayyeb",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del morte in Concilio Vaticano II: Nostra Aetate, e dialogo?",
+      "retro": "Ebraismo include radici comuni, Antica Alleanza mai revocata, Gesù ebreo, condanna antisemitismo deicidio (responsabilità collettiva ebrei morte Cristo) e dialogo fraterno, Giovanni Paolo II sinagoga Roma 1986 visita storica Muro Pianto Gerusalemme 2000 perdono Shoah.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del libertà in Concilio Vaticano II: Nostra Aetate, e dialogo?",
+      "retro": "Islam comprende Abramo comune, un solo Dio, Gesù profeta non Figlio Dio, Maria venerata, preghiera elemosina digiuno, jihad pace non violenza (fondamentalismo distorsione) e dialogo difficoltà (reciprocità libertà religiosa paesi islamici), incontro Assisi 1986 preghiera pace Giovanni Paolo II, Francesco imam grande Moschea Roma, documento fratellanza umana Abu Dhabi 2019 Francesco Tayyeb.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Concilio Vaticano II: Nostra Aetate, e dialogo?",
+      "retro": "Religioni tradizionali animiste include rispetto natura spiriti antenati, evangelizzazione inculturazione non distruzione culture.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del religione in Concilio Vaticano II: Nostra Aetate, e dialogo?",
+      "retro": "Ateismo agnosticismo include dialogo possibile valori etici comuni (dignità umana giustizia pace solidarietà), umanesimo ateo (Concilio riconosce sincerità) e laicità positiva (collaborazione) vs laicismo (esclusione religione).",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del pace in Concilio Vaticano II: Nostra Aetate, e dialogo?",
+      "retro": "Islam comprende Abramo comune, un solo Dio, Gesù profeta non Figlio Dio, Maria venerata, preghiera elemosina digiuno, jihad pace non violenza (fondamentalismo distorsione) e dialogo difficoltà (reciprocità libertà religiosa paesi islamici), incontro Assisi 1986 preghiera pace Giovanni Paolo II, Francesco imam grande Moschea Roma, documento fratellanza umana Abu Dhabi 2019 Francesco Tayyeb.",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Concilio Vaticano II (1962-1965) Giovanni XXIII Paolo VI: aggiornamento (aggiornamento) Chiesa mondo moderno, apertura dialogo.",
+      "categoria": "definizioni",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Di cosa tratta \"siano uno\"?",
+      "retro": "scandalo contraddice volontà Cristo (Giovanni 17 \"siano uno\"), colpa entrambe parti, fratelli separati non eretici, elementi santificazione salvezza fuori Chiesa visibile (Scrittura battesimo), gerarchia verità (dogmi centrali vs secondari), conversi.",
+      "categoria": "opere",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Chi è l'autore di \"siano uno\"?",
+      "retro": "Unitatis Redintegratio",
+      "categoria": "autori",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1054?",
+      "retro": "Ecumenismo: movimento unità cristiani divisi, superare scismi divisioni (1054 Oriente-Occidente, 1517 Riforma protestante)",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1517?",
+      "retro": "Ecumenismo: movimento unità cristiani divisi, superare scismi divisioni (1054 Oriente-Occidente, 1517 Riforma protestante)",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1964?",
+      "retro": "Unitatis Redintegratio (1964) Concilio include decreto ecumenismo, divisione scandalo contraddice volontà Cristo (Giovanni 1",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1999?",
+      "retro": "anglicani calvinisti metodisti battisti pentecostali), Dichiarazione congiunta giustificazione fede 1999 luterani-cattolici accordo, ostacoli restano (transustanziazione successione apostolica papa Ma",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 2016?",
+      "retro": "stacoli restano (transustanziazione successione apostolica papa Maria santi), Francesco Lund Svezia 2016 commemorazione Riforma, settimana preghiera unità cristiani gennaio.",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Cosa accadde nel 1948?",
+      "retro": "Movimenti ecumenici: Consiglio Mondiale Chiese (WCC 1948 Ginevra ortodossi protestanti no cattolici osservatori), Comunità Taizé monaci ecumenici preghi",
+      "categoria": "date",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "base"
+    },
+    {
+      "fronte": "Come si manifesta il tema del patria in Ecumenismo: unità cristiani, e confessioni?",
+      "retro": "Chiese Ortodosse: scisma 1054 filioque primato papa, patriarcati (Costantinopoli Mosca Gerusalemme), stessa fede apostolica sacramenti validi, Paolo VI Atenagora 1964 abbraccio tolgono scomuniche reciproche, Giovanni Paolo II respira due polmoni (Oriente Occidente), Francesco Bartolomeo patriarca Costantinopoli incontri, ostacoli uniatismo (chiese orientali cattoliche), primato petrino (papa vs collegialità), celibato clero..",
+      "categoria": "temi",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Obiettivo: unità visibile Chiesa una santa cattolica apostolica, non ritorno prodighi, ma riconciliazione differenze legittime, modello unità diversità comunione, tempi lunghi pazienza preghiera, segno credibilità Vangelo.",
+      "categoria": "definizioni",
+      "materia": "religione",
+      "argomento": "Dialogo interreligioso ed ecumenismo",
+      "difficolta": "intermedio"
+    }
+  ]
+}

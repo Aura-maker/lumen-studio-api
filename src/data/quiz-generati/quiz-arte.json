@@ -1,0 +1,2118 @@
+{
+  "materia": "arte",
+  "totale": 144,
+  "quiz": [
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Antonio Canova: scultura ideale?",
+      "rispostaCorretta": "1757",
+      "opzioni": [
+        "1757",
+        "1747",
+        "1755",
+        "1752"
+      ],
+      "spiegazione": "Antonio Canova (1757-1822) è il massimo scultore neoclassico. Nasce a Possagno in Veneto, studia a Venezia e si tras",
+      "livello": "base",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Antonio Canova: scultura ideale?",
+      "rispostaCorretta": "1822",
+      "opzioni": [
+        "1820",
+        "1812",
+        "1822",
+        "1817"
+      ],
+      "spiegazione": "Antonio Canova (1757-1822) è il massimo scultore neoclassico. Nasce a Possagno in Veneto, studia a Venezia e si trasferis",
+      "livello": "base",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Antonio Canova: scultura ideale?",
+      "rispostaCorretta": "1779",
+      "opzioni": [
+        "1769",
+        "1779",
+        "1774",
+        "1777"
+      ],
+      "spiegazione": "eto, studia a Venezia e si trasferisce a Roma nel 1779 dove ottiene il successo. È protetto dai papi Pio VI e VII e da Napoleone, per il quale realizz",
+      "livello": "base",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Antonio Canova: scultura ideale?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "libertà",
+        "patria",
+        "morte",
+        "amore"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Antonio Canova: scultura ideale?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "morte",
+        "libertà",
+        "amore",
+        "natura"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Antonio Canova: scultura ideale?",
+      "rispostaCorretta": "famiglia",
+      "opzioni": [
+        "libertà",
+        "famiglia",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del famiglia è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Antonio Canova nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "Antonio Canova (1757-1822) è il massimo scultore neoclassico. Nasce a Possagno in Veneto, studia a V",
+      "livello": "intermedio",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Paolina Borghese nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "versioni del bacio e stante, Paolina Borghese come Venere vincitrice che è un ritratto idealizzato della sorella di Napoleone, Te",
+      "livello": "intermedio",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Antonio Canova (1757-1822) è il massimo scultore neoclassico.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Nasce a Possagno in Veneto, studia a Venezia e si trasferisce a Roma nel 1779 dove ottiene il successo.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Jacques-Louis David: pittura impegnata?",
+      "rispostaCorretta": "1748",
+      "opzioni": [
+        "1743",
+        "1738",
+        "1748",
+        "1746"
+      ],
+      "spiegazione": "Jacques-Louis David (1748-1825) è un pittore neoclassico francese politicamente impegnato. Si forma a Roma dal 1775 al 17",
+      "livello": "base",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Jacques-Louis David: pittura impegnata?",
+      "rispostaCorretta": "1825",
+      "opzioni": [
+        "1825",
+        "1815",
+        "1820",
+        "1823"
+      ],
+      "spiegazione": "Jacques-Louis David (1748-1825) è un pittore neoclassico francese politicamente impegnato. Si forma a Roma dal 1775 al 1780 do",
+      "livello": "base",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Jacques-Louis David: pittura impegnata?",
+      "rispostaCorretta": "1775",
+      "opzioni": [
+        "1770",
+        "1765",
+        "1775",
+        "1773"
+      ],
+      "spiegazione": "cese politicamente impegnato. Si forma a Roma dal 1775 al 1780 dove studia l'antico e Raffaello. Il suo stile si caratterizza per la composizione rigo",
+      "livello": "base",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Jacques-Louis David: pittura impegnata?",
+      "rispostaCorretta": "1780",
+      "opzioni": [
+        "1780",
+        "1770",
+        "1775",
+        "1778"
+      ],
+      "spiegazione": "iticamente impegnato. Si forma a Roma dal 1775 al 1780 dove studia l'antico e Raffaello. Il suo stile si caratterizza per la composizione rigorosa e g",
+      "livello": "base",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Jacques-Louis David: pittura impegnata?",
+      "rispostaCorretta": "1784",
+      "opzioni": [
+        "1779",
+        "1774",
+        "1784",
+        "1782"
+      ],
+      "spiegazione": "monarchica dipinge il Giuramento degli Orazi del 1784, dove tre fratelli giurano di difendere Roma contro Alba, esprimendo virtù civica e sacrificio",
+      "livello": "base",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Jacques-Louis David: pittura impegnata?",
+      "rispostaCorretta": "1793",
+      "opzioni": [
+        "1791",
+        "1788",
+        "1783",
+        "1793"
+      ],
+      "spiegazione": "oi e il pianto delle donne. La Morte di Marat del 1793 appartiene alla fase rivoluzionaria e rappresenta Jean-Paul Marat, giacobino ucciso a pugnalate",
+      "livello": "base",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Jacques-Louis David: pittura impegnata?",
+      "rispostaCorretta": "1807",
+      "opzioni": [
+        "1805",
+        "1802",
+        "1797",
+        "1807"
+      ],
+      "spiegazione": "oleone e dipinge l'Incoronazione di Napoleone del 1807 come scena storica documentaria e Napoleone che valica le Alpi come propaganda eroica. Dopo la",
+      "livello": "base",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Jacques-Louis David: pittura impegnata?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "morte",
+        "amore",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Jacques-Louis David: pittura impegnata?",
+      "rispostaCorretta": "patria",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "patria"
+      ],
+      "spiegazione": "Il tema del patria è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Jacques-Louis David: pittura impegnata?",
+      "rispostaCorretta": "politica",
+      "opzioni": [
+        "politica",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del politica è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Louis David nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Jacques-Louis David (1748-1825) è un pittore neoclassico francese politicamente impegnato. Si forma a Roma d",
+      "livello": "intermedio",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha La Morte nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "eroi e il pianto delle donne. La Morte di Marat del 1793 appartiene alla fase rivoluzionaria e rappresenta Jean-Paul Marat, giacob",
+      "livello": "intermedio",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Jacques-Louis David (1748-1825) è un pittore neoclassico francese politicamente impegnato.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Si forma a Roma dal 1775 al 1780 dove studia l'antico e Raffaello.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Caspar David Friedrich: paesaggio dell'anima?",
+      "rispostaCorretta": "1774",
+      "opzioni": [
+        "1764",
+        "1774",
+        "1772",
+        "1769"
+      ],
+      "spiegazione": "Caspar David Friedrich (1774-1840) è pittore romantico tedesco paesaggista. Nato Greifswald, studia a Copenaghen Dresda. Con",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Caspar David Friedrich: paesaggio dell'anima?",
+      "rispostaCorretta": "1840",
+      "opzioni": [
+        "1835",
+        "1830",
+        "1838",
+        "1840"
+      ],
+      "spiegazione": "Caspar David Friedrich (1774-1840) è pittore romantico tedesco paesaggista. Nato Greifswald, studia a Copenaghen Dresda. Concepis",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Caspar David Friedrich: paesaggio dell'anima?",
+      "rispostaCorretta": "1818",
+      "opzioni": [
+        "1816",
+        "1818",
+        "1808",
+        "1813"
+      ],
+      "spiegazione": "e infinito mistero natura. Viandante mare nebbia (1818) capolavoro include uomo spalle cresta rocciosa contempla mare nebbie montagne emergenti, metaf",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Caspar David Friedrich: paesaggio dell'anima?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "patria",
+        "morte"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Caspar David Friedrich: paesaggio dell'anima?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "amore",
+        "tempo",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Caspar David Friedrich: paesaggio dell'anima?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "libertà",
+        "natura",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Caspar David nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "Caspar David Friedrich (1774-1840) è pittore romantico tedesco paesaggista. Nato Greifswald, studia",
+      "livello": "intermedio",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Nato Greifswald nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "omantico tedesco paesaggista. Nato Greifswald, studia a Copenaghen Dresda. Concepisce paesaggio come Stimmungslandschaft (paesaggi",
+      "livello": "intermedio",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Caspar David Friedrich (1774-1840) è pittore romantico tedesco paesaggista.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Nato Greifswald, studia a Copenaghen Dresda.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Géricault e Delacroix: passione, e colore?",
+      "rispostaCorretta": "1791",
+      "opzioni": [
+        "1789",
+        "1786",
+        "1781",
+        "1791"
+      ],
+      "spiegazione": "Théodore Géricault (1791-1824) romantico francese breve vita intensa. Zattera Medusa (1819) manifesto romanticismo inclu",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Géricault e Delacroix: passione, e colore?",
+      "rispostaCorretta": "1824",
+      "opzioni": [
+        "1824",
+        "1814",
+        "1819",
+        "1822"
+      ],
+      "spiegazione": "Théodore Géricault (1791-1824) romantico francese breve vita intensa. Zattera Medusa (1819) manifesto romanticismo include na",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Géricault e Delacroix: passione, e colore?",
+      "rispostaCorretta": "1819",
+      "opzioni": [
+        "1817",
+        "1814",
+        "1809",
+        "1819"
+      ],
+      "spiegazione": "tico francese breve vita intensa. Zattera Medusa (1819) manifesto romanticismo include naufragio fregata Medusa 1816 sopravvissuti zattera cannibalism",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Géricault e Delacroix: passione, e colore?",
+      "rispostaCorretta": "1816",
+      "opzioni": [
+        "1814",
+        "1811",
+        "1806",
+        "1816"
+      ],
+      "spiegazione": "sto romanticismo include naufragio fregata Medusa 1816 sopravvissuti zattera cannibalismo orrore, Géricault ricerca documentaria interviste testimoni,",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Géricault e Delacroix: passione, e colore?",
+      "rispostaCorretta": "1798",
+      "opzioni": [
+        "1798",
+        "1788",
+        "1793",
+        "1796"
+      ],
+      "spiegazione": "malati mentali dignità umanità. Eugène Delacroix (1798-1863) è capofila romanticismo francese. Libertà guida popolo (1830) celebra rivoluzione luglio",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Géricault e Delacroix: passione, e colore?",
+      "rispostaCorretta": "1863",
+      "opzioni": [
+        "1861",
+        "1858",
+        "1863",
+        "1853"
+      ],
+      "spiegazione": "i mentali dignità umanità. Eugène Delacroix (1798-1863) è capofila romanticismo francese. Libertà guida popolo (1830) celebra rivoluzione luglio inclu",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Géricault e Delacroix: passione, e colore?",
+      "rispostaCorretta": "1830",
+      "opzioni": [
+        "1825",
+        "1820",
+        "1830",
+        "1828"
+      ],
+      "spiegazione": "fila romanticismo francese. Libertà guida popolo (1830) celebra rivoluzione luglio include Libertà donna allegorica seno scoperto bandiera tricolore g",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Géricault e Delacroix: passione, e colore?",
+      "rispostaCorretta": "1832",
+      "opzioni": [
+        "1832",
+        "1822",
+        "1830",
+        "1827"
+      ],
+      "spiegazione": "vreul) e schizzi veloci emozione. Viaggio Marocco 1832 scoperta luce colore Oriente influenza. Influenza impressionisti (Renoir studia). Contrasto inc",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Géricault e Delacroix: passione, e colore?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "patria",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Géricault e Delacroix: passione, e colore?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "morte",
+        "amore",
+        "patria",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Géricault e Delacroix: passione, e colore?",
+      "rispostaCorretta": "viaggio",
+      "opzioni": [
+        "viaggio",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del viaggio è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Zattera Medusa nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "francese breve vita intensa. Zattera Medusa (1819) manifesto romanticismo include naufragio fregata Medusa 1816 sopravvissuti zat",
+      "livello": "intermedio",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Donne Algeri nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "fera, temi esotici orientali (Donne Algeri, Morte Sardanapalus ispirato Byron). La sua tecnica prevede complementari accostati, st",
+      "livello": "intermedio",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Théodore Géricault (1791-1824) romantico francese breve vita intensa.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Temi include sofferenza umana, tragedia e morte.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Gustave Courbet: il pittore democratico?",
+      "rispostaCorretta": "1819",
+      "opzioni": [
+        "1809",
+        "1819",
+        "1814",
+        "1817"
+      ],
+      "spiegazione": "Gustave Courbet (1819-1877) è fondatore realismo francese. Origini contadine Ornans, socialista proudhoniano e rifiut",
+      "livello": "base",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Gustave Courbet: il pittore democratico?",
+      "rispostaCorretta": "1877",
+      "opzioni": [
+        "1877",
+        "1867",
+        "1872",
+        "1875"
+      ],
+      "spiegazione": "Gustave Courbet (1819-1877) è fondatore realismo francese. Origini contadine Ornans, socialista proudhoniano e rifiuta ide",
+      "livello": "base",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Gustave Courbet: il pittore democratico?",
+      "rispostaCorretta": "1849",
+      "opzioni": [
+        "1849",
+        "1847",
+        "1839",
+        "1844"
+      ],
+      "spiegazione": "li perché non li ho mai visti\".. Funerale Ornans (1849-50) scandalo: funerale contadino dimensioni monumentali riservate pittura storia, 50 personaggi",
+      "livello": "base",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Gustave Courbet: il pittore democratico?",
+      "rispostaCorretta": "1855",
+      "opzioni": [
+        "1855",
+        "1845",
+        "1850",
+        "1853"
+      ],
+      "spiegazione": "ncia sociale, distrutto guerra.. Atelier pittore (1855) allegoria reale: Courbet centro dipinge paesaggio circondato figure simboliche (nudo verità, b",
+      "livello": "base",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Gustave Courbet: il pittore democratico?",
+      "rispostaCorretta": "1866",
+      "opzioni": [
+        "1866",
+        "1856",
+        "1861",
+        "1864"
+      ],
+      "spiegazione": "li), manifesto autonomia artista.. Origine mondo (1866) provocazione: nudo femminile esplicito senza idealizzazione mitologica, scandalo oscenità vs r",
+      "livello": "base",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Gustave Courbet: il pittore democratico?",
+      "rispostaCorretta": "1871",
+      "opzioni": [
+        "1871",
+        "1861",
+        "1866",
+        "1869"
+      ],
+      "spiegazione": "o oscenità vs realismo anatomico.. Commune Parigi 1871: Courbet membro governo rivoluzionario, abbatte colonna Vendôme simbolo bonapartismo, dopo scon",
+      "livello": "base",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Gustave Courbet: il pittore democratico?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "tempo",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Gustave Courbet: il pittore democratico?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "guerra",
+        "amore",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Gustave Courbet nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "protagonista principale",
+        "narratore",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Gustave Courbet (1819-1877) è fondatore realismo francese. Origini contadine Ornans, socialista prou",
+      "livello": "intermedio",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Funerale Ornans nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "perché non li ho mai visti\".. Funerale Ornans (1849-50) scandalo: funerale contadino dimensioni monumentali riservate pittura stor",
+      "livello": "intermedio",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Gustave Courbet (1819-1877) è fondatore realismo francese.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Manifesto realismo include \"non dipingo angeli perché non li ho mai visti\"..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Jean-François Millet: dignità contadina?",
+      "rispostaCorretta": "1814",
+      "opzioni": [
+        "1812",
+        "1809",
+        "1814",
+        "1804"
+      ],
+      "spiegazione": "Jean-François Millet (1814-1875) è pittore realista mondo rurale. Origini contadine Normandia, Parigi formazione, Barbizon",
+      "livello": "base",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Jean-François Millet: dignità contadina?",
+      "rispostaCorretta": "1875",
+      "opzioni": [
+        "1875",
+        "1865",
+        "1870",
+        "1873"
+      ],
+      "spiegazione": "Jean-François Millet (1814-1875) è pittore realista mondo rurale. Origini contadine Normandia, Parigi formazione, Barbizon 1849",
+      "livello": "base",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Jean-François Millet: dignità contadina?",
+      "rispostaCorretta": "1849",
+      "opzioni": [
+        "1849",
+        "1847",
+        "1839",
+        "1844"
+      ],
+      "spiegazione": "contadine Normandia, Parigi formazione, Barbizon 1849 vive immerso campagna. Rappresenta contadini lavoro campi con dignità monumentalità eroica prim",
+      "livello": "base",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Jean-François Millet: dignità contadina?",
+      "rispostaCorretta": "1857",
+      "opzioni": [
+        "1855",
+        "1857",
+        "1852",
+        "1847"
+      ],
+      "spiegazione": "ma riservata soggetti nobili mitologici. Angelus (1857-59) icona include coppia contadini prega campo tramonto sentendo campane Angelus, religiosità u",
+      "livello": "base",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Van Gogh nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": ". L'influenza si manifesta in Van Gogh ammira copia, realismo sociale Ottocento",
+      "livello": "intermedio",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Jean-François Millet (1814-1875) è pittore realista mondo rurale.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Origini contadine Normandia, Parigi formazione, Barbizon 1849 vive immerso campagna.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Claude Monet: impressione, e serie?",
+      "rispostaCorretta": "1840",
+      "opzioni": [
+        "1835",
+        "1838",
+        "1840",
+        "1830"
+      ],
+      "spiegazione": "Claude Monet (1840-1926) è capofila impressionismo. Nome è Il è Il movimento da Impressione sole nascente (1872) p",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Claude Monet: impressione, e serie?",
+      "rispostaCorretta": "1926",
+      "opzioni": [
+        "1926",
+        "1916",
+        "1921",
+        "1924"
+      ],
+      "spiegazione": "Claude Monet (1840-1926) è capofila impressionismo. Nome è Il è Il movimento da Impressione sole nascente (1872) porto",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Claude Monet: impressione, e serie?",
+      "rispostaCorretta": "1872",
+      "opzioni": [
+        "1870",
+        "1862",
+        "1872",
+        "1867"
+      ],
+      "spiegazione": "è Il è Il movimento da Impressione sole nascente (1872) porto Le Havre alba, critico Leroy usa \"impressionisti\" sprezzante, ma adottato.. Rivoluzione:",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Claude Monet: impressione, e serie?",
+      "rispostaCorretta": "1892",
+      "opzioni": [
+        "1887",
+        "1890",
+        "1882",
+        "1892"
+      ],
+      "spiegazione": "ore stagioni condizioni luce.. Cattedrali Rouen (1892-94) oltre 30 versioni facciata gotica alba mezzogiorno tramonto nebbia sole, studia variazioni",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Claude Monet: impressione, e serie?",
+      "rispostaCorretta": "1890",
+      "opzioni": [
+        "1885",
+        "1880",
+        "1890",
+        "1888"
+      ],
+      "spiegazione": "luce colore architettura smaterializza.. Covoni (1890-91): mucchi fieno campo estate inverno mattino sera.. Pioppi, Parlamento Londra nebbia Tamigi..",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Claude Monet: impressione, e serie?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "natura"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Claude Monet nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "narratore",
+        "personaggio secondario",
+        "protagonista principale"
+      ],
+      "spiegazione": "Claude Monet (1840-1926) è capofila impressionismo. Nome è Il è Il movimento da Impressione sole nas",
+      "livello": "intermedio",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Le Havre nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "ne sole nascente (1872) porto Le Havre alba, critico Leroy usa \"impressionisti\" sprezzante, ma adottato.. Rivoluzione: dipingere e",
+      "livello": "intermedio",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Claude Monet (1840-1926) è capofila impressionismo.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Nome è Il è Il movimento da Impressione sole nascente (1872) porto Le Havre alba, critico Leroy usa \"impressionisti\" sprezzante, ma adottato..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Renoir e Degas: figure, e movimento?",
+      "rispostaCorretta": "1841",
+      "opzioni": [
+        "1839",
+        "1836",
+        "1831",
+        "1841"
+      ],
+      "spiegazione": "Pierre-Auguste Renoir (1841-1919): gioia vivere, scene vita parigina, ritratti e nudi. Bal Moulin Galette (1876) capolavoro",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Renoir e Degas: figure, e movimento?",
+      "rispostaCorretta": "1919",
+      "opzioni": [
+        "1914",
+        "1909",
+        "1917",
+        "1919"
+      ],
+      "spiegazione": "Pierre-Auguste Renoir (1841-1919): gioia vivere, scene vita parigina, ritratti e nudi. Bal Moulin Galette (1876) capolavoro incl",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Renoir e Degas: figure, e movimento?",
+      "rispostaCorretta": "1876",
+      "opzioni": [
+        "1874",
+        "1876",
+        "1866",
+        "1871"
+      ],
+      "spiegazione": "ta parigina, ritratti e nudi. Bal Moulin Galette (1876) capolavoro include festa popolare Montmartre domenica pomeriggio, folla danza luci alberi filt",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Renoir e Degas: figure, e movimento?",
+      "rispostaCorretta": "1834",
+      "opzioni": [
+        "1824",
+        "1834",
+        "1829",
+        "1832"
+      ],
+      "spiegazione": "più definito linea influenza Ingres. Edgar Degas (1834-1917): appartato impressionisti metodo non temi, studia movimento corpo umano, ballerine ippodr",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Renoir e Degas: figure, e movimento?",
+      "rispostaCorretta": "1917",
+      "opzioni": [
+        "1917",
+        "1907",
+        "1915",
+        "1912"
+      ],
+      "spiegazione": "efinito linea influenza Ingres. Edgar Degas (1834-1917): appartato impressionisti metodo non temi, studia movimento corpo umano, ballerine ippodromi c",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Auguste Renoir nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "Pierre-Auguste Renoir (1841-1919): gioia vivere, scene vita parigina, ritratti e nudi. Bal Moulin Galette (",
+      "livello": "intermedio",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Bal Moulin nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "ta parigina, ritratti e nudi. Bal Moulin Galette (1876) capolavoro include festa popolare Montmartre domenica pomeriggio, folla da",
+      "livello": "intermedio",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Pierre-Auguste Renoir (1841-1919): gioia vivere, scene vita parigina, ritratti e nudi.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Colazione canottieri include giovani borghesi terrazza ristorante Senna e impressione felicità belle époque.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Van Gogh: colore come espressione?",
+      "rispostaCorretta": "1853",
+      "opzioni": [
+        "1851",
+        "1848",
+        "1843",
+        "1853"
+      ],
+      "spiegazione": "Vincent van Gogh (1853-1890) è post-impressionista olandese vita tormentata. Vocazione religiosa fallita, inizia dipin",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Van Gogh: colore come espressione?",
+      "rispostaCorretta": "1890",
+      "opzioni": [
+        "1885",
+        "1888",
+        "1880",
+        "1890"
+      ],
+      "spiegazione": "Vincent van Gogh (1853-1890) è post-impressionista olandese vita tormentata. Vocazione religiosa fallita, inizia dipingere",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Van Gogh: colore come espressione?",
+      "rispostaCorretta": "1885",
+      "opzioni": [
+        "1885",
+        "1875",
+        "1880",
+        "1883"
+      ],
+      "spiegazione": "Olanda è Il è Il periodo scuro (Mangiatori patate 1885 contadini miseria colori terrosi). Parigi 1886 scopre impressionismo colore schiarisce tavolozz",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Van Gogh: colore come espressione?",
+      "rispostaCorretta": "1886",
+      "opzioni": [
+        "1876",
+        "1886",
+        "1884",
+        "1881"
+      ],
+      "spiegazione": "te 1885 contadini miseria colori terrosi). Parigi 1886 scopre impressionismo colore schiarisce tavolozza. Arles 1888 cerca luce meridionale, periodo f",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Van Gogh: colore come espressione?",
+      "rispostaCorretta": "1888",
+      "opzioni": [
+        "1886",
+        "1888",
+        "1883",
+        "1878"
+      ],
+      "spiegazione": "impressionismo colore schiarisce tavolozza. Arles 1888 cerca luce meridionale, periodo fertile include Girasoli (vitalità natura colore giallo simbolo",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Van Gogh: colore come espressione?",
+      "rispostaCorretta": "2000",
+      "opzioni": [
+        "1990",
+        "2000",
+        "1998",
+        "1995"
+      ],
+      "spiegazione": "ur-Oise, continua dipingere ossessivamente (oltre 2000 opere 10 anni) e autoritratti numerosi (oltre 40) sguardo intenso sofferto. Suicidio 37 anni Au",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Van Gogh: colore come espressione?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "morte",
+        "amore",
+        "natura",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Camera Arles nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "protagonista principale",
+        "antagonista",
+        "narratore"
+      ],
+      "spiegazione": "iallo simbolo luce felicità), Camera Arles (solitudine intimità prospettiva distorta), Caffnotte (angoscia rossi verdi violenti),",
+      "livello": "intermedio",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Amicizia Gauguin nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "protagonista principale",
+        "antagonista"
+      ],
+      "spiegazione": "e blu infinito spiritualità). Amicizia Gauguin Arles finisce litigio Van Gogh si è taglia orecchio. Ricoveri psichiatrici Saint-Ré",
+      "livello": "intermedio",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Vincent van Gogh (1853-1890) è post-impressionista olandese vita tormentata.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Vocazione religiosa fallita, inizia dipingere tardi 27 anni, Olanda è Il è Il periodo scuro (Mangiatori patate 1885 contadini miseria colori terrosi).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cézanne e Gauguin: struttura, e simbolo?",
+      "rispostaCorretta": "1839",
+      "opzioni": [
+        "1829",
+        "1837",
+        "1839",
+        "1834"
+      ],
+      "spiegazione": "Paul Cézanne (1839-1906) solitario Aix-en-Provence, studia natura geometrizzazione. Cerca solidità durevole vs imp",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cézanne e Gauguin: struttura, e simbolo?",
+      "rispostaCorretta": "1906",
+      "opzioni": [
+        "1904",
+        "1901",
+        "1896",
+        "1906"
+      ],
+      "spiegazione": "Paul Cézanne (1839-1906) solitario Aix-en-Provence, studia natura geometrizzazione. Cerca solidità durevole vs impressi",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cézanne e Gauguin: struttura, e simbolo?",
+      "rispostaCorretta": "1845",
+      "opzioni": [
+        "1845",
+        "1835",
+        "1840",
+        "1843"
+      ],
+      "spiegazione": "e geometrica prospettive multiple.. Paul Gauguin (1845-1903): banchiere Parigi abbandona tutto arte, rifiuta civiltà occidentale cerca primitivo auten",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cézanne e Gauguin: struttura, e simbolo?",
+      "rispostaCorretta": "1903",
+      "opzioni": [
+        "1898",
+        "1901",
+        "1893",
+        "1903"
+      ],
+      "spiegazione": "metrica prospettive multiple.. Paul Gauguin (1845-1903): banchiere Parigi abbandona tutto arte, rifiuta civiltà occidentale cerca primitivo autentico.",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cézanne e Gauguin: struttura, e simbolo?",
+      "rispostaCorretta": "1888",
+      "opzioni": [
+        "1883",
+        "1886",
+        "1888",
+        "1878"
+      ],
+      "spiegazione": "ntico.. Bretagna Pont-Aven: Visione dopo sermone (1888) sintetismo colore piatto zone campiture senza chiaroscuro, prospettiva ribaltata, rosso simbol",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cézanne e Gauguin: struttura, e simbolo?",
+      "rispostaCorretta": "1891",
+      "opzioni": [
+        "1891",
+        "1881",
+        "1886",
+        "1889"
+      ],
+      "spiegazione": "so simbolico campo lotta Giacobbe angelo.. Tahiti 1891 fuga paradiso perduto: dipinge indigeni vita quotidiana miti polinesiani, colori intensi antina",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cézanne e Gauguin: struttura, e simbolo?",
+      "rispostaCorretta": "1897",
+      "opzioni": [
+        "1895",
+        "1897",
+        "1887",
+        "1892"
+      ],
+      "spiegazione": "o primitivismo.. Da dove veniamo?? Dove andiamo? (1897) testamento spirituale: umanità nascita maturità morte, allegoria esistenza.. Influenza fauvism",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Cézanne e Gauguin: struttura, e simbolo?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "morte",
+        "patria",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Cézanne e Gauguin: struttura, e simbolo?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "morte",
+        "amore",
+        "natura",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Montagna Sainte nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "diante cilindro sfera cono\".. Montagna Sainte-Victoire (numerose versioni): montagna Provenza scomposta piani geometrici colore co",
+      "livello": "intermedio",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Picasso Braque nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "azio oggetti.. Padre cubismo: Picasso Braque studiano scomposizione geometrica prospettive multiple.. Paul Gauguin (1845-1903): ba",
+      "livello": "intermedio",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Paul Cézanne (1839-1906) solitario Aix-en-Provence, studia natura geometrizzazione.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Cerca solidità durevole vs impressionismo fugace include \"trattare natura mediante cilindro sfera cono\"..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cubismo: Picasso e Braque?",
+      "rispostaCorretta": "1907",
+      "opzioni": [
+        "1907",
+        "1905",
+        "1897",
+        "1902"
+      ],
+      "spiegazione": "Cubismo (1907-1914) è rivoluzione radicale Picasso Braque. Influenze include Cézanne geometrizzazione, masche",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cubismo: Picasso e Braque?",
+      "rispostaCorretta": "1914",
+      "opzioni": [
+        "1914",
+        "1912",
+        "1909",
+        "1904"
+      ],
+      "spiegazione": "Cubismo (1907-1914) è rivoluzione radicale Picasso Braque. Influenze include Cézanne geometrizzazione, maschere af",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cubismo: Picasso e Braque?",
+      "rispostaCorretta": "1909",
+      "opzioni": [
+        "1904",
+        "1899",
+        "1907",
+        "1909"
+      ],
+      "spiegazione": "olenza primordiale e scandalo. Cubismo analitico (1909-1912): oggetto scomposto piani sfaccettati mostrato simultaneamente angolazioni multiple (front",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cubismo: Picasso e Braque?",
+      "rispostaCorretta": "1912",
+      "opzioni": [
+        "1910",
+        "1907",
+        "1902",
+        "1912"
+      ],
+      "spiegazione": "a primordiale e scandalo. Cubismo analitico (1909-1912): oggetto scomposto piani sfaccettati mostrato simultaneamente angolazioni multiple (fronte lat",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Cubismo: Picasso e Braque?",
+      "rispostaCorretta": "1937",
+      "opzioni": [
+        "1932",
+        "1927",
+        "1935",
+        "1937"
+      ],
+      "spiegazione": "chini), cubismo e classicismo anni '20, Guernica (1937) capolavoro bombardamento nazi-fascisti città basca guerra civile spagnola, urlo orrore guerra",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Cubismo: Picasso e Braque?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "morte",
+        "patria",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Cubismo: Picasso e Braque?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "tempo",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Cubismo: Picasso e Braque?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "guerra",
+        "morte"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Picasso Braque nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "personaggio secondario",
+        "protagonista principale",
+        "narratore"
+      ],
+      "spiegazione": "-1914) è rivoluzione radicale Picasso Braque. Influenze include Cézanne geometrizzazione, maschere africane primitivismo e quarta",
+      "livello": "intermedio",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Demoiselles Avignon nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "narratore",
+        "personaggio secondario",
+        "protagonista principale"
+      ],
+      "spiegazione": "mo e quarta dimensione tempo. Demoiselles Avignon (Picasso 1907) inizio include cinque prostitute bordello Barcellona, volti masch",
+      "livello": "intermedio",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Cubismo (1907-1914) è rivoluzione radicale Picasso Braque.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Influenze include Cézanne geometrizzazione, maschere africane primitivismo e quarta dimensione tempo.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Futurismo, Espressionismo, Surrealismo?",
+      "rispostaCorretta": "1909",
+      "opzioni": [
+        "1909",
+        "1899",
+        "1904",
+        "1907"
+      ],
+      "spiegazione": "Futurismo (1909-) italiano Marinetti manifesto: esalta velocità macchina modernità dinamismo, rifiuta passato m",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Futurismo, Espressionismo, Surrealismo?",
+      "rispostaCorretta": "1882",
+      "opzioni": [
+        "1877",
+        "1880",
+        "1872",
+        "1882"
+      ],
+      "spiegazione": "), nazionalismo interventismo.. Umberto Boccioni (1882-1916): Città sale (1910) dinamismo urbano cavallo trascina, Forme uniche continuità spazio (191",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Futurismo, Espressionismo, Surrealismo?",
+      "rispostaCorretta": "1916",
+      "opzioni": [
+        "1914",
+        "1906",
+        "1916",
+        "1911"
+      ],
+      "spiegazione": "zionalismo interventismo.. Umberto Boccioni (1882-1916): Città sale (1910) dinamismo urbano cavallo trascina, Forme uniche continuità spazio (1913) sc",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Futurismo, Espressionismo, Surrealismo?",
+      "rispostaCorretta": "1910",
+      "opzioni": [
+        "1900",
+        "1910",
+        "1908",
+        "1905"
+      ],
+      "spiegazione": "tismo.. Umberto Boccioni (1882-1916): Città sale (1910) dinamismo urbano cavallo trascina, Forme uniche continuità spazio (1913) scultura figura movim",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Futurismo, Espressionismo, Surrealismo?",
+      "rispostaCorretta": "1913",
+      "opzioni": [
+        "1911",
+        "1908",
+        "1903",
+        "1913"
+      ],
+      "spiegazione": "cavallo trascina, Forme uniche continuità spazio (1913) scultura figura movimento linee forza scie, Stati animo (1911) emozioni stazione treni partenz",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Futurismo, Espressionismo, Surrealismo?",
+      "rispostaCorretta": "1911",
+      "opzioni": [
+        "1911",
+        "1909",
+        "1901",
+        "1906"
+      ],
+      "spiegazione": "a figura movimento linee forza scie, Stati animo (1911) emozioni stazione treni partenze.. Balla Dinamismo cane guinzaglio movimento scomposizione fot",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Futurismo, Espressionismo, Surrealismo?",
+      "rispostaCorretta": "1863",
+      "opzioni": [
+        "1863",
+        "1853",
+        "1858",
+        "1861"
+      ],
+      "spiegazione": "deformazione espressiva emozione.. Edvard Munch (1863-1944) norvegese: Urlo (1893) icona angoscia esistenziale moderna, figura ponte mani guance bocc",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Futurismo, Espressionismo, Surrealismo?",
+      "rispostaCorretta": "1944",
+      "opzioni": [
+        "1942",
+        "1939",
+        "1934",
+        "1944"
+      ],
+      "spiegazione": "rmazione espressiva emozione.. Edvard Munch (1863-1944) norvegese: Urlo (1893) icona angoscia esistenziale moderna, figura ponte mani guance bocca ape",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Futurismo, Espressionismo, Surrealismo?",
+      "rispostaCorretta": "1893",
+      "opzioni": [
+        "1891",
+        "1883",
+        "1893",
+        "1888"
+      ],
+      "spiegazione": "zione.. Edvard Munch (1863-1944) norvegese: Urlo (1893) icona angoscia esistenziale moderna, figura ponte mani guance bocca aperta urlo cielo sangue o",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Futurismo, Espressionismo, Surrealismo?",
+      "rispostaCorretta": "1924",
+      "opzioni": [
+        "1914",
+        "1922",
+        "1924",
+        "1919"
+      ],
+      "spiegazione": "aggressiva temi urbani alienazione.. Surrealismo (1924 Breton manifesto): automatismo psichico inconscio sogno irrazionale influenza Freud.. Salvador",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Futurismo, Espressionismo, Surrealismo?",
+      "rispostaCorretta": "1904",
+      "opzioni": [
+        "1902",
+        "1899",
+        "1894",
+        "1904"
+      ],
+      "spiegazione": "ogno irrazionale influenza Freud.. Salvador Dalí (1904-1989): Persistenza memoria (1931) orologi molli paesaggio onirico, paranoia critica metodo, ipe",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Futurismo, Espressionismo, Surrealismo?",
+      "rispostaCorretta": "1989",
+      "opzioni": [
+        "1984",
+        "1979",
+        "1989",
+        "1987"
+      ],
+      "spiegazione": "irrazionale influenza Freud.. Salvador Dalí (1904-1989): Persistenza memoria (1931) orologi molli paesaggio onirico, paranoia critica metodo, iperreal",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Futurismo, Espressionismo, Surrealismo?",
+      "rispostaCorretta": "1931",
+      "opzioni": [
+        "1931",
+        "1929",
+        "1921",
+        "1926"
+      ],
+      "spiegazione": ". Salvador Dalí (1904-1989): Persistenza memoria (1931) orologi molli paesaggio onirico, paranoia critica metodo, iperrealismo soggetti assurdi.. René",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Futurismo, Espressionismo, Surrealismo?",
+      "rispostaCorretta": "1898",
+      "opzioni": [
+        "1898",
+        "1888",
+        "1893",
+        "1896"
+      ],
+      "spiegazione": "o, iperrealismo soggetti assurdi.. René Magritte (1898-1967) belga: paradossi visivi (Tradimento immagini pipa \"questa non pipa\", Impero luci giorno n",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Futurismo, Espressionismo, Surrealismo?",
+      "rispostaCorretta": "1967",
+      "opzioni": [
+        "1967",
+        "1957",
+        "1962",
+        "1965"
+      ],
+      "spiegazione": "errealismo soggetti assurdi.. René Magritte (1898-1967) belga: paradossi visivi (Tradimento immagini pipa \"questa non pipa\", Impero luci giorno notte",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Futurismo, Espressionismo, Surrealismo?",
+      "rispostaCorretta": "memoria",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "memoria"
+      ],
+      "spiegazione": "Il tema del memoria è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Futurismo, Espressionismo, Surrealismo?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "amore",
+        "morte",
+        "tempo",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Umberto Boccioni nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "nazionalismo interventismo.. Umberto Boccioni (1882-1916): Città sale (1910) dinamismo urbano cavallo trascina, Forme uniche cont",
+      "livello": "intermedio",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Balla Dinamismo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "oni stazione treni partenze.. Balla Dinamismo cane guinzaglio movimento scomposizione fotografica.. Espressionismo: deformazione e",
+      "livello": "intermedio",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Balla Dinamismo cane guinzaglio movimento scomposizione fotografica..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Espressionismo: deformazione espressiva emozione..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Avanguardie del Novecento",
+      "materia": "arte"
+    }
+  ]
+}

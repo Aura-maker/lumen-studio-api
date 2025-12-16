@@ -1,0 +1,30 @@
+{
+  "materia": "matematica",
+  "totale": 3,
+  "flashcards": [
+    {
+      "fronte": "Definisci: ode",
+      "retro": "Le applicazioni includono la modellazione di fenomeni in fisica ed economia..",
+      "categoria": "definizioni",
+      "materia": "matematica",
+      "argomento": "Funzioni reali",
+      "difficolta": "intermedio"
+    },
+    {
+      "fronte": "Come si manifesta il tema del natura in Continuità, e teoremi fondamentali?",
+      "retro": "Le funzioni elementari sono continue nei loro domini naturali: i polinomi in R, le esponenziali, i logaritmi e le trigonometriche nei loro domini.",
+      "categoria": "temi",
+      "materia": "matematica",
+      "argomento": "Limiti, e continuità",
+      "difficolta": "avanzato"
+    },
+    {
+      "fronte": "Come si manifesta il tema del famiglia in Integrale indefinito, e primitive?",
+      "retro": "L'insieme di tutte le primitive forma una famiglia di funzioni che differiscono per una costante additiva.",
+      "categoria": "temi",
+      "materia": "matematica",
+      "argomento": "Integrali",
+      "difficolta": "avanzato"
+    }
+  ]
+}

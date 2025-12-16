@@ -1,0 +1,58 @@
+{
+  "id": "GRE_SIM_111",
+  "materia": "LINGUA E CULTURA GRECA",
+  "tipo": "ESAME DI STATO - LICEO CLASSICO",
+  "numero": 111,
+  "data": "2025-12-06",
+  "durata": "6 ore",
+  "intestazione": "Ministero dell'Istruzione e del Merito\nESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE\nIndirizzo: LI01 - CLASSICO\nDisciplina: LINGUA E CULTURA GRECA",
+  "dizionari_ammessi": "È consentito l'uso del dizionario di greco.",
+  "struttura": {
+    "prima_parte": {
+      "titolo": "PRIMA PARTE: traduzione di un testo in lingua greca",
+      "titolo_brano": "L'ideale dell'educazione",
+      "pre_testo": "Nel dialogo platonico sulla Repubblica, Socrate discute con Glaucone dell'importanza dell'educazione per la formazione del cittadino ideale e del filosofo-re.",
+      "testo_greco": "Οὐκοῦν, ἦν δ' ἐγώ, ὦ Γλαύκων, μουσικῇ τροφὴ τελευτᾷ εἰς τὰ τοῦ καλοῦ ἐρωτικά; \nΔεῖ γοῦν, ἔφη. \nΚαὶ μὴν ἥ γε περὶ τὰ σώματα τέχνη, ἣν γυμναστικὴν εἴπομεν, κατὰ τὸν αὐτὸν τρόπον μετὰ τοῦτο θρεπτέα. \nΠῶς δή; \nΠρῶτον μὲν τοίνυν σκέψαι εἰ ἀρκεῖ ἡμῖν ὁ αὐτὸς οὗτος φύλαξ πρὸς τῷ μουσικῷ καὶ γυμναστικὸς εἶναι, ἢ προσδεῖ τινος ἄλλης τέχνης.",
+      "post_testo": null,
+      "note_lessicali": {
+        "μουσική": "educazione delle Muse, formazione culturale",
+        "ἐρωτικά": "cose d'amore, desiderio del bello",
+        "γυμναστική": "ginnastica, educazione fisica"
+      },
+      "fonte": "Platone, Repubblica, III, 403c-404a"
+    },
+    "seconda_parte": {
+      "titolo": "SECONDA PARTE: risposta aperta a tre quesiti",
+      "istruzioni": "Il candidato risponda ai seguenti quesiti in modo puntuale e circostanziato.",
+      "quesiti": [
+        {
+          "numero": 1,
+          "tipo": "comprensione",
+          "testo": "Individua i riferimenti mitologici o storici presenti e spiegane la funzione nel testo.",
+          "punti_max": 5
+        },
+        {
+          "numero": 2,
+          "tipo": "analisi",
+          "testo": "Esamina la struttura sintattica del periodo greco, commentando l'uso di ipotassi e paratassi.",
+          "punti_max": 5
+        },
+        {
+          "numero": 3,
+          "tipo": "approfondimento",
+          "testo": "Confronta la posizione dell'autore con quella di altri pensatori greci sullo stesso tema.",
+          "punti_max": 10
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "numeroProgressivo": 111,
+    "dataGenerazione": "2025-12-06T17:54:00.555Z",
+    "versione": "2024.1",
+    "difficolta": "avanzato",
+    "genere_letterario": "oratoria",
+    "periodo_storico": "età ellenistica"
+  },
+  "note_culturali": "Documento essenziale per la filosofia occidentale"
+}

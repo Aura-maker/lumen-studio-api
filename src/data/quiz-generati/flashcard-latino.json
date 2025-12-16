@@ -1,0 +1,102 @@
+{
+  "materia": "latino",
+  "totale": 8,
+  "flashcards": [
+    {
+      "id": "latino-1",
+      "fronte": "Quante declinazioni ha il latino?",
+      "retro": "5 declinazioni",
+      "materia": "latino",
+      "categoria": "Grammatica",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.075Z"
+    },
+    {
+      "id": "latino-2",
+      "fronte": "Quante coniugazioni ha il latino?",
+      "retro": "4 coniugazioni",
+      "materia": "latino",
+      "categoria": "Grammatica",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.075Z"
+    },
+    {
+      "id": "latino-3",
+      "fronte": "Caso del complemento oggetto",
+      "retro": "Accusativo",
+      "materia": "latino",
+      "categoria": "Grammatica",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.075Z"
+    },
+    {
+      "id": "latino-4",
+      "fronte": "Caso del complemento di specificazione",
+      "retro": "Genitivo",
+      "materia": "latino",
+      "categoria": "Grammatica",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.075Z"
+    },
+    {
+      "id": "latino-5",
+      "fronte": "Traduzione \"Carpe diem\"",
+      "retro": "Cogli l'attimo (Orazio)",
+      "materia": "latino",
+      "categoria": "Citazioni",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.075Z"
+    },
+    {
+      "id": "latino-6",
+      "fronte": "Traduzione \"Cogito ergo sum\"",
+      "retro": "Penso dunque sono (Cartesio)",
+      "materia": "latino",
+      "categoria": "Citazioni",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.075Z"
+    },
+    {
+      "id": "latino-7",
+      "fronte": "Opera principale di Virgilio",
+      "retro": "Eneide",
+      "materia": "latino",
+      "categoria": "Letteratura",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.075Z"
+    },
+    {
+      "id": "latino-8",
+      "fronte": "Opera principale di Cicerone",
+      "retro": "Catilinarie, De Oratore",
+      "materia": "latino",
+      "categoria": "Letteratura",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.075Z"
+    }
+  ]
+}

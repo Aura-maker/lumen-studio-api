@@ -1,0 +1,47 @@
+{
+  "utenti": [
+    {
+      "id": "test-user-1762594071614",
+      "email": "test@liceo.edu",
+      "password": "$2a$12$F6i288vzirl9M0.vsRs/R.cXikIxNoZyhACkerfGDIToopOIXeXFm",
+      "nome": "Studente Test",
+      "ruolo": "STUDENTE",
+      "createdAt": "2025-11-08T09:27:51.614Z",
+      "updatedAt": "2025-11-08T09:27:51.615Z",
+      "avatarUrl": null,
+      "preferenze": null,
+      "socialId": null,
+      "socialProvider": null,
+      "resetToken": null
+    }
+  ],
+  "progressi": [],
+  "distintivi": [],
+  "notifiche": [],
+  "refreshTokens": [
+    {
+      "utenteId": "test-user-1762594071614",
+      "hash": "1b1ec4bedc17acdd34a32ecceddb9486efff9f74bf2d645f6936f08588c56631",
+      "expiresAt": "2025-12-08T09:48:55.759Z",
+      "id": "1762595335760",
+      "createdAt": "2025-11-08T09:48:55.760Z",
+      "revoked": false
+    },
+    {
+      "utenteId": "test-user-1762594071614",
+      "hash": "aaed51318e618275f37cf4222d39966720da35d69643c162dfc1225b3023a78c",
+      "expiresAt": "2025-12-08T10:01:01.319Z",
+      "id": "1762596061319",
+      "createdAt": "2025-11-08T10:01:01.319Z",
+      "revoked": false
+    },
+    {
+      "utenteId": "test-user-1762594071614",
+      "hash": "f26c781da3d15fef974f04f64c8254882a37b8dadcf142fc9ddb1002072b26ae",
+      "expiresAt": "2025-12-08T10:14:49.474Z",
+      "id": "1762596889474",
+      "createdAt": "2025-11-08T10:14:49.474Z",
+      "revoked": false
+    }
+  ]
+}

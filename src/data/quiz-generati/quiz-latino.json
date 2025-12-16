@@ -1,0 +1,1512 @@
+{
+  "materia": "latino",
+  "totale": 104,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e contesto storico?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "amore",
+        "libertà",
+        "patria",
+        "morte"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e contesto storico?",
+      "rispostaCorretta": "politica",
+      "opzioni": [
+        "politica",
+        "amore",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del politica è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e contesto storico?",
+      "rispostaCorretta": "famiglia",
+      "opzioni": [
+        "libertà",
+        "famiglia",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del famiglia è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Lucio Anneo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "Lucio Anneo Seneca nacque a Cordova, in Spagna, intorno al 4 a.C., da una famiglia equestre colta. I",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Giulia Livilla nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "narratore",
+        "personaggio secondario",
+        "protagonista principale"
+      ],
+      "spiegazione": "ni, accusato di adulterio con Giulia Livilla, sorella di Caligola, accusa probabilmente pretestuosa. Durante l'esilio compose le C",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Lucio Anneo Seneca nacque a Cordova, in Spagna, intorno al 4 a.C., da una famiglia equestre colta.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il padre, Seneca il Retore, era un celebre maestro di eloquenza.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Stoicismo romano, e pensiero filosofico?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "patria",
+        "morte",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Stoicismo romano, e pensiero filosofico?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "amore",
+        "patria",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Stoicismo romano, e pensiero filosofico?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "libertà",
+        "tempo",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Lo stoicismo romano si distingue per il suo carattere pratico e morale, meno speculativo rispetto a quello greco.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Seneca eredita i principi fondamentali da Zenone e Crisippo, ma li adatta alla mentalità romana pragmatica.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Epistole morali a Lucilio?",
+      "rispostaCorretta": "124",
+      "opzioni": [
+        "122",
+        "114",
+        "119",
+        "124"
+      ],
+      "spiegazione": "eca, composta tra il 62 e il 65 d.C. Si tratta di 124 lettere raccolte in 20 libri, formalmente indirizzate all'amico Lucilio, procuratore della Sicil",
+      "livello": "base",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Epistole morali a Lucilio?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "morte",
+        "amore",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Epistole morali a Lucilio?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "morte",
+        "patria"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Epistole morali a Lucilio?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "tempo",
+        "amore"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Le Epistulae nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "Le Epistulae morales ad Lucilium sono l'opera tarda di Seneca, composta tra il 62 e il 65 d.C. Si tr",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Le Epistulae morales ad Lucilium sono l'opera tarda di Seneca, composta tra il 62 e il 65 d.C.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Tragedie: temi, e struttura?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "amore",
+        "morte",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Tragedie: temi, e struttura?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "amore",
+        "morte",
+        "patria",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Tragedie: temi, e struttura?",
+      "rispostaCorretta": "famiglia",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "famiglia"
+      ],
+      "spiegazione": "Il tema del famiglia è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Edipo Tebe nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "ane prigioniere), Phoenissae (Edipo Tebe), Medea (vendetta Medea), Phaedra (amore incestuoso Fedra figliastro Ippolito), Oedipus (",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Hercules Oetaeus nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "llo Tieste imbandisce figli), Hercules Oetaeus (morte Ercole). Octavia praetexta argomento romano (ripudio Ottavia Nerone) probabi",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Octavia praetexta argomento romano (ripudio Ottavia Nerone) probabilmente spuria.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Destinazione include recitazione, o lettura.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Stile, e peculiarità linguistiche?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "morte",
+        "libertà",
+        "patria",
+        "amore"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Stile, e peculiarità linguistiche?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "patria",
+        "morte",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Catone Socrate nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": ". Exempla storici mitologici: Catone Socrate modelli virtù, personaggi negativi Caligola Nerone tiranni.. Metafore vivide: filosof",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Caligola Nerone nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "li virtù, personaggi negativi Caligola Nerone tiranni.. Metafore vivide: filosofia medicina animae, passioni morbi, vita peregrina",
+      "livello": "intermedio",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Lo stile senecano è caratteristico riconoscibile opposto ciceroniano.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Interrogative retoriche: coinvolgono lettore dialogo fittizio..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Lucio Anneo Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e carriera?",
+      "rispostaCorretta": "112",
+      "opzioni": [
+        "112",
+        "102",
+        "107",
+        "110"
+      ],
+      "spiegazione": "to nel 97 d.C. sotto Nerva, proconsole d'Asia nel 112-113 d.C. sotto Traiano, apice della sua carriera. Visse sotto Domiziano (81-96 d.C.), un periodo",
+      "livello": "base",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e carriera?",
+      "rispostaCorretta": "113",
+      "opzioni": [
+        "103",
+        "111",
+        "113",
+        "108"
+      ],
+      "spiegazione": "el 97 d.C. sotto Nerva, proconsole d'Asia nel 112-113 d.C. sotto Traiano, apice della sua carriera. Visse sotto Domiziano (81-96 d.C.), un periodo di",
+      "livello": "base",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e carriera?",
+      "rispostaCorretta": "117",
+      "opzioni": [
+        "117",
+        "107",
+        "112",
+        "115"
+      ],
+      "spiegazione": "la storia. Sotto Nerva (96-98 d.C.) e Traiano (98-117 d.C.), principi illuminati, Tacito rimase comunque disincantato: la libertà era perduta irrevers",
+      "livello": "base",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e carriera?",
+      "rispostaCorretta": "120",
+      "opzioni": [
+        "120",
+        "110",
+        "115",
+        "118"
+      ],
+      "spiegazione": "to era intrinsecamente tirannico. Morì intorno al 120 d.C. Fu amico di Plinio il Giovane, come testimonia il loro carteggio. Le sue opere storiche, co",
+      "livello": "base",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e carriera?",
+      "rispostaCorretta": "102",
+      "opzioni": [
+        "97",
+        "102",
+        "100",
+        "92"
+      ],
+      "spiegazione": "la Germania (98 d.C.), il Dialogus de oratoribus (102 d.C.?), le Historiae (100-110 d.C., lacunose) e gli Annales (110-120 d.C., lacunosi). Alcune ope",
+      "livello": "base",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e carriera?",
+      "rispostaCorretta": "100",
+      "opzioni": [
+        "90",
+        "95",
+        "98",
+        "100"
+      ],
+      "spiegazione": "Dialogus de oratoribus (102 d.C.?), le Historiae (100-110 d.C., lacunose) e gli Annales (110-120 d.C., lacunosi). Alcune opere sono perdute, tra cui u",
+      "livello": "base",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e carriera?",
+      "rispostaCorretta": "110",
+      "opzioni": [
+        "105",
+        "108",
+        "100",
+        "110"
+      ],
+      "spiegazione": "ogus de oratoribus (102 d.C.?), le Historiae (100-110 d.C., lacunose) e gli Annales (110-120 d.C., lacunosi). Alcune opere sono perdute, tra cui una b",
+      "livello": "base",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e carriera?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "morte",
+        "amore",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e carriera?",
+      "rispostaCorretta": "famiglia",
+      "opzioni": [
+        "amore",
+        "famiglia",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del famiglia è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Cornelio Tacito nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "Publio (o Gaio) Cornelio Tacito nacque tra il 55 e il 58 d.C., probabilmente nella Gallia Narbonense o nell'Italia s",
+      "livello": "intermedio",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Gallia Narbonense nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "narratore",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "58 d.C., probabilmente nella Gallia Narbonense o nell'Italia settentrionale, da una famiglia di rango equestre. Ricevette una for",
+      "livello": "intermedio",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Ricevette una formazione retorica a Roma e nel 77 d.C.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "sposò Giulia, figlia di Agricola, console e governatore della Britannia.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Annales: struttura, e contenuti?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "morte",
+        "amore",
+        "patria",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Annales: struttura, e contenuti?",
+      "rispostaCorretta": "memoria",
+      "opzioni": [
+        "morte",
+        "amore",
+        "memoria",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del memoria è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Aufidio Basso nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "a diurna, storici precedenti (Aufidio Basso Plinio Vecchio), memoria personale indiretta.. Tiberio (I-VI): dissimulatore ipocrita,",
+      "livello": "intermedio",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Plinio Vecchio nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "ici precedenti (Aufidio Basso Plinio Vecchio), memoria personale indiretta.. Tiberio (I-VI): dissimulatore ipocrita, progressivo i",
+      "livello": "intermedio",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Metodo annalistico: eventi anno per anno con consoli eponimi, ma non rigido cronologismo se drammatizzazione richiede..",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Historiae: guerre civili, e dinastia flavia?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "amore",
+        "morte",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Historiae: guerre civili, e dinastia flavia?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "tempo",
+        "amore",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Historiae: guerre civili, e dinastia flavia?",
+      "rispostaCorretta": "guerra",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "guerra"
+      ],
+      "spiegazione": "Il tema del guerra è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Germania Vitellio nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "protagonista principale",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "Guerra civile include legioni Germania Vitellio vs legioni Oriente Vespasiano, Italia campo battaglia, saccheggi violenze e incend",
+      "livello": "intermedio",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Oriente Vespasiano nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "protagonista principale",
+        "antagonista"
+      ],
+      "spiegazione": "Germania Vitellio vs legioni Oriente Vespasiano, Italia campo battaglia, saccheggi violenze e incendio Campidoglio. Rivolta batav",
+      "livello": "intermedio",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Historiae prima opera storica Tacito, ma narra eventi successivi Annales.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Historiae ultima opera storica Tacito, ma narra eventi successivi Annales.",
+      "rispostaCorretta": "Falso",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione non corretta.",
+      "livello": "base",
+      "argomento": "Publio Cornelio Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Caratteristiche stilistiche, e lingua?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "patria",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Tacito: stile, e visione politica",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Caratteristiche stilistiche, e lingua?",
+      "rispostaCorretta": "pace",
+      "opzioni": [
+        "pace",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del pace è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Tacito: stile, e visione politica",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Seneca Petronio nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario"
+      ],
+      "spiegazione": "pina, incendio Roma, suicidio Seneca Petronio).. Psicologia: analisi motivazioni interiori ambigue, dissimulazione ipocrisia (Tibe",
+      "livello": "intermedio",
+      "argomento": "Tacito: stile, e visione politica",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Germania Britannia nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "ografiche geografiche vivide (Germania Britannia).. Pathos: commozione morti ingiuste virtuosi (Germanico Britannico Ottavia Senec",
+      "livello": "intermedio",
+      "argomento": "Tacito: stile, e visione politica",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Lo stile tacitiano è inconfondibile antitetico ciceroniano.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Tacito: stile, e visione politica",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Inconcinnitas include asimmetria evita parallelismi troppo regolari, variatio sintassi lessico e ordine parole libero enfasi drammatica (iperbato).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Tacito: stile, e visione politica",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Visione politica, e personaggi?",
+      "rispostaCorretta": "libertà",
+      "opzioni": [
+        "patria",
+        "libertà",
+        "amore",
+        "morte"
+      ],
+      "spiegazione": "Il tema del libertà è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Tacito: stile, e visione politica",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Visione politica, e personaggi?",
+      "rispostaCorretta": "politica",
+      "opzioni": [
+        "morte",
+        "libertà",
+        "amore",
+        "politica"
+      ],
+      "spiegazione": "Il tema del politica è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Tacito: stile, e visione politica",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Visione politica, e personaggi?",
+      "rispostaCorretta": "pace",
+      "opzioni": [
+        "morte",
+        "libertà",
+        "amore",
+        "pace"
+      ],
+      "spiegazione": "Il tema del pace è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Tacito: stile, e visione politica",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Adotta Sallustio nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "antagonista",
+        "personaggio secondario",
+        "narratore",
+        "protagonista principale"
+      ],
+      "spiegazione": "(corruzione potere assoluto). Adotta Sallustio analisi morale decadenza include avaritia ambitio libido perdono Roma virtuosa anti",
+      "livello": "intermedio",
+      "argomento": "Tacito: stile, e visione politica",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Vespasiano Tito nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "(Augusto abile dissimulatore, Vespasiano Tito Traiano restauratori ordine ma non libertà), cattivi maggioranza (Tiberio Caligola N",
+      "livello": "intermedio",
+      "argomento": "Tacito: stile, e visione politica",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Visione politica Tacito pessimistica è disincantata aristocratica.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Tacito: stile, e visione politica",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Dilemma include repubblica morta e principato male necessario, ma ogni princeps diventa tiranno (corruzione potere assoluto).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Tacito: stile, e visione politica",
+      "materia": "latino"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e Epistolario?",
+      "rispostaCorretta": "113",
+      "opzioni": [
+        "108",
+        "111",
+        "113",
+        "103"
+      ],
+      "spiegazione": "aio Plinio Cecilio Secondo detto Giovane (61 e il 113 d.C. ) da Como famiglia è ricca. Adottato zio Plinio Vecchio naturalista morto eruzione Vesuvio",
+      "livello": "base",
+      "argomento": "Plinio il Giovane",
+      "materia": "latino"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e Epistolario?",
+      "rispostaCorretta": "100",
+      "opzioni": [
+        "100",
+        "90",
+        "95",
+        "98"
+      ],
+      "spiegazione": "pretore prefetto erario saturno console suffetto 100 e legato Bitinia-Ponto 110-113 dove muore. Uomo integro è moderato lealista compromesso con pote",
+      "livello": "base",
+      "argomento": "Plinio il Giovane",
+      "materia": "latino"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e Epistolario?",
+      "rispostaCorretta": "110",
+      "opzioni": [
+        "108",
+        "105",
+        "100",
+        "110"
+      ],
+      "spiegazione": "turno console suffetto 100 e legato Bitinia-Ponto 110-113 dove muore. Uomo integro è moderato lealista compromesso con potere. Epistulae 10 libri pubb",
+      "livello": "base",
+      "argomento": "Plinio il Giovane",
+      "materia": "latino"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno fu pubblicata Vita e Epistolario?",
+      "rispostaCorretta": "247",
+      "opzioni": [
+        "247",
+        "237",
+        "242",
+        "245"
+      ],
+      "spiegazione": "10 libri pubblicati vivente (I-IX) o postumi (X), 247 lettere amici intellettuali più 121 scambio imperatore Traiano (X). Modello Cicerone epistologra",
+      "livello": "base",
+      "argomento": "Plinio il Giovane",
+      "materia": "latino"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e Epistolario?",
+      "rispostaCorretta": "121",
+      "opzioni": [
+        "116",
+        "121",
+        "119",
+        "111"
+      ],
+      "spiegazione": "postumi (X), 247 lettere amici intellettuali più 121 scambio imperatore Traiano (X). Modello Cicerone epistolografia ma più studiata artificiosa lett",
+      "livello": "base",
+      "argomento": "Plinio il Giovane",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e Epistolario?",
+      "rispostaCorretta": "morte",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "morte",
+        "patria"
+      ],
+      "spiegazione": "Il tema del morte è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Plinio il Giovane",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e Epistolario?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "morte",
+        "amore",
+        "libertà",
+        "natura"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Plinio il Giovane",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e Epistolario?",
+      "rispostaCorretta": "politica",
+      "opzioni": [
+        "amore",
+        "politica",
+        "libertà",
+        "morte"
+      ],
+      "spiegazione": "Il tema del politica è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Plinio il Giovane",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Gaio Plinio nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "Gaio Plinio Cecilio Secondo detto Giovane (61 e il 113 d.C. ) da Como famiglia è ricca. Adottato zio",
+      "livello": "intermedio",
+      "argomento": "Plinio il Giovane",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Cecilio Secondo nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "Gaio Plinio Cecilio Secondo detto Giovane (61 e il 113 d.C. ) da Como famiglia è ricca. Adottato zio Plinio Vecc",
+      "livello": "intermedio",
+      "argomento": "Plinio il Giovane",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Gaio Plinio Cecilio Secondo detto Giovane (61 e il 113 d.C.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Plinio il Giovane",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Adottato zio Plinio Vecchio naturalista morto eruzione Vesuvio 79.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Plinio il Giovane",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Pompei Ercolano nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "narratore",
+        "protagonista principale",
+        "antagonista"
+      ],
+      "spiegazione": "uvio 24-25 agosto 79 seppellì Pompei Ercolano Stabia. Plinio presente Miseno 17 anni con madre, zio Plinio Vecchio comandante è fl",
+      "livello": "intermedio",
+      "argomento": "Plinio il Giovane",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Plinio Vecchio nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "Miseno 17 anni con madre, zio Plinio Vecchio comandante è flotta. VI 16: zio vede nube forma pino marittimo, curiosità scientifica",
+      "livello": "intermedio",
+      "argomento": "Plinio il Giovane",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Lettere VI 16 e 20 a Tacito narrano eruzione Vesuvio 24-25 agosto 79 seppellì Pompei Ercolano Stabia.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Plinio il Giovane",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Plinio presente Miseno 17 anni con madre, zio Plinio Vecchio comandante è flotta.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Plinio il Giovane",
+      "materia": "latino"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e Metamorfosi: struttura romanzo?",
+      "rispostaCorretta": "125",
+      "opzioni": [
+        "115",
+        "120",
+        "123",
+        "125"
+      ],
+      "spiegazione": "Lucio Apuleio (125 e il 170 d.C. Circa) da Madaura Numidia (Africa) famiglia ricca colta. Studia Cartagine Atene fi",
+      "livello": "base",
+      "argomento": "Apuleio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "data",
+      "domanda": "In quale anno avvenne Vita e Metamorfosi: struttura romanzo?",
+      "rispostaCorretta": "170",
+      "opzioni": [
+        "170",
+        "168",
+        "160",
+        "165"
+      ],
+      "spiegazione": "Lucio Apuleio (125 e il 170 d.C. Circa) da Madaura Numidia (Africa) famiglia ricca colta. Studia Cartagine Atene filosofia p",
+      "livello": "base",
+      "argomento": "Apuleio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e Metamorfosi: struttura romanzo?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "amore",
+        "morte",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Apuleio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e Metamorfosi: struttura romanzo?",
+      "rispostaCorretta": "religione",
+      "opzioni": [
+        "morte",
+        "religione",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del religione è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Apuleio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Vita e Metamorfosi: struttura romanzo?",
+      "rispostaCorretta": "famiglia",
+      "opzioni": [
+        "famiglia",
+        "amore",
+        "morte",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del famiglia è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Apuleio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Lucio Apuleio nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "protagonista principale",
+        "antagonista",
+        "personaggio secondario",
+        "narratore"
+      ],
+      "spiegazione": "Lucio Apuleio (125 e il 170 d.C. Circa) da Madaura Numidia (Africa) famiglia ricca colta. Studia Car",
+      "livello": "intermedio",
+      "argomento": "Apuleio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Madaura Numidia nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "protagonista principale",
+        "narratore",
+        "antagonista"
+      ],
+      "spiegazione": "(125 e il 170 d.C. Circa) da Madaura Numidia (Africa) famiglia ricca colta. Studia Cartagine Atene filosofia platonica retorica,",
+      "livello": "intermedio",
+      "argomento": "Apuleio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Lucio Apuleio (125 e il 170 d.C.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Apuleio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Circa) da Madaura Numidia (Africa) famiglia ricca colta.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Apuleio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Temi religiosi, Amore Psiche, e stile?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "amore",
+        "morte",
+        "libertà",
+        "patria"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Apuleio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Iside Osiride nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale",
+        "narratore"
+      ],
+      "spiegazione": "ica salvezza (culti misterici Iside Osiride promettono salvezza ultraterrena rinascita spirituale e iniziazione Lucio liberazione",
+      "livello": "intermedio",
+      "argomento": "Apuleio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "personaggio",
+      "domanda": "Quale ruolo ha Favola Amore nell'opera?",
+      "rispostaCorretta": "personaggio secondario",
+      "opzioni": [
+        "narratore",
+        "personaggio secondario",
+        "antagonista",
+        "protagonista principale"
+      ],
+      "spiegazione": "ma redenzione possibile fede. Favola Amore Psiche (IV-VI): Psiche bellissima principessa adorata come Venere, dea gelosa ordina Am",
+      "livello": "intermedio",
+      "argomento": "Apuleio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Periodo latino, e costrutti complessi?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "libertà",
+        "morte",
+        "amore",
+        "tempo"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Analisi linguistica, e traduzione",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Periodo latino è costruzione sintattica diversa italiano.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Analisi linguistica, e traduzione",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Lessico storico, e traduzione avanzata?",
+      "rispostaCorretta": "amore",
+      "opzioni": [
+        "patria",
+        "libertà",
+        "morte",
+        "amore"
+      ],
+      "spiegazione": "Il tema del amore è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Analisi linguistica, e traduzione",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Lessico storico, e traduzione avanzata?",
+      "rispostaCorretta": "tempo",
+      "opzioni": [
+        "tempo",
+        "morte",
+        "amore",
+        "libertà"
+      ],
+      "spiegazione": "Il tema del tempo è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Analisi linguistica, e traduzione",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale tema caratterizza principalmente Lessico storico, e traduzione avanzata?",
+      "rispostaCorretta": "natura",
+      "opzioni": [
+        "libertà",
+        "amore",
+        "morte",
+        "natura"
+      ],
+      "spiegazione": "Il tema del natura è centrale nell'opera come emerge dal testo.",
+      "livello": "intermedio",
+      "argomento": "Analisi linguistica, e traduzione",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Lessico latino è polisemico contestuale storico.",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Analisi linguistica, e traduzione",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Retorica include periodo ciceroniano amplesso equilibrato vs brevitas senecana tacitiana e figure (chiasmo iperbato anafora).",
+      "rispostaCorretta": "Vero",
+      "opzioni": [
+        "Vero",
+        "Falso"
+      ],
+      "spiegazione": "Affermazione corretta secondo il testo.",
+      "livello": "base",
+      "argomento": "Analisi linguistica, e traduzione",
+      "materia": "latino"
+    }
+  ]
+}

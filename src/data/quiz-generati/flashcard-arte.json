@@ -1,0 +1,102 @@
+{
+  "materia": "arte",
+  "totale": 8,
+  "flashcards": [
+    {
+      "id": "arte-1",
+      "fronte": "Chi dipinse la Gioconda?",
+      "retro": "Leonardo da Vinci (1503-1519)",
+      "materia": "arte",
+      "categoria": "Rinascimento",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.075Z"
+    },
+    {
+      "id": "arte-2",
+      "fronte": "Chi scolpì il David?",
+      "retro": "Michelangelo (1501-1504)",
+      "materia": "arte",
+      "categoria": "Rinascimento",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.075Z"
+    },
+    {
+      "id": "arte-3",
+      "fronte": "Chi dipinse la Cappella Sistina?",
+      "retro": "Michelangelo (1508-1512)",
+      "materia": "arte",
+      "categoria": "Rinascimento",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.075Z"
+    },
+    {
+      "id": "arte-4",
+      "fronte": "Chi dipinse la Scuola di Atene?",
+      "retro": "Raffaello (1509-1511)",
+      "materia": "arte",
+      "categoria": "Rinascimento",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.075Z"
+    },
+    {
+      "id": "arte-5",
+      "fronte": "Caratteristica principale del Caravaggio",
+      "retro": "Uso drammatico della luce (chiaroscuro)",
+      "materia": "arte",
+      "categoria": "Barocco",
+      "difficolta": 2,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.075Z"
+    },
+    {
+      "id": "arte-6",
+      "fronte": "Chi dipinse \"Notte stellata\"?",
+      "retro": "Vincent van Gogh (1889)",
+      "materia": "arte",
+      "categoria": "Post-impressionismo",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.075Z"
+    },
+    {
+      "id": "arte-7",
+      "fronte": "Chi dipinse \"Guernica\"?",
+      "retro": "Pablo Picasso (1937)",
+      "materia": "arte",
+      "categoria": "Cubismo",
+      "difficolta": 1,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.075Z"
+    },
+    {
+      "id": "arte-8",
+      "fronte": "Cos'è l'Impressionismo?",
+      "retro": "Movimento che cattura la luce e l'impressione del momento",
+      "materia": "arte",
+      "categoria": "Impressionismo",
+      "difficolta": 2,
+      "intervallo": 1,
+      "ripetizioni": 0,
+      "facilita": 2.5,
+      "prossimaRevisione": "2025-12-15T11:32:50.075Z"
+    }
+  ]
+}
