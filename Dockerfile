@@ -7,17 +7,17 @@ WORKDIR /app
 COPY package*.json ./
 
 # Installa dipendenze (production only)
-RUN npm ci --only=production
+RUN npm install --only=production
 
 # Copia sorgenti
 COPY . .
 
 # Porta
-EXPOSE 4000
+EXPOSE 8080
 
 # Healthcheck
 HEALTHCHECK --interval=30s --timeout=3s \
-  CMD wget --no-verbose --tries=1 --spider http://localhost:4000/api/health || exit 1
+  CMD wget --no-verbose --tries=1 --spider http://localhost:8080/api/health || exit 1
 
 # Avvia
 CMD ["node", "server-stable.js"]
