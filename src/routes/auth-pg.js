@@ -144,15 +144,28 @@ router.get('/me', authenticateToken, async (req, res) => {
  */
 router.put('/profilo', authenticateToken, async (req, res) => {
   try {
-    const { nome, avatarUrl } = req.body;
+    const { nome, avatarUrl, classe, obiettivo } = req.body;
     
-    const utente = await Utenti.updateProfile(req.user.sub, { nome, avatarUrl });
+    const utente = await Utenti.updateProfile(req.user.sub, { nome, avatarUrl, classe, obiettivo });
     
     res.json({ success: true, utente });
 
   } catch (error) {
     console.error('Errore aggiornamento profilo:', error);
     res.status(500).json({ errore: 'Errore aggiornamento profilo' });
+  }
+});
+
+/**
+ * DELETE /api/auth/account - Elimina account
+ */
+router.delete('/account', authenticateToken, async (req, res) => {
+  try {
+    await Utenti.delete(req.user.sub);
+    res.json({ success: true, messaggio: 'Account eliminato' });
+  } catch (error) {
+    console.error('Errore eliminazione account:', error);
+    res.status(500).json({ errore: 'Errore eliminazione account' });
   }
 });
 

@@ -71,15 +71,17 @@ const UtentiRepository = {
   /**
    * Aggiorna profilo utente
    */
-  async updateProfile(id, { nome, avatarUrl }) {
+  async updateProfile(id, { nome, avatarUrl, classe, obiettivo }) {
     return db.queryOne(`
       UPDATE utenti 
       SET nome = COALESCE($2, nome), 
           avatar_url = COALESCE($3, avatar_url),
+          classe = COALESCE($4, classe),
+          obiettivo = COALESCE($5, obiettivo),
           updated_at = NOW()
       WHERE id = $1
-      RETURNING id, email, nome, ruolo, punti, livello, avatar_url as "avatarUrl"
-    `, [id, nome, avatarUrl]);
+      RETURNING id, email, nome, ruolo, punti, livello, avatar_url as "avatarUrl", classe, obiettivo
+    `, [id, nome, avatarUrl, classe, obiettivo]);
   },
 
   /**
@@ -161,6 +163,13 @@ const UtentiRepository = {
   async count() {
     const result = await db.queryOne('SELECT COUNT(*) as count FROM utenti');
     return parseInt(result?.count || 0);
+  },
+
+  /**
+   * Elimina utente
+   */
+  async delete(id) {
+    await db.query('DELETE FROM utenti WHERE id = $1', [id]);
   }
 };
 

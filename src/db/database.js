@@ -118,11 +118,19 @@ async function runMigrations() {
       avatar_url TEXT,
       classe VARCHAR(10),
       materie_preferite JSONB DEFAULT '[]',
-      obiettivo VARCHAR(50),
+      obiettivo VARCHAR(100),
       created_at TIMESTAMP DEFAULT NOW(),
       updated_at TIMESTAMP DEFAULT NOW()
     );
     CREATE INDEX IF NOT EXISTS idx_utenti_email ON utenti(email);
+    
+    -- Aggiungi colonna obiettivo se non esiste (per database esistenti)
+    DO $$ 
+    BEGIN 
+      IF NOT EXISTS (SELECT 1 FROM information_schema.columns WHERE table_name='utenti' AND column_name='obiettivo') THEN
+        ALTER TABLE utenti ADD COLUMN obiettivo VARCHAR(100);
+      END IF;
+    END $$;
 
     -- Profili gamification
     CREATE TABLE IF NOT EXISTS gamification_profili (
