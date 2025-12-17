@@ -120,6 +120,144 @@ router.post('/flashcard', async (req, res) => {
 });
 
 /**
+ * ⚡ GET /api/quiz-ultimate/veloce
+ * Quiz veloce - 10 domande casuali da tutte le materie
+ */
+router.get('/veloce', async (req, res) => {
+  try {
+    const numDomande = parseInt(req.query.numDomande) || 10;
+    
+    // Carica tutti i quiz dai file JSON
+    const fs = require('fs');
+    const path = require('path');
+    const quizDir = path.join(__dirname, '../data/quiz-generati');
+    
+    let tuttiQuiz = [];
+    
+    // Leggi tutti i file quiz-*.json
+    const files = fs.readdirSync(quizDir).filter(f => f.startsWith('quiz-') && f.endsWith('.json') && !f.includes('nuovo'));
+    
+    for (const file of files) {
+      try {
+        const data = JSON.parse(fs.readFileSync(path.join(quizDir, file), 'utf8'));
+        const quizzes = data.quiz || data;
+        if (Array.isArray(quizzes)) {
+          // Normalizza formato
+          quizzes.forEach(q => {
+            tuttiQuiz.push({
+              id: q.id,
+              domanda: q.domanda,
+              opzioni: q.opzioni || [q.corretta ? 'Vero' : 'Falso', q.corretta ? 'Falso' : 'Vero'],
+              rispostaCorretta: q.opzioni ? q.opzioni[q.corretta] : (q.corretta ? 'Vero' : 'Falso'),
+              spiegazione: q.spiegazione,
+              materia: q.materia || data.materia || file.replace('quiz-', '').replace('.json', ''),
+              tipo: q.tipo,
+              difficolta: q.difficolta
+            });
+          });
+        }
+      } catch (e) {
+        console.log(`Errore lettura ${file}:`, e.message);
+      }
+    }
+    
+    // Randomizza e prendi N domande
+    const quizSelezionati = tuttiQuiz
+      .sort(() => Math.random() - 0.5)
+      .slice(0, numDomande);
+    
+    console.log(`⚡ Quiz Veloce: ${quizSelezionati.length}/${tuttiQuiz.length} quiz selezionati`);
+    
+    res.json({
+      success: true,
+      quiz: quizSelezionati,
+      totale: quizSelezionati.length,
+      disponibili: tuttiQuiz.length
+    });
+  } catch (error) {
+    console.error('❌ Errore quiz veloce:', error);
+    res.status(500).json({
+      success: false,
+      error: error.message
+    });
+  }
+});
+
+/**
+ * 📚 GET /api/quiz-ultimate/materia/:materia
+ * Quiz per una specifica materia
+ */
+router.get('/materia/:materia', async (req, res) => {
+  try {
+    const { materia } = req.params;
+    const numDomande = parseInt(req.query.numDomande) || 10;
+    
+    const fs = require('fs');
+    const path = require('path');
+    const quizDir = path.join(__dirname, '../data/quiz-generati');
+    
+    // Mappa nomi materie
+    const materiaMap = {
+      'italiano': 'italiano',
+      'storia': 'storia', 
+      'filosofia': 'filosofia',
+      'arte': 'arte',
+      'matematica': 'matematica',
+      'fisica': 'fisica',
+      'scienze': 'scienze',
+      'latino': 'latino',
+      'inglese': 'inglese',
+      'religione': 'religione'
+    };
+    
+    const materiaFile = materiaMap[materia.toLowerCase()] || materia.toLowerCase();
+    const filePath = path.join(quizDir, `quiz-${materiaFile}.json`);
+    
+    let quizMateria = [];
+    
+    if (fs.existsSync(filePath)) {
+      const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+      const quizzes = data.quiz || data;
+      if (Array.isArray(quizzes)) {
+        quizzes.forEach(q => {
+          quizMateria.push({
+            id: q.id,
+            domanda: q.domanda,
+            opzioni: q.opzioni || [q.corretta ? 'Vero' : 'Falso', q.corretta ? 'Falso' : 'Vero'],
+            rispostaCorretta: q.opzioni ? q.opzioni[q.corretta] : (q.corretta ? 'Vero' : 'Falso'),
+            spiegazione: q.spiegazione,
+            materia: data.materia || materiaFile,
+            tipo: q.tipo,
+            difficolta: q.difficolta
+          });
+        });
+      }
+    }
+    
+    // Randomizza e prendi N domande
+    const quizSelezionati = quizMateria
+      .sort(() => Math.random() - 0.5)
+      .slice(0, numDomande);
+    
+    console.log(`📚 Quiz ${materia}: ${quizSelezionati.length}/${quizMateria.length} quiz selezionati`);
+    
+    res.json({
+      success: true,
+      quiz: quizSelezionati,
+      totale: quizSelezionati.length,
+      disponibili: quizMateria.length,
+      materia
+    });
+  } catch (error) {
+    console.error('❌ Errore quiz materia:', error);
+    res.status(500).json({
+      success: false,
+      error: error.message
+    });
+  }
+});
+
+/**
  * 🧪 GET /api/quiz-ultimate/test
  * Test veloce del sistema
  */
