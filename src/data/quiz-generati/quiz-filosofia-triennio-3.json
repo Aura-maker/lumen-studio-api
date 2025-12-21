@@ -1,0 +1,547 @@
+{
+  "materia": "filosofia",
+  "descrizione": "Quiz Filosofia - Parte 3: Idealismo, Hegel, Marx, Schopenhauer, Nietzsche",
+  "totale": 60,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "L'Idealismo tedesco si sviluppa tra:",
+      "rispostaCorretta": "Fine Settecento e inizio Ottocento",
+      "opzioni": ["Fine Settecento e inizio Ottocento", "Rinascimento", "Medioevo", "Novecento"],
+      "spiegazione": "L'Idealismo tedesco fiorisce dopo Kant con Fichte, Schelling e Hegel.",
+      "livello": "intermedio",
+      "argomento": "Idealismo tedesco",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Fichte pose al centro della sua filosofia:",
+      "rispostaCorretta": "L'Io assoluto",
+      "opzioni": ["L'Io assoluto", "La Natura", "Dio", "La materia"],
+      "spiegazione": "Per Fichte l'Io pone sé stesso e il non-Io (mondo).",
+      "livello": "avanzato",
+      "argomento": "Idealismo tedesco",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Schelling identificò l'Assoluto con:",
+      "rispostaCorretta": "L'identità di Spirito e Natura",
+      "opzioni": ["L'identità di Spirito e Natura", "Solo lo Spirito", "Solo la Natura", "Dio trascendente"],
+      "spiegazione": "Per Schelling Spirito e Natura sono due aspetti dell'Assoluto.",
+      "livello": "avanzato",
+      "argomento": "Idealismo tedesco",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Hegel nacque a Stoccarda nel:",
+      "rispostaCorretta": "1770",
+      "opzioni": ["1770", "1724", "1788", "1800"],
+      "spiegazione": "Georg Wilhelm Friedrich Hegel nacque nel 1770 e morì nel 1831.",
+      "livello": "intermedio",
+      "argomento": "Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La dialettica hegeliana si articola in:",
+      "rispostaCorretta": "Tesi, antitesi, sintesi",
+      "opzioni": ["Tesi, antitesi, sintesi", "Causa ed effetto", "Forma e materia", "Soggetto e oggetto"],
+      "spiegazione": "La dialettica procede per opposizioni che si risolvono in una sintesi superiore.",
+      "livello": "base",
+      "argomento": "Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Hegel 'ciò che è razionale è reale' significa che:",
+      "rispostaCorretta": "La realtà è manifestazione della Ragione",
+      "opzioni": ["La realtà è manifestazione della Ragione", "Solo ciò che pensiamo esiste", "La realtà è irrazionale", "La ragione è inutile"],
+      "spiegazione": "Per Hegel la realtà è razionale e la ragione si realizza nella storia.",
+      "livello": "avanzato",
+      "argomento": "Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Fenomenologia dello Spirito di Hegel descrive:",
+      "rispostaCorretta": "Il cammino della coscienza verso il Sapere Assoluto",
+      "opzioni": ["Il cammino della coscienza verso il Sapere Assoluto", "La storia della filosofia", "La logica formale", "La fisica"],
+      "spiegazione": "La Fenomenologia (1807) narra le tappe della coscienza verso l'Assoluto.",
+      "livello": "avanzato",
+      "argomento": "Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La dialettica servo-padrone in Hegel illustra:",
+      "rispostaCorretta": "Come il servo diventa libero attraverso il lavoro",
+      "opzioni": ["Come il servo diventa libero attraverso il lavoro", "La schiavitù eterna", "Il dominio del padrone", "L'uguaglianza naturale"],
+      "spiegazione": "Il servo, lavorando, acquisisce autocoscienza e supera il padrone.",
+      "livello": "avanzato",
+      "argomento": "Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Hegel lo Stato è:",
+      "rispostaCorretta": "La realizzazione dell'eticità e della libertà",
+      "opzioni": ["La realizzazione dell'eticità e della libertà", "Un male necessario", "Un'oppressione", "Un contratto"],
+      "spiegazione": "Lo Stato hegeliano è la sintesi di famiglia e società civile.",
+      "livello": "avanzato",
+      "argomento": "Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo Spirito Assoluto in Hegel si manifesta in:",
+      "rispostaCorretta": "Arte, religione e filosofia",
+      "opzioni": ["Arte, religione e filosofia", "Scienza e tecnica", "Politica e diritto", "Economia e società"],
+      "spiegazione": "Arte, religione e filosofia sono le forme dello Spirito Assoluto.",
+      "livello": "avanzato",
+      "argomento": "Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Karl Marx nacque a Treviri nel:",
+      "rispostaCorretta": "1818",
+      "opzioni": ["1818", "1770", "1844", "1867"],
+      "spiegazione": "Marx nacque nel 1818 e morì a Londra nel 1883.",
+      "livello": "base",
+      "argomento": "Marx",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il materialismo storico di Marx afferma che:",
+      "rispostaCorretta": "La struttura economica determina la sovrastruttura",
+      "opzioni": ["La struttura economica determina la sovrastruttura", "Le idee determinano l'economia", "La religione determina tutto", "La politica è autonoma"],
+      "spiegazione": "Per Marx l'economia (struttura) determina politica, diritto, cultura (sovrastruttura).",
+      "livello": "intermedio",
+      "argomento": "Marx",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La lotta di classe secondo Marx è:",
+      "rispostaCorretta": "Il motore della storia",
+      "opzioni": ["Il motore della storia", "Un fenomeno marginale", "Un errore", "Una teoria religiosa"],
+      "spiegazione": "'La storia è storia di lotte di classi' (Manifesto del Partito Comunista).",
+      "livello": "base",
+      "argomento": "Marx",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il plusvalore secondo Marx è:",
+      "rispostaCorretta": "Il valore prodotto dal lavoratore e non pagato",
+      "opzioni": ["Il valore prodotto dal lavoratore e non pagato", "Il profitto legittimo", "Il salario", "Le tasse"],
+      "spiegazione": "Il plusvalore è la fonte del profitto capitalista, frutto dello sfruttamento.",
+      "livello": "avanzato",
+      "argomento": "Marx",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'alienazione del lavoro secondo Marx consiste in:",
+      "rispostaCorretta": "L'estraneazione del lavoratore dal prodotto e dal processo",
+      "opzioni": ["L'estraneazione del lavoratore dal prodotto e dal processo", "La soddisfazione del lavoro", "La proprietà dei mezzi", "La libertà economica"],
+      "spiegazione": "Il lavoratore è alienato dal prodotto, dal lavoro, dalla specie e dagli altri.",
+      "livello": "avanzato",
+      "argomento": "Marx",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Capitale di Marx fu pubblicato nel:",
+      "rispostaCorretta": "1867",
+      "opzioni": ["1867", "1848", "1844", "1883"],
+      "spiegazione": "Il primo volume del Capitale uscì nel 1867.",
+      "livello": "intermedio",
+      "argomento": "Marx",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Manifesto del Partito Comunista fu scritto da:",
+      "rispostaCorretta": "Marx ed Engels",
+      "opzioni": ["Marx ed Engels", "Solo Marx", "Lenin", "Stalin"],
+      "spiegazione": "Il Manifesto (1848) fu scritto da Marx e Engels.",
+      "livello": "base",
+      "argomento": "Marx",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Schopenhauer nacque a Danzica nel:",
+      "rispostaCorretta": "1788",
+      "opzioni": ["1788", "1770", "1818", "1844"],
+      "spiegazione": "Arthur Schopenhauer nacque nel 1788 e morì nel 1860.",
+      "livello": "intermedio",
+      "argomento": "Schopenhauer",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Schopenhauer il mondo è:",
+      "rispostaCorretta": "Volontà e rappresentazione",
+      "opzioni": ["Volontà e rappresentazione", "Idea e materia", "Spirito e natura", "Dio e creazione"],
+      "spiegazione": "Il mondo come rappresentazione è fenomeno; la cosa in sé è Volontà.",
+      "livello": "intermedio",
+      "argomento": "Schopenhauer",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Volontà in Schopenhauer è:",
+      "rispostaCorretta": "Un impulso cieco e irrazionale",
+      "opzioni": ["Un impulso cieco e irrazionale", "La ragione divina", "La libertà umana", "Il progresso"],
+      "spiegazione": "La Volontà è forza irrazionale che genera dolore e insoddisfazione.",
+      "livello": "avanzato",
+      "argomento": "Schopenhauer",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Schopenhauer la vita è:",
+      "rispostaCorretta": "Dolore e noia",
+      "opzioni": ["Dolore e noia", "Gioia e piacere", "Progresso", "Salvezza"],
+      "spiegazione": "La vita oscilla tra dolore (desiderio insoddisfatto) e noia (desiderio appagato).",
+      "livello": "intermedio",
+      "argomento": "Schopenhauer",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le vie di liberazione dal dolore in Schopenhauer sono:",
+      "rispostaCorretta": "Arte, etica della compassione, ascesi",
+      "opzioni": ["Arte, etica della compassione, ascesi", "Scienza e tecnica", "Politica e rivoluzione", "Religione e fede"],
+      "spiegazione": "Arte, compassione e ascesi permettono di negare la Volontà.",
+      "livello": "avanzato",
+      "argomento": "Schopenhauer",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Kierkegaard è considerato il padre dell':",
+      "rispostaCorretta": "Esistenzialismo",
+      "opzioni": ["Esistenzialismo", "Positivismo", "Marxismo", "Idealismo"],
+      "spiegazione": "Kierkegaard pose al centro l'esistenza individuale e la scelta.",
+      "livello": "base",
+      "argomento": "Kierkegaard",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I tre stadi dell'esistenza in Kierkegaard sono:",
+      "rispostaCorretta": "Estetico, etico, religioso",
+      "opzioni": ["Estetico, etico, religioso", "Tesi, antitesi, sintesi", "Sensibile, intellettuale, razionale", "Infanzia, maturità, vecchiaia"],
+      "spiegazione": "L'uomo può vivere esteticamente, eticamente o religiosamente.",
+      "livello": "avanzato",
+      "argomento": "Kierkegaard",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'angoscia in Kierkegaard è:",
+      "rispostaCorretta": "Il sentimento di fronte alla libertà e alla possibilità",
+      "opzioni": ["Il sentimento di fronte alla libertà e alla possibilità", "La paura di qualcosa", "Una malattia", "Un peccato"],
+      "spiegazione": "L'angoscia nasce dalla vertigine della libertà: posso scegliere.",
+      "livello": "avanzato",
+      "argomento": "Kierkegaard",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Nietzsche nacque nel:",
+      "rispostaCorretta": "1844",
+      "opzioni": ["1844", "1818", "1870", "1900"],
+      "spiegazione": "Friedrich Nietzsche nacque nel 1844 e morì nel 1900.",
+      "livello": "base",
+      "argomento": "Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "'Dio è morto' in Nietzsche significa:",
+      "rispostaCorretta": "La fine dei valori tradizionali e metafisici",
+      "opzioni": ["La fine dei valori tradizionali e metafisici", "L'ateismo scientifico", "La morte fisica di Dio", "La fine della religione"],
+      "spiegazione": "La morte di Dio è la crisi dei valori occidentali: nichilismo.",
+      "livello": "intermedio",
+      "argomento": "Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il superuomo (Übermensch) in Nietzsche è:",
+      "rispostaCorretta": "L'uomo che crea nuovi valori",
+      "opzioni": ["L'uomo che crea nuovi valori", "Un essere superiore fisicamente", "Un dittatore", "Un santo"],
+      "spiegazione": "Il superuomo supera il nichilismo creando valori autonomi.",
+      "livello": "intermedio",
+      "argomento": "Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La volontà di potenza in Nietzsche è:",
+      "rispostaCorretta": "L'impulso a espandere la propria forza vitale",
+      "opzioni": ["L'impulso a espandere la propria forza vitale", "Il desiderio di dominio politico", "La violenza", "Il potere economico"],
+      "spiegazione": "La volontà di potenza è autoaffermazione e creatività, non dominio.",
+      "livello": "avanzato",
+      "argomento": "Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'eterno ritorno in Nietzsche è:",
+      "rispostaCorretta": "L'idea che tutto si ripeta eternamente",
+      "opzioni": ["L'idea che tutto si ripeta eternamente", "La reincarnazione", "Il progresso infinito", "La fine del mondo"],
+      "spiegazione": "L'eterno ritorno è un test: vivi come se tutto dovesse ripetersi.",
+      "livello": "avanzato",
+      "argomento": "Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Così parlò Zarathustra di Nietzsche è:",
+      "rispostaCorretta": "Un poema filosofico",
+      "opzioni": ["Un poema filosofico", "Un trattato scientifico", "Un romanzo storico", "Un'autobiografia"],
+      "spiegazione": "Zarathustra (1883-85) espone le idee di Nietzsche in forma poetica.",
+      "livello": "intermedio",
+      "argomento": "Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La distinzione apollineo-dionisiaco in Nietzsche riguarda:",
+      "rispostaCorretta": "Due impulsi artistici: ordine e ebbrezza",
+      "opzioni": ["Due impulsi artistici: ordine e ebbrezza", "Due divinità greche", "Due filosofi", "Due epoche"],
+      "spiegazione": "Apollineo = forma, misura; dionisiaco = ebbrezza, caos creativo.",
+      "livello": "avanzato",
+      "argomento": "Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Positivismo si sviluppa nel:",
+      "rispostaCorretta": "XIX secolo",
+      "opzioni": ["XIX secolo", "XVIII secolo", "XVII secolo", "XX secolo"],
+      "spiegazione": "Il Positivismo fiorisce nell'Ottocento con Comte e Spencer.",
+      "livello": "base",
+      "argomento": "Positivismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Auguste Comte è il fondatore del:",
+      "rispostaCorretta": "Positivismo",
+      "opzioni": ["Positivismo", "Marxismo", "Esistenzialismo", "Idealismo"],
+      "spiegazione": "Comte fondò il Positivismo e la sociologia.",
+      "livello": "base",
+      "argomento": "Positivismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La legge dei tre stadi di Comte prevede:",
+      "rispostaCorretta": "Stadio teologico, metafisico, positivo",
+      "opzioni": ["Stadio teologico, metafisico, positivo", "Tesi, antitesi, sintesi", "Infanzia, maturità, vecchiaia", "Passato, presente, futuro"],
+      "spiegazione": "L'umanità passa dalla religione alla metafisica alla scienza.",
+      "livello": "avanzato",
+      "argomento": "Positivismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'evoluzionismo di Darwin influenzò:",
+      "rispostaCorretta": "Il Positivismo e le scienze sociali",
+      "opzioni": ["Il Positivismo e le scienze sociali", "L'Idealismo", "Il Medioevo", "La teologia"],
+      "spiegazione": "Darwin influenzò Spencer e il darwinismo sociale.",
+      "livello": "intermedio",
+      "argomento": "Positivismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Hegel era un filosofo idealista.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Hegel è il massimo rappresentante dell'Idealismo tedesco.",
+      "livello": "base",
+      "argomento": "Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Marx era un filosofo idealista.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Marx era materialista: 'rovesciò' la dialettica hegeliana.",
+      "livello": "base",
+      "argomento": "Marx",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Schopenhauer era ottimista sulla vita umana.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Schopenhauer era profondamente pessimista: la vita è dolore.",
+      "livello": "base",
+      "argomento": "Schopenhauer",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Nietzsche criticò la morale cristiana.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Nietzsche criticò la morale cristiana come 'morale degli schiavi'.",
+      "livello": "intermedio",
+      "argomento": "Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Sinistra hegeliana comprendeva:",
+      "rispostaCorretta": "Feuerbach, Marx, Engels",
+      "opzioni": ["Feuerbach, Marx, Engels", "Fichte, Schelling", "Kant, Hume", "Comte, Spencer"],
+      "spiegazione": "La Sinistra hegeliana interpretò Hegel in senso rivoluzionario.",
+      "livello": "avanzato",
+      "argomento": "Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Feuerbach affermò che:",
+      "rispostaCorretta": "Dio è una proiezione dell'uomo",
+      "opzioni": ["Dio è una proiezione dell'uomo", "Dio esiste", "L'uomo è una proiezione di Dio", "La religione è vera"],
+      "spiegazione": "Per Feuerbach la teologia è antropologia: l'uomo crea Dio a sua immagine.",
+      "livello": "avanzato",
+      "argomento": "Marx",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La dittatura del proletariato in Marx è:",
+      "rispostaCorretta": "Una fase transitoria verso la società senza classi",
+      "opzioni": ["Una fase transitoria verso la società senza classi", "Il fine ultimo", "Una democrazia", "Un'utopia"],
+      "spiegazione": "La dittatura del proletariato precede la società comunista senza Stato.",
+      "livello": "avanzato",
+      "argomento": "Marx",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il nichilismo in Nietzsche indica:",
+      "rispostaCorretta": "La svalutazione di tutti i valori",
+      "opzioni": ["La svalutazione di tutti i valori", "L'ateismo", "Il pessimismo", "L'anarchia"],
+      "spiegazione": "Il nichilismo è la crisi dei valori dopo la 'morte di Dio'.",
+      "livello": "avanzato",
+      "argomento": "Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La 'trasvalutazione dei valori' in Nietzsche significa:",
+      "rispostaCorretta": "Rovesciare i valori tradizionali",
+      "opzioni": ["Rovesciare i valori tradizionali", "Confermare i valori", "Abolire ogni valore", "Tornare ai valori antichi"],
+      "spiegazione": "Il superuomo crea nuovi valori rovesciando quelli della morale tradizionale.",
+      "livello": "avanzato",
+      "argomento": "Nietzsche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il salto della fede in Kierkegaard è:",
+      "rispostaCorretta": "La scelta irrazionale di credere",
+      "opzioni": ["La scelta irrazionale di credere", "Una dimostrazione di Dio", "Un ragionamento logico", "Un rito religioso"],
+      "spiegazione": "La fede richiede un salto oltre la ragione.",
+      "livello": "avanzato",
+      "argomento": "Kierkegaard",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Aut-Aut di Kierkegaard esprime:",
+      "rispostaCorretta": "La necessità della scelta esistenziale",
+      "opzioni": ["La necessità della scelta esistenziale", "L'indifferenza", "Il determinismo", "La sintesi hegeliana"],
+      "spiegazione": "Aut-Aut (o-o) indica che bisogna scegliere: non si può mediare tutto.",
+      "livello": "avanzato",
+      "argomento": "Kierkegaard",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il mondo come volontà e rappresentazione è l'opera principale di:",
+      "rispostaCorretta": "Schopenhauer",
+      "opzioni": ["Schopenhauer", "Nietzsche", "Hegel", "Kant"],
+      "spiegazione": "L'opera (1819) espone il sistema filosofico di Schopenhauer.",
+      "livello": "intermedio",
+      "argomento": "Schopenhauer",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Schopenhauer fu influenzato dalla filosofia:",
+      "rispostaCorretta": "Indiana (buddhismo e induismo)",
+      "opzioni": ["Indiana (buddhismo e induismo)", "Cinese", "Araba", "Africana"],
+      "spiegazione": "Schopenhauer fu il primo filosofo occidentale a integrare il pensiero orientale.",
+      "livello": "avanzato",
+      "argomento": "Schopenhauer",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Scienza della logica di Hegel tratta:",
+      "rispostaCorretta": "Le categorie del pensiero puro",
+      "opzioni": ["Le categorie del pensiero puro", "La storia", "La natura", "L'arte"],
+      "spiegazione": "La Logica hegeliana è ontologia: le categorie sono strutture della realtà.",
+      "livello": "avanzato",
+      "argomento": "Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Enciclopedia delle scienze filosofiche di Hegel comprende:",
+      "rispostaCorretta": "Logica, Filosofia della Natura, Filosofia dello Spirito",
+      "opzioni": ["Logica, Filosofia della Natura, Filosofia dello Spirito", "Fisica, Chimica, Biologia", "Etica, Politica, Economia", "Arte, Religione, Scienza"],
+      "spiegazione": "L'Enciclopedia espone il sistema hegeliano in tre parti.",
+      "livello": "avanzato",
+      "argomento": "Hegel",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Herbert Spencer applicò l'evoluzionismo a:",
+      "rispostaCorretta": "La società (darwinismo sociale)",
+      "opzioni": ["La società (darwinismo sociale)", "Solo la biologia", "La fisica", "La matematica"],
+      "spiegazione": "Spencer estese l'evoluzione alla società: sopravvivenza del più adatto.",
+      "livello": "avanzato",
+      "argomento": "Positivismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "John Stuart Mill fu un esponente del:",
+      "rispostaCorretta": "Utilitarismo e liberalismo",
+      "opzioni": ["Utilitarismo e liberalismo", "Marxismo", "Idealismo", "Esistenzialismo"],
+      "spiegazione": "Mill sviluppò l'utilitarismo di Bentham e difese la libertà individuale.",
+      "livello": "avanzato",
+      "argomento": "Positivismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'utilitarismo afferma che:",
+      "rispostaCorretta": "Il bene è ciò che produce la massima felicità per il maggior numero",
+      "opzioni": ["Il bene è ciò che produce la massima felicità per il maggior numero", "Il bene è l'obbedienza a Dio", "Il bene è il dovere", "Il bene è la virtù"],
+      "spiegazione": "L'utilitarismo valuta le azioni in base alle conseguenze sulla felicità.",
+      "livello": "intermedio",
+      "argomento": "Positivismo",
+      "materia": "filosofia"
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "materia": "arte",
+  "descrizione": "Quiz Arte - Parte 2: Barocco, Neoclassicismo, Romanticismo, Impressionismo",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Il Barocco si sviluppa principalmente nel:",
+      "rispostaCorretta": "XVII secolo",
+      "opzioni": ["XVII secolo", "XV secolo", "XIX secolo", "XIII secolo"],
+      "spiegazione": "Il Barocco fiorisce nel Seicento, con Roma come centro principale.",
+      "livello": "base",
+      "argomento": "Arte barocca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Caravaggio è famoso per:",
+      "rispostaCorretta": "Il realismo drammatico e l'uso del chiaroscuro",
+      "opzioni": ["Il realismo drammatico e l'uso del chiaroscuro", "I paesaggi idealizzati", "Le nature morte", "L'astrattismo"],
+      "spiegazione": "Caravaggio rivoluzionò la pittura con il realismo e i forti contrasti di luce.",
+      "livello": "base",
+      "argomento": "Arte barocca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Vocazione di San Matteo è un'opera di:",
+      "rispostaCorretta": "Caravaggio",
+      "opzioni": ["Caravaggio", "Bernini", "Borromini", "Rubens"],
+      "spiegazione": "La Vocazione di San Matteo (1599-1600) è nella chiesa di San Luigi dei Francesi a Roma.",
+      "livello": "intermedio",
+      "argomento": "Arte barocca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gian Lorenzo Bernini fu principalmente:",
+      "rispostaCorretta": "Scultore e architetto",
+      "opzioni": ["Scultore e architetto", "Pittore", "Musicista", "Poeta"],
+      "spiegazione": "Bernini fu il massimo scultore barocco e architetto (colonnato di San Pietro).",
+      "livello": "base",
+      "argomento": "Arte barocca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Estasi di Santa Teresa è un'opera di:",
+      "rispostaCorretta": "Bernini",
+      "opzioni": ["Bernini", "Caravaggio", "Borromini", "Canova"],
+      "spiegazione": "L'Estasi di Santa Teresa (1647-1652) è nella chiesa di Santa Maria della Vittoria a Roma.",
+      "livello": "intermedio",
+      "argomento": "Arte barocca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Francesco Borromini è noto per:",
+      "rispostaCorretta": "L'architettura con linee curve e dinamiche",
+      "opzioni": ["L'architettura con linee curve e dinamiche", "La scultura", "La pittura", "L'affresco"],
+      "spiegazione": "Borromini creò architetture innovative con superfici ondulate (San Carlo alle Quattro Fontane).",
+      "livello": "intermedio",
+      "argomento": "Arte barocca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Pieter Paul Rubens fu un pittore:",
+      "rispostaCorretta": "Fiammingo",
+      "opzioni": ["Fiammingo", "Italiano", "Spagnolo", "Francese"],
+      "spiegazione": "Rubens (1577-1640) fu il massimo pittore barocco fiammingo.",
+      "livello": "intermedio",
+      "argomento": "Arte barocca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Rembrandt fu un pittore:",
+      "rispostaCorretta": "Olandese",
+      "opzioni": ["Olandese", "Italiano", "Spagnolo", "Tedesco"],
+      "spiegazione": "Rembrandt (1606-1669) fu il massimo pittore olandese del Seicento.",
+      "livello": "base",
+      "argomento": "Arte barocca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Ronda di notte è un'opera di:",
+      "rispostaCorretta": "Rembrandt",
+      "opzioni": ["Rembrandt", "Vermeer", "Rubens", "Caravaggio"],
+      "spiegazione": "La Ronda di notte (1642) è il capolavoro di Rembrandt al Rijksmuseum.",
+      "livello": "intermedio",
+      "argomento": "Arte barocca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Jan Vermeer è famoso per:",
+      "rispostaCorretta": "Scene di interni con luce naturale",
+      "opzioni": ["Scene di interni con luce naturale", "Battaglie", "Paesaggi", "Ritratti di re"],
+      "spiegazione": "Vermeer dipinse scene domestiche con straordinaria resa della luce.",
+      "livello": "intermedio",
+      "argomento": "Arte barocca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Ragazza con l'orecchino di perla è un'opera di:",
+      "rispostaCorretta": "Vermeer",
+      "opzioni": ["Vermeer", "Rembrandt", "Rubens", "Caravaggio"],
+      "spiegazione": "La Ragazza con l'orecchino di perla (1665 ca.) è il capolavoro di Vermeer.",
+      "livello": "base",
+      "argomento": "Arte barocca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Diego Velázquez fu pittore di corte di:",
+      "rispostaCorretta": "Filippo IV di Spagna",
+      "opzioni": ["Filippo IV di Spagna", "Luigi XIV di Francia", "Carlo I d'Inghilterra", "Papa Urbano VIII"],
+      "spiegazione": "Velázquez (1599-1660) fu il pittore ufficiale della corte spagnola.",
+      "livello": "intermedio",
+      "argomento": "Arte barocca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Las Meninas è un'opera di:",
+      "rispostaCorretta": "Velázquez",
+      "opzioni": ["Velázquez", "Goya", "El Greco", "Murillo"],
+      "spiegazione": "Las Meninas (1656) è il capolavoro di Velázquez al Museo del Prado.",
+      "livello": "intermedio",
+      "argomento": "Arte barocca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Neoclassicismo si sviluppa nella seconda metà del:",
+      "rispostaCorretta": "XVIII secolo",
+      "opzioni": ["XVIII secolo", "XVII secolo", "XIX secolo", "XVI secolo"],
+      "spiegazione": "Il Neoclassicismo nasce a metà Settecento, ispirato alle scoperte di Pompei.",
+      "livello": "base",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Antonio Canova fu il massimo scultore:",
+      "rispostaCorretta": "Neoclassico",
+      "opzioni": ["Neoclassico", "Barocco", "Romantico", "Rinascimentale"],
+      "spiegazione": "Canova (1757-1822) fu il massimo scultore neoclassico.",
+      "livello": "base",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Amore e Psiche è un'opera di:",
+      "rispostaCorretta": "Canova",
+      "opzioni": ["Canova", "Bernini", "Michelangelo", "Donatello"],
+      "spiegazione": "Amore e Psiche (1787-1793) è il capolavoro di Canova al Louvre.",
+      "livello": "intermedio",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Jacques-Louis David fu il pittore ufficiale di:",
+      "rispostaCorretta": "Napoleone",
+      "opzioni": ["Napoleone", "Luigi XVI", "Luigi XIV", "Carlo X"],
+      "spiegazione": "David (1748-1825) fu il pittore della Rivoluzione e poi di Napoleone.",
+      "livello": "intermedio",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Giuramento degli Orazi è un'opera di:",
+      "rispostaCorretta": "David",
+      "opzioni": ["David", "Canova", "Ingres", "Goya"],
+      "spiegazione": "Il Giuramento degli Orazi (1784) è il manifesto del Neoclassicismo pittorico.",
+      "livello": "intermedio",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Romanticismo in arte si sviluppa nel:",
+      "rispostaCorretta": "XIX secolo",
+      "opzioni": ["XIX secolo", "XVIII secolo", "XVII secolo", "XX secolo"],
+      "spiegazione": "Il Romanticismo artistico fiorisce nella prima metà dell'Ottocento.",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Viandante sul mare di nebbia è un'opera di:",
+      "rispostaCorretta": "Caspar David Friedrich",
+      "opzioni": ["Caspar David Friedrich", "Turner", "Constable", "Delacroix"],
+      "spiegazione": "Il Viandante (1818) è l'icona del Romanticismo tedesco.",
+      "livello": "intermedio",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Libertà che guida il popolo è un'opera di:",
+      "rispostaCorretta": "Delacroix",
+      "opzioni": ["Delacroix", "Géricault", "David", "Ingres"],
+      "spiegazione": "La Libertà (1830) di Delacroix celebra la rivoluzione di luglio.",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Zattera della Medusa è un'opera di:",
+      "rispostaCorretta": "Géricault",
+      "opzioni": ["Géricault", "Delacroix", "David", "Goya"],
+      "spiegazione": "La Zattera della Medusa (1819) di Géricault denuncia un naufragio scandaloso.",
+      "livello": "intermedio",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Francisco Goya fu un pittore:",
+      "rispostaCorretta": "Spagnolo",
+      "opzioni": ["Spagnolo", "Italiano", "Francese", "Tedesco"],
+      "spiegazione": "Goya (1746-1828) fu il maggiore pittore spagnolo tra Settecento e Ottocento.",
+      "livello": "base",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il 3 maggio 1808 di Goya rappresenta:",
+      "rispostaCorretta": "La fucilazione dei patrioti spagnoli",
+      "opzioni": ["La fucilazione dei patrioti spagnoli", "Una battaglia navale", "Un ritratto reale", "Una scena mitologica"],
+      "spiegazione": "Il 3 maggio 1808 (1814) denuncia la repressione napoleonica in Spagna.",
+      "livello": "intermedio",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Impressionismo nasce a Parigi nel:",
+      "rispostaCorretta": "1874",
+      "opzioni": ["1874", "1850", "1900", "1860"],
+      "spiegazione": "La prima mostra impressionista si tenne a Parigi nel 1874.",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il termine 'Impressionismo' deriva dal quadro:",
+      "rispostaCorretta": "Impressione, levar del sole di Monet",
+      "opzioni": ["Impressione, levar del sole di Monet", "Le Moulin de la Galette di Renoir", "L'Assenzio di Degas", "Un bar alle Folies-Bergère di Manet"],
+      "spiegazione": "Il critico Leroy usò il termine in senso dispregiativo dal quadro di Monet.",
+      "livello": "intermedio",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Claude Monet è famoso per:",
+      "rispostaCorretta": "Le Ninfee e la Cattedrale di Rouen",
+      "opzioni": ["Le Ninfee e la Cattedrale di Rouen", "I ballerini", "I bevitori di assenzio", "I ritratti borghesi"],
+      "spiegazione": "Monet dipinse serie di soggetti in diverse condizioni di luce.",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Edgar Degas è famoso per:",
+      "rispostaCorretta": "Le ballerine e le scene di teatro",
+      "opzioni": ["Le ballerine e le scene di teatro", "I paesaggi", "Le nature morte", "I ritratti reali"],
+      "spiegazione": "Degas dipinse ballerine, corse di cavalli e scene di vita parigina.",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Pierre-Auguste Renoir è famoso per:",
+      "rispostaCorretta": "Scene di vita gioiosa e figure femminili",
+      "opzioni": ["Scene di vita gioiosa e figure femminili", "Paesaggi cupi", "Battaglie", "Nature morte"],
+      "spiegazione": "Renoir dipinse scene di svago e nudi femminili con colori luminosi.",
+      "livello": "intermedio",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Édouard Manet è considerato:",
+      "rispostaCorretta": "Il precursore dell'Impressionismo",
+      "opzioni": ["Il precursore dell'Impressionismo", "Un pittore barocco", "Un neoclassico", "Un romantico"],
+      "spiegazione": "Manet anticipò l'Impressionismo con opere come Olympia e Colazione sull'erba.",
+      "livello": "intermedio",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli Impressionisti dipingevano preferibilmente:",
+      "rispostaCorretta": "En plein air (all'aperto)",
+      "opzioni": ["En plein air (all'aperto)", "In studio", "Di notte", "Al chiuso"],
+      "spiegazione": "Gli Impressionisti dipingevano all'aperto per catturare la luce naturale.",
+      "livello": "base",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Post-Impressionismo comprende artisti come:",
+      "rispostaCorretta": "Van Gogh, Cézanne, Gauguin",
+      "opzioni": ["Van Gogh, Cézanne, Gauguin", "Monet, Renoir, Degas", "Picasso, Braque, Léger", "Dalí, Magritte, Ernst"],
+      "spiegazione": "I Post-Impressionisti superarono l'Impressionismo in direzioni diverse.",
+      "livello": "intermedio",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Vincent van Gogh era di nazionalità:",
+      "rispostaCorretta": "Olandese",
+      "opzioni": ["Olandese", "Francese", "Belga", "Tedesca"],
+      "spiegazione": "Van Gogh (1853-1890) era olandese ma visse in Francia.",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Notte stellata è un'opera di:",
+      "rispostaCorretta": "Van Gogh",
+      "opzioni": ["Van Gogh", "Monet", "Cézanne", "Gauguin"],
+      "spiegazione": "La Notte stellata (1889) fu dipinta da Van Gogh a Saint-Rémy.",
+      "livello": "base",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Paul Cézanne è considerato il padre del:",
+      "rispostaCorretta": "Cubismo",
+      "opzioni": ["Cubismo", "Impressionismo", "Surrealismo", "Futurismo"],
+      "spiegazione": "Cézanne influenzò il Cubismo con la sua ricerca sulla forma geometrica.",
+      "livello": "avanzato",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Paul Gauguin dipinse principalmente:",
+      "rispostaCorretta": "Scene di Tahiti",
+      "opzioni": ["Scene di Tahiti", "Paesaggi parigini", "Ritratti di nobili", "Battaglie"],
+      "spiegazione": "Gauguin cercò il 'primitivo' a Tahiti, dipingendo scene esotiche.",
+      "livello": "intermedio",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Caravaggio usava modelli presi dalla strada per i suoi quadri sacri.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Caravaggio usava persone comuni come modelli, scandalizzando i contemporanei.",
+      "livello": "intermedio",
+      "argomento": "Arte barocca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il Neoclassicismo si ispira all'arte greca e romana.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Il Neoclassicismo recupera i modelli dell'antichità classica.",
+      "livello": "base",
+      "argomento": "Neoclassicismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Gli Impressionisti erano ben accolti dall'Accademia ufficiale.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Gli Impressionisti furono rifiutati dai Salon ufficiali e organizzarono mostre indipendenti.",
+      "livello": "intermedio",
+      "argomento": "Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Reggia di Versailles è un esempio di architettura:",
+      "rispostaCorretta": "Barocca francese",
+      "opzioni": ["Barocca francese", "Gotica", "Romanica", "Rinascimentale"],
+      "spiegazione": "Versailles fu costruita per Luigi XIV come simbolo dell'assolutismo.",
+      "livello": "intermedio",
+      "argomento": "Arte barocca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Rococò si sviluppa nel:",
+      "rispostaCorretta": "XVIII secolo",
+      "opzioni": ["XVIII secolo", "XVII secolo", "XVI secolo", "XIX secolo"],
+      "spiegazione": "Il Rococò è lo stile decorativo del primo Settecento, leggero e frivolo.",
+      "livello": "intermedio",
+      "argomento": "Arte barocca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giovanni Battista Tiepolo fu un pittore:",
+      "rispostaCorretta": "Veneziano del Settecento",
+      "opzioni": ["Veneziano del Settecento", "Fiorentino del Cinquecento", "Romano del Seicento", "Milanese dell'Ottocento"],
+      "spiegazione": "Tiepolo (1696-1770) fu il massimo pittore del Rococò veneziano.",
+      "livello": "avanzato",
+      "argomento": "Arte barocca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "William Turner fu un pittore:",
+      "rispostaCorretta": "Inglese romantico",
+      "opzioni": ["Inglese romantico", "Francese impressionista", "Tedesco espressionista", "Italiano neoclassico"],
+      "spiegazione": "Turner (1775-1851) fu il massimo paesaggista romantico inglese.",
+      "livello": "intermedio",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "John Constable fu famoso per:",
+      "rispostaCorretta": "I paesaggi della campagna inglese",
+      "opzioni": ["I paesaggi della campagna inglese", "I ritratti reali", "Le scene mitologiche", "Le nature morte"],
+      "spiegazione": "Constable dipinse la campagna del Suffolk con realismo atmosferico.",
+      "livello": "intermedio",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Realismo in pittura si sviluppa a metà del:",
+      "rispostaCorretta": "XIX secolo",
+      "opzioni": ["XIX secolo", "XVIII secolo", "XVII secolo", "XX secolo"],
+      "spiegazione": "Il Realismo nasce in Francia a metà Ottocento con Courbet.",
+      "livello": "intermedio",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gustave Courbet fu il caposcuola del:",
+      "rispostaCorretta": "Realismo",
+      "opzioni": ["Realismo", "Impressionismo", "Romanticismo", "Neoclassicismo"],
+      "spiegazione": "Courbet (1819-1877) fondò il Realismo con opere come Gli spaccapietre.",
+      "livello": "intermedio",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Macchiaioli furono un movimento artistico:",
+      "rispostaCorretta": "Italiano dell'Ottocento",
+      "opzioni": ["Italiano dell'Ottocento", "Francese del Settecento", "Spagnolo del Seicento", "Tedesco del Novecento"],
+      "spiegazione": "I Macchiaioli (Fattori, Lega, Signorini) furono i realisti italiani.",
+      "livello": "avanzato",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giovanni Fattori fu il maggiore esponente dei:",
+      "rispostaCorretta": "Macchiaioli",
+      "opzioni": ["Macchiaioli", "Futuristi", "Divisionisti", "Metafisici"],
+      "spiegazione": "Fattori (1825-1908) dipinse scene di vita militare e paesaggi toscani.",
+      "livello": "avanzato",
+      "argomento": "Realismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Divisionismo italiano si basa su:",
+      "rispostaCorretta": "La divisione del colore in punti",
+      "opzioni": ["La divisione del colore in punti", "Le macchie di colore", "Il chiaroscuro", "La prospettiva"],
+      "spiegazione": "Il Divisionismo (Segantini, Pellizza) usa punti di colore puro.",
+      "livello": "avanzato",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Quarto Stato è un'opera di:",
+      "rispostaCorretta": "Pellizza da Volpedo",
+      "opzioni": ["Pellizza da Volpedo", "Segantini", "Fattori", "Hayez"],
+      "spiegazione": "Il Quarto Stato (1901) rappresenta la marcia dei lavoratori.",
+      "livello": "avanzato",
+      "argomento": "Post-Impressionismo",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Bacio di Hayez è un'opera:",
+      "rispostaCorretta": "Romantica italiana",
+      "opzioni": ["Romantica italiana", "Neoclassica", "Impressionista", "Barocca"],
+      "spiegazione": "Il Bacio (1859) di Hayez è l'icona del Romanticismo italiano.",
+      "livello": "intermedio",
+      "argomento": "Romanticismo",
+      "materia": "arte"
+    }
+  ]
+}

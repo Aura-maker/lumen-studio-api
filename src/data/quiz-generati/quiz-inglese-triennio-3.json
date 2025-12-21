@@ -1,0 +1,527 @@
+{
+  "materia": "inglese",
+  "descrizione": "Quiz Inglese - Parte 3: 20th Century Literature, Grammar avanzata, Writing",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "James Joyce wrote:",
+      "rispostaCorretta": "Ulysses and Dubliners",
+      "opzioni": ["Ulysses and Dubliners", "1984", "The Great Gatsby", "To the Lighthouse"],
+      "spiegazione": "Joyce was an Irish modernist writer famous for stream of consciousness.",
+      "livello": "intermedio",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The stream of consciousness technique was used by:",
+      "rispostaCorretta": "James Joyce and Virginia Woolf",
+      "opzioni": ["James Joyce and Virginia Woolf", "Charles Dickens", "Jane Austen", "William Shakespeare"],
+      "spiegazione": "Stream of consciousness represents the flow of thoughts in characters' minds.",
+      "livello": "avanzato",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Virginia Woolf wrote:",
+      "rispostaCorretta": "Mrs Dalloway and To the Lighthouse",
+      "opzioni": ["Mrs Dalloway and To the Lighthouse", "Ulysses", "1984", "The Great Gatsby"],
+      "spiegazione": "Woolf was a key figure of modernism and the Bloomsbury Group.",
+      "livello": "intermedio",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "George Orwell wrote:",
+      "rispostaCorretta": "1984 and Animal Farm",
+      "opzioni": ["1984 and Animal Farm", "Ulysses", "The Great Gatsby", "Brave New World"],
+      "spiegazione": "Orwell's works are famous for their critique of totalitarianism.",
+      "livello": "base",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "1984 by Orwell depicts:",
+      "rispostaCorretta": "A dystopian totalitarian society",
+      "opzioni": ["A dystopian totalitarian society", "A utopia", "A love story", "A war"],
+      "spiegazione": "1984 warns against totalitarianism and surveillance.",
+      "livello": "base",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Big Brother in 1984 represents:",
+      "rispostaCorretta": "The omnipresent surveillance state",
+      "opzioni": ["The omnipresent surveillance state", "A kind leader", "A family member", "A friend"],
+      "spiegazione": "'Big Brother is watching you' symbolizes total control.",
+      "livello": "intermedio",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Aldous Huxley wrote:",
+      "rispostaCorretta": "Brave New World",
+      "opzioni": ["Brave New World", "1984", "Animal Farm", "Ulysses"],
+      "spiegazione": "Brave New World depicts a dystopia of pleasure and control.",
+      "livello": "intermedio",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "F. Scott Fitzgerald wrote:",
+      "rispostaCorretta": "The Great Gatsby",
+      "opzioni": ["The Great Gatsby", "1984", "Ulysses", "To the Lighthouse"],
+      "spiegazione": "The Great Gatsby captures the Jazz Age and the American Dream.",
+      "livello": "base",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Great Gatsby is set in:",
+      "rispostaCorretta": "The 1920s (Jazz Age)",
+      "opzioni": ["The 1920s (Jazz Age)", "The 1950s", "The Victorian era", "The 1980s"],
+      "spiegazione": "The novel depicts the Roaring Twenties in America.",
+      "livello": "intermedio",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Ernest Hemingway wrote:",
+      "rispostaCorretta": "The Old Man and the Sea and A Farewell to Arms",
+      "opzioni": ["The Old Man and the Sea and A Farewell to Arms", "The Great Gatsby", "1984", "Ulysses"],
+      "spiegazione": "Hemingway won the Nobel Prize in 1954.",
+      "livello": "intermedio",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Hemingway's style is characterized by:",
+      "rispostaCorretta": "Short sentences and simple words (iceberg theory)",
+      "opzioni": ["Short sentences and simple words (iceberg theory)", "Long complex sentences", "Flowery language", "Stream of consciousness"],
+      "spiegazione": "Hemingway's minimalist style hides deeper meanings.",
+      "livello": "avanzato",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Samuel Beckett wrote:",
+      "rispostaCorretta": "Waiting for Godot",
+      "opzioni": ["Waiting for Godot", "1984", "Ulysses", "The Great Gatsby"],
+      "spiegazione": "Waiting for Godot is a masterpiece of the Theatre of the Absurd.",
+      "livello": "avanzato",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Theatre of the Absurd explores:",
+      "rispostaCorretta": "The meaninglessness of human existence",
+      "opzioni": ["The meaninglessness of human existence", "Historical events", "Love stories", "Political themes"],
+      "spiegazione": "Absurdist theatre questions the meaning of life.",
+      "livello": "avanzato",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The correct form of the third conditional is:",
+      "rispostaCorretta": "If + past perfect, would have + past participle",
+      "opzioni": ["If + past perfect, would have + past participle", "If + present, will + infinitive", "If + past simple, would + infinitive", "If + present perfect, will have + past participle"],
+      "spiegazione": "Third conditional: hypothetical past situations.",
+      "livello": "avanzato",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Choose the correct sentence:",
+      "rispostaCorretta": "If I had studied harder, I would have passed the exam",
+      "opzioni": ["If I had studied harder, I would have passed the exam", "If I studied harder, I would pass the exam", "If I study harder, I will pass the exam", "If I would study harder, I passed the exam"],
+      "spiegazione": "Third conditional for unreal past situations.",
+      "livello": "avanzato",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The passive voice of 'They are building a new school' is:",
+      "rispostaCorretta": "A new school is being built",
+      "opzioni": ["A new school is being built", "A new school is built", "A new school was built", "A new school has been built"],
+      "spiegazione": "Present continuous passive: is/are being + past participle.",
+      "livello": "intermedio",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The reported speech of 'I will come tomorrow' is:",
+      "rispostaCorretta": "He said he would come the next day",
+      "opzioni": ["He said he would come the next day", "He said he will come tomorrow", "He said he comes tomorrow", "He said he came tomorrow"],
+      "spiegazione": "Reported speech: will → would, tomorrow → the next day.",
+      "livello": "intermedio",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The correct relative pronoun in 'The man ___ car was stolen called the police' is:",
+      "rispostaCorretta": "whose",
+      "opzioni": ["whose", "who", "which", "that"],
+      "spiegazione": "'Whose' indicates possession.",
+      "livello": "intermedio",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "A defining relative clause:",
+      "rispostaCorretta": "Is essential to identify the noun",
+      "opzioni": ["Is essential to identify the noun", "Is not essential", "Uses commas", "Can be omitted"],
+      "spiegazione": "Defining clauses are necessary for meaning; no commas.",
+      "livello": "avanzato",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "A non-defining relative clause:",
+      "rispostaCorretta": "Adds extra information and uses commas",
+      "opzioni": ["Adds extra information and uses commas", "Is essential", "Has no commas", "Cannot be omitted"],
+      "spiegazione": "Non-defining clauses add extra, non-essential information.",
+      "livello": "avanzato",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The correct form is:",
+      "rispostaCorretta": "I wish I had more time",
+      "opzioni": ["I wish I had more time", "I wish I have more time", "I wish I will have more time", "I wish I am having more time"],
+      "spiegazione": "'Wish' + past simple for present unreal situations.",
+      "livello": "intermedio",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "'I wish I hadn't said that' expresses:",
+      "rispostaCorretta": "Regret about the past",
+      "opzioni": ["Regret about the past", "A present wish", "A future hope", "A certainty"],
+      "spiegazione": "'Wish' + past perfect for past regrets.",
+      "livello": "avanzato",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The difference between 'used to' and 'would' is:",
+      "rispostaCorretta": "'Used to' can describe states; 'would' only actions",
+      "opzioni": ["'Used to' can describe states; 'would' only actions", "They are identical", "'Would' is for states", "'Used to' is for actions only"],
+      "spiegazione": "'I used to live there' (state); 'I would visit every summer' (action).",
+      "livello": "avanzato",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "'By the time I arrive, they will have left' uses:",
+      "rispostaCorretta": "Future perfect",
+      "opzioni": ["Future perfect", "Present perfect", "Past perfect", "Future simple"],
+      "spiegazione": "Future perfect: will have + past participle.",
+      "livello": "avanzato",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The correct preposition is: 'I'm interested ___ learning English':",
+      "rispostaCorretta": "in",
+      "opzioni": ["in", "on", "at", "for"],
+      "spiegazione": "'Interested in' is the correct collocation.",
+      "livello": "base",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The correct preposition is: 'I'm good ___ mathematics':",
+      "rispostaCorretta": "at",
+      "opzioni": ["at", "in", "on", "for"],
+      "spiegazione": "'Good at' is the correct collocation.",
+      "livello": "base",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "A phrasal verb is:",
+      "rispostaCorretta": "A verb combined with a preposition or adverb",
+      "opzioni": ["A verb combined with a preposition or adverb", "A regular verb", "An irregular verb", "A modal verb"],
+      "spiegazione": "Phrasal verbs: look up, give up, turn on, etc.",
+      "livello": "base",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "'Give up' means:",
+      "rispostaCorretta": "Stop trying / quit",
+      "opzioni": ["Stop trying / quit", "Start", "Continue", "Improve"],
+      "spiegazione": "'Give up' = stop doing something.",
+      "livello": "base",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "'Look forward to' is followed by:",
+      "rispostaCorretta": "A gerund (-ing form)",
+      "opzioni": ["A gerund (-ing form)", "An infinitive", "A past participle", "A noun only"],
+      "spiegazione": "'I'm looking forward to meeting you' (not 'to meet').",
+      "livello": "intermedio",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "An essay introduction should include:",
+      "rispostaCorretta": "A hook, background, and thesis statement",
+      "opzioni": ["A hook, background, and thesis statement", "Only the thesis", "Only examples", "The conclusion"],
+      "spiegazione": "A good introduction engages the reader and states the main argument.",
+      "livello": "intermedio",
+      "argomento": "Writing",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "A thesis statement is:",
+      "rispostaCorretta": "The main argument of an essay",
+      "opzioni": ["The main argument of an essay", "A question", "A summary", "A conclusion"],
+      "spiegazione": "The thesis states what you will argue or prove.",
+      "livello": "intermedio",
+      "argomento": "Writing",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Linking words like 'however', 'moreover', 'therefore' are used to:",
+      "rispostaCorretta": "Connect ideas and show relationships",
+      "opzioni": ["Connect ideas and show relationships", "End sentences", "Start paragraphs only", "Replace verbs"],
+      "spiegazione": "Linking words improve coherence and flow.",
+      "livello": "intermedio",
+      "argomento": "Writing",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "'However' is used to express:",
+      "rispostaCorretta": "Contrast",
+      "opzioni": ["Contrast", "Addition", "Cause", "Result"],
+      "spiegazione": "'However' introduces a contrasting idea.",
+      "livello": "base",
+      "argomento": "Writing",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "'Moreover' is used to express:",
+      "rispostaCorretta": "Addition",
+      "opzioni": ["Addition", "Contrast", "Cause", "Result"],
+      "spiegazione": "'Moreover' adds information to support an argument.",
+      "livello": "base",
+      "argomento": "Writing",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "'Therefore' is used to express:",
+      "rispostaCorretta": "Result/conclusion",
+      "opzioni": ["Result/conclusion", "Contrast", "Addition", "Example"],
+      "spiegazione": "'Therefore' introduces a logical conclusion.",
+      "livello": "base",
+      "argomento": "Writing",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "George Orwell wrote Animal Farm.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Animal Farm (1945) is Orwell's allegorical novella about Stalinism.",
+      "livello": "base",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "The third conditional refers to real future situations.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "The third conditional refers to unreal past situations.",
+      "livello": "intermedio",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "In reported speech, 'will' becomes 'would'.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Backshift: will → would in reported speech.",
+      "livello": "intermedio",
+      "argomento": "Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "T.S. Eliot wrote:",
+      "rispostaCorretta": "The Waste Land",
+      "opzioni": ["The Waste Land", "Ulysses", "1984", "The Great Gatsby"],
+      "spiegazione": "The Waste Land (1922) is a landmark of modernist poetry.",
+      "livello": "avanzato",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "William Golding wrote:",
+      "rispostaCorretta": "Lord of the Flies",
+      "opzioni": ["Lord of the Flies", "1984", "Brave New World", "The Great Gatsby"],
+      "spiegazione": "Lord of the Flies explores human nature and savagery.",
+      "livello": "intermedio",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lord of the Flies is about:",
+      "rispostaCorretta": "Boys stranded on an island who descend into savagery",
+      "opzioni": ["Boys stranded on an island who descend into savagery", "A dystopian future", "World War II", "A love story"],
+      "spiegazione": "The novel explores the darkness within human nature.",
+      "livello": "intermedio",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "J.D. Salinger wrote:",
+      "rispostaCorretta": "The Catcher in the Rye",
+      "opzioni": ["The Catcher in the Rye", "1984", "The Great Gatsby", "Lord of the Flies"],
+      "spiegazione": "The Catcher in the Rye (1951) is a classic of teenage alienation.",
+      "livello": "intermedio",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Holden Caulfield is the protagonist of:",
+      "rispostaCorretta": "The Catcher in the Rye",
+      "opzioni": ["The Catcher in the Rye", "1984", "The Great Gatsby", "Lord of the Flies"],
+      "spiegazione": "Holden is the iconic teenage narrator of Salinger's novel.",
+      "livello": "avanzato",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Harper Lee wrote:",
+      "rispostaCorretta": "To Kill a Mockingbird",
+      "opzioni": ["To Kill a Mockingbird", "1984", "The Great Gatsby", "Lord of the Flies"],
+      "spiegazione": "To Kill a Mockingbird (1960) addresses racial injustice in the American South.",
+      "livello": "base",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Atticus Finch is a character in:",
+      "rispostaCorretta": "To Kill a Mockingbird",
+      "opzioni": ["To Kill a Mockingbird", "1984", "The Great Gatsby", "Lord of the Flies"],
+      "spiegazione": "Atticus Finch is the moral hero who defends a Black man.",
+      "livello": "intermedio",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Beat Generation included:",
+      "rispostaCorretta": "Jack Kerouac and Allen Ginsberg",
+      "opzioni": ["Jack Kerouac and Allen Ginsberg", "Hemingway and Fitzgerald", "Orwell and Huxley", "Joyce and Woolf"],
+      "spiegazione": "The Beats rejected mainstream American values in the 1950s.",
+      "livello": "avanzato",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Jack Kerouac wrote:",
+      "rispostaCorretta": "On the Road",
+      "opzioni": ["On the Road", "Howl", "1984", "The Great Gatsby"],
+      "spiegazione": "On the Road (1957) is the defining novel of the Beat Generation.",
+      "livello": "avanzato",
+      "argomento": "20th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "A formal essay should avoid:",
+      "rispostaCorretta": "Contractions and colloquial language",
+      "opzioni": ["Contractions and colloquial language", "Complex sentences", "Linking words", "Formal vocabulary"],
+      "spiegazione": "Formal writing uses full forms and academic language.",
+      "livello": "intermedio",
+      "argomento": "Writing",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The conclusion of an essay should:",
+      "rispostaCorretta": "Summarize main points and restate the thesis",
+      "opzioni": ["Summarize main points and restate the thesis", "Introduce new ideas", "Ask questions", "Include examples"],
+      "spiegazione": "A conclusion wraps up the argument without new information.",
+      "livello": "intermedio",
+      "argomento": "Writing",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "'In conclusion' is used to:",
+      "rispostaCorretta": "Signal the final paragraph",
+      "opzioni": ["Signal the final paragraph", "Add information", "Give an example", "Show contrast"],
+      "spiegazione": "'In conclusion' introduces the final summary.",
+      "livello": "base",
+      "argomento": "Writing",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "A topic sentence is:",
+      "rispostaCorretta": "The main idea of a paragraph",
+      "opzioni": ["The main idea of a paragraph", "The thesis", "The conclusion", "An example"],
+      "spiegazione": "Each paragraph should have a clear topic sentence.",
+      "livello": "intermedio",
+      "argomento": "Writing",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Paraphrasing means:",
+      "rispostaCorretta": "Expressing the same idea in different words",
+      "opzioni": ["Expressing the same idea in different words", "Copying exactly", "Summarizing briefly", "Translating"],
+      "spiegazione": "Paraphrasing shows understanding and avoids plagiarism.",
+      "livello": "intermedio",
+      "argomento": "Writing",
+      "materia": "inglese"
+    }
+  ]
+}

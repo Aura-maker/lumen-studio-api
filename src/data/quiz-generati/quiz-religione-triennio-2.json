@@ -1,0 +1,477 @@
+{
+  "materia": "religione",
+  "descrizione": "Quiz Religione - Parte 2: Storia della Chiesa, Concili, Dottrina sociale, Ecumenismo",
+  "totale": 50,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Il Concilio di Nicea (325 d.C.) definì:",
+      "rispostaCorretta": "La divinità di Cristo contro l'arianesimo",
+      "opzioni": ["La divinità di Cristo contro l'arianesimo", "Il primato del Papa", "I sacramenti", "Il celibato dei preti"],
+      "spiegazione": "Nicea condannò l'arianesimo e affermò che Cristo è 'della stessa sostanza del Padre'.",
+      "livello": "avanzato",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Concilio di Calcedonia (451 d.C.) definì:",
+      "rispostaCorretta": "Le due nature di Cristo (divina e umana)",
+      "opzioni": ["Le due nature di Cristo (divina e umana)", "La Trinità", "I sacramenti", "Il Purgatorio"],
+      "spiegazione": "Calcedonia affermò che Cristo è vero Dio e vero uomo, in una sola persona.",
+      "livello": "avanzato",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "San Benedetto da Norcia fondò:",
+      "rispostaCorretta": "Il monachesimo occidentale",
+      "opzioni": ["Il monachesimo occidentale", "I Francescani", "I Domenicani", "I Gesuiti"],
+      "spiegazione": "San Benedetto (480-547) fondò Montecassino e scrisse la Regola.",
+      "livello": "intermedio",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "San Francesco d'Assisi fondò:",
+      "rispostaCorretta": "L'Ordine dei Frati Minori (Francescani)",
+      "opzioni": ["L'Ordine dei Frati Minori (Francescani)", "I Benedettini", "I Domenicani", "I Gesuiti"],
+      "spiegazione": "San Francesco (1181-1226) fondò i Francescani basati sulla povertà.",
+      "livello": "base",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "San Domenico di Guzmán fondò:",
+      "rispostaCorretta": "L'Ordine dei Predicatori (Domenicani)",
+      "opzioni": ["L'Ordine dei Predicatori (Domenicani)", "I Francescani", "I Benedettini", "I Gesuiti"],
+      "spiegazione": "San Domenico (1170-1221) fondò i Domenicani per la predicazione.",
+      "livello": "intermedio",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Sant'Ignazio di Loyola fondò:",
+      "rispostaCorretta": "La Compagnia di Gesù (Gesuiti)",
+      "opzioni": ["La Compagnia di Gesù (Gesuiti)", "I Francescani", "I Domenicani", "I Benedettini"],
+      "spiegazione": "Sant'Ignazio (1491-1556) fondò i Gesuiti, protagonisti della Controriforma.",
+      "livello": "intermedio",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Concilio di Trento (1545-1563) fu convocato per:",
+      "rispostaCorretta": "Rispondere alla Riforma protestante",
+      "opzioni": ["Rispondere alla Riforma protestante", "Definire la Trinità", "Condannare le Crociate", "Abolire il papato"],
+      "spiegazione": "Trento avviò la Controriforma cattolica.",
+      "livello": "base",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Concilio Vaticano I (1869-1870) definì:",
+      "rispostaCorretta": "L'infallibilità papale",
+      "opzioni": ["L'infallibilità papale", "La collegialità episcopale", "La libertà religiosa", "L'ecumenismo"],
+      "spiegazione": "Il Vaticano I definì l'infallibilità del Papa quando parla ex cathedra.",
+      "livello": "avanzato",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Concilio Vaticano II fu convocato da:",
+      "rispostaCorretta": "Papa Giovanni XXIII",
+      "opzioni": ["Papa Giovanni XXIII", "Papa Pio XII", "Papa Paolo VI", "Papa Giovanni Paolo II"],
+      "spiegazione": "Giovanni XXIII convocò il Concilio nel 1959; si svolse dal 1962 al 1965.",
+      "livello": "intermedio",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Concilio Vaticano II introdusse:",
+      "rispostaCorretta": "La riforma liturgica e il dialogo con il mondo moderno",
+      "opzioni": ["La riforma liturgica e il dialogo con il mondo moderno", "L'infallibilità papale", "Le Crociate", "L'Inquisizione"],
+      "spiegazione": "Il Vaticano II rinnovò la liturgia (messa in lingua volgare) e aprì al dialogo.",
+      "livello": "intermedio",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Rerum Novarum (1891) di Leone XIII tratta:",
+      "rispostaCorretta": "La questione operaia e sociale",
+      "opzioni": ["La questione operaia e sociale", "La liturgia", "I sacramenti", "L'ecumenismo"],
+      "spiegazione": "La Rerum Novarum è la prima grande enciclica sociale della Chiesa.",
+      "livello": "avanzato",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Dottrina sociale della Chiesa si basa su principi come:",
+      "rispostaCorretta": "Dignità umana, bene comune, sussidiarietà, solidarietà",
+      "opzioni": ["Dignità umana, bene comune, sussidiarietà, solidarietà", "Solo la carità", "Solo la preghiera", "Solo i sacramenti"],
+      "spiegazione": "I quattro principi fondamentali guidano l'azione sociale cristiana.",
+      "livello": "intermedio",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il principio del bene comune afferma che:",
+      "rispostaCorretta": "Il bene di tutti deve prevalere sull'interesse individuale",
+      "opzioni": ["Il bene di tutti deve prevalere sull'interesse individuale", "Ognuno pensa a sé", "Lo Stato decide tutto", "La Chiesa decide tutto"],
+      "spiegazione": "Il bene comune è l'insieme delle condizioni per il pieno sviluppo di tutti.",
+      "livello": "intermedio",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Populorum Progressio (1967) di Paolo VI tratta:",
+      "rispostaCorretta": "Lo sviluppo dei popoli",
+      "opzioni": ["Lo sviluppo dei popoli", "La liturgia", "I sacramenti", "L'infallibilità"],
+      "spiegazione": "La Populorum Progressio affronta il tema dello sviluppo integrale.",
+      "livello": "avanzato",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Caritas in Veritate (2009) di Benedetto XVI tratta:",
+      "rispostaCorretta": "Lo sviluppo umano integrale nella carità e verità",
+      "opzioni": ["Lo sviluppo umano integrale nella carità e verità", "Solo la liturgia", "Solo i sacramenti", "Solo la preghiera"],
+      "spiegazione": "Benedetto XVI riflette sulla globalizzazione e l'economia alla luce della fede.",
+      "livello": "avanzato",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Fratelli tutti (2020) di Papa Francesco tratta:",
+      "rispostaCorretta": "La fraternità e l'amicizia sociale",
+      "opzioni": ["La fraternità e l'amicizia sociale", "La liturgia", "I sacramenti", "L'infallibilità"],
+      "spiegazione": "Fratelli tutti riflette sulla fraternità universale e la pace.",
+      "livello": "intermedio",
+      "argomento": "Dottrina sociale della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ecumenismo è:",
+      "rispostaCorretta": "Il movimento per l'unità dei cristiani",
+      "opzioni": ["Il movimento per l'unità dei cristiani", "La conversione dei non cristiani", "La separazione delle Chiese", "Una dottrina"],
+      "spiegazione": "L'ecumenismo cerca di ricomporre l'unità tra cattolici, ortodossi e protestanti.",
+      "livello": "base",
+      "argomento": "Ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Consiglio Ecumenico delle Chiese fu fondato nel:",
+      "rispostaCorretta": "1948",
+      "opzioni": ["1948", "1962", "1920", "1980"],
+      "spiegazione": "Il CEC riunisce molte Chiese cristiane (la Chiesa cattolica non è membro).",
+      "livello": "avanzato",
+      "argomento": "Ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le principali differenze tra cattolici e ortodossi riguardano:",
+      "rispostaCorretta": "Il primato del Papa e il Filioque",
+      "opzioni": ["Il primato del Papa e il Filioque", "I Vangeli", "L'Antico Testamento", "I Dieci Comandamenti"],
+      "spiegazione": "Gli ortodossi non riconoscono il primato papale e rifiutano il Filioque.",
+      "livello": "avanzato",
+      "argomento": "Ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le principali differenze tra cattolici e protestanti riguardano:",
+      "rispostaCorretta": "Autorità della Scrittura, sacramenti, ruolo del Papa",
+      "opzioni": ["Autorità della Scrittura, sacramenti, ruolo del Papa", "L'esistenza di Dio", "La Trinità", "La Risurrezione"],
+      "spiegazione": "I protestanti affermano 'sola Scriptura' e non riconoscono il Papa.",
+      "livello": "intermedio",
+      "argomento": "Ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giovanni Paolo II fu Papa dal:",
+      "rispostaCorretta": "1978 al 2005",
+      "opzioni": ["1978 al 2005", "1963 al 1978", "2005 al 2013", "1958 al 1963"],
+      "spiegazione": "Karol Wojtyła fu Papa per quasi 27 anni.",
+      "livello": "base",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Benedetto XVI fu Papa dal:",
+      "rispostaCorretta": "2005 al 2013",
+      "opzioni": ["2005 al 2013", "1978 al 2005", "2013 al presente", "1963 al 1978"],
+      "spiegazione": "Joseph Ratzinger rinunciò al pontificato nel 2013.",
+      "livello": "base",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Papa Francesco è stato eletto nel:",
+      "rispostaCorretta": "2013",
+      "opzioni": ["2013", "2005", "2010", "2015"],
+      "spiegazione": "Jorge Mario Bergoglio fu eletto Papa il 13 marzo 2013.",
+      "livello": "base",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Papa Francesco è il primo Papa:",
+      "rispostaCorretta": "Gesuita e latinoamericano",
+      "opzioni": ["Gesuita e latinoamericano", "Italiano", "Europeo", "Benedettino"],
+      "spiegazione": "Francesco è il primo Papa gesuita e il primo delle Americhe.",
+      "livello": "intermedio",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Giornata Mondiale della Gioventù fu istituita da:",
+      "rispostaCorretta": "Giovanni Paolo II",
+      "opzioni": ["Giovanni Paolo II", "Paolo VI", "Benedetto XVI", "Francesco"],
+      "spiegazione": "Giovanni Paolo II istituì la GMG nel 1985.",
+      "livello": "intermedio",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Catechismo della Chiesa Cattolica fu pubblicato nel:",
+      "rispostaCorretta": "1992",
+      "opzioni": ["1992", "1962", "2005", "1978"],
+      "spiegazione": "Il Catechismo fu promulgato da Giovanni Paolo II nel 1992.",
+      "livello": "avanzato",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Chiesa ortodossa è guidata da:",
+      "rispostaCorretta": "Patriarchi autocefali",
+      "opzioni": ["Patriarchi autocefali", "Il Papa", "Un Concilio permanente", "Un solo Patriarca"],
+      "spiegazione": "Le Chiese ortodosse sono autocefale, ciascuna con il proprio Patriarca.",
+      "livello": "avanzato",
+      "argomento": "Ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Patriarca ecumenico di Costantinopoli è:",
+      "rispostaCorretta": "Il 'primus inter pares' dell'ortodossia",
+      "opzioni": ["Il 'primus inter pares' dell'ortodossia", "Il capo assoluto", "Un vescovo come gli altri", "Il Papa ortodosso"],
+      "spiegazione": "Il Patriarca di Costantinopoli ha un primato d'onore, non di giurisdizione.",
+      "livello": "avanzato",
+      "argomento": "Ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il Concilio Vaticano II si svolse nel XX secolo.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Il Vaticano II si svolse dal 1962 al 1965.",
+      "livello": "base",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La Chiesa cattolica riconosce i sacramenti celebrati nelle Chiese ortodosse.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "La Chiesa cattolica riconosce la validità dei sacramenti ortodossi.",
+      "livello": "avanzato",
+      "argomento": "Ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Martin Lutero era un monaco agostiniano.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Lutero era un frate agostiniano e professore di teologia.",
+      "livello": "intermedio",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Chiese protestanti storiche comprendono:",
+      "rispostaCorretta": "Luterani, Calvinisti, Anglicani",
+      "opzioni": ["Luterani, Calvinisti, Anglicani", "Solo i Luterani", "Solo i Battisti", "Solo i Metodisti"],
+      "spiegazione": "Le principali Chiese della Riforma sono luterana, riformata e anglicana.",
+      "livello": "intermedio",
+      "argomento": "Ecumenismo",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giovanni Calvino operò principalmente a:",
+      "rispostaCorretta": "Ginevra",
+      "opzioni": ["Ginevra", "Wittenberg", "Roma", "Londra"],
+      "spiegazione": "Calvino fece di Ginevra il centro della Riforma calvinista.",
+      "livello": "intermedio",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Chiesa anglicana nacque con:",
+      "rispostaCorretta": "Enrico VIII d'Inghilterra",
+      "opzioni": ["Enrico VIII d'Inghilterra", "Lutero", "Calvino", "Zwingli"],
+      "spiegazione": "Enrico VIII ruppe con Roma nel 1534 per motivi politici e personali.",
+      "livello": "intermedio",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Inquisizione fu istituita per:",
+      "rispostaCorretta": "Combattere le eresie",
+      "opzioni": ["Combattere le eresie", "Convertire i pagani", "Organizzare le Crociate", "Riformare la Chiesa"],
+      "spiegazione": "L'Inquisizione medievale e moderna perseguì gli eretici.",
+      "livello": "intermedio",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Crociate furono spedizioni militari per:",
+      "rispostaCorretta": "Liberare la Terra Santa",
+      "opzioni": ["Liberare la Terra Santa", "Convertire l'Europa", "Combattere i protestanti", "Conquistare l'America"],
+      "spiegazione": "Le Crociate (XI-XIII sec.) miravano a liberare Gerusalemme.",
+      "livello": "base",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "San Tommaso d'Aquino fu un teologo:",
+      "rispostaCorretta": "Domenicano del XIII secolo",
+      "opzioni": ["Domenicano del XIII secolo", "Francescano del XII secolo", "Gesuita del XVI secolo", "Benedettino del VI secolo"],
+      "spiegazione": "Tommaso d'Aquino (1225-1274) scrisse la Summa Theologiae.",
+      "livello": "intermedio",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Sant'Agostino fu vescovo di:",
+      "rispostaCorretta": "Ippona",
+      "opzioni": ["Ippona", "Roma", "Milano", "Cartagine"],
+      "spiegazione": "Agostino (354-430) fu vescovo di Ippona in Nord Africa.",
+      "livello": "intermedio",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Confessioni di Sant'Agostino sono:",
+      "rispostaCorretta": "Un'autobiografia spirituale",
+      "opzioni": ["Un'autobiografia spirituale", "Un trattato di teologia", "Una raccolta di preghiere", "Un commento biblico"],
+      "spiegazione": "Le Confessioni narrano la conversione di Agostino.",
+      "livello": "intermedio",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Città di Dio di Sant'Agostino tratta:",
+      "rispostaCorretta": "Il rapporto tra città terrena e città celeste",
+      "opzioni": ["Il rapporto tra città terrena e città celeste", "L'urbanistica", "La politica romana", "L'economia"],
+      "spiegazione": "La Città di Dio riflette sulla storia e la provvidenza dopo il sacco di Roma.",
+      "livello": "avanzato",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il monachesimo orientale fu fondato da:",
+      "rispostaCorretta": "Sant'Antonio abate e San Basilio",
+      "opzioni": ["Sant'Antonio abate e San Basilio", "San Benedetto", "San Francesco", "Sant'Ignazio"],
+      "spiegazione": "Antonio (eremitismo) e Basilio (cenobitismo) fondarono il monachesimo orientale.",
+      "livello": "avanzato",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La regola benedettina si riassume nel motto:",
+      "rispostaCorretta": "Ora et labora",
+      "opzioni": ["Ora et labora", "Sola fide", "Carpe diem", "Cogito ergo sum"],
+      "spiegazione": "'Prega e lavora' è il motto del monachesimo benedettino.",
+      "livello": "base",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Giubileo (Anno Santo) si celebra ordinariamente ogni:",
+      "rispostaCorretta": "25 anni",
+      "opzioni": ["25 anni", "50 anni", "100 anni", "10 anni"],
+      "spiegazione": "Il Giubileo ordinario si celebra ogni 25 anni; esistono anche Giubilei straordinari.",
+      "livello": "intermedio",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La canonizzazione è:",
+      "rispostaCorretta": "La proclamazione ufficiale di un santo",
+      "opzioni": ["La proclamazione ufficiale di un santo", "La beatificazione", "L'ordinazione", "Il battesimo"],
+      "spiegazione": "La canonizzazione è l'atto con cui il Papa dichiara santo un beato.",
+      "livello": "intermedio",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La beatificazione è:",
+      "rispostaCorretta": "Il passo precedente alla canonizzazione",
+      "opzioni": ["Il passo precedente alla canonizzazione", "La canonizzazione", "L'ordinazione", "Il battesimo"],
+      "spiegazione": "La beatificazione permette il culto locale; la canonizzazione quello universale.",
+      "livello": "intermedio",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Conclave è:",
+      "rispostaCorretta": "L'assemblea dei cardinali che elegge il Papa",
+      "opzioni": ["L'assemblea dei cardinali che elegge il Papa", "Un Concilio", "Una preghiera", "Un sacramento"],
+      "spiegazione": "Il Conclave si riunisce nella Cappella Sistina per eleggere il nuovo Papa.",
+      "livello": "base",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La fumata bianca indica:",
+      "rispostaCorretta": "L'elezione del nuovo Papa",
+      "opzioni": ["L'elezione del nuovo Papa", "Il fallimento del voto", "L'inizio del Conclave", "La fine del Conclave senza esito"],
+      "spiegazione": "La fumata bianca annuncia l'elezione; quella nera indica voto nullo.",
+      "livello": "base",
+      "argomento": "Storia della Chiesa",
+      "materia": "religione"
+    }
+  ]
+}

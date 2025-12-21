@@ -1,0 +1,507 @@
+{
+  "materia": "fisica",
+  "descrizione": "Quiz Fisica - Parte 3: Meccanica avanzata, Fluidi, Termodinamica avanzata",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Il momento di una forza rispetto a un punto è:",
+      "rispostaCorretta": "Il prodotto della forza per il braccio",
+      "opzioni": ["Il prodotto della forza per il braccio", "La forza diviso il braccio", "Solo la forza", "Solo il braccio"],
+      "spiegazione": "M = F × b, dove b è la distanza perpendicolare dal punto alla retta d'azione.",
+      "livello": "intermedio",
+      "argomento": "Meccanica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un corpo è in equilibrio rotazionale quando:",
+      "rispostaCorretta": "La somma dei momenti è nulla",
+      "opzioni": ["La somma dei momenti è nulla", "La somma delle forze è nulla", "La velocità è costante", "L'accelerazione è massima"],
+      "spiegazione": "Equilibrio rotazionale: ΣM = 0.",
+      "livello": "intermedio",
+      "argomento": "Meccanica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il momento d'inerzia dipende da:",
+      "rispostaCorretta": "La massa e la sua distribuzione rispetto all'asse",
+      "opzioni": ["La massa e la sua distribuzione rispetto all'asse", "Solo la massa", "Solo la velocità", "Solo la forza"],
+      "spiegazione": "Il momento d'inerzia I = Σmᵢrᵢ² misura la resistenza alla rotazione.",
+      "livello": "avanzato",
+      "argomento": "Meccanica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il momento angolare L è dato da:",
+      "rispostaCorretta": "L = I × ω",
+      "opzioni": ["L = I × ω", "L = m × v", "L = F × t", "L = m × a"],
+      "spiegazione": "Il momento angolare è il prodotto del momento d'inerzia per la velocità angolare.",
+      "livello": "avanzato",
+      "argomento": "Meccanica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La conservazione del momento angolare spiega perché:",
+      "rispostaCorretta": "Un pattinatore gira più veloce quando ritira le braccia",
+      "opzioni": ["Un pattinatore gira più veloce quando ritira le braccia", "Un oggetto cade", "Un pendolo oscilla", "Un corpo si ferma"],
+      "spiegazione": "Se L = Iω è costante, riducendo I aumenta ω.",
+      "livello": "avanzato",
+      "argomento": "Meccanica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il moto armonico semplice è caratterizzato da:",
+      "rispostaCorretta": "Una forza di richiamo proporzionale allo spostamento",
+      "opzioni": ["Una forza di richiamo proporzionale allo spostamento", "Velocità costante", "Accelerazione nulla", "Forza costante"],
+      "spiegazione": "Nel moto armonico F = -kx (legge di Hooke).",
+      "livello": "intermedio",
+      "argomento": "Oscillazioni",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il periodo di un pendolo semplice dipende da:",
+      "rispostaCorretta": "La lunghezza e l'accelerazione di gravità",
+      "opzioni": ["La lunghezza e l'accelerazione di gravità", "La massa", "L'ampiezza", "La velocità iniziale"],
+      "spiegazione": "T = 2π√(L/g). Il periodo non dipende dalla massa.",
+      "livello": "intermedio",
+      "argomento": "Oscillazioni",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La risonanza si verifica quando:",
+      "rispostaCorretta": "La frequenza di eccitazione coincide con quella naturale",
+      "opzioni": ["La frequenza di eccitazione coincide con quella naturale", "Le frequenze sono diverse", "Non c'è oscillazione", "L'ampiezza è nulla"],
+      "spiegazione": "In risonanza l'ampiezza delle oscillazioni è massima.",
+      "livello": "avanzato",
+      "argomento": "Oscillazioni",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La pressione è definita come:",
+      "rispostaCorretta": "Forza per unità di superficie",
+      "opzioni": ["Forza per unità di superficie", "Forza per unità di volume", "Massa per unità di volume", "Energia per unità di tempo"],
+      "spiegazione": "P = F/A. L'unità SI è il Pascal (Pa = N/m²).",
+      "livello": "base",
+      "argomento": "Fluidi",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La pressione atmosferica a livello del mare è circa:",
+      "rispostaCorretta": "101325 Pa (1 atm)",
+      "opzioni": ["101325 Pa (1 atm)", "1000 Pa", "10000 Pa", "1000000 Pa"],
+      "spiegazione": "1 atm = 101325 Pa = 760 mmHg.",
+      "livello": "base",
+      "argomento": "Fluidi",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il principio di Pascal afferma che:",
+      "rispostaCorretta": "La pressione si trasmette integralmente in un fluido",
+      "opzioni": ["La pressione si trasmette integralmente in un fluido", "La pressione diminuisce", "La pressione aumenta", "La pressione è nulla"],
+      "spiegazione": "Pascal: la pressione applicata si trasmette uniformemente nel fluido.",
+      "livello": "intermedio",
+      "argomento": "Fluidi",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La legge di Stevino afferma che la pressione in un fluido:",
+      "rispostaCorretta": "Aumenta con la profondità",
+      "opzioni": ["Aumenta con la profondità", "Diminuisce con la profondità", "È costante", "Dipende dalla temperatura"],
+      "spiegazione": "P = P₀ + ρgh. La pressione aumenta linearmente con la profondità.",
+      "livello": "intermedio",
+      "argomento": "Fluidi",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il principio di Archimede afferma che:",
+      "rispostaCorretta": "Un corpo immerso riceve una spinta pari al peso del fluido spostato",
+      "opzioni": ["Un corpo immerso riceve una spinta pari al peso del fluido spostato", "Un corpo affonda sempre", "Un corpo galleggia sempre", "Non c'è spinta"],
+      "spiegazione": "La spinta di Archimede: Fₐ = ρ_fluido × V_immerso × g.",
+      "livello": "base",
+      "argomento": "Fluidi",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un corpo galleggia se:",
+      "rispostaCorretta": "La sua densità è minore di quella del fluido",
+      "opzioni": ["La sua densità è minore di quella del fluido", "La sua densità è maggiore", "Ha grande massa", "Ha piccolo volume"],
+      "spiegazione": "Se ρ_corpo < ρ_fluido, il corpo galleggia.",
+      "livello": "intermedio",
+      "argomento": "Fluidi",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'equazione di continuità per i fluidi afferma che:",
+      "rispostaCorretta": "A₁v₁ = A₂v₂ (portata costante)",
+      "opzioni": ["A₁v₁ = A₂v₂ (portata costante)", "La pressione è costante", "La velocità è costante", "La densità varia"],
+      "spiegazione": "In un tubo, dove la sezione diminuisce la velocità aumenta.",
+      "livello": "avanzato",
+      "argomento": "Fluidi",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'equazione di Bernoulli collega:",
+      "rispostaCorretta": "Pressione, velocità e altezza in un fluido",
+      "opzioni": ["Pressione, velocità e altezza in un fluido", "Solo pressione e temperatura", "Solo velocità e massa", "Solo altezza e volume"],
+      "spiegazione": "Bernoulli: P + ½ρv² + ρgh = costante.",
+      "livello": "avanzato",
+      "argomento": "Fluidi",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'effetto Venturi spiega perché:",
+      "rispostaCorretta": "La pressione diminuisce dove la velocità aumenta",
+      "opzioni": ["La pressione diminuisce dove la velocità aumenta", "La pressione aumenta con la velocità", "La pressione è costante", "La velocità è costante"],
+      "spiegazione": "L'effetto Venturi è una conseguenza dell'equazione di Bernoulli.",
+      "livello": "avanzato",
+      "argomento": "Fluidi",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La viscosità di un fluido misura:",
+      "rispostaCorretta": "La resistenza allo scorrimento",
+      "opzioni": ["La resistenza allo scorrimento", "La densità", "La pressione", "La temperatura"],
+      "spiegazione": "I fluidi viscosi (miele) scorrono più lentamente di quelli poco viscosi (acqua).",
+      "livello": "intermedio",
+      "argomento": "Fluidi",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il primo principio della termodinamica afferma che:",
+      "rispostaCorretta": "L'energia si conserva: ΔU = Q - W",
+      "opzioni": ["L'energia si conserva: ΔU = Q - W", "L'entropia aumenta sempre", "Il calore passa dal freddo al caldo", "L'energia si crea"],
+      "spiegazione": "Il primo principio è la conservazione dell'energia per i sistemi termodinamici.",
+      "livello": "intermedio",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il secondo principio della termodinamica afferma che:",
+      "rispostaCorretta": "L'entropia di un sistema isolato non può diminuire",
+      "opzioni": ["L'entropia di un sistema isolato non può diminuire", "L'energia si conserva", "Il calore passa dal freddo al caldo", "L'entropia diminuisce sempre"],
+      "spiegazione": "Il secondo principio stabilisce la direzione dei processi naturali.",
+      "livello": "avanzato",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'entropia è una misura di:",
+      "rispostaCorretta": "Il disordine di un sistema",
+      "opzioni": ["Il disordine di un sistema", "L'energia", "La temperatura", "La pressione"],
+      "spiegazione": "L'entropia aumenta nei processi spontanei (verso maggior disordine).",
+      "livello": "avanzato",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una trasformazione isoterma avviene a:",
+      "rispostaCorretta": "Temperatura costante",
+      "opzioni": ["Temperatura costante", "Pressione costante", "Volume costante", "Entropia costante"],
+      "spiegazione": "Isoterma: T = costante. Per un gas ideale: PV = costante.",
+      "livello": "intermedio",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una trasformazione isobara avviene a:",
+      "rispostaCorretta": "Pressione costante",
+      "opzioni": ["Pressione costante", "Temperatura costante", "Volume costante", "Entropia costante"],
+      "spiegazione": "Isobara: P = costante. Il lavoro è W = PΔV.",
+      "livello": "intermedio",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una trasformazione isocora avviene a:",
+      "rispostaCorretta": "Volume costante",
+      "opzioni": ["Volume costante", "Pressione costante", "Temperatura costante", "Entropia costante"],
+      "spiegazione": "Isocora: V = costante. Il lavoro è nullo (W = 0).",
+      "livello": "intermedio",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una trasformazione adiabatica avviene:",
+      "rispostaCorretta": "Senza scambio di calore con l'esterno",
+      "opzioni": ["Senza scambio di calore con l'esterno", "A temperatura costante", "A pressione costante", "A volume costante"],
+      "spiegazione": "Adiabatica: Q = 0. Il sistema è isolato termicamente.",
+      "livello": "avanzato",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il rendimento di una macchina termica è:",
+      "rispostaCorretta": "η = W/Q_assorbito",
+      "opzioni": ["η = W/Q_assorbito", "η = Q/W", "η = 1", "η = 0"],
+      "spiegazione": "Il rendimento è il rapporto tra lavoro prodotto e calore assorbito.",
+      "livello": "avanzato",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il ciclo di Carnot è:",
+      "rispostaCorretta": "Il ciclo termodinamico con il massimo rendimento teorico",
+      "opzioni": ["Il ciclo termodinamico con il massimo rendimento teorico", "Un ciclo reale", "Un ciclo inefficiente", "Un ciclo impossibile"],
+      "spiegazione": "Il rendimento di Carnot: η = 1 - T_fredda/T_calda.",
+      "livello": "avanzato",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo zero assoluto corrisponde a:",
+      "rispostaCorretta": "-273.15 °C (0 K)",
+      "opzioni": ["-273.15 °C (0 K)", "0 °C", "-100 °C", "-459 °F"],
+      "spiegazione": "Lo zero assoluto è la temperatura minima teoricamente raggiungibile.",
+      "livello": "base",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il terzo principio della termodinamica afferma che:",
+      "rispostaCorretta": "È impossibile raggiungere lo zero assoluto",
+      "opzioni": ["È impossibile raggiungere lo zero assoluto", "L'energia si conserva", "L'entropia aumenta", "Il calore passa dal freddo al caldo"],
+      "spiegazione": "Il terzo principio stabilisce l'irraggiungibilità dello zero assoluto.",
+      "livello": "avanzato",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il periodo di un pendolo dipende dalla sua massa.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Il periodo dipende solo dalla lunghezza e da g, non dalla massa.",
+      "livello": "intermedio",
+      "argomento": "Oscillazioni",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Un corpo può galleggiare in un fluido più denso di lui.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Se ρ_corpo < ρ_fluido, il corpo galleggia.",
+      "livello": "base",
+      "argomento": "Fluidi",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il rendimento di una macchina termica può essere del 100%.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Il secondo principio impedisce un rendimento del 100%.",
+      "livello": "avanzato",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La tensione superficiale è dovuta a:",
+      "rispostaCorretta": "Le forze di coesione tra le molecole del liquido",
+      "opzioni": ["Le forze di coesione tra le molecole del liquido", "La pressione atmosferica", "La gravità", "La temperatura"],
+      "spiegazione": "La tensione superficiale fa sì che la superficie si comporti come una membrana elastica.",
+      "livello": "avanzato",
+      "argomento": "Fluidi",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La capillarità è il fenomeno per cui:",
+      "rispostaCorretta": "Un liquido sale o scende in un tubo sottile",
+      "opzioni": ["Un liquido sale o scende in un tubo sottile", "Un liquido evapora", "Un liquido si solidifica", "Un liquido bolle"],
+      "spiegazione": "La capillarità dipende dalla tensione superficiale e dall'adesione.",
+      "livello": "avanzato",
+      "argomento": "Fluidi",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il moto turbolento si distingue dal moto laminare per:",
+      "rispostaCorretta": "La presenza di vortici e irregolarità",
+      "opzioni": ["La presenza di vortici e irregolarità", "La velocità costante", "L'assenza di attrito", "La pressione costante"],
+      "spiegazione": "Il moto turbolento è caotico; quello laminare è ordinato.",
+      "livello": "avanzato",
+      "argomento": "Fluidi",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il numero di Reynolds indica:",
+      "rispostaCorretta": "Se il flusso è laminare o turbolento",
+      "opzioni": ["Se il flusso è laminare o turbolento", "La pressione", "La temperatura", "La densità"],
+      "spiegazione": "Re alto indica turbolenza; Re basso indica flusso laminare.",
+      "livello": "avanzato",
+      "argomento": "Fluidi",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La portanza di un'ala d'aereo è spiegata da:",
+      "rispostaCorretta": "L'equazione di Bernoulli",
+      "opzioni": ["L'equazione di Bernoulli", "La legge di Newton", "La legge di Ohm", "La legge di Coulomb"],
+      "spiegazione": "L'aria scorre più veloce sopra l'ala, creando una differenza di pressione.",
+      "livello": "avanzato",
+      "argomento": "Fluidi",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'energia interna di un gas ideale dipende solo da:",
+      "rispostaCorretta": "La temperatura",
+      "opzioni": ["La temperatura", "La pressione", "Il volume", "La densità"],
+      "spiegazione": "Per un gas ideale: U = (3/2)nRT (gas monoatomico).",
+      "livello": "avanzato",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il calore specifico a pressione costante (Cp) è:",
+      "rispostaCorretta": "Maggiore di quello a volume costante (Cv)",
+      "opzioni": ["Maggiore di quello a volume costante (Cv)", "Minore di Cv", "Uguale a Cv", "Nullo"],
+      "spiegazione": "Cp > Cv perché a pressione costante parte del calore fa lavoro.",
+      "livello": "avanzato",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un frigorifero funziona:",
+      "rispostaCorretta": "Trasferendo calore dal freddo al caldo usando lavoro",
+      "opzioni": ["Trasferendo calore dal freddo al caldo usando lavoro", "Spontaneamente", "Senza energia", "Producendo freddo dal nulla"],
+      "spiegazione": "Il frigorifero è una macchina termica inversa.",
+      "livello": "intermedio",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una pompa di calore:",
+      "rispostaCorretta": "Trasferisce calore dall'esterno all'interno",
+      "opzioni": ["Trasferisce calore dall'esterno all'interno", "Produce calore dal nulla", "Funziona senza energia", "Raffredda l'ambiente"],
+      "spiegazione": "La pompa di calore riscalda prelevando calore dall'ambiente esterno.",
+      "livello": "avanzato",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La conduzione termica avviene:",
+      "rispostaCorretta": "Per contatto diretto tra corpi a temperature diverse",
+      "opzioni": ["Per contatto diretto tra corpi a temperature diverse", "Per onde elettromagnetiche", "Per movimento di fluidi", "Nel vuoto"],
+      "spiegazione": "La conduzione trasferisce calore attraverso la materia senza movimento macroscopico.",
+      "livello": "base",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La convezione termica avviene:",
+      "rispostaCorretta": "Per movimento di fluidi",
+      "opzioni": ["Per movimento di fluidi", "Per contatto diretto", "Per onde elettromagnetiche", "Solo nei solidi"],
+      "spiegazione": "La convezione trasporta calore con il movimento del fluido.",
+      "livello": "base",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'irraggiamento termico avviene:",
+      "rispostaCorretta": "Per onde elettromagnetiche",
+      "opzioni": ["Per onde elettromagnetiche", "Per contatto diretto", "Per movimento di fluidi", "Solo nei gas"],
+      "spiegazione": "L'irraggiamento non richiede un mezzo materiale (funziona nel vuoto).",
+      "livello": "base",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La legge di Stefan-Boltzmann afferma che:",
+      "rispostaCorretta": "La potenza irraggiata è proporzionale a T⁴",
+      "opzioni": ["La potenza irraggiata è proporzionale a T⁴", "La potenza è proporzionale a T", "La potenza è costante", "La potenza è proporzionale a T²"],
+      "spiegazione": "P = σAT⁴, dove σ è la costante di Stefan-Boltzmann.",
+      "livello": "avanzato",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un corpo nero è un oggetto che:",
+      "rispostaCorretta": "Assorbe tutta la radiazione incidente",
+      "opzioni": ["Assorbe tutta la radiazione incidente", "Riflette tutta la radiazione", "Non emette radiazione", "È sempre freddo"],
+      "spiegazione": "Il corpo nero è un assorbitore e emettitore ideale.",
+      "livello": "avanzato",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La legge di Wien afferma che:",
+      "rispostaCorretta": "La lunghezza d'onda del massimo di emissione è inversamente proporzionale a T",
+      "opzioni": ["La lunghezza d'onda del massimo di emissione è inversamente proporzionale a T", "La lunghezza d'onda è proporzionale a T", "La frequenza è costante", "L'energia è costante"],
+      "spiegazione": "λ_max × T = costante. Corpi più caldi emettono a λ più corte.",
+      "livello": "avanzato",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'effetto Doppler per le onde sonore causa:",
+      "rispostaCorretta": "Un cambiamento di frequenza percepita con il moto relativo",
+      "opzioni": ["Un cambiamento di frequenza percepita con il moto relativo", "Un cambiamento di ampiezza", "Un cambiamento di velocità del suono", "Nessun effetto"],
+      "spiegazione": "L'effetto Doppler spiega perché un'ambulanza sembra cambiare tono.",
+      "livello": "intermedio",
+      "argomento": "Onde",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'interferenza costruttiva si verifica quando:",
+      "rispostaCorretta": "Due onde in fase si sommano",
+      "opzioni": ["Due onde in fase si sommano", "Due onde in opposizione si annullano", "Le onde si riflettono", "Le onde si rifrangono"],
+      "spiegazione": "Interferenza costruttiva: le ampiezze si sommano.",
+      "livello": "intermedio",
+      "argomento": "Onde",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La diffrazione è:",
+      "rispostaCorretta": "La deviazione delle onde attorno agli ostacoli",
+      "opzioni": ["La deviazione delle onde attorno agli ostacoli", "La riflessione", "La rifrazione", "L'assorbimento"],
+      "spiegazione": "La diffrazione permette alle onde di aggirare gli ostacoli.",
+      "livello": "intermedio",
+      "argomento": "Onde",
+      "materia": "fisica"
+    }
+  ]
+}

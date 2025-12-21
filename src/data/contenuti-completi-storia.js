@@ -8,11 +8,254 @@ module.exports = {
     "colore": "#E74C3C",
     "icona": "globe",
     "annoScolastico": [
+      "1.",
+      "2.",
+      "3.",
       "4.",
       "5."
     ]
   },
   "argomenti": [
+    {
+      "id": "storia-preistoria",
+      "titolo": "La Preistoria",
+      "annoRiferimento": "1.",
+      "descrizione": "Dalle origini dell'uomo alle prime civiltà",
+      "sottoargomenti": [
+        {
+          "titolo": "L'evoluzione umana",
+          "riassunto": "La preistoria è il periodo che precede l'invenzione della scrittura, avvenuta intorno al 3500 a.C. in Mesopotamia. L'evoluzione umana inizia in Africa circa 7 milioni di anni fa con la separazione tra la linea degli ominidi e quella delle scimmie antropomorfe. L'Australopithecus, vissuto tra 4 e 2 milioni di anni fa, camminava eretto ma aveva un cervello piccolo. L'Homo habilis, comparso circa 2,5 milioni di anni fa, fu il primo a produrre strumenti di pietra scheggiata. L'Homo erectus, apparso 1,8 milioni di anni fa, scoprì il fuoco, migrò dall'Africa verso l'Asia e l'Europa, e sviluppò tecniche di caccia più sofisticate. L'Homo sapiens, la nostra specie, comparve in Africa circa 300.000 anni fa e si diffuse in tutto il mondo sostituendo le altre specie umane. L'Homo neanderthalensis, vissuto in Europa tra 400.000 e 40.000 anni fa, si estinse probabilmente per la competizione con i Sapiens. La teoria dell'Out of Africa sostiene che tutti gli esseri umani moderni discendano da popolazioni africane migrate in ondate successive.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 6,
+          "tags": ["evoluzione", "ominidi", "Homo sapiens"],
+          "collegamenti": ["Africa", "preistoria", "paleolitico"]
+        },
+        {
+          "titolo": "Il Paleolitico",
+          "riassunto": "Il Paleolitico (età della pietra antica) si estende da circa 2,5 milioni di anni fa al 10.000 a.C. È diviso in inferiore, medio e superiore. Gli uomini erano nomadi, vivevano di caccia, pesca e raccolta di frutti e radici. Si spostavano seguendo le migrazioni degli animali e i cicli stagionali. Abitavano in caverne, ripari sotto roccia o capanne temporanee. Gli strumenti erano di pietra scheggiata: chopper, bifacciali, raschiatoi, punte di lancia. La scoperta del fuoco, attribuita all'Homo erectus circa 400.000 anni fa, fu rivoluzionaria: permetteva di scaldarsi, cuocere i cibi, difendersi dai predatori, illuminare le caverne. Nel Paleolitico superiore (40.000-10.000 a.C.) l'Homo sapiens sviluppò l'arte rupestre: le pitture delle grotte di Lascaux e Altamira raffigurano animali con straordinario realismo, probabilmente con funzione magico-religiosa legata alla caccia. Comparvero le prime sepolture rituali, indizio di credenze nell'aldilà. Le Veneri paleolitiche, statuette femminili dalle forme abbondanti, erano forse legate a culti della fertilità.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 6,
+          "tags": ["Paleolitico", "cacciatori", "arte rupestre"],
+          "collegamenti": ["nomadismo", "fuoco", "Lascaux"]
+        },
+        {
+          "titolo": "La rivoluzione neolitica",
+          "riassunto": "Il Neolitico (età della pietra nuova) inizia intorno al 10.000 a.C. nel Vicino Oriente, nella cosiddetta Mezzaluna Fertile. La rivoluzione neolitica è il passaggio dall'economia di caccia e raccolta all'agricoltura e all'allevamento. Questo cambiamento trasformò radicalmente la vita umana. L'agricoltura nacque probabilmente per caso, osservando la crescita spontanea di cereali selvatici. I primi cereali coltivati furono grano e orzo; i primi animali addomesticati furono pecore, capre, maiali e bovini. L'agricoltura rese possibile la sedentarietà: nacquero i primi villaggi stabili. La popolazione aumentò grazie alla maggiore disponibilità di cibo. Si sviluppò la divisione del lavoro: non tutti dovevano procurarsi il cibo, alcuni potevano specializzarsi in altre attività. Comparvero l'artigianato (ceramica, tessitura), il commercio, le prime forme di proprietà privata. La pietra veniva ora levigata, non solo scheggiata. Sorsero le prime forme di organizzazione sociale complessa e di religione organizzata. Çatalhöyük, in Anatolia, è uno dei più antichi insediamenti neolitici conosciuti. La rivoluzione neolitica si diffuse gradualmente in Europa, Asia e Africa.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Neolitico", "agricoltura", "sedentarietà"],
+          "collegamenti": ["Mezzaluna Fertile", "villaggi", "allevamento"]
+        }
+      ]
+    },
+    {
+      "id": "storia-civilta-mesopotamiche",
+      "titolo": "Le civiltà della Mesopotamia",
+      "annoRiferimento": "1.",
+      "descrizione": "Sumeri, Babilonesi e Assiri",
+      "sottoargomenti": [
+        {
+          "titolo": "I Sumeri e l'invenzione della scrittura",
+          "riassunto": "La Mesopotamia (terra tra i fiumi) è la regione compresa tra il Tigri e l'Eufrate, nell'attuale Iraq. Qui nacquero le prime civiltà urbane della storia. I Sumeri, popolazione di origine incerta, si stanziarono nella Mesopotamia meridionale intorno al 4000 a.C. Fondarono le prime città-stato della storia: Ur, Uruk, Lagash, Eridu. Ogni città era indipendente, governata da un re-sacerdote (ensi o lugal), e aveva il proprio dio protettore. Il tempio (ziqqurat), torre a gradoni, dominava la città ed era centro religioso, economico e amministrativo. I Sumeri inventarono la scrittura cuneiforme intorno al 3500 a.C.: segni a forma di cuneo impressi su tavolette di argilla. Inizialmente pittografica, divenne poi fonetica. La scrittura nacque per esigenze amministrative (registrare merci, tasse, contratti) ma fu poi usata per testi letterari, religiosi, scientifici. L'Epopea di Gilgamesh è il più antico poema epico conosciuto. I Sumeri inventarono anche la ruota, l'aratro, il sistema sessagesimale (base 60, ancora usato per ore e gradi), il calendario lunare, le prime leggi scritte.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Sumeri", "scrittura cuneiforme", "Mesopotamia"],
+          "collegamenti": ["Ur", "ziqqurat", "Gilgamesh"]
+        },
+        {
+          "titolo": "Babilonesi e Assiri",
+          "riassunto": "I Babilonesi, popolo semitico, unificarono la Mesopotamia sotto Hammurabi (1792-1750 a.C.), creando il primo impero babilonese. Babilonia divenne una delle città più grandi e splendide del mondo antico. Hammurabi è famoso per il suo codice di leggi, il più antico codice completo pervenutoci: 282 articoli incisi su una stele di basalto, basati sul principio della legge del taglione ('occhio per occhio'). Le pene variavano secondo la classe sociale. I Babilonesi eccelsero in astronomia e matematica. Gli Assiri, stanziati nella Mesopotamia settentrionale, crearono un potente impero militare tra il IX e il VII secolo a.C. La loro forza risiedeva nell'esercito: fanteria, cavalleria, carri da guerra, macchine d'assedio. Erano noti per la crudeltà verso i vinti: deportazioni di massa, torture, distruzione delle città. Ninive e Assur furono le loro capitali. La biblioteca di Assurbanipal a Ninive conservava migliaia di tavolette cuneiformi. L'impero assiro crollò nel 612 a.C. sotto l'attacco di Babilonesi e Medi. Il secondo impero babilonese, sotto Nabucodonosor II, raggiunse il massimo splendore: i giardini pensili, una delle sette meraviglie del mondo antico, e la deportazione degli Ebrei (586 a.C.).",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Babilonesi", "Assiri", "Hammurabi"],
+          "collegamenti": ["codice", "Ninive", "Nabucodonosor"]
+        }
+      ]
+    },
+    {
+      "id": "storia-antico-egitto",
+      "titolo": "L'antico Egitto",
+      "annoRiferimento": "1.",
+      "descrizione": "La civiltà del Nilo",
+      "sottoargomenti": [
+        {
+          "titolo": "Il Nilo e la nascita della civiltà egizia",
+          "riassunto": "L'Egitto è 'un dono del Nilo', come scrisse lo storico greco Erodoto. Il fiume, con le sue piene annuali, depositava limo fertile che permetteva l'agricoltura in una regione desertica. Gli Egizi svilupparono un sofisticato sistema di irrigazione con canali e dighe. La civiltà egizia nacque intorno al 3100 a.C., quando il faraone Narmer (o Menes) unificò l'Alto e il Basso Egitto. La storia egizia si divide in Antico Regno (2700-2200 a.C.), Medio Regno (2050-1750 a.C.) e Nuovo Regno (1550-1070 a.C.), intervallati da periodi intermedi di crisi. Il faraone era considerato un dio vivente, incarnazione di Horus e figlio di Ra, il dio sole. Deteneva potere assoluto: religioso, politico, militare, giudiziario. La società era rigidamente gerarchica: sotto il faraone stavano i sacerdoti e i nobili, poi gli scribi (fondamentali per l'amministrazione), gli artigiani, i contadini e infine gli schiavi. Gli scribi usavano la scrittura geroglifica per i testi sacri e monumentali, e quella ieratica e demotica per l'uso quotidiano. I geroglifici furono decifrati da Champollion nel 1822 grazie alla Stele di Rosetta.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Egitto", "Nilo", "faraone", "geroglifici"],
+          "collegamenti": ["piramidi", "mummificazione", "Champollion"]
+        },
+        {
+          "titolo": "Religione, arte e cultura egizia",
+          "riassunto": "La religione egizia era politeista, con centinaia di divinità spesso rappresentate con corpo umano e testa animale. Ra era il dio sole, Osiride il dio dei morti e della rinascita, Iside la dea della magia e della maternità, Horus il dio falco protettore del faraone, Anubi il dio sciacallo della mummificazione. Gli Egizi credevano nella vita dopo la morte: l'anima (ka e ba) doveva essere preservata attraverso la mummificazione del corpo. Il defunto affrontava il giudizio di Osiride: il suo cuore veniva pesato contro la piuma di Maat (giustizia). Il Libro dei Morti conteneva formule magiche per superare le prove dell'aldilà. Le piramidi erano tombe monumentali per i faraoni: le più famose sono quelle di Giza (Cheope, Chefren, Micerino), costruite durante l'Antico Regno. La Sfinge, con corpo di leone e testa umana, veglia sulle piramidi. Nel Nuovo Regno i faraoni furono sepolti nella Valle dei Re, in tombe scavate nella roccia. L'arte egizia seguiva canoni rigidi: le figure erano rappresentate di profilo con l'occhio frontale, secondo proporzioni fisse. Templi grandiosi come Karnak e Luxor celebravano gli dèi e i faraoni.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["religione egizia", "piramidi", "mummificazione"],
+          "collegamenti": ["Osiride", "Valle dei Re", "Giza"]
+        }
+      ]
+    },
+    {
+      "id": "storia-grecia-antica",
+      "titolo": "La Grecia antica",
+      "annoRiferimento": "1.",
+      "descrizione": "Dalla civiltà minoica all'età classica",
+      "sottoargomenti": [
+        {
+          "titolo": "Le civiltà minoica e micenea",
+          "riassunto": "La civiltà minoica fiorì a Creta tra il 2000 e il 1450 a.C. Prende il nome dal leggendario re Minosse. I Minoici costruirono grandi palazzi (Cnosso, Festo, Mallia) che erano centri politici, religiosi ed economici. Non erano fortificati, segno di una società pacifica che dominava i mari (talassocrazia). Praticavano il commercio nel Mediterraneo, avevano una scrittura (Lineare A, non ancora decifrata) e un'arte raffinata con affreschi vivaci. Il culto principale era dedicato alla Grande Madre e al toro (il mito del Minotauro). La civiltà minoica declinò forse per un terremoto o l'eruzione di Santorini. La civiltà micenea si sviluppò nella Grecia continentale tra il 1600 e il 1100 a.C. I Micenei erano guerrieri: le loro città (Micene, Tirinto, Pilo) erano fortezze con mura ciclopiche. Conquistarono Creta e adottarono elementi della cultura minoica. Usavano la scrittura Lineare B, decifrata nel 1952: era una forma arcaica di greco. La guerra di Troia, narrata da Omero, riflette probabilmente conflitti reali dell'epoca micenea. La civiltà micenea crollò intorno al 1100 a.C., forse per invasioni (i Dori) o crisi interne, dando inizio ai secoli bui.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Minoici", "Micenei", "Creta", "Cnosso"],
+          "collegamenti": ["Minotauro", "Troia", "secoli bui"]
+        },
+        {
+          "titolo": "La polis greca",
+          "riassunto": "Dopo i secoli bui (1100-800 a.C.), la Grecia rinacque con una nuova forma di organizzazione politica: la polis, la città-stato. Ogni polis era indipendente, con proprie leggi, moneta, esercito e divinità protettrice. Il territorio comprendeva la città (asty) e la campagna circostante (chora). Il centro della vita pubblica era l'agorà, la piazza del mercato e delle assemblee. L'acropoli, la parte alta fortificata, ospitava i templi. I cittadini (solo maschi adulti liberi, nati da genitori cittadini) partecipavano alla vita politica; ne erano esclusi donne, stranieri (meteci) e schiavi. Le poleis più importanti furono Atene e Sparta, con sistemi politici opposti. Sparta era un'oligarchia militare: due re, un consiglio di anziani (gerousia), cinque efori. I cittadini spartani (spartiati) erano guerrieri a tempo pieno, addestrati fin dall'infanzia (agoghé). La terra era lavorata dagli iloti, servi della gleba. Atene sviluppò la democrazia: dopo le riforme di Solone, Clistene e Pericle, tutti i cittadini partecipavano all'assemblea (ecclesia) e potevano ricoprire cariche pubbliche estratte a sorte. La democrazia ateniese era diretta, non rappresentativa.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["polis", "Atene", "Sparta", "democrazia"],
+          "collegamenti": ["agorà", "cittadinanza", "Pericle"]
+        },
+        {
+          "titolo": "Le guerre persiane",
+          "riassunto": "Le guerre persiane (490-479 a.C.) opposero le poleis greche all'Impero persiano, il più vasto del mondo antico. La causa fu la rivolta delle città greche della Ionia (costa dell'Asia Minore) contro il dominio persiano, sostenuta da Atene. Il re Dario I organizzò una spedizione punitiva. Nella prima guerra persiana (490 a.C.), i Persiani sbarcarono a Maratona, in Attica. Gli Ateniesi, guidati da Milziade, li sconfissero nonostante l'inferiorità numerica. La leggenda narra che il soldato Fidippide corse da Maratona ad Atene per annunciare la vittoria, morendo subito dopo. Nella seconda guerra persiana (480-479 a.C.), Serse, figlio di Dario, invase la Grecia con un esercito immenso. Alle Termopili, 300 spartani guidati dal re Leonida resistettero eroicamente, sacrificandosi per permettere la ritirata greca. Atene fu evacuata e incendiata. Ma la flotta greca, guidata da Temistocle, sconfisse quella persiana a Salamina. L'anno successivo, l'esercito greco vinse a Platea. Le guerre persiane rafforzarono l'identità greca e segnarono l'inizio dell'egemonia ateniese.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["guerre persiane", "Maratona", "Termopili", "Salamina"],
+          "collegamenti": ["Dario", "Serse", "Leonida", "Temistocle"]
+        }
+      ]
+    },
+    {
+      "id": "storia-roma-monarchia-repubblica",
+      "titolo": "Roma: dalla monarchia alla repubblica",
+      "annoRiferimento": "2.",
+      "descrizione": "Le origini di Roma e l'espansione repubblicana",
+      "sottoargomenti": [
+        {
+          "titolo": "Le origini di Roma",
+          "riassunto": "Secondo la leggenda, Roma fu fondata il 21 aprile 753 a.C. da Romolo, discendente dell'eroe troiano Enea. Romolo e il gemello Remo, figli del dio Marte e della vestale Rea Silvia, furono abbandonati sul Tevere e allattati da una lupa. Divenuti adulti, fondarono una città; Romolo uccise Remo in una lite sui confini e divenne il primo re. La tradizione elenca sette re: quattro latino-sabini (Romolo, Numa Pompilio, Tullo Ostilio, Anco Marzio) e tre etruschi (Tarquinio Prisco, Servio Tullio, Tarquinio il Superbo). L'archeologia conferma l'influenza etrusca su Roma arcaica. Gli Etruschi, civiltà raffinata dell'Italia centrale, trasmisero ai Romani tecniche urbanistiche, l'arco, la volta, i riti religiosi, l'alfabeto. La monarchia romana non era ereditaria: il re era eletto dal Senato, assemblea degli anziani capifamiglia (patres). La società era divisa in patrizi (aristocratici) e plebei (popolo comune). Nel 509 a.C., secondo la tradizione, i Romani cacciarono l'ultimo re Tarquinio il Superbo e fondarono la Repubblica.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["origini Roma", "monarchia", "Romolo", "Etruschi"],
+          "collegamenti": ["sette re", "patrizi", "plebei"]
+        },
+        {
+          "titolo": "La Repubblica romana",
+          "riassunto": "La Repubblica romana (509-27 a.C.) era un sistema oligarchico in cui il potere era diviso tra magistrati, Senato e assemblee popolari. I magistrati erano eletti annualmente e collegiali (due per carica) per evitare concentrazioni di potere. I consoli erano i capi dello Stato e dell'esercito; i pretori amministravano la giustizia; i censori controllavano i costumi e il censo; i questori gestivano le finanze; gli edili curavano la città. In caso di emergenza si nominava un dittatore con pieni poteri per sei mesi. Il Senato, composto da ex magistrati, dirigeva la politica estera e le finanze. Le assemblee popolari (comizi centuriati, tributi, concili della plebe) eleggevano i magistrati e votavano le leggi. Il conflitto tra patrizi e plebei durò secoli: i plebei ottennero gradualmente diritti politici, i tribuni della plebe (inviolabili, con potere di veto), l'accesso alle magistrature, le leggi scritte (Leggi delle XII Tavole, 451-450 a.C.). Le leggi Licinie-Sestie (367 a.C.) stabilirono che uno dei due consoli dovesse essere plebeo.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Repubblica", "magistrati", "Senato", "plebei"],
+          "collegamenti": ["consoli", "tribuni", "XII Tavole"]
+        },
+        {
+          "titolo": "L'espansione di Roma in Italia",
+          "riassunto": "Roma conquistò l'Italia in circa tre secoli (V-III a.C.). Le guerre contro i popoli vicini (Latini, Equi, Volsci, Etruschi) consolidarono il controllo sul Lazio. L'invasione gallica del 390 a.C., con il sacco di Roma, fu un trauma che spinse i Romani a rafforzare le difese. Le guerre sannitiche (343-290 a.C.) contro i Sanniti, popolo guerriero dell'Appennino centrale, estesero il dominio romano all'Italia centro-meridionale. La guerra contro Pirro, re dell'Epiro chiamato in aiuto dalle città greche del Sud (280-275 a.C.), portò alla conquista della Magna Grecia. La vittoria romana fu dovuta alla superiorità dell'organizzazione militare (la legione) e politica. Roma non creò un impero centralizzato ma un sistema di alleanze: le città conquistate diventavano alleate (socii) con diversi gradi di autonomia. I cittadini romani godevano di pieni diritti; i Latini avevano diritti limitati; gli alleati italici fornivano truppe ma non avevano cittadinanza. Le colonie romane e latine, fondate in punti strategici, diffondevano la cultura romana. Le strade (via Appia, via Flaminia) collegavano Roma ai territori conquistati.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["espansione", "legione", "alleati", "colonie"],
+          "collegamenti": ["Sanniti", "Pirro", "Magna Grecia"]
+        }
+      ]
+    },
+    {
+      "id": "storia-roma-impero",
+      "titolo": "Roma imperiale",
+      "annoRiferimento": "2.",
+      "descrizione": "Dalle guerre puniche alla caduta dell'Impero",
+      "sottoargomenti": [
+        {
+          "titolo": "Le guerre puniche",
+          "riassunto": "Le guerre puniche (264-146 a.C.) opposero Roma a Cartagine, potenza commerciale fenicia del Nord Africa, per il controllo del Mediterraneo. La prima guerra punica (264-241 a.C.) fu combattuta per la Sicilia. Roma, priva di flotta, ne costruì una copiando una nave cartaginese arenata. Dopo alterne vicende, la vittoria delle Egadi diede a Roma la Sicilia, prima provincia romana. La seconda guerra punica (218-201 a.C.) fu la più drammatica. Il generale cartaginese Annibale attraversò le Alpi con gli elefanti e inflisse ai Romani terribili sconfitte: al Ticino, alla Trebbia, al Trasimeno, a Canne (216 a.C.), dove morirono 50.000 Romani. Ma Roma non si arrese. Scipione l'Africano portò la guerra in Africa e sconfisse Annibale a Zama (202 a.C.). Cartagine perse la Spagna e la flotta. La terza guerra punica (149-146 a.C.) si concluse con la distruzione totale di Cartagine: la città fu rasa al suolo e il territorio divenne provincia romana. Roma era ormai la potenza egemone del Mediterraneo.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["guerre puniche", "Annibale", "Scipione", "Cartagine"],
+          "collegamenti": ["Canne", "Zama", "Mediterraneo"]
+        },
+        {
+          "titolo": "La crisi della Repubblica",
+          "riassunto": "Le conquiste trasformarono la società romana. L'afflusso di schiavi e ricchezze arricchì i nobili ma rovinò i piccoli contadini, che non potevano competere con le grandi proprietà schiavistiche (latifondi). I contadini impoveriti affluivano a Roma, formando una plebe urbana disoccupata. I fratelli Gracchi tentarono riforme agrarie (133-121 a.C.) ma furono uccisi. La guerra sociale (91-88 a.C.) costrinse Roma a concedere la cittadinanza agli alleati italici. Emersero i generali-politici che usavano gli eserciti per fini personali. Mario riformò l'esercito reclutando i proletari, creando un esercito professionale fedele al comandante più che alla Repubblica. Silla marciò su Roma e instaurò una dittatura (82-79 a.C.). Seguirono le guerre civili: Cesare contro Pompeo (49-45 a.C.), poi Ottaviano contro Antonio (32-30 a.C.). Giulio Cesare, conquistatore della Gallia, attraversò il Rubicone ('il dado è tratto'), sconfisse Pompeo e divenne dittatore perpetuo. Fu assassinato alle Idi di marzo del 44 a.C. da congiurati repubblicani guidati da Bruto e Cassio.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["crisi Repubblica", "Gracchi", "Cesare", "guerre civili"],
+          "collegamenti": ["Mario", "Silla", "Rubicone"]
+        },
+        {
+          "titolo": "L'Impero romano",
+          "riassunto": "Dopo la vittoria su Antonio e Cleopatra ad Azio (31 a.C.), Ottaviano rimase padrone di Roma. Nel 27 a.C. il Senato gli conferì il titolo di Augusto e poteri straordinari: nasceva l'Impero, formalmente una 'restaurazione della Repubblica'. Augusto mantenne le istituzioni repubblicane ma concentrò tutti i poteri. Il suo lungo regno (27 a.C.-14 d.C.) fu un'epoca di pace (pax romana) e prosperità. L'Impero raggiunse la massima estensione sotto Traiano (98-117 d.C.): dal Vallo di Adriano in Britannia all'Eufrate, dal Reno e Danubio al Sahara. La romanizzazione diffuse lingua, diritto, urbanistica, cultura romana. Le città avevano foro, terme, anfiteatro, acquedotti. Il diritto romano, codificato nel Corpus Iuris Civilis di Giustiniano, è alla base del diritto occidentale. La crisi del III secolo (anarchia militare, invasioni, epidemie, crisi economica) fu superata da Diocleziano con la tetrarchia e da Costantino, che legalizzò il cristianesimo (Editto di Milano, 313) e fondò Costantinopoli. Nel 395 l'Impero fu diviso definitivamente in Occidentale e Orientale. L'Impero d'Occidente cadde nel 476, quando Odoacre depose l'ultimo imperatore Romolo Augustolo.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 8,
+          "tags": ["Impero", "Augusto", "pax romana", "caduta"],
+          "collegamenti": ["Traiano", "Costantino", "476"]
+        }
+      ]
+    },
+    {
+      "id": "storia-medioevo",
+      "titolo": "L'Alto Medioevo",
+      "annoRiferimento": "3.",
+      "descrizione": "I regni romano-barbarici e l'Europa feudale",
+      "sottoargomenti": [
+        {
+          "titolo": "I regni romano-barbarici",
+          "riassunto": "Dopo la caduta dell'Impero d'Occidente (476), l'Europa fu divisa in regni romano-barbarici, dove popolazioni germaniche governavano su maggioranze romane. I Visigoti si stanziarono in Spagna, i Vandali in Africa, gli Ostrogoti in Italia sotto Teodorico (493-526), i Franchi in Gallia, gli Angli e i Sassoni in Britannia. Questi regni mantennero in parte le strutture romane (amministrazione, diritto, lingua latina) ma introdussero elementi germanici (diritto consuetudinario, assemblee di guerrieri). La convivenza tra Romani e Germani fu spesso difficile: i Germani erano ariani (eresia cristiana), i Romani cattolici. La Chiesa cattolica divenne l'unica istituzione sopravvissuta al crollo imperiale, conservando la cultura latina e fornendo quadri amministrativi. I vescovi assunsero funzioni civili. Il monachesimo, nato in Oriente, si diffuse in Occidente: San Benedetto fondò Montecassino (529) e scrisse la Regola ('ora et labora'). I monasteri furono centri di cultura, agricoltura, assistenza. L'Impero bizantino, erede dell'Impero romano d'Oriente, sopravvisse fino al 1453 e sotto Giustiniano (527-565) tentò di riconquistare l'Occidente.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["regni barbarici", "Teodorico", "monachesimo"],
+          "collegamenti": ["Benedetto", "Giustiniano", "Chiesa"]
+        },
+        {
+          "titolo": "L'Islam e l'espansione araba",
+          "riassunto": "Nel VII secolo nacque l'Islam, religione monoteista fondata dal profeta Maometto (570-632) nella penisola arabica. Maometto ricevette la rivelazione divina, raccolta nel Corano, libro sacro dell'Islam. I cinque pilastri dell'Islam sono: la professione di fede (shahada), la preghiera cinque volte al giorno, l'elemosina, il digiuno nel mese di Ramadan, il pellegrinaggio alla Mecca. Dopo la morte di Maometto, i califfi (successori) guidarono una straordinaria espansione: in un secolo gli Arabi conquistarono il Medio Oriente, la Persia, l'Egitto, il Nord Africa, la Spagna. Furono fermati a Poitiers da Carlo Martello (732). L'Impero arabo, prima sotto gli Omayyadi (capitale Damasco) poi sotto gli Abbasidi (capitale Baghdad), fu un centro di civiltà: gli Arabi tradussero e trasmisero la cultura greca, svilupparono matematica (algebra, numeri arabi), astronomia, medicina, filosofia. Le città arabe (Baghdad, Cordova, Il Cairo) erano tra le più grandi e colte del mondo. La Spagna musulmana (al-Andalus) fu un esempio di convivenza tra culture.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Islam", "Maometto", "Corano", "espansione araba"],
+          "collegamenti": ["califfi", "Baghdad", "al-Andalus"]
+        },
+        {
+          "titolo": "Carlo Magno e il feudalesimo",
+          "riassunto": "I Franchi, convertiti al cattolicesimo con Clodoveo (496), divennero il regno più potente d'Occidente. Carlo Magno (768-814) creò un vasto impero comprendente Francia, Germania, Italia settentrionale. La notte di Natale dell'800, papa Leone III lo incoronò imperatore, restaurando simbolicamente l'Impero romano d'Occidente. Carlo Magno promosse una rinascita culturale (rinascita carolingia): scuole presso le cattedrali, copia di manoscritti antichi, riforma della scrittura (minuscola carolina). L'impero carolingio si disgregò dopo la sua morte: con il Trattato di Verdun (843) fu diviso tra i nipoti in tre regni, nucleo di Francia, Germania e Italia. Le invasioni di Saraceni, Ungari e Vichinghi (IX-X secolo) accelerarono la frammentazione del potere. Nacque il feudalesimo: il re concedeva terre (feudi) ai vassalli in cambio di fedeltà e servizio militare. I vassalli potevano a loro volta concedere terre a valvassori. Il rapporto feudale era personale, basato su giuramento e investitura. I contadini (servi della gleba) erano legati alla terra e dovevano prestazioni al signore. Il castello era il centro del potere locale.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Carlo Magno", "feudalesimo", "vassalli", "feudo"],
+          "collegamenti": ["800", "Verdun", "invasioni"]
+        }
+      ]
+    },
+    {
+      "id": "storia-basso-medioevo",
+      "titolo": "Il Basso Medioevo",
+      "annoRiferimento": "3.",
+      "descrizione": "Comuni, crociate e rinascita dell'anno Mille",
+      "sottoargomenti": [
+        {
+          "titolo": "La rinascita dell'anno Mille",
+          "riassunto": "Dopo il Mille, l'Europa conobbe una fase di crescita demografica, economica e culturale. Le cause furono: la fine delle invasioni, innovazioni agricole (aratro pesante, rotazione triennale, mulini), il disboscamento di nuove terre. La popolazione europea raddoppiò tra il 1000 e il 1300. Rinacquero i commerci: le repubbliche marinare italiane (Amalfi, Pisa, Genova, Venezia) dominavano il Mediterraneo; le fiere della Champagne collegavano Nord e Sud Europa. Rinacquero le città, centri di artigianato e commercio. In Italia nacquero i Comuni, città che si autogovernarono sottraendosi al controllo di vescovi e signori feudali. Il Comune era retto da consoli eletti dai cittadini (inizialmente solo i nobili, poi anche i mercanti e artigiani organizzati in corporazioni). La lotta per le investiture (1075-1122) oppose il papato all'Impero per la nomina dei vescovi. Gregorio VII scomunicò l'imperatore Enrico IV, che dovette umiliarsi a Canossa (1077). Il Concordato di Worms (1122) fu un compromesso. Nacquero le università: Bologna (diritto), Parigi (teologia), Salerno (medicina).",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["anno Mille", "Comuni", "rinascita", "università"],
+          "collegamenti": ["repubbliche marinare", "investiture", "Canossa"]
+        },
+        {
+          "titolo": "Le Crociate",
+          "riassunto": "Le Crociate (1095-1291) furono spedizioni militari per liberare la Terra Santa dal dominio musulmano. Papa Urbano II le proclamò al Concilio di Clermont (1095) promettendo l'indulgenza plenaria. Le motivazioni erano religiose (pellegrinaggio armato), economiche (commerci con l'Oriente), politiche (espansione), sociali (sfogo per la nobiltà cadetta). La prima crociata (1096-1099) conquistò Gerusalemme e fondò gli Stati crociati (Regno di Gerusalemme, Contea di Edessa, Principato di Antiochia, Contea di Tripoli). Nacquero gli ordini monastico-cavallereschi: Templari, Ospitalieri, Teutonici. La seconda crociata (1147-1149) fallì. Il sultano Saladino riconquistò Gerusalemme (1187). La terza crociata (1189-1192), con Federico Barbarossa, Filippo II di Francia e Riccardo Cuor di Leone, non riconquistò Gerusalemme ma ottenne l'accesso ai pellegrini. La quarta crociata (1202-1204) deviò verso Costantinopoli, saccheggiata dai crociati. Le crociate successive fallirono. Nel 1291 cadde San Giovanni d'Acri, ultima roccaforte crociata. Le crociate intensificarono i contatti tra Occidente e Oriente, favorendo commerci e scambi culturali.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Crociate", "Terra Santa", "Saladino", "ordini cavallereschi"],
+          "collegamenti": ["Gerusalemme", "Templari", "Costantinopoli"]
+        },
+        {
+          "titolo": "La crisi del Trecento",
+          "riassunto": "Il XIV secolo fu un'epoca di crisi profonda. La crescita demografica si arrestò: le terre marginali, meno fertili, non producevano abbastanza. Carestie ricorrenti indebolirono la popolazione. Nel 1347-1351 la peste nera, portata dall'Asia lungo le vie commerciali, uccise un terzo della popolazione europea (25-30 milioni di persone). Le conseguenze furono enormi: crollo demografico, abbandono delle campagne, carenza di manodopera, aumento dei salari, rivolte contadine (Jacquerie in Francia, rivolta dei Ciompi a Firenze). La Chiesa attraversò una grave crisi: la cattività avignonese (1309-1377) vide i papi risiedere ad Avignone sotto influenza francese; il Grande Scisma (1378-1417) divise la cristianità tra due e poi tre papi. La Guerra dei Cent'anni (1337-1453) oppose Francia e Inghilterra per la successione al trono francese. Giovanna d'Arco guidò la riscossa francese. La crisi del Trecento segnò la fine del Medioevo e preparò le trasformazioni del Rinascimento.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["crisi Trecento", "peste nera", "Scisma", "Guerra Cent'anni"],
+          "collegamenti": ["carestie", "Avignone", "Giovanna d'Arco"]
+        }
+      ]
+    },
     {
       "id": "storia-rivoluzione-francese-completa",
       "titolo": "Rivoluzione francese",

@@ -8,11 +8,190 @@ module.exports = {
     "colore": "#E67E22",
     "icona": "scroll",
     "annoScolastico": [
+      "1.",
+      "2.",
+      "3.",
       "4.",
       "5."
     ]
   },
   "argomenti": [
+    {
+      "id": "lat-grammatica-base",
+      "titolo": "Fondamenti di grammatica latina",
+      "annoRiferimento": "1.",
+      "descrizione": "Le basi della lingua latina",
+      "sottoargomenti": [
+        {
+          "titolo": "L'alfabeto e la pronuncia",
+          "riassunto": "Il latino usa l'alfabeto latino di 23 lettere (manca J, U, W). La pronuncia può essere classica (restituta) o ecclesiastica. Nella pronuncia classica: C è sempre dura (Cicero = Kikero), G sempre dura, V si pronuncia U (veni = ueni), AE e OE sono dittonghi (Caesar = Kaisar), PH = P aspirata, TI + vocale = ti (non zi). L'accento cade sulla penultima sillaba se è lunga, altrimenti sulla terzultima (legge della penultima). La quantità vocalica distingue vocali lunghe (ā) e brevi (ă); è fondamentale per la metrica. I dittonghi (ae, oe, au) sono sempre lunghi. La sillaba è lunga se contiene vocale lunga, dittongo, o vocale seguita da due consonanti. Il latino non ha articoli; il genere grammaticale (maschile, femminile, neutro) non sempre corrisponde al sesso. I casi sono sei: nominativo (soggetto), genitivo (specificazione), dativo (termine), accusativo (oggetto), vocativo (chiamata), ablativo (complementi vari). La flessione nominale comprende cinque declinazioni.",
+          "livelloDifficolta": "base",
+          "tempoLettura": 6,
+          "tags": ["alfabeto", "pronuncia", "accento", "casi"],
+          "collegamenti": ["declinazioni", "grammatica", "fonetica"]
+        },
+        {
+          "titolo": "Le cinque declinazioni",
+          "riassunto": "La prima declinazione comprende nomi femminili in -a (rosa, rosae). Eccezioni maschili: poeta, nauta, agricola. Genitivo singolare in -ae. La seconda declinazione comprende maschili in -us/-er (dominus, puer, ager) e neutri in -um (bellum). Genitivo in -i. I neutri hanno nominativo, accusativo e vocativo uguali. La terza declinazione è la più varia: comprende tutti i generi con temi in consonante o in -i. Si divide in imparisillabi (consul, consulis) e parisillabi (civis, civis). Il genitivo plurale è -um o -ium. I neutri in -e, -al, -ar hanno ablativo in -i. La quarta declinazione comprende maschili in -us (fructus) e neutri in -u (cornu). Genitivo in -us. La quinta declinazione comprende femminili in -es (res, dies). Genitivo in -ei. Dies è maschile quando indica giorno specifico. Particolarità: nomi difettivi (mancano di alcuni casi), nomi indeclinabili, pluralia tantum (castra, arma), nomi con significato diverso al plurale (littera/litterae).",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["declinazioni", "sostantivi", "casi", "genere"],
+          "collegamenti": ["aggettivi", "pronomi", "sintassi"]
+        },
+        {
+          "titolo": "Gli aggettivi e i pronomi",
+          "riassunto": "Gli aggettivi della prima classe seguono la prima e seconda declinazione: bonus, -a, -um. Gli aggettivi della seconda classe seguono la terza declinazione: a tre uscite (acer, acris, acre), a due uscite (fortis, forte), a un'uscita (felix, felicis). I gradi dell'aggettivo: positivo (altus), comparativo di maggioranza (-ior, -ius: altior), superlativo (-issimus: altissimus). Comparativi e superlativi irregolari: bonus/melior/optimus, malus/peior/pessimus, magnus/maior/maximus, parvus/minor/minimus. I pronomi personali: ego, tu, nos, vos; il riflessivo se. I possessivi: meus, tuus, suus, noster, vester. I dimostrativi: hic (questo vicino a chi parla), iste (codesto vicino a chi ascolta), ille (quello lontano), is (egli/quello), idem (lo stesso), ipse (stesso, proprio). I relativi: qui, quae, quod (che, il quale). Gli interrogativi: quis, quid (chi, che cosa). Gli indefiniti: aliquis, quidam, nemo, nihil, omnis, totus.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["aggettivi", "pronomi", "comparativo", "superlativo"],
+          "collegamenti": ["declinazioni", "concordanza", "sintassi"]
+        }
+      ]
+    },
+    {
+      "id": "lat-verbo",
+      "titolo": "Il sistema verbale latino",
+      "annoRiferimento": "1.",
+      "descrizione": "Coniugazioni e tempi verbali",
+      "sottoargomenti": [
+        {
+          "titolo": "Le quattro coniugazioni",
+          "riassunto": "Il verbo latino si enuncia con quattro forme: prima persona singolare presente indicativo, infinito presente, prima persona singolare perfetto, supino (amo, amare, amavi, amatum). Le quattro coniugazioni si distinguono dalla vocale tematica: prima in -a (amare), seconda in -e (monere), terza in consonante o -i breve (legere, capere), quarta in -i lunga (audire). I modi sono: indicativo (realtà), congiuntivo (possibilità, volontà), imperativo (comando), infinito, participio, gerundio, gerundivo, supino. I tempi del sistema del presente (infectum): presente, imperfetto, futuro semplice. I tempi del sistema del perfetto (perfectum): perfetto, piuccheperfetto, futuro anteriore. Le diatesi sono attiva e passiva. La coniugazione passiva usa le stesse desinenze per l'infectum; per il perfectum usa il participio perfetto + sum (amatus sum = sono stato amato). I verbi deponenti hanno forma passiva ma significato attivo (hortor = esorto).",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["coniugazioni", "tempi", "modi", "diatesi"],
+          "collegamenti": ["indicativo", "congiuntivo", "infinito"]
+        },
+        {
+          "titolo": "Indicativo e congiuntivo",
+          "riassunto": "L'indicativo esprime la realtà. Presente: amo, amas, amat, amamus, amatis, amant. Imperfetto: amabam (azione durativa nel passato). Futuro semplice: amabo (prima e seconda coniugazione), legam (terza e quarta). Perfetto: amavi (azione compiuta nel passato, corrisponde a passato prossimo e remoto). Piuccheperfetto: amaveram (azione anteriore a un'altra passata). Futuro anteriore: amavero (azione futura anteriore a un'altra futura). Il congiuntivo esprime possibilità, desiderio, dubbio. Presente: amem (esortativo, dubitativo, potenziale). Imperfetto: amarem (irrealtà nel presente, desiderio). Perfetto: amaverim (possibilità nel passato). Piuccheperfetto: amavissem (irrealtà nel passato). Il congiuntivo è molto usato nelle subordinate: finali (ut + congiuntivo), consecutive (ut + congiuntivo), causali (cum + congiuntivo), concessive, relative improprie. La consecutio temporum regola il tempo del congiuntivo nelle subordinate in base al tempo della reggente.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["indicativo", "congiuntivo", "tempi", "consecutio"],
+          "collegamenti": ["subordinate", "sintassi", "periodo"]
+        }
+      ]
+    },
+    {
+      "id": "lat-sintassi-casi",
+      "titolo": "Sintassi dei casi",
+      "annoRiferimento": "2.",
+      "descrizione": "Funzioni e complementi",
+      "sottoargomenti": [
+        {
+          "titolo": "Nominativo, genitivo e dativo",
+          "riassunto": "Il nominativo è il caso del soggetto e del predicato nominale. Il soggetto concorda con il verbo in persona e numero. Il predicato nominale richiede il verbo sum o verbi copulativi (videor, fio). La costruzione personale di videor: Cicero doctus videtur (Cicerone sembra dotto). Il genitivo esprime la specificazione. Genitivo soggettivo: amor patris (l'amore del padre = che il padre prova). Genitivo oggettivo: amor patris (l'amore per il padre). Genitivo partitivo: pars militum (parte dei soldati). Genitivo di qualità: vir magnae virtutis (uomo di grande valore). Genitivo di stima: magni aestimare (stimare molto). Genitivo con verbi di memoria (memini, obliviscor), interesse (interest, refert), accusa (accusare + genitivo del reato). Il dativo è il caso del termine. Dativo di vantaggio/svantaggio: mihi scribo (scrivo per me). Dativo di possesso: mihi est liber (ho un libro). Dativo d'agente con perifrastica passiva: mihi legendum est (devo leggere). Doppio dativo: hoc mihi curae est (questo mi è di preoccupazione).",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["nominativo", "genitivo", "dativo", "complementi"],
+          "collegamenti": ["casi", "sintassi", "verbi"]
+        },
+        {
+          "titolo": "Accusativo e ablativo",
+          "riassunto": "L'accusativo è il caso dell'oggetto diretto. Accusativo di relazione: dolere caput (soffrire alla testa). Accusativo di estensione: mille passus (mille passi). Accusativo di moto a luogo con preposizioni (in, ad) o senza per nomi di città e piccole isole (Romam eo). Doppio accusativo con verbi come doceo, rogo, celo: doceo te grammaticam (insegno a te la grammatica). Accusativo esclamativo: me miserum! (me infelice!). L'ablativo è il caso più ricco di funzioni. Ablativo di allontanamento: ab urbe (dalla città). Ablativo di origine: natus patre nobili (nato da padre nobile). Ablativo di agente: a milite (dal soldato). Ablativo di causa efficiente: gladio (con la spada). Ablativo di modo: magna cum cura (con grande cura). Ablativo di mezzo: gladio pugnare (combattere con la spada). Ablativo di compagnia: cum amicis (con gli amici). Ablativo di tempo: hac nocte (questa notte). Ablativo di luogo: in urbe (in città), Romae (a Roma, locativo). Ablativo assoluto: participio + sostantivo in ablativo con valore temporale, causale, concessivo: Caesare duce (essendo Cesare comandante).",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["accusativo", "ablativo", "complementi", "preposizioni"],
+          "collegamenti": ["casi", "ablativo assoluto", "sintassi"]
+        }
+      ]
+    },
+    {
+      "id": "lat-cesare",
+      "titolo": "Gaio Giulio Cesare",
+      "annoRiferimento": "2.",
+      "descrizione": "Il conquistatore della Gallia e scrittore",
+      "sottoargomenti": [
+        {
+          "titolo": "Vita e carriera politica",
+          "riassunto": "Gaio Giulio Cesare (100-44 a.C.) nacque da una famiglia patrizia che vantava discendenza da Venere attraverso Enea. La gens Iulia era antica ma decaduta; Cesare si legò ai populares attraverso il matrimonio con Cornelia, figlia di Cinna. Sotto Silla dovette fuggire; tornato a Roma, iniziò la carriera politica: questore in Spagna (69), edile (65), pontefice massimo (63), pretore (62), propretore in Spagna (61). Nel 60 a.C. formò il primo triumvirato con Pompeo e Crasso, accordo privato per controllare la politica romana. Console nel 59, ottenne il proconsolato della Gallia Cisalpina, Narbonense e Illirico per cinque anni. La conquista della Gallia (58-50 a.C.) fu un'impresa militare straordinaria: sottomise popolazioni celtiche, respinse Germani e Britanni, accumulò ricchezze e un esercito fedele. Alla morte di Crasso (53) e alla rottura con Pompeo, il Senato gli ordinò di deporre il comando. Il 10 gennaio 49 a.C. Cesare attraversò il Rubicone con la celebre frase 'alea iacta est' (il dado è tratto), dando inizio alla guerra civile. Sconfisse Pompeo a Farsalo (48), lo inseguì in Egitto dove Pompeo fu ucciso. Relazione con Cleopatra. Dittatore perpetuo, fu assassinato alle Idi di marzo del 44 a.C. da congiurati guidati da Bruto e Cassio.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Cesare", "biografia", "Gallia", "guerra civile"],
+          "collegamenti": ["triumvirato", "Pompeo", "Rubicone"]
+        },
+        {
+          "titolo": "Il De bello Gallico",
+          "riassunto": "Il De bello Gallico (Commentarii de bello Gallico) è un'opera in sette libri che narra la conquista della Gallia dal 58 al 52 a.C. Un ottavo libro fu aggiunto da Aulo Irzio. Il genere è il commentarius, memoria di fatti destinata a fornire materiale agli storici; Cesare lo eleva a opera letteraria. La struttura: ogni libro corrisponde a un anno di guerra. Libro I: campagna contro Elvezi e Ariovisto. Libro II: campagna contro Belgi. Libro III: campagna in Aquitania e Armorica. Libro IV: spedizioni contro Germani e prima spedizione in Britannia. Libro V: seconda spedizione in Britannia, rivolta di Ambiorige. Libro VI: seconda spedizione in Germania, excursus etnografici. Libro VII: grande rivolta di Vercingetorige, assedio di Alesia. Lo stile è caratterizzato dalla brevitas (concisione), chiarezza, oggettività apparente. Cesare parla di sé in terza persona, creando distacco e autorevolezza. Il lessico è puro, senza arcaismi né grecismi; la sintassi è lineare con prevalenza di coordinate. L'opera ha finalità propagandistiche: giustifica la guerra, esalta le virtù romane, presenta Cesare come difensore di Roma. Gli excursus etnografici su Galli, Germani e Britanni hanno valore documentario.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["De bello Gallico", "commentarii", "stile", "propaganda"],
+          "collegamenti": ["Gallia", "Vercingetorige", "Alesia"]
+        }
+      ]
+    },
+    {
+      "id": "lat-cicerone",
+      "titolo": "Marco Tullio Cicerone",
+      "annoRiferimento": "3.",
+      "descrizione": "Il principe dell'eloquenza romana",
+      "sottoargomenti": [
+        {
+          "titolo": "Vita e carriera oratoria",
+          "riassunto": "Marco Tullio Cicerone (106-43 a.C.) nacque ad Arpino da famiglia equestre. Studiò retorica, filosofia e diritto a Roma, Atene e Rodi. Homo novus (primo della famiglia a raggiungere il consolato), percorse il cursus honorum: questore in Sicilia (75), edile (69), pretore (66), console (63). Durante il consolato sventò la congiura di Catilina, pronunciando le quattro Catilinarie che gli valsero il titolo di pater patriae. Nel 58 fu esiliato per aver fatto giustiziare i catilinari senza processo; tornò trionfalmente nel 57. Durante la guerra civile si schierò con Pompeo; dopo Farsalo fu perdonato da Cesare. Dopo le Idi di marzo attaccò Antonio con le Filippiche (14 orazioni). Inserito nelle liste di proscrizione del secondo triumvirato, fu ucciso il 7 dicembre 43 a.C. La sua produzione comprende: orazioni (58 conservate), opere retoriche (De oratore, Brutus, Orator), opere filosofiche (De re publica, De legibus, De finibus, Tusculanae, De officiis), epistolario (oltre 900 lettere). Cicerone è il modello dell'eloquenza latina; il suo stile, la periodicità ciceroniana, divenne canone per secoli.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Cicerone", "biografia", "oratore", "console"],
+          "collegamenti": ["Catilina", "Filippiche", "eloquenza"]
+        },
+        {
+          "titolo": "Le orazioni e la retorica",
+          "riassunto": "Le orazioni ciceroniane si dividono in giudiziarie (in tribunale) e deliberative (in Senato o assemblee). Tra le giudiziarie: Pro Roscio Amerino (80 a.C.), esordio brillante contro un liberto di Silla; Verrine (70), requisitoria contro il governatore corrotto della Sicilia, capolavoro di documentazione; Pro Archia (62), difesa del poeta greco, elogio della cultura; Pro Milone (52), difesa dell'uccisore di Clodio. Tra le deliberative: Catilinarie (63), quattro orazioni contro la congiura; Filippiche (44-43), quattordici orazioni contro Antonio. La struttura dell'orazione comprende: exordium (introduzione per catturare l'attenzione), narratio (esposizione dei fatti), argumentatio (prove a favore e confutazione), peroratio (conclusione emotiva). Lo stile ciceroniano è caratterizzato dalla concinnitas (armonia), dal periodo ampio e articolato (periodicità), dall'uso sapiente delle figure retoriche, dalla variatio. Cicerone teorizzò la retorica nel De oratore (dialogo sull'oratore ideale), nel Brutus (storia dell'eloquenza romana), nell'Orator (l'oratore perfetto). L'oratore deve possedere inventio, dispositio, elocutio, memoria, actio.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["orazioni", "retorica", "Catilinarie", "stile"],
+          "collegamenti": ["eloquenza", "Verrine", "De oratore"]
+        }
+      ]
+    },
+    {
+      "id": "lat-virgilio",
+      "titolo": "Publio Virgilio Marone",
+      "annoRiferimento": "3.",
+      "descrizione": "Il poeta nazionale romano",
+      "sottoargomenti": [
+        {
+          "titolo": "Vita e opere minori",
+          "riassunto": "Publio Virgilio Marone (70-19 a.C.) nacque ad Andes presso Mantova da famiglia agiata. Studiò a Cremona, Milano, Roma e Napoli, dove frequentò la scuola epicurea di Sirone. Visse appartato, dedito agli studi; entrò nel circolo di Mecenate e godette della protezione di Augusto. Le Bucoliche (42-39 a.C.) sono dieci ecloghe (componimenti scelti) di poesia pastorale sul modello di Teocrito. Pastori idealizzati cantano amori, gare poetiche, la vita agreste. L'ecloga I riflette le confische di terre dopo Filippi; la IV (messianic) annuncia la nascita di un puer che porterà l'età dell'oro (interpretata dai cristiani come profezia di Cristo). Le Georgiche (37-30 a.C.) sono un poema didascalico in quattro libri sull'agricoltura: libro I (cereali), II (arboricoltura e vite), III (allevamento), IV (apicoltura). Oltre al contenuto tecnico, celebrano il lavoro dei campi come fondamento della grandezza romana e della pace augustea. Il finale del IV libro narra il mito di Orfeo ed Euridice. Lo stile è elevato, ricco di digressioni poetiche (laus Italiae, laus veris).",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Virgilio", "Bucoliche", "Georgiche", "Mecenate"],
+          "collegamenti": ["poesia", "Augusto", "Eneide"]
+        },
+        {
+          "titolo": "L'Eneide: struttura e temi",
+          "riassunto": "L'Eneide è il poema epico nazionale romano, composto negli ultimi undici anni di vita (29-19 a.C.) e rimasto incompiuto. Virgilio morente chiese di bruciarlo; Augusto ne ordinò la pubblicazione. Dodici libri in esametri narrano le vicende di Enea dalla caduta di Troia alla vittoria nel Lazio. Struttura: libri I-VI (odissiaci, viaggi), libri VII-XII (iliadici, guerre). Libro I: tempesta, arrivo a Cartagine. Libri II-III: racconto a Didone (caduta di Troia, peregrinazioni). Libro IV: amore e morte di Didone. Libro V: giochi funebri per Anchise. Libro VI: discesa nell'Ade, profezia di Anchise. Libri VII-XII: guerre nel Lazio, morte di Turno. I temi: il fato guida Enea verso la fondazione di Roma; la pietas (devozione a dèi, patria, famiglia) è la virtù centrale; il costo umano della storia (lacrimae rerum); la celebrazione di Roma e Augusto. Lo stile è sublime: esametro perfetto, similitudini omeriche, pathos intenso. L'Eneide divenne il poema di Roma, studiato nelle scuole, imitato per secoli, modello per Dante.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Eneide", "Enea", "epica", "Didone"],
+          "collegamenti": ["Roma", "Augusto", "fato"]
+        }
+      ]
+    },
+    {
+      "id": "lat-orazio",
+      "titolo": "Quinto Orazio Flacco",
+      "annoRiferimento": "3.",
+      "descrizione": "Il poeta della misura e dell'equilibrio",
+      "sottoargomenti": [
+        {
+          "titolo": "Vita e poetica",
+          "riassunto": "Quinto Orazio Flacco (65-8 a.C.) nacque a Venosa da padre liberto. Studiò a Roma e Atene; combatté a Filippi con Bruto. Tornato a Roma, impoverito, divenne scriba quaestorius. Virgilio lo presentò a Mecenate (38 a.C.), che gli donò la villa sabina. Visse appartato, rifiutando incarichi pubblici, dedicandosi alla poesia. Le opere: Satire (Sermones, due libri), Epodi (Iambi), Odi (Carmina, quattro libri), Epistole (due libri, inclusa l'Ars poetica). La poetica oraziana si fonda sull'aurea mediocritas (aurea mediocrità), ideale di equilibrio e misura. Il carpe diem (cogli l'attimo) invita a godere il presente senza angosciarsi per il futuro. L'angulus (angolo) è il rifugio dalla vita pubblica. L'autarkeia (autosufficienza) epicurea si fonde con la saggezza stoica. Lo stile è caratterizzato dalla labor limae (lavoro di lima), dalla callida iunctura (accostamento sapiente di parole), dalla brevitas. Orazio teorizzò la poesia nell'Ars poetica: ut pictura poesis (la poesia è come la pittura), miscere utile dulci (mescolare utile e dilettevole).",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Orazio", "carpe diem", "aurea mediocritas", "Mecenate"],
+          "collegamenti": ["Odi", "Satire", "Epistole"]
+        },
+        {
+          "titolo": "Le Odi e le Satire",
+          "riassunto": "Le Odi (Carmina) sono 103 componimenti in quattro libri, il capolavoro di Orazio. Riprendono la lirica greca (Alceo, Saffo, Anacreonte) adattandola alla sensibilità romana. I temi: l'amore (Lidia, Cloe, Pirra), il simposio, l'amicizia, la fugacità del tempo, la morte, la poesia, la celebrazione di Augusto. Le odi romane (III, 1-6) esaltano le virtù tradizionali e il programma augusteo. L'ode III, 30 (Exegi monumentum) proclama l'immortalità della poesia. Lo stile è elevato, denso, allusivo; la metrica è varia (strofe alcaica, saffica, asclepiadea). Le Satire (Sermones) sono 18 componimenti in esametri, in tono colloquiale (sermo). Satira come genere romano (Lucilio): critica bonaria dei vizi, non invettiva. Temi: l'avarizia, l'ambizione, la gastronomia, i seccatori, la vita letteraria. Celebre la satira I, 9 (il seccatore). Lo stile è medio, vicino al parlato. Gli Epodi sono 17 componimenti in metri giambici, più aggressivi, sul modello di Archiloco. Le Epistole sono riflessioni filosofiche in forma epistolare; l'Epistola ai Pisoni (Ars poetica) è un trattato di poetica.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Odi", "Satire", "lirica", "carpe diem"],
+          "collegamenti": ["poesia", "Augusto", "Ars poetica"]
+        }
+      ]
+    },
     {
       "id": "lat-seneca",
       "titolo": "Lucio Anneo Seneca",

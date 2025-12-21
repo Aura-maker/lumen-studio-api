@@ -8,11 +8,206 @@ module.exports = {
     "colore": "#3498DB",
     "icona": "atom",
     "annoScolastico": [
+      "1.",
+      "2.",
+      "3.",
       "4.",
       "5."
     ]
   },
   "argomenti": [
+    {
+      "id": "fis-grandezze-misure",
+      "titolo": "Grandezze e misure",
+      "annoRiferimento": "1.",
+      "descrizione": "Il metodo scientifico e le grandezze fisiche",
+      "sottoargomenti": [
+        {
+          "titolo": "Il metodo scientifico",
+          "riassunto": "La fisica è la scienza che studia i fenomeni naturali cercando leggi quantitative. Il metodo scientifico, sviluppato da Galileo Galilei nel XVII secolo, si basa su: osservazione del fenomeno, formulazione di un'ipotesi, verifica sperimentale, formulazione di una legge. Un'ipotesi deve essere falsificabile: deve essere possibile progettare un esperimento che la smentisca. Una teoria è un insieme coerente di leggi che spiega una classe di fenomeni. Il modello è una rappresentazione semplificata della realtà che ne cattura gli aspetti essenziali. La fisica si divide in: meccanica (moto e forze), termodinamica (calore e temperatura), elettromagnetismo (cariche e campi), ottica (luce), fisica moderna (relatività e quantistica). Le grandezze fisiche sono proprietà misurabili: fondamentali (definite indipendentemente) e derivate (combinazioni delle fondamentali). Il Sistema Internazionale (SI) definisce sette grandezze fondamentali: lunghezza (metro, m), massa (chilogrammo, kg), tempo (secondo, s), corrente elettrica (ampere, A), temperatura (kelvin, K), quantità di sostanza (mole, mol), intensità luminosa (candela, cd).",
+          "livelloDifficolta": "base",
+          "tempoLettura": 6,
+          "tags": ["metodo scientifico", "Galileo", "grandezze", "SI"],
+          "collegamenti": ["misure", "unità", "fisica"]
+        },
+        {
+          "titolo": "Misure e incertezze",
+          "riassunto": "Misurare significa confrontare una grandezza con un'unità di misura. Ogni misura è affetta da incertezza (errore). L'errore sistematico è costante e prevedibile (strumento tarato male); l'errore casuale è variabile e imprevedibile (fluttuazioni). La sensibilità è la minima variazione rilevabile; la portata è il massimo valore misurabile. L'incertezza assoluta Δx indica l'intervallo di indeterminazione: x = x₀ ± Δx. L'incertezza relativa εᵣ = Δx/x₀ è adimensionale; quella percentuale è εᵣ × 100%. Le cifre significative indicano la precisione: tutte le cifre certe più la prima incerta. Nelle operazioni: nella somma/differenza si mantiene il minor numero di decimali; nel prodotto/quoziente il minor numero di cifre significative. La propagazione degli errori: nella somma Δ(a+b) = Δa + Δb; nel prodotto εᵣ(ab) = εᵣ(a) + εᵣ(b). La notazione scientifica a × 10ⁿ con 1 ≤ |a| < 10 esprime numeri molto grandi o piccoli. I prefissi SI: nano (10⁻⁹), micro (10⁻⁶), milli (10⁻³), kilo (10³), mega (10⁶), giga (10⁹).",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 6,
+          "tags": ["misure", "errori", "incertezza", "cifre significative"],
+          "collegamenti": ["strumenti", "precisione", "notazione scientifica"]
+        }
+      ]
+    },
+    {
+      "id": "fis-cinematica",
+      "titolo": "Cinematica",
+      "annoRiferimento": "1.",
+      "descrizione": "Lo studio del moto",
+      "sottoargomenti": [
+        {
+          "titolo": "Moto rettilineo uniforme",
+          "riassunto": "La cinematica studia il moto senza considerare le cause. Il moto è il cambiamento di posizione nel tempo rispetto a un sistema di riferimento. La traiettoria è il percorso seguito; lo spostamento Δs = s₂ - s₁ è la variazione di posizione (vettore). La velocità media è vₘ = Δs/Δt; la velocità istantanea è il limite per Δt → 0. L'unità SI è m/s; 1 km/h = 1/3,6 m/s. Il moto rettilineo uniforme (MRU) ha velocità costante. La legge oraria è s = s₀ + vt dove s₀ è la posizione iniziale. Il grafico s-t è una retta con pendenza v; il grafico v-t è una retta orizzontale. Lo spazio percorso è l'area sotto il grafico v-t. Nel moto di andata e ritorno, lo spostamento totale può essere nullo anche se lo spazio percorso non lo è. La velocità relativa: se A si muove con velocità vₐ rispetto a B, e B con vᵦ rispetto a C, allora A rispetto a C ha velocità vₐ + vᵦ (somma vettoriale). Applicazioni: veicoli a velocità costante, onde, luce nel vuoto.",
+          "livelloDifficolta": "base",
+          "tempoLettura": 6,
+          "tags": ["MRU", "velocità", "legge oraria", "traiettoria"],
+          "collegamenti": ["spostamento", "grafico", "tempo"]
+        },
+        {
+          "titolo": "Moto rettilineo uniformemente accelerato",
+          "riassunto": "L'accelerazione è la variazione di velocità nel tempo: a = Δv/Δt. L'unità SI è m/s². L'accelerazione può essere positiva (aumento di velocità), negativa o decelerazione (diminuzione), nulla (MRU). Il moto rettilineo uniformemente accelerato (MRUA) ha accelerazione costante. Le leggi del MRUA sono: v = v₀ + at (velocità), s = s₀ + v₀t + ½at² (posizione), v² = v₀² + 2aΔs (senza tempo). Il grafico v-t è una retta con pendenza a; l'area sotto è lo spostamento. Il grafico s-t è una parabola. La caduta libera è un MRUA con a = g ≈ 9,8 m/s² verso il basso. Nel vuoto tutti i corpi cadono con la stessa accelerazione (Galileo). Le leggi della caduta: v = gt, h = ½gt², v² = 2gh. Il lancio verso l'alto: il corpo sale decelerando, si ferma all'altezza massima h = v₀²/2g, poi scende. Il tempo di salita è t = v₀/g; il tempo totale è 2t. La velocità di arrivo è uguale a quella di lancio.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 6,
+          "tags": ["MRUA", "accelerazione", "caduta libera", "lancio"],
+          "collegamenti": ["velocità", "gravità", "Galileo"]
+        }
+      ]
+    },
+    {
+      "id": "fis-dinamica",
+      "titolo": "Dinamica",
+      "annoRiferimento": "1.",
+      "descrizione": "Le forze e le leggi di Newton",
+      "sottoargomenti": [
+        {
+          "titolo": "Le forze e i principi della dinamica",
+          "riassunto": "La dinamica studia le cause del moto. La forza è una grandezza vettoriale che modifica lo stato di moto o la forma di un corpo. L'unità SI è il Newton (N = kg·m/s²). Le forze si sommano vettorialmente; la risultante è la somma di tutte le forze. Il primo principio (inerzia): un corpo permane nel suo stato di quiete o moto rettilineo uniforme se la risultante delle forze è nulla. L'inerzia è la tendenza a mantenere lo stato di moto; la massa è la misura dell'inerzia. Il secondo principio: F = ma; la forza risultante è uguale al prodotto di massa per accelerazione. A parità di forza, maggiore è la massa, minore è l'accelerazione. Il terzo principio (azione-reazione): a ogni azione corrisponde una reazione uguale e contraria. Le due forze agiscono su corpi diversi, hanno stessa retta d'azione, stesso modulo, versi opposti. Esempi: la Terra attira la mela, la mela attira la Terra; camminando spingiamo il pavimento indietro, il pavimento ci spinge avanti.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["forza", "Newton", "inerzia", "massa"],
+          "collegamenti": ["accelerazione", "principi", "dinamica"]
+        },
+        {
+          "titolo": "Forze fondamentali e applicazioni",
+          "riassunto": "La forza peso è P = mg, diretta verso il centro della Terra. Dipende dalla massa e dall'accelerazione di gravità g (varia con latitudine e altitudine). La forza normale N è perpendicolare alla superficie di contatto; impedisce la compenetrazione. Su un piano orizzontale N = P. La forza di attrito si oppone al moto relativo tra superfici. L'attrito statico fₛ ≤ μₛN impedisce l'inizio del moto; l'attrito dinamico fₐ = μₐN agisce durante il moto. I coefficienti μ dipendono dai materiali; μₛ > μₐ. La forza elastica F = -kx (legge di Hooke): proporzionale allo spostamento dalla posizione di equilibrio, diretta verso l'equilibrio. k è la costante elastica (N/m). La tensione T è la forza trasmessa da funi e fili ideali (inestensibili, senza massa). Il piano inclinato: la componente parallela del peso è P∥ = mg sinθ, quella perpendicolare P⊥ = mg cosθ. Senza attrito, l'accelerazione è a = g sinθ. Con attrito, a = g(sinθ - μ cosθ).",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["peso", "attrito", "elastica", "piano inclinato"],
+          "collegamenti": ["Hooke", "normale", "tensione"]
+        }
+      ]
+    },
+    {
+      "id": "fis-lavoro-energia",
+      "titolo": "Lavoro ed energia",
+      "annoRiferimento": "2.",
+      "descrizione": "Energia meccanica e conservazione",
+      "sottoargomenti": [
+        {
+          "titolo": "Lavoro e potenza",
+          "riassunto": "Il lavoro è il trasferimento di energia mediante una forza. Per una forza costante: L = F·s·cosθ dove θ è l'angolo tra forza e spostamento. L'unità SI è il Joule (J = N·m). Il lavoro è positivo se θ < 90° (forza concorde al moto), negativo se θ > 90° (forza opposta), nullo se θ = 90° (forza perpendicolare). Il lavoro della forza peso è L = mgh (positivo in discesa, negativo in salita). Il lavoro della forza elastica è L = ½kx₁² - ½kx₂². Il lavoro dell'attrito è sempre negativo: L = -fₐ·s. Per forze variabili, il lavoro è l'area sotto il grafico F-s. La potenza è il lavoro nell'unità di tempo: P = L/t = F·v. L'unità SI è il Watt (W = J/s). Altre unità: cavallo vapore (CV ≈ 736 W), kilowattora (kWh = 3,6 MJ, unità di energia). L'efficienza o rendimento è η = Lᵤₜᵢₗₑ/Lₜₒₜₐₗₑ ≤ 1. Le macchine semplici (leva, carrucola, piano inclinato) non moltiplicano il lavoro ma la forza a scapito dello spostamento.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 6,
+          "tags": ["lavoro", "potenza", "Joule", "Watt"],
+          "collegamenti": ["forza", "energia", "rendimento"]
+        },
+        {
+          "titolo": "Energia cinetica e potenziale",
+          "riassunto": "L'energia è la capacità di compiere lavoro. L'energia cinetica è l'energia del moto: Eₖ = ½mv². Il teorema dell'energia cinetica: il lavoro della risultante è uguale alla variazione di energia cinetica: L = ΔEₖ = ½mv₂² - ½mv₁². L'energia potenziale è l'energia della posizione in un campo di forze conservative. L'energia potenziale gravitazionale è Eₚ = mgh (rispetto a un livello di riferimento). L'energia potenziale elastica è Eₑ = ½kx². Una forza è conservativa se il lavoro dipende solo dalle posizioni iniziale e finale, non dal percorso: L = -ΔEₚ. Forze conservative: peso, elastica, gravitazionale. Forze non conservative: attrito. L'energia meccanica è Eₘ = Eₖ + Eₚ. Il principio di conservazione: in assenza di forze non conservative, l'energia meccanica si conserva: Eₘ₁ = Eₘ₂. Con attrito: Eₘ₁ = Eₘ₂ + |Lₐₜₜᵣᵢₜₒ|. L'energia si trasforma ma non si crea né si distrugge (primo principio della termodinamica generalizzato).",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["energia cinetica", "energia potenziale", "conservazione"],
+          "collegamenti": ["lavoro", "forze conservative", "meccanica"]
+        }
+      ]
+    },
+    {
+      "id": "fis-quantita-moto",
+      "titolo": "Quantità di moto e urti",
+      "annoRiferimento": "2.",
+      "descrizione": "Impulso, quantità di moto e collisioni",
+      "sottoargomenti": [
+        {
+          "titolo": "Quantità di moto e impulso",
+          "riassunto": "La quantità di moto è p = mv, grandezza vettoriale. L'unità SI è kg·m/s. Il secondo principio in forma generale: F = dp/dt; la forza è la derivata della quantità di moto. Per massa costante: F = ma. L'impulso è J = FΔt = Δp; l'impulso di una forza è uguale alla variazione di quantità di moto. Per forze variabili, l'impulso è l'area sotto il grafico F-t. Il principio di conservazione della quantità di moto: in un sistema isolato (risultante delle forze esterne nulla), la quantità di moto totale si conserva: Σpᵢ = costante. Questo vale anche quando l'energia meccanica non si conserva (urti anelastici). Applicazioni: rinculo delle armi, propulsione dei razzi, moto dei biliardi. Il centro di massa di un sistema è il punto che si muove come se tutta la massa fosse concentrata lì e tutte le forze esterne vi fossero applicate. Per due masse: xₒₘ = (m₁x₁ + m₂x₂)/(m₁ + m₂).",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 6,
+          "tags": ["quantità di moto", "impulso", "conservazione"],
+          "collegamenti": ["forza", "massa", "velocità"]
+        },
+        {
+          "titolo": "Gli urti",
+          "riassunto": "Un urto è un'interazione breve e intensa tra corpi. In tutti gli urti si conserva la quantità di moto totale. L'urto elastico conserva anche l'energia cinetica: m₁v₁ + m₂v₂ = m₁v₁' + m₂v₂' e ½m₁v₁² + ½m₂v₂² = ½m₁v₁'² + ½m₂v₂'². Nell'urto elastico centrale tra masse uguali, le velocità si scambiano. L'urto anelastico non conserva l'energia cinetica (parte si trasforma in calore, deformazione, suono). L'urto completamente anelastico: i corpi rimangono uniti dopo l'urto; v' = (m₁v₁ + m₂v₂)/(m₁ + m₂). La perdita di energia cinetica è massima. Il coefficiente di restituzione e = (v₂' - v₁')/(v₁ - v₂) misura l'elasticità: e = 1 elastico, e = 0 completamente anelastico, 0 < e < 1 anelastico. Gli urti obliqui richiedono la conservazione delle componenti della quantità di moto. Applicazioni: sicurezza automobilistica (airbag, zone di deformazione), sport (biliardo, tennis), fisica delle particelle.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 6,
+          "tags": ["urti", "elastico", "anelastico", "collisioni"],
+          "collegamenti": ["energia", "quantità di moto", "conservazione"]
+        }
+      ]
+    },
+    {
+      "id": "fis-termodinamica",
+      "titolo": "Termodinamica",
+      "annoRiferimento": "2.",
+      "descrizione": "Calore, temperatura e trasformazioni",
+      "sottoargomenti": [
+        {
+          "titolo": "Temperatura e calore",
+          "riassunto": "La temperatura misura lo stato termico di un corpo, legato all'energia cinetica media delle molecole. Le scale termometriche: Celsius (°C, 0° fusione ghiaccio, 100° ebollizione acqua), Kelvin (K, 0 K = -273,15°C è lo zero assoluto), Fahrenheit (°F). Conversioni: T(K) = T(°C) + 273,15; T(°F) = 1,8T(°C) + 32. Il calore Q è energia in transito tra corpi a temperature diverse; fluisce spontaneamente dal caldo al freddo. L'unità SI è il Joule; la caloria (cal) è il calore per alzare 1 g d'acqua di 1°C (1 cal = 4,186 J). La capacità termica C = Q/ΔT è il calore per variare la temperatura di 1 K. Il calore specifico c = C/m è la capacità termica per unità di massa. Q = mcΔT. L'acqua ha c = 4186 J/(kg·K), molto alto (termoregolazione). L'equilibrio termico: due corpi a contatto raggiungono la stessa temperatura; Q₁ + Q₂ = 0 (il calore ceduto da uno è assorbito dall'altro).",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 6,
+          "tags": ["temperatura", "calore", "calore specifico", "equilibrio"],
+          "collegamenti": ["Kelvin", "Celsius", "energia"]
+        },
+        {
+          "titolo": "I principi della termodinamica",
+          "riassunto": "Il primo principio: ΔU = Q - L; la variazione di energia interna è uguale al calore assorbito meno il lavoro compiuto dal sistema. L'energia interna U è l'energia totale delle molecole (cinetica + potenziale). Per i gas ideali U dipende solo dalla temperatura: U = nCᵥT. Le trasformazioni: isoterma (T costante, ΔU = 0, Q = L), isobara (P costante, L = PΔV), isocora (V costante, L = 0, Q = ΔU), adiabatica (Q = 0, ΔU = -L). Il secondo principio (Kelvin-Planck): è impossibile realizzare una trasformazione il cui unico risultato sia convertire integralmente calore in lavoro. (Clausius): è impossibile trasferire spontaneamente calore da un corpo freddo a uno caldo. L'entropia S è una misura del disordine; in un sistema isolato S può solo aumentare o restare costante: ΔS ≥ 0. Il rendimento di una macchina termica è η = L/Qₐₛₛ = 1 - Qceduto/Qₐₛₛ. Il rendimento massimo è quello di Carnot: η = 1 - Tₓ/Tₒ.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["termodinamica", "principi", "entropia", "rendimento"],
+          "collegamenti": ["energia interna", "trasformazioni", "Carnot"]
+        }
+      ]
+    },
+    {
+      "id": "fis-onde",
+      "titolo": "Onde e suono",
+      "annoRiferimento": "3.",
+      "descrizione": "Fenomeni ondulatori e acustica",
+      "sottoargomenti": [
+        {
+          "titolo": "Le onde meccaniche",
+          "riassunto": "Un'onda è una perturbazione che si propaga trasportando energia senza trasporto di materia. Le onde meccaniche richiedono un mezzo materiale. Le onde trasversali hanno oscillazione perpendicolare alla propagazione (onde su corda, onde elettromagnetiche). Le onde longitudinali hanno oscillazione parallela alla propagazione (suono, onde sismiche P). Le grandezze caratteristiche: ampiezza A (massimo spostamento), lunghezza d'onda λ (distanza tra due creste), periodo T (tempo per un'oscillazione), frequenza f = 1/T (oscillazioni al secondo, Hz), velocità v = λf = λ/T. L'equazione dell'onda armonica: y = A sin(kx - ωt) con k = 2π/λ (numero d'onda) e ω = 2πf (pulsazione). Il principio di sovrapposizione: quando due onde si incontrano, lo spostamento risultante è la somma degli spostamenti. L'interferenza è costruttiva se le onde sono in fase (cresta con cresta), distruttiva se in opposizione di fase (cresta con ventre). Le onde stazionarie si formano per sovrapposizione di onde che viaggiano in direzioni opposte; hanno nodi (punti fermi) e ventri (massima oscillazione).",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["onde", "frequenza", "lunghezza d'onda", "interferenza"],
+          "collegamenti": ["suono", "luce", "oscillazioni"]
+        },
+        {
+          "titolo": "Il suono",
+          "riassunto": "Il suono è un'onda longitudinale che si propaga in un mezzo elastico (non nel vuoto). La velocità dipende dal mezzo: aria ~340 m/s, acqua ~1500 m/s, acciaio ~5000 m/s. L'orecchio umano percepisce frequenze tra 20 Hz e 20.000 Hz (campo udibile). Infrasuoni < 20 Hz, ultrasuoni > 20.000 Hz. Le caratteristiche del suono: altezza (frequenza: grave/acuto), intensità (ampiezza: forte/debole), timbro (forma d'onda: distingue strumenti). L'intensità sonora I = P/A è la potenza per unità di superficie (W/m²). Il livello di intensità in decibel: β = 10 log(I/I₀) con I₀ = 10⁻¹² W/m² (soglia di udibilità). La soglia del dolore è ~120 dB. L'effetto Doppler: la frequenza percepita cambia se sorgente e osservatore sono in moto relativo. Se si avvicinano, la frequenza aumenta; se si allontanano, diminuisce. Formula: f' = f(v ± vₒ)/(v ∓ vₛ). Applicazioni: ecografia, sonar, radar, rilevazione velocità.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 6,
+          "tags": ["suono", "decibel", "Doppler", "frequenza"],
+          "collegamenti": ["onde", "acustica", "ultrasuoni"]
+        }
+      ]
+    },
+    {
+      "id": "fis-ottica",
+      "titolo": "Ottica",
+      "annoRiferimento": "3.",
+      "descrizione": "La luce e i fenomeni ottici",
+      "sottoargomenti": [
+        {
+          "titolo": "La natura della luce",
+          "riassunto": "La luce è un'onda elettromagnetica che si propaga nel vuoto a velocità c = 3×10⁸ m/s. Lo spettro elettromagnetico comprende (in ordine di frequenza crescente): onde radio, microonde, infrarosso, luce visibile (400-700 nm), ultravioletto, raggi X, raggi gamma. La luce visibile va dal rosso (λ ~ 700 nm) al viola (λ ~ 400 nm). La luce ha natura duale: onda e particella (fotone). L'energia del fotone è E = hf dove h = 6,63×10⁻³⁴ J·s è la costante di Planck. L'ottica geometrica tratta la luce come raggi rettilinei (valida quando λ << dimensioni degli oggetti). La propagazione rettilinea spiega le ombre. La riflessione: il raggio incidente, il raggio riflesso e la normale giacciono sullo stesso piano; l'angolo di incidenza è uguale all'angolo di riflessione. Gli specchi piani formano immagini virtuali, diritte, delle stesse dimensioni. Gli specchi curvi (concavi e convessi) formano immagini reali o virtuali secondo la posizione dell'oggetto.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 6,
+          "tags": ["luce", "spettro", "riflessione", "specchi"],
+          "collegamenti": ["onde", "fotone", "ottica"]
+        },
+        {
+          "titolo": "Rifrazione e lenti",
+          "riassunto": "La rifrazione è la deviazione della luce nel passaggio tra mezzi con diverso indice di rifrazione n = c/v. La legge di Snell: n₁ sinθ₁ = n₂ sinθ₂. Passando a un mezzo più denso (n maggiore), il raggio si avvicina alla normale. La riflessione totale avviene quando la luce passa da un mezzo più denso a uno meno denso con angolo maggiore dell'angolo critico: sinθc = n₂/n₁. Applicazioni: fibre ottiche, prismi. La dispersione: l'indice di rifrazione dipende dalla lunghezza d'onda; la luce bianca si separa nei colori (arcobaleno, prisma). Le lenti sono mezzi trasparenti limitati da superfici curve. Le lenti convergenti (biconvesse) fanno convergere i raggi paralleli nel fuoco; le lenti divergenti (biconcave) li fanno divergere. L'equazione delle lenti sottili: 1/p + 1/q = 1/f dove p è la distanza oggetto, q la distanza immagine, f la distanza focale. L'ingrandimento è G = -q/p. L'occhio umano è un sistema ottico con lente (cristallino) e schermo (retina). I difetti visivi (miopia, ipermetropia) si correggono con lenti.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["rifrazione", "Snell", "lenti", "dispersione"],
+          "collegamenti": ["indice rifrazione", "fibre ottiche", "occhio"]
+        }
+      ]
+    },
     {
       "id": "fis-elettrostatica",
       "titolo": "Elettrostatica",

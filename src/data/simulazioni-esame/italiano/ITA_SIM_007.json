@@ -58,18 +58,19 @@
       "proposta": "B1",
       "titolo": "ANALISI E PRODUZIONE DI UN TESTO ARGOMENTATIVO",
       "testoCitato": {
-        "autore": "Edgar Morin",
-        "trattoDa": "I sette saperi necessari",
-        "anno": "2000",
-        "testo": "L'educazione deve promuovere un'intelligenza generale capace di riferirsi al complesso, al contesto, in modo multidimensionale e globale."
+        "autore": "Italo Calvino",
+        "trattoDa": "Lezioni americane",
+        "anno": "1988",
+        "testo": "La leggerezza per me si associa con la precisione e la determinazione, non con la vaghezza e l'abbandono al caso. Paul Valéry ha detto: 'Il faut être léger comme l'oiseau, et non comme la plume'. Io ho cercato di togliere peso ora alle figure umane, ora ai corpi celesti, ora alle città; soprattutto ho cercato di togliere peso alla struttura del racconto e al linguaggio. In questa conferenza cercherò di spiegare - a me stesso e a voi - perché sono stato portato a considerare la leggerezza un valore anziché un difetto. La leggerezza è qualcosa che si crea nella scrittura, con i mezzi linguistici che sono quelli del poeta, indipendentemente dalla dottrina del filosofo che il poeta dichiara di voler seguire."
       },
       "comprensione_analisi": [
-        "Riassumi le tesi principali sostenute nel testo.",
-        "Su quali argomenti si fonda il ragionamento dell'autore?",
-        "Qual è la struttura argomentativa del testo?",
-        "Individua almeno un esempio di connettivo testuale e spiegane la funzione."
+        "Riassumi la tesi principale di Calvino sulla leggerezza.",
+        "Qual è il significato della citazione di Valéry nel contesto del discorso?",
+        "Come si sviluppa l'argomentazione nel brano?",
+        "Individua le strategie retoriche utilizzate dall'autore."
       ],
-      "produzione": "Condividi la riflessione dell'autore sul tema \"Educazione e complessità\"? Argomenta il tuo punto di vista elaborando un testo coerente e coeso."
+      "produzione": "Rifletti sul concetto di 'leggerezza' proposto da Calvino. Ritieni che la leggerezza sia un valore nella letteratura e nella vita contemporanea? Argomenta la tua posizione con riferimenti culturali e personali, sviluppando un testo di almeno 3 colonne di foglio protocollo.",
+      "ambito": "ARTISTICO-LETTERARIO"
     },
     {
       "tipologia": "B",
@@ -77,53 +78,55 @@
       "titolo": "ANALISI E PRODUZIONE DI UN TESTO ARGOMENTATIVO",
       "ambito": "SOCIALE",
       "testoCitato": {
-        "autore": "Byung-Chul Han",
-        "trattoDa": "La società della stanchezza",
-        "anno": "2010",
-        "testo": "La società del XXI secolo non è più una società disciplinare, ma una società della prestazione. L'uomo contemporaneo è imprenditore di se stesso."
+        "autore": "Zygmunt Bauman",
+        "trattoDa": "Modernità liquida",
+        "anno": "2000",
+        "testo": "I legami umani sono diventati 'liquidi': fragili, temporanei, revocabili. La società contemporanea non offre più punti di riferimento stabili. Le relazioni sono vissute come investimenti: devono produrre gratificazione immediata, altrimenti vengono abbandonate. La paura dell'impegno definitivo pervade ogni aspetto della vita sociale. Paradossalmente, questa libertà assoluta genera ansia e solitudine. L'individuo, liberato dai vincoli tradizionali, si ritrova solo di fronte all'incertezza del futuro. La comunità, un tempo rifugio sicuro, è diventata un'entità minacciosa o inesistente."
       },
       "comprensione_analisi": [
-        "Sintetizza il contenuto del testo, mettendone in evidenza gli snodi argomentativi.",
-        "Evidenzia la tesi principale dell'autore.",
-        "Quale funzione hanno gli esempi riportati nel testo?",
-        "L'autore adopera un registro formale o informale? Motiva la tua risposta."
+        "Sintetizza il concetto di 'modernità liquida' esposto da Bauman.",
+        "Quali conseguenze ha, secondo l'autore, la fragilità dei legami umani?",
+        "Analizza la struttura argomentativa del testo.",
+        "Quale paradosso viene evidenziato nel brano?"
       ],
-      "produzione": "Sviluppa le tue argomentazioni sul tema \"Prestazione e burnout\" proposto dall'autore."
+      "produzione": "Condividi l'analisi di Bauman sulla società contemporanea? Elabora un testo argomentativo in cui esprimi la tua posizione, facendo riferimento alla tua esperienza e alle tue letture. Il tuo elaborato deve essere di almeno 3 colonne di foglio protocollo."
     },
     {
       "tipologia": "B",
       "proposta": "B3",
       "titolo": "ANALISI E PRODUZIONE DI UN TESTO ARGOMENTATIVO",
-      "ambito": "STORICO-CULTURALE",
+      "ambito": "STORICO-POLITICO",
       "testoCitato": {
-        "autore": "Norberto Bobbio",
-        "trattoDa": "Il futuro della democrazia",
-        "anno": "1984",
-        "testo": "La democrazia non consiste soltanto nel diritto di partecipare alle decisioni collettive, ma anche nel dovere di informarsi, di discutere, di confrontarsi con gli altri."
+        "autore": "Hannah Arendt",
+        "trattoDa": "La banalità del male",
+        "anno": "1963",
+        "testo": "Il guaio del caso Eichmann era che uomini come lui ce n'erano tanti e che questi tanti non erano né perversi né sadici, bensì erano, e sono tuttora, terribilmente e spaventosamente normali. Dal punto di vista delle nostre istituzioni giuridiche e dei nostri canoni morali, questa normalità è più spaventosa di tutte le atrocità messe insieme, poiché implica che questo nuovo tipo di criminale commette i suoi crimini in circostanze che quasi gli impediscono di accorgersi o di sentire che agisce male. Il male può essere radicale, ma non è mai estremo; non possiede né profondità né dimensione demoniaca."
       },
       "comprensione_analisi": [
-        "Quali sono i punti chiave del ragionamento dell'autore?",
-        "Come si sviluppa l'argomentazione nel testo?"
+        "Spiega il concetto di 'banalità del male' elaborato da Arendt.",
+        "Perché, secondo l'autrice, la 'normalità' di Eichmann è più spaventosa delle atrocità?",
+        "Quali implicazioni morali e giuridiche solleva il testo?",
+        "Analizza il registro linguistico e le scelte stilistiche."
       ],
-      "produzione": "Rifletti sul tema \"Democrazia e partecipazione\" esprimendo il tuo punto di vista."
+      "produzione": "Rifletti sul tema della responsabilità individuale nei sistemi totalitari. La 'normalità' può essere una giustificazione? Argomenta la tua posizione con riferimenti storici e culturali, sviluppando un testo di almeno 3 colonne di foglio protocollo."
     },
     {
       "tipologia": "C",
       "proposta": "C1",
       "titolo": "RIFLESSIONE CRITICA DI CARATTERE ESPOSITIVO-ARGOMENTATIVO SU TEMATICHE DI ATTUALITÀ",
-      "argomento": "La lettura come formazione",
-      "citazione": "Un lettore vive mille vite prima di morire. Chi non legge ne vive una sola",
-      "autore_citazione": "George R.R. Martin",
-      "consegna": "Rifletti sul tema \"La lettura come formazione\" partendo dalla citazione proposta. Puoi articolare il tuo elaborato in paragrafi opportunamente titolati."
+      "argomento": "Il rapporto tra uomo e tecnologia",
+      "citazione": "La tecnologia è un servo utile ma un padrone pericoloso",
+      "autore_citazione": "Christian Lous Lange",
+      "consegna": "A partire dalla citazione proposta, rifletti sul rapporto tra l'uomo e la tecnologia nella società contemporanea. Quali sono i benefici e i rischi della crescente dipendenza tecnologica? Come possiamo mantenere un rapporto equilibrato con gli strumenti digitali? Puoi fare riferimento alle tue esperienze personali, alle tue letture e conoscenze, articolando il tuo elaborato in paragrafi opportunamente titolati e presentando in modo chiaro la tua tesi. Il tuo testo deve essere di almeno 3 colonne di foglio protocollo."
     },
     {
       "tipologia": "C",
       "proposta": "C2",
       "titolo": "RIFLESSIONE CRITICA DI CARATTERE ESPOSITIVO-ARGOMENTATIVO SU TEMATICHE DI ATTUALITÀ",
-      "argomento": "L'importanza dell'errore",
-      "citazione": "Chi non ha mai commesso un errore non ha mai provato nulla di nuovo",
-      "autore_citazione": "Albert Einstein",
-      "consegna": "A partire dalla citazione proposta, rifletti sul tema \"L'importanza dell'errore\" facendo riferimento alle tue esperienze e letture."
+      "argomento": "Il valore dell'istruzione",
+      "citazione": "L'istruzione è l'arma più potente che puoi usare per cambiare il mondo",
+      "autore_citazione": "Nelson Mandela",
+      "consegna": "Partendo dalla celebre affermazione di Nelson Mandela, rifletti sul valore dell'istruzione nella società contemporanea. Quale ruolo ha la scuola nella formazione dei cittadini? L'istruzione è ancora uno strumento di emancipazione sociale? Elabora le tue riflessioni in un testo argomentativo coerente, facendo riferimento alle tue esperienze, letture e conoscenze. Il tuo elaborato deve essere di almeno 3 colonne di foglio protocollo."
     }
   ],
   "metadata": {

@@ -1,0 +1,527 @@
+{
+  "materia": "arte",
+  "descrizione": "Quiz Arte - Parte 3: Avanguardie, Arte contemporanea, Architettura moderna",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Le Avanguardie artistiche si sviluppano nel:",
+      "rispostaCorretta": "Primo Novecento",
+      "opzioni": ["Primo Novecento", "Ottocento", "Settecento", "Secondo Novecento"],
+      "spiegazione": "Le Avanguardie storiche (1905-1930 ca.) rivoluzionarono l'arte.",
+      "livello": "base",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Espressionismo tedesco nacque con il gruppo:",
+      "rispostaCorretta": "Die Brücke (Il Ponte)",
+      "opzioni": ["Die Brücke (Il Ponte)", "Der Blaue Reiter", "Bauhaus", "De Stijl"],
+      "spiegazione": "Die Brücke fu fondato a Dresda nel 1905 da Kirchner e altri.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Edvard Munch dipinse:",
+      "rispostaCorretta": "L'Urlo",
+      "opzioni": ["L'Urlo", "Guernica", "Les Demoiselles d'Avignon", "La persistenza della memoria"],
+      "spiegazione": "L'Urlo (1893) è l'icona dell'angoscia esistenziale.",
+      "livello": "base",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Cubismo fu fondato da:",
+      "rispostaCorretta": "Picasso e Braque",
+      "opzioni": ["Picasso e Braque", "Matisse e Derain", "Kandinsky e Marc", "Dalí e Magritte"],
+      "spiegazione": "Picasso e Braque svilupparono il Cubismo dal 1907.",
+      "livello": "base",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Les Demoiselles d'Avignon (1907) di Picasso è considerato:",
+      "rispostaCorretta": "L'inizio del Cubismo",
+      "opzioni": ["L'inizio del Cubismo", "L'inizio dell'Impressionismo", "L'inizio del Surrealismo", "L'inizio del Futurismo"],
+      "spiegazione": "Les Demoiselles rivoluzionò la rappresentazione dello spazio.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Guernica di Picasso rappresenta:",
+      "rispostaCorretta": "Il bombardamento della città basca durante la guerra civile spagnola",
+      "opzioni": ["Il bombardamento della città basca durante la guerra civile spagnola", "La Prima Guerra Mondiale", "La Rivoluzione francese", "La Seconda Guerra Mondiale"],
+      "spiegazione": "Guernica (1937) denuncia gli orrori della guerra.",
+      "livello": "base",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Futurismo fu fondato in Italia da:",
+      "rispostaCorretta": "Filippo Tommaso Marinetti",
+      "opzioni": ["Filippo Tommaso Marinetti", "Umberto Boccioni", "Giacomo Balla", "Carlo Carrà"],
+      "spiegazione": "Marinetti pubblicò il Manifesto del Futurismo nel 1909.",
+      "livello": "base",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Futurismo esaltava:",
+      "rispostaCorretta": "La velocità, la macchina, la modernità",
+      "opzioni": ["La velocità, la macchina, la modernità", "La natura", "Il passato", "La staticità"],
+      "spiegazione": "I Futuristi celebravano il dinamismo e la tecnologia.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Umberto Boccioni scolpì:",
+      "rispostaCorretta": "Forme uniche della continuità nello spazio",
+      "opzioni": ["Forme uniche della continuità nello spazio", "Il Pensatore", "David", "La Pietà"],
+      "spiegazione": "La scultura (1913) rappresenta il movimento e la velocità.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Astrattismo fu fondato da:",
+      "rispostaCorretta": "Vasilij Kandinsky",
+      "opzioni": ["Vasilij Kandinsky", "Picasso", "Dalí", "Monet"],
+      "spiegazione": "Kandinsky dipinse il primo acquerello astratto nel 1910.",
+      "livello": "base",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Kandinsky teorizzò che l'arte dovesse esprimere:",
+      "rispostaCorretta": "La spiritualità interiore",
+      "opzioni": ["La spiritualità interiore", "La realtà oggettiva", "La politica", "La scienza"],
+      "spiegazione": "Kandinsky scrisse 'Lo spirituale nell'arte' (1911).",
+      "livello": "avanzato",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Piet Mondrian fu esponente del:",
+      "rispostaCorretta": "Neoplasticismo (De Stijl)",
+      "opzioni": ["Neoplasticismo (De Stijl)", "Cubismo", "Futurismo", "Surrealismo"],
+      "spiegazione": "Mondrian usava solo linee rette e colori primari.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Dadaismo nacque a:",
+      "rispostaCorretta": "Zurigo nel 1916",
+      "opzioni": ["Zurigo nel 1916", "Parigi nel 1920", "Berlino nel 1910", "New York nel 1913"],
+      "spiegazione": "Il Dada nacque al Cabaret Voltaire come protesta contro la guerra.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Marcel Duchamp è famoso per:",
+      "rispostaCorretta": "I ready-made (oggetti comuni elevati ad arte)",
+      "opzioni": ["I ready-made (oggetti comuni elevati ad arte)", "I dipinti impressionisti", "Le sculture classiche", "Gli affreschi"],
+      "spiegazione": "Duchamp espose un orinatoio ('Fontana', 1917) come opera d'arte.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Surrealismo fu fondato da:",
+      "rispostaCorretta": "André Breton",
+      "opzioni": ["André Breton", "Salvador Dalí", "René Magritte", "Max Ernst"],
+      "spiegazione": "Breton pubblicò il Manifesto del Surrealismo nel 1924.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Surrealismo si ispirava a:",
+      "rispostaCorretta": "La psicoanalisi di Freud e l'inconscio",
+      "opzioni": ["La psicoanalisi di Freud e l'inconscio", "La scienza", "La politica", "La religione"],
+      "spiegazione": "I Surrealisti esploravano sogni, automatismo e inconscio.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La persistenza della memoria (orologi molli) è di:",
+      "rispostaCorretta": "Salvador Dalí",
+      "opzioni": ["Salvador Dalí", "René Magritte", "Max Ernst", "Joan Miró"],
+      "spiegazione": "La persistenza della memoria (1931) è l'icona del Surrealismo.",
+      "livello": "base",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "René Magritte dipinse:",
+      "rispostaCorretta": "Il tradimento delle immagini (Ceci n'est pas une pipe)",
+      "opzioni": ["Il tradimento delle immagini (Ceci n'est pas une pipe)", "La persistenza della memoria", "L'Urlo", "Guernica"],
+      "spiegazione": "Magritte giocava con il rapporto tra immagine e realtà.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Bauhaus fu:",
+      "rispostaCorretta": "Una scuola di arte, design e architettura",
+      "opzioni": ["Una scuola di arte, design e architettura", "Un movimento pittorico", "Un museo", "Una galleria"],
+      "spiegazione": "Il Bauhaus (1919-1933) unì arte, artigianato e industria.",
+      "livello": "intermedio",
+      "argomento": "Architettura moderna",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Bauhaus fu fondato da:",
+      "rispostaCorretta": "Walter Gropius",
+      "opzioni": ["Walter Gropius", "Le Corbusier", "Mies van der Rohe", "Frank Lloyd Wright"],
+      "spiegazione": "Gropius fondò il Bauhaus a Weimar nel 1919.",
+      "livello": "avanzato",
+      "argomento": "Architettura moderna",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Corbusier è famoso per:",
+      "rispostaCorretta": "L'architettura razionalista e i 'cinque punti'",
+      "opzioni": ["L'architettura razionalista e i 'cinque punti'", "L'architettura gotica", "L'architettura barocca", "L'architettura romanica"],
+      "spiegazione": "Le Corbusier teorizzò i pilotis, il tetto-giardino, la pianta libera, ecc.",
+      "livello": "avanzato",
+      "argomento": "Architettura moderna",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Frank Lloyd Wright progettò:",
+      "rispostaCorretta": "La Casa sulla cascata (Fallingwater)",
+      "opzioni": ["La Casa sulla cascata (Fallingwater)", "La Torre Eiffel", "Il Guggenheim di Bilbao", "Il Centre Pompidou"],
+      "spiegazione": "Fallingwater (1935) è un capolavoro di architettura organica.",
+      "livello": "intermedio",
+      "argomento": "Architettura moderna",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Espressionismo Astratto nacque a:",
+      "rispostaCorretta": "New York negli anni '40",
+      "opzioni": ["New York negli anni '40", "Parigi negli anni '20", "Berlino negli anni '10", "Londra negli anni '50"],
+      "spiegazione": "L'Espressionismo Astratto spostò il centro dell'arte da Parigi a New York.",
+      "livello": "avanzato",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Jackson Pollock è famoso per:",
+      "rispostaCorretta": "L'action painting (dripping)",
+      "opzioni": ["L'action painting (dripping)", "I ritratti", "I paesaggi", "Le nature morte"],
+      "spiegazione": "Pollock gocciolava e spruzzava il colore sulla tela.",
+      "livello": "intermedio",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Pop Art nacque negli anni:",
+      "rispostaCorretta": "Cinquanta-Sessanta",
+      "opzioni": ["Cinquanta-Sessanta", "Venti-Trenta", "Settanta-Ottanta", "Novanta"],
+      "spiegazione": "La Pop Art usava immagini della cultura di massa e della pubblicità.",
+      "livello": "base",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Andy Warhol è famoso per:",
+      "rispostaCorretta": "Le serigrafie di Marilyn Monroe e le lattine Campbell",
+      "opzioni": ["Le serigrafie di Marilyn Monroe e le lattine Campbell", "I dripping", "I tagli sulla tela", "Le sculture di ferro"],
+      "spiegazione": "Warhol trasformò icone popolari in arte.",
+      "livello": "base",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Roy Lichtenstein è famoso per:",
+      "rispostaCorretta": "I dipinti ispirati ai fumetti",
+      "opzioni": ["I dipinti ispirati ai fumetti", "I ritratti classici", "I paesaggi", "Le sculture"],
+      "spiegazione": "Lichtenstein ingrandiva vignette di fumetti con i punti Ben-Day.",
+      "livello": "intermedio",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lucio Fontana è famoso per:",
+      "rispostaCorretta": "I tagli sulla tela (Concetti spaziali)",
+      "opzioni": ["I tagli sulla tela (Concetti spaziali)", "I dripping", "Le serigrafie", "I fumetti"],
+      "spiegazione": "Fontana tagliava la tela per creare una nuova dimensione spaziale.",
+      "livello": "intermedio",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Alberto Burri è famoso per:",
+      "rispostaCorretta": "I Sacchi e le Combustioni",
+      "opzioni": ["I Sacchi e le Combustioni", "I tagli", "Le serigrafie", "I dripping"],
+      "spiegazione": "Burri usava materiali poveri: sacchi di iuta, plastiche bruciate.",
+      "livello": "avanzato",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Arte Povera nacque in Italia negli anni:",
+      "rispostaCorretta": "Sessanta",
+      "opzioni": ["Sessanta", "Cinquanta", "Settanta", "Ottanta"],
+      "spiegazione": "L'Arte Povera usava materiali semplici e naturali.",
+      "livello": "avanzato",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Guggenheim Museum di Bilbao fu progettato da:",
+      "rispostaCorretta": "Frank Gehry",
+      "opzioni": ["Frank Gehry", "Renzo Piano", "Norman Foster", "Zaha Hadid"],
+      "spiegazione": "Il Guggenheim di Bilbao (1997) è un'icona dell'architettura decostruttivista.",
+      "livello": "avanzato",
+      "argomento": "Architettura moderna",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Centre Pompidou a Parigi fu progettato da:",
+      "rispostaCorretta": "Renzo Piano e Richard Rogers",
+      "opzioni": ["Renzo Piano e Richard Rogers", "Le Corbusier", "Frank Gehry", "Norman Foster"],
+      "spiegazione": "Il Centre Pompidou (1977) ha le strutture a vista all'esterno.",
+      "livello": "avanzato",
+      "argomento": "Architettura moderna",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Picasso fu un pittore cubista.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Picasso fondò il Cubismo insieme a Braque.",
+      "livello": "base",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il Futurismo nacque in Francia.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Il Futurismo nacque in Italia con Marinetti nel 1909.",
+      "livello": "base",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Andy Warhol fu un esponente della Pop Art.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Warhol è il più famoso artista della Pop Art americana.",
+      "livello": "base",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Henri Matisse fu il leader dei:",
+      "rispostaCorretta": "Fauves (Belve)",
+      "opzioni": ["Fauves (Belve)", "Cubisti", "Futuristi", "Surrealisti"],
+      "spiegazione": "I Fauves usavano colori violenti e antinaturalistici.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Fauvismo si caratterizza per:",
+      "rispostaCorretta": "L'uso di colori puri e violenti",
+      "opzioni": ["L'uso di colori puri e violenti", "Le forme geometriche", "Il movimento", "I sogni"],
+      "spiegazione": "I Fauves ('belve') usavano il colore in modo libero e espressivo.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Suprematismo fu fondato da:",
+      "rispostaCorretta": "Kazimir Malevič",
+      "opzioni": ["Kazimir Malevič", "Kandinsky", "Mondrian", "Picasso"],
+      "spiegazione": "Malevič dipinse il 'Quadrato nero su fondo bianco' (1915).",
+      "livello": "avanzato",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Costruttivismo russo si sviluppò dopo:",
+      "rispostaCorretta": "La Rivoluzione d'Ottobre (1917)",
+      "opzioni": ["La Rivoluzione d'Ottobre (1917)", "La Prima Guerra Mondiale", "La Seconda Guerra Mondiale", "La caduta del Muro"],
+      "spiegazione": "Il Costruttivismo unì arte e ideologia rivoluzionaria.",
+      "livello": "avanzato",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Metafisica fu fondata da:",
+      "rispostaCorretta": "Giorgio de Chirico",
+      "opzioni": ["Giorgio de Chirico", "Carlo Carrà", "Giorgio Morandi", "Amedeo Modigliani"],
+      "spiegazione": "De Chirico creò paesaggi urbani misteriosi e inquietanti.",
+      "livello": "avanzato",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Amedeo Modigliani è famoso per:",
+      "rispostaCorretta": "I ritratti con colli allungati",
+      "opzioni": ["I ritratti con colli allungati", "I paesaggi", "Le nature morte", "L'astrattismo"],
+      "spiegazione": "Modigliani stilizzava le figure con forme allungate.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Marc Chagall è famoso per:",
+      "rispostaCorretta": "Le immagini oniriche e fiabesche",
+      "opzioni": ["Le immagini oniriche e fiabesche", "Il Cubismo rigoroso", "L'Astrattismo geometrico", "Il Realismo"],
+      "spiegazione": "Chagall dipingeva figure fluttuanti e scene poetiche.",
+      "livello": "intermedio",
+      "argomento": "Avanguardie",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Frida Kahlo è famosa per:",
+      "rispostaCorretta": "Gli autoritratti intensi e simbolici",
+      "opzioni": ["Gli autoritratti intensi e simbolici", "I paesaggi", "L'astrattismo", "Il Cubismo"],
+      "spiegazione": "Frida Kahlo espresse il dolore e l'identità nei suoi autoritratti.",
+      "livello": "base",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Diego Rivera è famoso per:",
+      "rispostaCorretta": "I murales messicani",
+      "opzioni": ["I murales messicani", "I ritratti", "L'astrattismo", "Il Cubismo"],
+      "spiegazione": "Rivera dipinse grandi murales sulla storia e la società messicana.",
+      "livello": "intermedio",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Mark Rothko è famoso per:",
+      "rispostaCorretta": "I grandi campi di colore",
+      "opzioni": ["I grandi campi di colore", "I dripping", "I tagli", "I fumetti"],
+      "spiegazione": "Rothko dipingeva rettangoli di colore per evocare emozioni.",
+      "livello": "avanzato",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Minimalismo si caratterizza per:",
+      "rispostaCorretta": "Forme geometriche essenziali",
+      "opzioni": ["Forme geometriche essenziali", "Decorazioni elaborate", "Figure umane", "Paesaggi"],
+      "spiegazione": "Il Minimalismo riduce l'arte all'essenziale.",
+      "livello": "avanzato",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Arte Concettuale privilegia:",
+      "rispostaCorretta": "L'idea rispetto all'oggetto",
+      "opzioni": ["L'idea rispetto all'oggetto", "La tecnica", "Il colore", "La forma"],
+      "spiegazione": "Nell'Arte Concettuale il concetto è più importante dell'opera fisica.",
+      "livello": "avanzato",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Land Art utilizza:",
+      "rispostaCorretta": "Il paesaggio naturale come materiale e supporto",
+      "opzioni": ["Il paesaggio naturale come materiale e supporto", "Solo tele", "Solo sculture", "Solo fotografie"],
+      "spiegazione": "La Land Art interviene direttamente sulla natura.",
+      "livello": "avanzato",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Street Art comprende:",
+      "rispostaCorretta": "Graffiti, murales e interventi urbani",
+      "opzioni": ["Graffiti, murales e interventi urbani", "Solo dipinti su tela", "Solo sculture", "Solo fotografie"],
+      "spiegazione": "La Street Art usa lo spazio pubblico come galleria.",
+      "livello": "base",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Banksy è famoso per:",
+      "rispostaCorretta": "I graffiti satirici e l'anonimato",
+      "opzioni": ["I graffiti satirici e l'anonimato", "I dipinti classici", "Le sculture", "Le installazioni"],
+      "spiegazione": "Banksy è lo street artist più famoso al mondo.",
+      "livello": "base",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Jeff Koons è famoso per:",
+      "rispostaCorretta": "Le sculture kitsch di palloncini",
+      "opzioni": ["Le sculture kitsch di palloncini", "I tagli sulla tela", "I dripping", "I graffiti"],
+      "spiegazione": "Koons crea sculture monumentali ispirate alla cultura pop.",
+      "livello": "avanzato",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Damien Hirst è famoso per:",
+      "rispostaCorretta": "Gli animali in formaldeide",
+      "opzioni": ["Gli animali in formaldeide", "I dripping", "I tagli", "I graffiti"],
+      "spiegazione": "Hirst ha esposto uno squalo in formaldeide ('The Physical Impossibility of Death').",
+      "livello": "avanzato",
+      "argomento": "Arte contemporanea",
+      "materia": "arte"
+    }
+  ]
+}

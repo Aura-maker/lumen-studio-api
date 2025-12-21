@@ -1,0 +1,487 @@
+{
+  "materia": "filosofia",
+  "descrizione": "Quiz Filosofia - Parte 4: Fenomenologia, Esistenzialismo, Filosofia contemporanea",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Edmund Husserl è il fondatore della:",
+      "rispostaCorretta": "Fenomenologia",
+      "opzioni": ["Fenomenologia", "Esistenzialismo", "Positivismo", "Marxismo"],
+      "spiegazione": "Husserl (1859-1938) fondò la fenomenologia come 'scienza rigorosa'.",
+      "livello": "intermedio",
+      "argomento": "Fenomenologia",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il motto della fenomenologia è:",
+      "rispostaCorretta": "Tornare alle cose stesse",
+      "opzioni": ["Tornare alle cose stesse", "Penso dunque sono", "L'uomo è misura di tutte le cose", "Conosci te stesso"],
+      "spiegazione": "La fenomenologia descrive i fenomeni così come appaiono alla coscienza.",
+      "livello": "avanzato",
+      "argomento": "Fenomenologia",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'epoché fenomenologica consiste nel:",
+      "rispostaCorretta": "Sospendere il giudizio sull'esistenza del mondo",
+      "opzioni": ["Sospendere il giudizio sull'esistenza del mondo", "Affermare l'esistenza del mondo", "Negare la coscienza", "Dubitare di tutto"],
+      "spiegazione": "L'epoché mette tra parentesi il mondo per analizzare la coscienza pura.",
+      "livello": "avanzato",
+      "argomento": "Fenomenologia",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'intenzionalità della coscienza significa che:",
+      "rispostaCorretta": "La coscienza è sempre coscienza di qualcosa",
+      "opzioni": ["La coscienza è sempre coscienza di qualcosa", "La coscienza è vuota", "La coscienza è materiale", "La coscienza è inconscia"],
+      "spiegazione": "Per Husserl la coscienza è sempre diretta verso un oggetto.",
+      "livello": "avanzato",
+      "argomento": "Fenomenologia",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Martin Heidegger scrisse:",
+      "rispostaCorretta": "Essere e tempo",
+      "opzioni": ["Essere e tempo", "Essere e nulla", "Critica della ragion pura", "Fenomenologia dello spirito"],
+      "spiegazione": "Essere e tempo (1927) è l'opera principale di Heidegger.",
+      "livello": "intermedio",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Dasein in Heidegger è:",
+      "rispostaCorretta": "L'essere-ci, l'esistenza umana",
+      "opzioni": ["L'essere-ci, l'esistenza umana", "L'essere divino", "L'essere naturale", "L'essere logico"],
+      "spiegazione": "Il Dasein è l'ente che si interroga sul senso dell'essere.",
+      "livello": "avanzato",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'essere-per-la-morte in Heidegger indica:",
+      "rispostaCorretta": "La consapevolezza della propria finitezza",
+      "opzioni": ["La consapevolezza della propria finitezza", "Il desiderio di morte", "La paura della morte", "L'immortalità"],
+      "spiegazione": "La morte è la possibilità più propria e autentica del Dasein.",
+      "livello": "avanzato",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Jean-Paul Sartre scrisse:",
+      "rispostaCorretta": "L'essere e il nulla",
+      "opzioni": ["L'essere e il nulla", "Essere e tempo", "La nausea", "Il mito di Sisifo"],
+      "spiegazione": "L'essere e il nulla (1943) è l'opera filosofica principale di Sartre.",
+      "livello": "intermedio",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Sartre 'l'esistenza precede l'essenza' significa che:",
+      "rispostaCorretta": "L'uomo si fa da sé, non ha una natura predefinita",
+      "opzioni": ["L'uomo si fa da sé, non ha una natura predefinita", "L'essenza viene prima", "L'uomo è determinato", "Dio crea l'uomo"],
+      "spiegazione": "L'uomo prima esiste, poi si definisce attraverso le sue scelte.",
+      "livello": "intermedio",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Sartre l'uomo è 'condannato a essere libero' perché:",
+      "rispostaCorretta": "Non può sfuggire alla responsabilità delle sue scelte",
+      "opzioni": ["Non può sfuggire alla responsabilità delle sue scelte", "È in prigione", "Non ha libertà", "Dio lo costringe"],
+      "spiegazione": "La libertà è un peso: siamo responsabili di ciò che siamo.",
+      "livello": "avanzato",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La malafede in Sartre è:",
+      "rispostaCorretta": "L'autoinganno per sfuggire alla libertà",
+      "opzioni": ["L'autoinganno per sfuggire alla libertà", "La fede religiosa", "La sincerità", "La verità"],
+      "spiegazione": "La malafede è il tentativo di negare la propria libertà e responsabilità.",
+      "livello": "avanzato",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Albert Camus scrisse:",
+      "rispostaCorretta": "Il mito di Sisifo e Lo straniero",
+      "opzioni": ["Il mito di Sisifo e Lo straniero", "L'essere e il nulla", "Essere e tempo", "La nausea"],
+      "spiegazione": "Camus esplorò l'assurdo e la rivolta.",
+      "livello": "intermedio",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'assurdo in Camus nasce dal:",
+      "rispostaCorretta": "Contrasto tra il bisogno umano di senso e il silenzio del mondo",
+      "opzioni": ["Contrasto tra il bisogno umano di senso e il silenzio del mondo", "La fede in Dio", "La ragione", "La scienza"],
+      "spiegazione": "L'assurdo è la condizione umana di fronte a un mondo senza senso.",
+      "livello": "avanzato",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Camus, Sisifo è felice perché:",
+      "rispostaCorretta": "Accetta il suo destino e trova senso nella lotta",
+      "opzioni": ["Accetta il suo destino e trova senso nella lotta", "Smette di spingere il masso", "Gli dei lo liberano", "Muore"],
+      "spiegazione": "'Bisogna immaginare Sisifo felice': la rivolta dà senso all'assurdo.",
+      "livello": "avanzato",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Simone de Beauvoir scrisse:",
+      "rispostaCorretta": "Il secondo sesso",
+      "opzioni": ["Il secondo sesso", "L'essere e il nulla", "Il mito di Sisifo", "Essere e tempo"],
+      "spiegazione": "Il secondo sesso (1949) è un testo fondamentale del femminismo.",
+      "livello": "intermedio",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "'Donna non si nasce, si diventa' significa che:",
+      "rispostaCorretta": "La femminilità è una costruzione sociale",
+      "opzioni": ["La femminilità è una costruzione sociale", "Le donne nascono diverse", "La biologia determina tutto", "Le donne sono inferiori"],
+      "spiegazione": "De Beauvoir distinse sesso biologico e genere sociale.",
+      "livello": "avanzato",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Karl Popper è noto per:",
+      "rispostaCorretta": "Il falsificazionismo",
+      "opzioni": ["Il falsificazionismo", "Il verificazionismo", "Il marxismo", "L'esistenzialismo"],
+      "spiegazione": "Popper propose la falsificabilità come criterio di scientificità.",
+      "livello": "intermedio",
+      "argomento": "Filosofia della scienza",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Secondo Popper, una teoria è scientifica se:",
+      "rispostaCorretta": "È falsificabile (può essere smentita)",
+      "opzioni": ["È falsificabile (può essere smentita)", "È verificabile", "È vera", "È accettata da tutti"],
+      "spiegazione": "La falsificabilità distingue scienza da pseudoscienza.",
+      "livello": "avanzato",
+      "argomento": "Filosofia della scienza",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Thomas Kuhn scrisse:",
+      "rispostaCorretta": "La struttura delle rivoluzioni scientifiche",
+      "opzioni": ["La struttura delle rivoluzioni scientifiche", "Logica della scoperta scientifica", "Contro il metodo", "La società aperta"],
+      "spiegazione": "Kuhn introdusse il concetto di paradigma scientifico.",
+      "livello": "avanzato",
+      "argomento": "Filosofia della scienza",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un paradigma scientifico secondo Kuhn è:",
+      "rispostaCorretta": "Un modello condiviso dalla comunità scientifica",
+      "opzioni": ["Un modello condiviso dalla comunità scientifica", "Una singola teoria", "Un esperimento", "Un fatto"],
+      "spiegazione": "Il paradigma include teorie, metodi, valori condivisi.",
+      "livello": "avanzato",
+      "argomento": "Filosofia della scienza",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Ludwig Wittgenstein scrisse:",
+      "rispostaCorretta": "Tractatus logico-philosophicus e Ricerche filosofiche",
+      "opzioni": ["Tractatus logico-philosophicus e Ricerche filosofiche", "Essere e tempo", "L'essere e il nulla", "Critica della ragion pura"],
+      "spiegazione": "Wittgenstein ebbe due fasi: logica e linguaggio ordinario.",
+      "livello": "avanzato",
+      "argomento": "Filosofia del linguaggio",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I giochi linguistici di Wittgenstein indicano che:",
+      "rispostaCorretta": "Il significato dipende dall'uso nel contesto",
+      "opzioni": ["Il significato dipende dall'uso nel contesto", "Il linguaggio è logico", "Le parole hanno un solo significato", "Il linguaggio è inutile"],
+      "spiegazione": "Il secondo Wittgenstein studiò il linguaggio come pratica sociale.",
+      "livello": "avanzato",
+      "argomento": "Filosofia del linguaggio",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Scuola di Francoforte comprendeva:",
+      "rispostaCorretta": "Adorno, Horkheimer, Marcuse, Habermas",
+      "opzioni": ["Adorno, Horkheimer, Marcuse, Habermas", "Sartre, Camus, de Beauvoir", "Husserl, Heidegger", "Popper, Kuhn"],
+      "spiegazione": "La Scuola di Francoforte sviluppò la teoria critica della società.",
+      "livello": "avanzato",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Dialettica dell'illuminismo di Adorno e Horkheimer critica:",
+      "rispostaCorretta": "La ragione strumentale della modernità",
+      "opzioni": ["La ragione strumentale della modernità", "L'Illuminismo in sé", "La religione", "Il Medioevo"],
+      "spiegazione": "La ragione illuminista si è trasformata in dominio sulla natura e sull'uomo.",
+      "livello": "avanzato",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Herbert Marcuse scrisse:",
+      "rispostaCorretta": "L'uomo a una dimensione",
+      "opzioni": ["L'uomo a una dimensione", "Essere e tempo", "L'essere e il nulla", "Il capitale"],
+      "spiegazione": "Marcuse criticò la società dei consumi che appiattisce il pensiero critico.",
+      "livello": "avanzato",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Jürgen Habermas è noto per:",
+      "rispostaCorretta": "La teoria dell'agire comunicativo",
+      "opzioni": ["La teoria dell'agire comunicativo", "Il falsificazionismo", "L'esistenzialismo", "La fenomenologia"],
+      "spiegazione": "Habermas sviluppò una teoria della razionalità comunicativa.",
+      "livello": "avanzato",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Michel Foucault studiò:",
+      "rispostaCorretta": "Il potere, il sapere e le istituzioni disciplinari",
+      "opzioni": ["Il potere, il sapere e le istituzioni disciplinari", "La logica formale", "La metafisica", "La teologia"],
+      "spiegazione": "Foucault analizzò come il potere si esercita attraverso saperi e istituzioni.",
+      "livello": "avanzato",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Sorvegliare e punire di Foucault analizza:",
+      "rispostaCorretta": "La nascita della prigione e delle società disciplinari",
+      "opzioni": ["La nascita della prigione e delle società disciplinari", "La storia della filosofia", "La logica", "La religione"],
+      "spiegazione": "Foucault mostra come il potere moderno controlli i corpi.",
+      "livello": "avanzato",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Jacques Derrida è il fondatore del:",
+      "rispostaCorretta": "Decostruzionismo",
+      "opzioni": ["Decostruzionismo", "Strutturalismo", "Positivismo", "Marxismo"],
+      "spiegazione": "Derrida decostruì i testi per mostrare le contraddizioni nascoste.",
+      "livello": "avanzato",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Hannah Arendt scrisse:",
+      "rispostaCorretta": "Le origini del totalitarismo e La banalità del male",
+      "opzioni": ["Le origini del totalitarismo e La banalità del male", "Essere e tempo", "L'essere e il nulla", "Il secondo sesso"],
+      "spiegazione": "Arendt analizzò il totalitarismo e il processo Eichmann.",
+      "livello": "intermedio",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La 'banalità del male' in Arendt indica che:",
+      "rispostaCorretta": "Il male può essere compiuto da persone ordinarie senza pensare",
+      "opzioni": ["Il male può essere compiuto da persone ordinarie senza pensare", "Il male è sempre mostruoso", "Il male non esiste", "Il male è necessario"],
+      "spiegazione": "Eichmann non era un mostro, ma un burocrate che non pensava.",
+      "livello": "avanzato",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "John Rawls scrisse:",
+      "rispostaCorretta": "Una teoria della giustizia",
+      "opzioni": ["Una teoria della giustizia", "Essere e tempo", "L'essere e il nulla", "Il capitale"],
+      "spiegazione": "Rawls propose una teoria della giustizia come equità.",
+      "livello": "avanzato",
+      "argomento": "Filosofia politica",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il 'velo di ignoranza' di Rawls serve a:",
+      "rispostaCorretta": "Scegliere principi di giustizia imparziali",
+      "opzioni": ["Scegliere principi di giustizia imparziali", "Nascondere la verità", "Ignorare la politica", "Evitare le scelte"],
+      "spiegazione": "Dietro il velo non si conosce la propria posizione sociale.",
+      "livello": "avanzato",
+      "argomento": "Filosofia politica",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Sartre fu un filosofo esistenzialista.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Sartre è il maggiore rappresentante dell'esistenzialismo francese.",
+      "livello": "base",
+      "argomento": "Esistenzialismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Popper sosteneva che le teorie scientifiche devono essere verificabili.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Popper sosteneva la falsificabilità, non la verificabilità.",
+      "livello": "intermedio",
+      "argomento": "Filosofia della scienza",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Hannah Arendt coniò l'espressione 'banalità del male'.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Arendt usò l'espressione nel suo reportage sul processo Eichmann.",
+      "livello": "intermedio",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Circolo di Vienna promosse:",
+      "rispostaCorretta": "Il positivismo logico",
+      "opzioni": ["Il positivismo logico", "L'esistenzialismo", "La fenomenologia", "Il marxismo"],
+      "spiegazione": "Il Circolo di Vienna (anni '20-'30) sviluppò l'empirismo logico.",
+      "livello": "avanzato",
+      "argomento": "Filosofia della scienza",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il principio di verificazione afferma che:",
+      "rispostaCorretta": "Un enunciato ha senso solo se è verificabile empiricamente",
+      "opzioni": ["Un enunciato ha senso solo se è verificabile empiricamente", "Tutto è vero", "Nulla è verificabile", "La metafisica è vera"],
+      "spiegazione": "Il Circolo di Vienna usò questo criterio per eliminare la metafisica.",
+      "livello": "avanzato",
+      "argomento": "Filosofia della scienza",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Paul Feyerabend scrisse:",
+      "rispostaCorretta": "Contro il metodo",
+      "opzioni": ["Contro il metodo", "Logica della scoperta scientifica", "La struttura delle rivoluzioni scientifiche", "Essere e tempo"],
+      "spiegazione": "Feyerabend sostenne l'anarchismo metodologico: 'anything goes'.",
+      "livello": "avanzato",
+      "argomento": "Filosofia della scienza",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Hans-Georg Gadamer è noto per:",
+      "rispostaCorretta": "L'ermeneutica filosofica",
+      "opzioni": ["L'ermeneutica filosofica", "Il falsificazionismo", "L'esistenzialismo", "Il marxismo"],
+      "spiegazione": "Gadamer sviluppò l'ermeneutica come filosofia della comprensione.",
+      "livello": "avanzato",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La 'fusione degli orizzonti' in Gadamer indica:",
+      "rispostaCorretta": "L'incontro tra l'orizzonte dell'interprete e quello del testo",
+      "opzioni": ["L'incontro tra l'orizzonte dell'interprete e quello del testo", "La separazione totale", "L'oggettività assoluta", "L'impossibilità di comprendere"],
+      "spiegazione": "La comprensione avviene nella fusione di prospettive diverse.",
+      "livello": "avanzato",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Emmanuel Lévinas è noto per:",
+      "rispostaCorretta": "L'etica del volto e dell'alterità",
+      "opzioni": ["L'etica del volto e dell'alterità", "La logica formale", "Il positivismo", "Il marxismo"],
+      "spiegazione": "Lévinas pose l'etica come filosofia prima: il volto dell'altro mi chiama.",
+      "livello": "avanzato",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il postmodernismo critica:",
+      "rispostaCorretta": "Le grandi narrazioni e la ragione universale",
+      "opzioni": ["Le grandi narrazioni e la ragione universale", "La scienza", "La religione", "L'arte"],
+      "spiegazione": "Lyotard definì il postmoderno come 'incredulità verso le metanarrazioni'.",
+      "livello": "avanzato",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Jean-François Lyotard scrisse:",
+      "rispostaCorretta": "La condizione postmoderna",
+      "opzioni": ["La condizione postmoderna", "Essere e tempo", "L'essere e il nulla", "Il capitale"],
+      "spiegazione": "Lyotard analizzò la crisi delle grandi narrazioni nella società contemporanea.",
+      "livello": "avanzato",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gilles Deleuze è noto per:",
+      "rispostaCorretta": "La filosofia della differenza e del divenire",
+      "opzioni": ["La filosofia della differenza e del divenire", "Il positivismo logico", "L'esistenzialismo classico", "Il marxismo ortodosso"],
+      "spiegazione": "Deleuze sviluppò una filosofia anti-hegeliana della differenza.",
+      "livello": "avanzato",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Peter Singer è noto per:",
+      "rispostaCorretta": "L'etica applicata e i diritti degli animali",
+      "opzioni": ["L'etica applicata e i diritti degli animali", "La logica formale", "La metafisica", "La teologia"],
+      "spiegazione": "Singer è un filosofo utilitarista che difende i diritti degli animali.",
+      "livello": "avanzato",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La bioetica si occupa di:",
+      "rispostaCorretta": "Questioni etiche legate alla vita e alla medicina",
+      "opzioni": ["Questioni etiche legate alla vita e alla medicina", "Solo la biologia", "Solo la fisica", "Solo la chimica"],
+      "spiegazione": "La bioetica affronta temi come eutanasia, aborto, clonazione.",
+      "livello": "intermedio",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Martha Nussbaum è nota per:",
+      "rispostaCorretta": "L'approccio delle capacità e l'etica delle emozioni",
+      "opzioni": ["L'approccio delle capacità e l'etica delle emozioni", "Il positivismo logico", "L'esistenzialismo", "Il marxismo"],
+      "spiegazione": "Nussbaum sviluppò con Sen l'approccio delle capacità per la giustizia sociale.",
+      "livello": "avanzato",
+      "argomento": "Filosofia contemporanea",
+      "materia": "filosofia"
+    }
+  ]
+}

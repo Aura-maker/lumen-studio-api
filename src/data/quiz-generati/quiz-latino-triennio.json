@@ -1,0 +1,587 @@
+{
+  "materia": "latino",
+  "descrizione": "Quiz Latino triennio - Grammatica, Sintassi, Autori (Cesare, Cicerone, Virgilio, Orazio)",
+  "totale": 65,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "La prima declinazione latina ha il genitivo singolare in:",
+      "rispostaCorretta": "-ae",
+      "opzioni": ["-ae", "-i", "-is", "-us"],
+      "spiegazione": "La prima declinazione ha genitivo singolare in -ae (es. rosae).",
+      "livello": "base",
+      "argomento": "Fondamenti di grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La seconda declinazione latina ha il genitivo singolare in:",
+      "rispostaCorretta": "-i",
+      "opzioni": ["-i", "-ae", "-is", "-us"],
+      "spiegazione": "La seconda declinazione ha genitivo singolare in -i (es. domini).",
+      "livello": "base",
+      "argomento": "Fondamenti di grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La terza declinazione latina ha il genitivo singolare in:",
+      "rispostaCorretta": "-is",
+      "opzioni": ["-is", "-i", "-ae", "-us"],
+      "spiegazione": "La terza declinazione ha genitivo singolare in -is (es. regis).",
+      "livello": "base",
+      "argomento": "Fondamenti di grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il caso che indica il complemento oggetto è:",
+      "rispostaCorretta": "Accusativo",
+      "opzioni": ["Accusativo", "Genitivo", "Dativo", "Ablativo"],
+      "spiegazione": "L'accusativo indica il complemento oggetto diretto.",
+      "livello": "base",
+      "argomento": "Fondamenti di grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il caso che indica il complemento di termine è:",
+      "rispostaCorretta": "Dativo",
+      "opzioni": ["Dativo", "Genitivo", "Accusativo", "Ablativo"],
+      "spiegazione": "Il dativo indica il complemento di termine (a chi? a che cosa?).",
+      "livello": "base",
+      "argomento": "Fondamenti di grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il caso che indica il complemento di specificazione è:",
+      "rispostaCorretta": "Genitivo",
+      "opzioni": ["Genitivo", "Dativo", "Accusativo", "Ablativo"],
+      "spiegazione": "Il genitivo indica il complemento di specificazione (di chi? di che cosa?).",
+      "livello": "base",
+      "argomento": "Fondamenti di grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le coniugazioni latine sono:",
+      "rispostaCorretta": "Quattro",
+      "opzioni": ["Quattro", "Tre", "Cinque", "Due"],
+      "spiegazione": "Il latino ha quattro coniugazioni, distinte dalla vocale tematica.",
+      "livello": "base",
+      "argomento": "Il sistema verbale latino",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La prima coniugazione ha l'infinito presente in:",
+      "rispostaCorretta": "-are",
+      "opzioni": ["-are", "-ere", "-ire", "-ere (breve)"],
+      "spiegazione": "La prima coniugazione ha infinito in -are (es. amare).",
+      "livello": "base",
+      "argomento": "Il sistema verbale latino",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il perfetto indicativo latino corrisponde in italiano a:",
+      "rispostaCorretta": "Passato remoto e passato prossimo",
+      "opzioni": ["Passato remoto e passato prossimo", "Solo imperfetto", "Solo futuro", "Solo presente"],
+      "spiegazione": "Il perfectum latino corrisponde al passato remoto e prossimo italiano.",
+      "livello": "intermedio",
+      "argomento": "Il sistema verbale latino",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il congiuntivo latino ha quanti tempi?",
+      "rispostaCorretta": "Quattro",
+      "opzioni": ["Quattro", "Due", "Sei", "Otto"],
+      "spiegazione": "Il congiuntivo latino ha presente, imperfetto, perfetto e piuccheperfetto.",
+      "livello": "intermedio",
+      "argomento": "Il sistema verbale latino",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il participio presente latino ha valore:",
+      "rispostaCorretta": "Attivo",
+      "opzioni": ["Attivo", "Passivo", "Neutro", "Riflessivo"],
+      "spiegazione": "Il participio presente (amans) ha valore attivo: 'colui che ama'.",
+      "livello": "intermedio",
+      "argomento": "Il sistema verbale latino",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il participio perfetto latino ha valore:",
+      "rispostaCorretta": "Passivo",
+      "opzioni": ["Passivo", "Attivo", "Neutro", "Riflessivo"],
+      "spiegazione": "Il participio perfetto (amatus) ha valore passivo: 'colui che è stato amato'.",
+      "livello": "intermedio",
+      "argomento": "Il sistema verbale latino",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ablativo assoluto è una costruzione:",
+      "rispostaCorretta": "Indipendente dalla frase principale",
+      "opzioni": ["Indipendente dalla frase principale", "Dipendente dal soggetto", "Sempre temporale", "Solo con verbi di moto"],
+      "spiegazione": "L'ablativo assoluto è una costruzione autonoma, non legata sintatticamente alla reggente.",
+      "livello": "avanzato",
+      "argomento": "La sintassi dei casi",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il dativo di possesso si traduce con:",
+      "rispostaCorretta": "Il verbo avere",
+      "opzioni": ["Il verbo avere", "Il verbo essere", "Il verbo dare", "Il verbo prendere"],
+      "spiegazione": "Mihi est liber = 'Ho un libro' (letteralmente: 'A me è un libro').",
+      "livello": "intermedio",
+      "argomento": "La sintassi dei casi",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il genitivo partitivo indica:",
+      "rispostaCorretta": "Il tutto di cui si considera una parte",
+      "opzioni": ["Il tutto di cui si considera una parte", "Il possesso", "Il tempo", "Il luogo"],
+      "spiegazione": "Il genitivo partitivo indica l'insieme: 'pars militum' = parte dei soldati.",
+      "livello": "intermedio",
+      "argomento": "La sintassi dei casi",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Cesare scrisse il De bello Gallico per narrare:",
+      "rispostaCorretta": "La conquista della Gallia",
+      "opzioni": ["La conquista della Gallia", "La guerra civile", "La congiura di Catilina", "Le guerre puniche"],
+      "spiegazione": "Il De bello Gallico narra la conquista della Gallia (58-50 a.C.).",
+      "livello": "base",
+      "argomento": "Cesare",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Cesare nel De bello Gallico parla di sé in:",
+      "rispostaCorretta": "Terza persona",
+      "opzioni": ["Terza persona", "Prima persona", "Seconda persona", "Forma impersonale"],
+      "spiegazione": "Cesare usa la terza persona per dare oggettività al racconto.",
+      "livello": "intermedio",
+      "argomento": "Cesare",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il De bello Gallico è composto da:",
+      "rispostaCorretta": "Otto libri",
+      "opzioni": ["Otto libri", "Sei libri", "Dieci libri", "Dodici libri"],
+      "spiegazione": "Il De bello Gallico è composto da 8 libri (l'ottavo di Irzio).",
+      "livello": "intermedio",
+      "argomento": "Cesare",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo stile di Cesare è caratterizzato da:",
+      "rispostaCorretta": "Chiarezza e semplicità",
+      "opzioni": ["Chiarezza e semplicità", "Complessità retorica", "Oscurità", "Abbondanza di figure"],
+      "spiegazione": "Lo stile cesariano è caratterizzato da chiarezza, semplicità e oggettività.",
+      "livello": "intermedio",
+      "argomento": "Cesare",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Cicerone fu il più grande:",
+      "rispostaCorretta": "Oratore romano",
+      "opzioni": ["Oratore romano", "Poeta romano", "Storico romano", "Commediografo romano"],
+      "spiegazione": "Cicerone (106-43 a.C.) fu il più grande oratore della latinità.",
+      "livello": "base",
+      "argomento": "Cicerone",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Catilinarie di Cicerone sono:",
+      "rispostaCorretta": "Quattro orazioni contro Catilina",
+      "opzioni": ["Quattro orazioni contro Catilina", "Lettere a Catilina", "Poesie", "Trattati filosofici"],
+      "spiegazione": "Le Catilinarie sono 4 orazioni pronunciate contro la congiura di Catilina (63 a.C.).",
+      "livello": "base",
+      "argomento": "Cicerone",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La prima Catilinaria inizia con le celebri parole:",
+      "rispostaCorretta": "Quo usque tandem abutere, Catilina, patientia nostra?",
+      "opzioni": ["Quo usque tandem abutere, Catilina, patientia nostra?", "Gallia est omnis divisa in partes tres", "Arma virumque cano", "O tempora, o mores"],
+      "spiegazione": "'Fino a quando, Catilina, abuserai della nostra pazienza?' è l'incipit celebre.",
+      "livello": "intermedio",
+      "argomento": "Cicerone",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il De officiis di Cicerone tratta:",
+      "rispostaCorretta": "I doveri morali",
+      "opzioni": ["I doveri morali", "La retorica", "La politica", "La religione"],
+      "spiegazione": "Il De officiis è un trattato sui doveri morali, dedicato al figlio Marco.",
+      "livello": "intermedio",
+      "argomento": "Cicerone",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Virgilio nacque presso:",
+      "rispostaCorretta": "Mantova",
+      "opzioni": ["Mantova", "Roma", "Napoli", "Firenze"],
+      "spiegazione": "Publio Virgilio Marone nacque nel 70 a.C. presso Mantova.",
+      "livello": "base",
+      "argomento": "Virgilio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Bucoliche di Virgilio sono:",
+      "rispostaCorretta": "Dieci ecloghe di poesia pastorale",
+      "opzioni": ["Dieci ecloghe di poesia pastorale", "Un poema epico", "Quattro libri sull'agricoltura", "Lettere"],
+      "spiegazione": "Le Bucoliche sono 10 ecloghe di poesia pastorale, ispirate a Teocrito.",
+      "livello": "intermedio",
+      "argomento": "Virgilio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Georgiche di Virgilio trattano:",
+      "rispostaCorretta": "L'agricoltura",
+      "opzioni": ["L'agricoltura", "La guerra", "L'amore", "La filosofia"],
+      "spiegazione": "Le Georgiche sono un poema didascalico in 4 libri sull'agricoltura.",
+      "livello": "base",
+      "argomento": "Virgilio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Eneide di Virgilio è composta da:",
+      "rispostaCorretta": "12 libri",
+      "opzioni": ["12 libri", "24 libri", "10 libri", "6 libri"],
+      "spiegazione": "L'Eneide è un poema epico in 12 libri e circa 10.000 esametri.",
+      "livello": "base",
+      "argomento": "Virgilio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Eneide narra le vicende di:",
+      "rispostaCorretta": "Enea dalla caduta di Troia alla vittoria nel Lazio",
+      "opzioni": ["Enea dalla caduta di Troia alla vittoria nel Lazio", "Romolo e Remo", "Giulio Cesare", "Augusto"],
+      "spiegazione": "L'Eneide narra il viaggio di Enea da Troia al Lazio e le guerre per fondare Roma.",
+      "livello": "base",
+      "argomento": "Virgilio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Orazio nacque a:",
+      "rispostaCorretta": "Venosa",
+      "opzioni": ["Venosa", "Roma", "Mantova", "Napoli"],
+      "spiegazione": "Quinto Orazio Flacco nacque a Venosa nel 65 a.C.",
+      "livello": "base",
+      "argomento": "Orazio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Satire di Orazio sono:",
+      "rispostaCorretta": "Componimenti che criticano vizi e difetti",
+      "opzioni": ["Componimenti che criticano vizi e difetti", "Poesie d'amore", "Poemi epici", "Tragedie"],
+      "spiegazione": "Le Satire (Sermones) criticano con ironia i vizi della società romana.",
+      "livello": "intermedio",
+      "argomento": "Orazio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Odi di Orazio sono chiamate anche:",
+      "rispostaCorretta": "Carmina",
+      "opzioni": ["Carmina", "Sermones", "Epistulae", "Epodi"],
+      "spiegazione": "Le Odi (Carmina) sono la raccolta lirica più importante di Orazio.",
+      "livello": "intermedio",
+      "argomento": "Orazio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il 'carpe diem' di Orazio significa:",
+      "rispostaCorretta": "Cogli l'attimo",
+      "opzioni": ["Cogli l'attimo", "Ricorda la morte", "Vivi nascosto", "Nulla di troppo"],
+      "spiegazione": "'Carpe diem' (cogli il giorno) invita a godere il presente senza pensare al futuro.",
+      "livello": "base",
+      "argomento": "Orazio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'aurea mediocritas di Orazio indica:",
+      "rispostaCorretta": "La giusta misura, l'equilibrio",
+      "opzioni": ["La giusta misura, l'equilibrio", "La ricchezza", "La povertà", "L'ambizione"],
+      "spiegazione": "L'aurea mediocritas è l'ideale oraziano della giusta misura, lontano dagli eccessi.",
+      "livello": "intermedio",
+      "argomento": "Orazio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Ars poetica di Orazio è:",
+      "rispostaCorretta": "Un'epistola sulla poesia",
+      "opzioni": ["Un'epistola sulla poesia", "Un poema epico", "Una satira", "Una tragedia"],
+      "spiegazione": "L'Ars poetica (Epistula ad Pisones) è un trattato in versi sulla poesia.",
+      "livello": "avanzato",
+      "argomento": "Orazio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il latino ha l'articolo determinativo.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Il latino non ha articoli; il loro valore è espresso dal contesto.",
+      "livello": "base",
+      "argomento": "Fondamenti di grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "In latino l'ordine delle parole è fisso come in italiano.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "In latino l'ordine è libero; la funzione è indicata dai casi, non dalla posizione.",
+      "livello": "base",
+      "argomento": "Fondamenti di grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Cesare morì assassinato nel 44 a.C.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Giulio Cesare fu assassinato alle Idi di marzo del 44 a.C.",
+      "livello": "base",
+      "argomento": "Cesare",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Virgilio completò l'Eneide prima di morire.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "L'Eneide rimase incompiuta. Virgilio chiese che fosse bruciata, ma Augusto la pubblicò.",
+      "livello": "intermedio",
+      "argomento": "Virgilio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il cum narrativo introduce:",
+      "rispostaCorretta": "Una proposizione temporale-causale con il congiuntivo",
+      "opzioni": ["Una proposizione temporale-causale con il congiuntivo", "Una finale", "Una consecutiva", "Una relativa"],
+      "spiegazione": "Il cum narrativo introduce subordinate temporali-causali con il congiuntivo.",
+      "livello": "avanzato",
+      "argomento": "La sintassi dei casi",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La perifrastica attiva (participio futuro + sum) esprime:",
+      "rispostaCorretta": "Intenzione o imminenza",
+      "opzioni": ["Intenzione o imminenza", "Dovere", "Possibilità", "Desiderio"],
+      "spiegazione": "La perifrastica attiva (amaturus sum) esprime intenzione: 'sto per amare'.",
+      "livello": "avanzato",
+      "argomento": "Il sistema verbale latino",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La perifrastica passiva (gerundivo + sum) esprime:",
+      "rispostaCorretta": "Dovere o necessità",
+      "opzioni": ["Dovere o necessità", "Intenzione", "Possibilità", "Desiderio"],
+      "spiegazione": "La perifrastica passiva (amandus est) esprime dovere: 'deve essere amato'.",
+      "livello": "avanzato",
+      "argomento": "Il sistema verbale latino",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il supino in -um si usa con:",
+      "rispostaCorretta": "Verbi di moto per esprimere lo scopo",
+      "opzioni": ["Verbi di moto per esprimere lo scopo", "Verbi di stato", "Verbi impersonali", "Tutti i verbi"],
+      "spiegazione": "Il supino in -um esprime lo scopo con verbi di moto: 'eo lusum' = vado a giocare.",
+      "livello": "avanzato",
+      "argomento": "Il sistema verbale latino",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il gerundio latino è:",
+      "rispostaCorretta": "Un sostantivo verbale declinabile",
+      "opzioni": ["Un sostantivo verbale declinabile", "Un aggettivo", "Un avverbio", "Una congiunzione"],
+      "spiegazione": "Il gerundio è un sostantivo verbale che si declina nei casi obliqui.",
+      "livello": "intermedio",
+      "argomento": "Il sistema verbale latino",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il gerundivo latino è:",
+      "rispostaCorretta": "Un aggettivo verbale con valore di necessità",
+      "opzioni": ["Un aggettivo verbale con valore di necessità", "Un sostantivo", "Un avverbio", "Una congiunzione"],
+      "spiegazione": "Il gerundivo è un aggettivo verbale: 'liber legendus' = libro da leggere.",
+      "livello": "intermedio",
+      "argomento": "Il sistema verbale latino",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'accusativo di relazione indica:",
+      "rispostaCorretta": "La parte del corpo o l'aspetto interessato",
+      "opzioni": ["La parte del corpo o l'aspetto interessato", "Il complemento oggetto", "Il moto a luogo", "Il tempo"],
+      "spiegazione": "L'accusativo di relazione: 'nudus pedes' = nudo quanto ai piedi.",
+      "livello": "avanzato",
+      "argomento": "La sintassi dei casi",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il dativo etico esprime:",
+      "rispostaCorretta": "Partecipazione emotiva",
+      "opzioni": ["Partecipazione emotiva", "Possesso", "Vantaggio", "Termine"],
+      "spiegazione": "Il dativo etico indica partecipazione emotiva: 'quid mihi Celsus agit?' = che fa il mio Celso?",
+      "livello": "avanzato",
+      "argomento": "La sintassi dei casi",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Cicerone fu ucciso nel:",
+      "rispostaCorretta": "43 a.C.",
+      "opzioni": ["43 a.C.", "44 a.C.", "63 a.C.", "31 a.C."],
+      "spiegazione": "Cicerone fu ucciso nel 43 a.C. durante le proscrizioni di Antonio.",
+      "livello": "intermedio",
+      "argomento": "Cicerone",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il De oratore di Cicerone tratta:",
+      "rispostaCorretta": "La formazione dell'oratore ideale",
+      "opzioni": ["La formazione dell'oratore ideale", "I doveri morali", "La vecchiaia", "L'amicizia"],
+      "spiegazione": "Il De oratore è un dialogo sulla formazione dell'oratore perfetto.",
+      "livello": "intermedio",
+      "argomento": "Cicerone",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Epistulae ad familiares di Cicerone sono:",
+      "rispostaCorretta": "Lettere a parenti e amici",
+      "opzioni": ["Lettere a parenti e amici", "Orazioni", "Trattati filosofici", "Poesie"],
+      "spiegazione": "Le Epistulae ad familiares sono lettere private a parenti e amici.",
+      "livello": "intermedio",
+      "argomento": "Cicerone",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La IV ecloga di Virgilio profetizza:",
+      "rispostaCorretta": "La nascita di un bambino che porterà l'età dell'oro",
+      "opzioni": ["La nascita di un bambino che porterà l'età dell'oro", "La guerra civile", "La morte di Cesare", "La fondazione di Roma"],
+      "spiegazione": "La IV ecloga annuncia un puer che inaugurerà una nuova età dell'oro.",
+      "livello": "avanzato",
+      "argomento": "Virgilio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il libro IV delle Georgiche tratta:",
+      "rispostaCorretta": "L'apicoltura",
+      "opzioni": ["L'apicoltura", "La viticoltura", "L'allevamento bovino", "La cerealicoltura"],
+      "spiegazione": "Il IV libro delle Georgiche tratta l'apicoltura e il mito di Aristeo.",
+      "livello": "avanzato",
+      "argomento": "Virgilio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli Epodi di Orazio sono:",
+      "rispostaCorretta": "Componimenti in metro giambico",
+      "opzioni": ["Componimenti in metro giambico", "Odi", "Satire", "Epistole"],
+      "spiegazione": "Gli Epodi sono 17 componimenti in metro giambico, ispirati ad Archiloco.",
+      "livello": "avanzato",
+      "argomento": "Orazio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Mecenate fu per Orazio:",
+      "rispostaCorretta": "Protettore e amico",
+      "opzioni": ["Protettore e amico", "Nemico", "Maestro", "Parente"],
+      "spiegazione": "Mecenate fu il protettore di Orazio e gli donò una villa in Sabina.",
+      "livello": "intermedio",
+      "argomento": "Orazio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ode 'Exegi monumentum' di Orazio celebra:",
+      "rispostaCorretta": "L'immortalità della poesia",
+      "opzioni": ["L'immortalità della poesia", "La guerra", "L'amore", "La morte"],
+      "spiegazione": "'Ho eretto un monumento più duraturo del bronzo': Orazio celebra la sua poesia immortale.",
+      "livello": "avanzato",
+      "argomento": "Orazio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il complemento di moto a luogo con nomi di città si esprime con:",
+      "rispostaCorretta": "L'accusativo semplice",
+      "opzioni": ["L'accusativo semplice", "In + accusativo", "Ad + accusativo", "L'ablativo"],
+      "spiegazione": "Con nomi di città: 'Romam eo' = vado a Roma (accusativo semplice).",
+      "livello": "intermedio",
+      "argomento": "La sintassi dei casi",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il complemento di stato in luogo con nomi di città si esprime con:",
+      "rispostaCorretta": "Il locativo o l'ablativo semplice",
+      "opzioni": ["Il locativo o l'ablativo semplice", "In + ablativo", "Ad + accusativo", "L'accusativo"],
+      "spiegazione": "Con nomi di città: 'Romae sum' = sono a Roma (locativo).",
+      "livello": "intermedio",
+      "argomento": "La sintassi dei casi",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il De bello civili di Cesare narra:",
+      "rispostaCorretta": "La guerra civile contro Pompeo",
+      "opzioni": ["La guerra civile contro Pompeo", "La conquista della Gallia", "La congiura di Catilina", "Le guerre puniche"],
+      "spiegazione": "Il De bello civili narra la guerra civile tra Cesare e Pompeo (49-48 a.C.).",
+      "livello": "intermedio",
+      "argomento": "Cesare",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La frase 'Gallia est omnis divisa in partes tres' apre:",
+      "rispostaCorretta": "Il De bello Gallico",
+      "opzioni": ["Il De bello Gallico", "Il De bello civili", "L'Eneide", "Le Catilinarie"],
+      "spiegazione": "'Tutta la Gallia è divisa in tre parti' è l'incipit del De bello Gallico.",
+      "livello": "base",
+      "argomento": "Cesare",
+      "materia": "latino"
+    }
+  ]
+}

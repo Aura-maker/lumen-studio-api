@@ -7,11 +7,158 @@ module.exports = {
     "colore": "#2196F3",
     "icona": "book-open",
     "annoScolastico": [
+      "1.",
+      "2.",
+      "3.",
       "4.",
       "5."
     ]
   },
   "argomenti": [
+    {
+      "id": "eng-grammar-basics",
+      "titolo": "English Grammar Fundamentals",
+      "annoRiferimento": "1.",
+      "descrizione": "Essential grammar structures",
+      "sottoargomenti": [
+        {
+          "titolo": "Verb Tenses: Present and Past",
+          "riassunto": "English verb tenses express time and aspect. The Present Simple describes habits, routines, and permanent states: 'I work every day,' 'She lives in London.' Form: base verb (+ s/es for third person). The Present Continuous describes actions happening now or temporary situations: 'I am working,' 'They are staying with us.' Form: am/is/are + verb-ing. State verbs (know, believe, love) rarely use continuous. The Past Simple describes completed actions: 'I worked yesterday,' 'She went to Paris.' Regular verbs add -ed; irregular verbs have unique forms (go-went, see-saw). The Past Continuous describes actions in progress at a past moment: 'I was working when you called.' Form: was/were + verb-ing. Used for background actions, interrupted actions, parallel actions. Time expressions: Present Simple (always, usually, every day), Present Continuous (now, at the moment), Past Simple (yesterday, last week, ago), Past Continuous (while, when). Question formation uses auxiliaries: do/does for Present Simple, did for Past Simple, inversion for continuous tenses.",
+          "livelloDifficolta": "base",
+          "tempoLettura": 6,
+          "tags": ["grammar", "tenses", "present", "past"],
+          "collegamenti": ["verbs", "auxiliaries", "time expressions"]
+        },
+        {
+          "titolo": "Verb Tenses: Future and Perfect",
+          "riassunto": "Future expressions in English: Will + infinitive for predictions, spontaneous decisions, promises: 'It will rain,' 'I'll help you.' Going to + infinitive for plans and intentions, evidence-based predictions: 'I'm going to study medicine,' 'Look at those clouds - it's going to rain.' Present Continuous for fixed arrangements: 'I'm meeting John tomorrow.' Present Simple for timetables: 'The train leaves at 6.' The Present Perfect connects past to present: 'I have lived here for 5 years' (still living), 'She has visited Paris' (experience). Form: have/has + past participle. Used with ever, never, already, yet, just, since, for. The Past Perfect describes actions before another past action: 'When I arrived, she had left.' Form: had + past participle. The Future Perfect describes actions completed before a future time: 'By 2025, I will have graduated.' Continuous perfect forms emphasize duration: 'I have been waiting for an hour.' Key distinction: Present Perfect (unfinished time) vs Past Simple (finished time): 'I have seen him today' vs 'I saw him yesterday.'",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 6,
+          "tags": ["grammar", "future", "perfect", "tenses"],
+          "collegamenti": ["will", "going to", "present perfect"]
+        }
+      ]
+    },
+    {
+      "id": "eng-grammar-intermediate",
+      "titolo": "Intermediate Grammar",
+      "annoRiferimento": "1.",
+      "descrizione": "Complex grammatical structures",
+      "sottoargomenti": [
+        {
+          "titolo": "Conditionals",
+          "riassunto": "Conditional sentences express hypothetical situations. Zero Conditional for general truths and scientific facts: 'If you heat water, it boils.' Structure: If + Present Simple, Present Simple. First Conditional for real/possible future situations: 'If it rains, I will stay home.' Structure: If + Present Simple, will + infinitive. Second Conditional for unreal/hypothetical present or future: 'If I won the lottery, I would travel the world.' Structure: If + Past Simple, would + infinitive. Note: 'If I were' (subjunctive) is formal. Third Conditional for unreal past situations (regrets, different outcomes): 'If I had studied, I would have passed.' Structure: If + Past Perfect, would have + past participle. Mixed Conditionals combine time frames: 'If I had studied medicine (past), I would be a doctor now (present).' Unless = if not: 'Unless you hurry, you'll miss the train.' Other conditional words: provided that, as long as, in case, supposing. Wish + Past Simple for present wishes; Wish + Past Perfect for past regrets.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 6,
+          "tags": ["conditionals", "if clauses", "hypothetical", "wishes"],
+          "collegamenti": ["grammar", "subjunctive", "modal verbs"]
+        },
+        {
+          "titolo": "Passive Voice and Reported Speech",
+          "riassunto": "The Passive Voice emphasizes the action or receiver rather than the doer. Formation: be + past participle. Active: 'Shakespeare wrote Hamlet.' Passive: 'Hamlet was written by Shakespeare.' Tense changes: 'They make cars' → 'Cars are made'; 'They made cars' → 'Cars were made'; 'They will make cars' → 'Cars will be made.' Use passive when the agent is unknown, obvious, or unimportant; in formal/scientific writing; to vary sentence structure. Reported Speech (Indirect Speech) reports what someone said. Tense backshift: Present → Past, Past → Past Perfect, Will → Would. 'I am tired' → She said she was tired. 'I went home' → He said he had gone home. Time/place changes: today → that day, here → there, this → that. Reporting verbs: say, tell, ask, explain, admit, deny, promise, suggest. Questions in reported speech: 'Where do you live?' → She asked where I lived. Commands: 'Close the door' → He told me to close the door. No backshift needed for general truths or recent statements.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 6,
+          "tags": ["passive", "reported speech", "indirect speech"],
+          "collegamenti": ["grammar", "verbs", "tenses"]
+        }
+      ]
+    },
+    {
+      "id": "eng-medieval-renaissance",
+      "titolo": "Medieval and Renaissance Literature",
+      "annoRiferimento": "2.",
+      "descrizione": "From Chaucer to Shakespeare",
+      "sottoargomenti": [
+        {
+          "titolo": "Geoffrey Chaucer and The Canterbury Tales",
+          "riassunto": "Geoffrey Chaucer (c. 1343-1400) is the 'Father of English Literature,' the first major poet to write in Middle English rather than Latin or French. Born into a middle-class family, he served as courtier, diplomat, and civil servant. The Canterbury Tales (c. 1387-1400) is his masterpiece: a frame narrative of pilgrims traveling from London to Canterbury Cathedral to visit Thomas Becket's shrine. The General Prologue introduces 29 pilgrims representing all social classes: the noble Knight, the corrupt Pardoner, the bawdy Wife of Bath, the idealized Parson, the drunken Miller. Each pilgrim tells tales reflecting their character and social position. The work offers a vivid portrait of 14th-century English society with humor, irony, and social criticism. Chaucer's innovations include realistic characterization, use of vernacular English, variety of genres (romance, fabliau, sermon, beast fable), and the heroic couplet. The Wife of Bath's Prologue and Tale explores female sexuality and marriage; The Pardoner's Tale is a moral exemplum about greed. Chaucer influenced English literature profoundly, establishing English as a literary language.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Chaucer", "Canterbury Tales", "medieval", "Middle English"],
+          "collegamenti": ["pilgrims", "social satire", "frame narrative"]
+        },
+        {
+          "titolo": "William Shakespeare: Life and Works",
+          "riassunto": "William Shakespeare (1564-1616) is the greatest writer in the English language. Born in Stratford-upon-Avon, he married Anne Hathaway and had three children. By 1592 he was in London as actor and playwright with the Lord Chamberlain's Men (later King's Men), performing at the Globe Theatre. His works include 37 plays, 154 sonnets, and narrative poems. The plays divide into: Comedies (A Midsummer Night's Dream, Much Ado About Nothing, Twelfth Night) featuring love, mistaken identity, and happy endings; Histories (Richard III, Henry IV, Henry V) dramatizing English history; Tragedies (Hamlet, Othello, King Lear, Macbeth) exploring ambition, jealousy, madness, and fate; Romances (The Tempest, The Winter's Tale) blending tragedy and comedy. Shakespeare's genius lies in psychological depth, poetic language, universal themes, and theatrical innovation. He invented over 1,700 words (assassination, lonely, generous) and countless phrases ('break the ice,' 'wild goose chase'). The Sonnets explore love, beauty, time, and mortality. His influence on literature, language, and culture is immeasurable.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Shakespeare", "Renaissance", "drama", "Globe Theatre"],
+          "collegamenti": ["tragedies", "comedies", "sonnets"]
+        }
+      ]
+    },
+    {
+      "id": "eng-shakespeare-plays",
+      "titolo": "Shakespeare's Major Plays",
+      "annoRiferimento": "2.",
+      "descrizione": "Analysis of key works",
+      "sottoargomenti": [
+        {
+          "titolo": "Hamlet: The Tragedy of Indecision",
+          "riassunto": "Hamlet (c. 1600) is Shakespeare's most famous tragedy. Prince Hamlet of Denmark learns from his father's ghost that King Hamlet was murdered by his brother Claudius, who has married Queen Gertrude and taken the throne. Hamlet swears revenge but delays action, feigning madness while questioning the ghost's honesty. The 'play within a play' (The Mousetrap) confirms Claudius's guilt. Hamlet accidentally kills Polonius, causing Ophelia's madness and death. Laertes returns seeking revenge for his father and sister. In the final scene, poisoned swords and wine kill Gertrude, Laertes, Claudius, and Hamlet. Fortinbras of Norway inherits Denmark. Major themes: appearance vs reality, action vs inaction, corruption and decay, mortality ('To be or not to be'), the nature of revenge. Hamlet's character combines intellectual brilliance with paralyzing doubt. His soliloquies reveal inner conflict between duty and moral scruple. The play explores existential questions about life, death, and meaning. Famous quotes: 'Something is rotten in the state of Denmark,' 'To thine own self be true,' 'The rest is silence.'",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Hamlet", "tragedy", "revenge", "soliloquy"],
+          "collegamenti": ["Shakespeare", "Denmark", "madness"]
+        },
+        {
+          "titolo": "Macbeth: Ambition and Guilt",
+          "riassunto": "Macbeth (c. 1606) is Shakespeare's shortest and most intense tragedy. Scottish general Macbeth meets three witches who prophesy he will become king. Spurred by ambition and Lady Macbeth's manipulation, he murders King Duncan and seizes the throne. Guilt haunts both: Macbeth sees Banquo's ghost; Lady Macbeth sleepwalks, trying to wash imaginary blood from her hands ('Out, damned spot!'). Macbeth becomes a tyrant, ordering more murders. The witches' new prophecies ('none of woman born' can harm him; he's safe until Birnam Wood moves) give false confidence. Malcolm's army, camouflaged with branches, attacks. Macduff, born by Caesarean section, kills Macbeth. Malcolm becomes king. Major themes: ambition and its corrupting power, guilt and conscience, fate vs free will, appearance vs reality, the supernatural. The play explores how evil destroys the evildoer. Lady Macbeth's initial strength crumbles into madness. Macbeth's 'Tomorrow and tomorrow' soliloquy expresses nihilistic despair. The witches represent temptation and moral ambiguity. Imagery of blood, darkness, and sleeplessness pervades the play.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Macbeth", "tragedy", "ambition", "guilt"],
+          "collegamenti": ["Shakespeare", "witches", "Scotland"]
+        }
+      ]
+    },
+    {
+      "id": "eng-18th-century",
+      "titolo": "18th Century Literature",
+      "annoRiferimento": "3.",
+      "descrizione": "The Age of Reason and the Novel",
+      "sottoargomenti": [
+        {
+          "titolo": "The Rise of the Novel",
+          "riassunto": "The novel emerged as a major literary form in 18th-century England. Social factors included rising literacy, a growing middle class, lending libraries, and women readers. Daniel Defoe (1660-1731) wrote Robinson Crusoe (1719), the story of a shipwrecked man surviving alone on an island - a celebration of individualism, practical reason, and colonialism. Moll Flanders (1722) follows a woman's picaresque adventures through crime and redemption. Samuel Richardson (1689-1761) pioneered the epistolary novel (told through letters). Pamela (1740) tells of a servant girl resisting her master's seduction; Clarissa (1748) is a tragic tale of virtue destroyed. Henry Fielding (1707-1754) wrote comic novels: Joseph Andrews (1742) parodies Richardson; Tom Jones (1749) is a sprawling comic epic following a foundling's adventures. Laurence Sterne's Tristram Shandy (1759-1767) is an experimental, digressive, self-conscious narrative. The novel's characteristics include: prose fiction, realistic characters and settings, focus on individual experience, moral concerns, and entertainment for middle-class readers.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["novel", "18th century", "Defoe", "Richardson"],
+          "collegamenti": ["Robinson Crusoe", "realism", "middle class"]
+        },
+        {
+          "titolo": "Jonathan Swift and Satire",
+          "riassunto": "Jonathan Swift (1667-1745) was an Anglo-Irish satirist, essayist, and clergyman. Born in Dublin, he became Dean of St. Patrick's Cathedral. His savage wit attacked political corruption, religious hypocrisy, and human folly. Gulliver's Travels (1726) is his masterpiece: Lemuel Gulliver voyages to four fantastic lands. In Lilliput, tiny people wage absurd wars over which end to crack an egg (satirizing English-French conflicts and religious disputes). In Brobdingnag, giants view European civilization with disgust. In Laputa, impractical scientists neglect real problems. In Houyhnhnmland, rational horses rule over bestial Yahoos (humans), forcing Gulliver to confront human nature's ugliness. The work operates on multiple levels: children's adventure, political allegory, philosophical satire, misanthropic vision. A Modest Proposal (1729) ironically suggests solving Irish poverty by eating children - a devastating attack on English exploitation of Ireland. Swift's style combines apparent reasonableness with shocking content. His influence on satire and the novel was profound.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Swift", "satire", "Gulliver's Travels", "irony"],
+          "collegamenti": ["18th century", "Ireland", "social criticism"]
+        }
+      ]
+    },
+    {
+      "id": "eng-pre-romanticism",
+      "titolo": "Pre-Romanticism and Gothic",
+      "annoRiferimento": "3.",
+      "descrizione": "Transition to Romanticism",
+      "sottoargomenti": [
+        {
+          "titolo": "The Gothic Novel",
+          "riassunto": "The Gothic novel emerged in the late 18th century as a reaction against Enlightenment rationalism. Horace Walpole's The Castle of Otranto (1764) established the genre with its medieval setting, supernatural events, and atmosphere of terror. Gothic conventions include: ancient castles with secret passages, mysterious manuscripts, supernatural occurrences (ghosts, prophecies), villainous aristocrats, persecuted heroines, extreme emotions, and gloomy atmospheres. Ann Radcliffe (1764-1823) refined the genre with The Mysteries of Udolpho (1794): her 'explained supernatural' reveals rational causes for apparently ghostly events. Matthew Lewis's The Monk (1796) shocked readers with explicit horror and sexuality. Mary Shelley's Frankenstein (1818) combined Gothic elements with science fiction: Victor Frankenstein creates a monster who, rejected by society, turns to murder. The novel explores creation, responsibility, and the dangers of unchecked ambition. Bram Stoker's Dracula (1897) codified vampire mythology. Gothic literature influenced Romanticism, horror fiction, and psychological exploration of the unconscious.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Gothic", "horror", "Frankenstein", "supernatural"],
+          "collegamenti": ["Romanticism", "Mary Shelley", "terror"]
+        },
+        {
+          "titolo": "William Blake: Visionary Poetry",
+          "riassunto": "William Blake (1757-1827) was a poet, painter, and visionary who bridged Neoclassicism and Romanticism. A London engraver, he developed 'illuminated printing,' combining text and images. Songs of Innocence (1789) presents childhood's joyful, protected world: 'The Lamb' celebrates gentle creation. Songs of Experience (1794) reveals adult corruption and suffering: 'The Tyger' questions creation's darker aspects ('Did he who made the Lamb make thee?'). Together they show 'two contrary states of the human soul.' 'London' depicts urban misery: 'mind-forg'd manacles,' child chimney sweepers, diseased soldiers, and prostitutes. Blake attacked institutional religion, political oppression, and industrial exploitation. His prophetic books (The Marriage of Heaven and Hell, Jerusalem) develop a complex personal mythology. Key concepts: Imagination as divine faculty; contraries (innocence/experience, reason/energy) as necessary for progress; critique of rationalism and conventional morality. Blake's influence on Romanticism, modernism, and counterculture was immense, though he was largely ignored in his lifetime.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Blake", "visionary", "Songs of Innocence", "Songs of Experience"],
+          "collegamenti": ["Romanticism", "symbolism", "social criticism"]
+        }
+      ]
+    },
     {
       "id": "eng-romanticism",
       "titolo": "English Romanticism",

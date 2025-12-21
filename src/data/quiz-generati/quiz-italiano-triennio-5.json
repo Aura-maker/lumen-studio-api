@@ -1,0 +1,557 @@
+{
+  "materia": "italiano",
+  "descrizione": "Quiz Italiano - Parte 5: Novecento, Pirandello, Svevo, Ungaretti, Montale",
+  "totale": 60,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Luigi Pirandello nacque in Sicilia nel:",
+      "rispostaCorretta": "1867",
+      "opzioni": ["1867", "1880", "1850", "1900"],
+      "spiegazione": "Pirandello nacque ad Agrigento nel 1867 e morì a Roma nel 1936.",
+      "livello": "base",
+      "argomento": "Luigi Pirandello",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Pirandello vinse il Premio Nobel per la Letteratura nel:",
+      "rispostaCorretta": "1934",
+      "opzioni": ["1934", "1926", "1920", "1940"],
+      "spiegazione": "Pirandello vinse il Nobel nel 1934 per il suo teatro innovativo.",
+      "livello": "intermedio",
+      "argomento": "Luigi Pirandello",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il fu Mattia Pascal di Pirandello narra:",
+      "rispostaCorretta": "La storia di un uomo che finge la propria morte",
+      "opzioni": ["La storia di un uomo che finge la propria morte", "Una guerra", "Un amore impossibile", "Un viaggio"],
+      "spiegazione": "Mattia Pascal finge di morire per reinventarsi, ma scopre di non poter vivere senza identità.",
+      "livello": "base",
+      "argomento": "Luigi Pirandello",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Uno, nessuno e centomila di Pirandello affronta il tema:",
+      "rispostaCorretta": "Della frantumazione dell'identità",
+      "opzioni": ["Della frantumazione dell'identità", "Della guerra", "Dell'amore", "Del viaggio"],
+      "spiegazione": "Vitangelo Moscarda scopre di avere tante identità quanti sono gli altri che lo vedono.",
+      "livello": "intermedio",
+      "argomento": "Luigi Pirandello",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Sei personaggi in cerca d'autore è:",
+      "rispostaCorretta": "Un'opera teatrale metateatrale",
+      "opzioni": ["Un'opera teatrale metateatrale", "Un romanzo", "Una raccolta di poesie", "Un saggio"],
+      "spiegazione": "Sei personaggi irrompono sul palcoscenico cercando un autore che dia loro vita.",
+      "livello": "base",
+      "argomento": "Luigi Pirandello",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il concetto di 'maschera' in Pirandello indica:",
+      "rispostaCorretta": "Il ruolo sociale che imprigiona l'individuo",
+      "opzioni": ["Il ruolo sociale che imprigiona l'individuo", "Un costume teatrale", "Una malattia", "Un travestimento"],
+      "spiegazione": "La maschera è la forma che la società impone, soffocando la vita autentica.",
+      "livello": "avanzato",
+      "argomento": "Luigi Pirandello",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'umorismo secondo Pirandello è:",
+      "rispostaCorretta": "Il sentimento del contrario",
+      "opzioni": ["Il sentimento del contrario", "La comicità", "La satira", "L'ironia"],
+      "spiegazione": "L'umorismo va oltre il comico: riflette sulle ragioni del ridicolo.",
+      "livello": "avanzato",
+      "argomento": "Luigi Pirandello",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Italo Svevo nacque a Trieste nel:",
+      "rispostaCorretta": "1861",
+      "opzioni": ["1861", "1880", "1850", "1900"],
+      "spiegazione": "Italo Svevo (Aron Hector Schmitz) nacque a Trieste nel 1861.",
+      "livello": "intermedio",
+      "argomento": "Italo Svevo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La coscienza di Zeno di Svevo è:",
+      "rispostaCorretta": "Un romanzo psicoanalitico",
+      "opzioni": ["Un romanzo psicoanalitico", "Un'epica", "Una tragedia", "Un saggio"],
+      "spiegazione": "La coscienza di Zeno (1923) usa la psicoanalisi come struttura narrativa.",
+      "livello": "base",
+      "argomento": "Italo Svevo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Zeno Cosini è:",
+      "rispostaCorretta": "Un inetto che scrive le sue memorie per il dottor S.",
+      "opzioni": ["Un inetto che scrive le sue memorie per il dottor S.", "Un eroe di guerra", "Un poeta", "Un politico"],
+      "spiegazione": "Zeno è il protagonista-narratore inattendibile della Coscienza di Zeno.",
+      "livello": "intermedio",
+      "argomento": "Italo Svevo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il tema dell'inettitudine in Svevo indica:",
+      "rispostaCorretta": "L'incapacità di vivere e agire",
+      "opzioni": ["L'incapacità di vivere e agire", "La forza", "Il successo", "L'eroismo"],
+      "spiegazione": "L'inetto sveviano è incapace di adattarsi alla vita borghese.",
+      "livello": "avanzato",
+      "argomento": "Italo Svevo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Svevo fu riscoperto grazie a:",
+      "rispostaCorretta": "James Joyce",
+      "opzioni": ["James Joyce", "Pirandello", "D'Annunzio", "Pascoli"],
+      "spiegazione": "Joyce, amico di Svevo a Trieste, lo fece conoscere in Europa.",
+      "livello": "avanzato",
+      "argomento": "Italo Svevo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giuseppe Ungaretti nacque ad Alessandria d'Egitto nel:",
+      "rispostaCorretta": "1888",
+      "opzioni": ["1888", "1900", "1870", "1910"],
+      "spiegazione": "Ungaretti nacque ad Alessandria d'Egitto nel 1888 da genitori lucchesi.",
+      "livello": "intermedio",
+      "argomento": "Giuseppe Ungaretti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Allegria di Ungaretti raccoglie poesie scritte:",
+      "rispostaCorretta": "Durante la Prima Guerra Mondiale",
+      "opzioni": ["Durante la Prima Guerra Mondiale", "Nel dopoguerra", "Prima della guerra", "Durante il fascismo"],
+      "spiegazione": "L'Allegria contiene poesie scritte in trincea (1914-1919).",
+      "livello": "intermedio",
+      "argomento": "Giuseppe Ungaretti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La poesia 'Soldati' di Ungaretti recita:",
+      "rispostaCorretta": "Si sta come d'autunno sugli alberi le foglie",
+      "opzioni": ["Si sta come d'autunno sugli alberi le foglie", "M'illumino d'immenso", "Fratelli", "Veglia"],
+      "spiegazione": "Soldati esprime la precarietà della vita in guerra con un'immagine folgorante.",
+      "livello": "base",
+      "argomento": "Giuseppe Ungaretti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La poesia 'Mattina' di Ungaretti è composta da:",
+      "rispostaCorretta": "Due versi: M'illumino d'immenso",
+      "opzioni": ["Due versi: M'illumino d'immenso", "Un sonetto", "Un'ode", "Un poema"],
+      "spiegazione": "Mattina è una delle poesie più brevi della letteratura italiana.",
+      "livello": "base",
+      "argomento": "Giuseppe Ungaretti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo stile di Ungaretti è caratterizzato da:",
+      "rispostaCorretta": "Versi brevi, parole essenziali, spazi bianchi",
+      "opzioni": ["Versi brevi, parole essenziali, spazi bianchi", "Versi lunghi e descrittivi", "Rime elaborate", "Prosa poetica"],
+      "spiegazione": "Ungaretti rivoluzionò la poesia con la 'parola scavata' e il verso libero.",
+      "livello": "intermedio",
+      "argomento": "Giuseppe Ungaretti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Eugenio Montale nacque a Genova nel:",
+      "rispostaCorretta": "1896",
+      "opzioni": ["1896", "1880", "1910", "1870"],
+      "spiegazione": "Montale nacque a Genova nel 1896 e morì a Milano nel 1981.",
+      "livello": "intermedio",
+      "argomento": "Eugenio Montale",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Montale vinse il Premio Nobel per la Letteratura nel:",
+      "rispostaCorretta": "1975",
+      "opzioni": ["1975", "1960", "1980", "1950"],
+      "spiegazione": "Montale vinse il Nobel nel 1975.",
+      "livello": "intermedio",
+      "argomento": "Eugenio Montale",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Ossi di seppia di Montale è:",
+      "rispostaCorretta": "La prima raccolta poetica (1925)",
+      "opzioni": ["La prima raccolta poetica (1925)", "Un romanzo", "Un saggio", "Un'opera teatrale"],
+      "spiegazione": "Ossi di seppia (1925) è la prima e più celebre raccolta di Montale.",
+      "livello": "base",
+      "argomento": "Eugenio Montale",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il 'male di vivere' in Montale indica:",
+      "rispostaCorretta": "Il dolore esistenziale e l'aridità della vita",
+      "opzioni": ["Il dolore esistenziale e l'aridità della vita", "Una malattia fisica", "La povertà", "La guerra"],
+      "spiegazione": "Il male di vivere è il tema centrale di Ossi di seppia.",
+      "livello": "intermedio",
+      "argomento": "Eugenio Montale",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il 'correlativo oggettivo' in Montale è:",
+      "rispostaCorretta": "Un oggetto che esprime uno stato d'animo",
+      "opzioni": ["Un oggetto che esprime uno stato d'animo", "Una figura retorica", "Un tipo di verso", "Una rima"],
+      "spiegazione": "Il correlativo oggettivo traduce emozioni in immagini concrete.",
+      "livello": "avanzato",
+      "argomento": "Eugenio Montale",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Occasioni di Montale sono dedicate a:",
+      "rispostaCorretta": "Clizia (Irma Brandeis)",
+      "opzioni": ["Clizia (Irma Brandeis)", "Beatrice", "Laura", "Silvia"],
+      "spiegazione": "Clizia è la donna-angelo delle Occasioni, ispirata a Irma Brandeis.",
+      "livello": "avanzato",
+      "argomento": "Eugenio Montale",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Ermetismo è una corrente poetica caratterizzata da:",
+      "rispostaCorretta": "Linguaggio oscuro e simbolico",
+      "opzioni": ["Linguaggio oscuro e simbolico", "Chiarezza espressiva", "Impegno politico", "Realismo"],
+      "spiegazione": "L'Ermetismo usa un linguaggio difficile, allusivo, ermetico.",
+      "livello": "intermedio",
+      "argomento": "Poesia del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Salvatore Quasimodo vinse il Premio Nobel nel:",
+      "rispostaCorretta": "1959",
+      "opzioni": ["1959", "1950", "1970", "1965"],
+      "spiegazione": "Quasimodo vinse il Nobel nel 1959.",
+      "livello": "intermedio",
+      "argomento": "Poesia del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Ed è subito sera di Quasimodo esprime:",
+      "rispostaCorretta": "La solitudine e la brevità della vita",
+      "opzioni": ["La solitudine e la brevità della vita", "La gioia", "L'amore", "La guerra"],
+      "spiegazione": "'Ognuno sta solo sul cuor della terra / trafitto da un raggio di sole: / ed è subito sera.'",
+      "livello": "intermedio",
+      "argomento": "Poesia del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Cesare Pavese scrisse:",
+      "rispostaCorretta": "La luna e i falò e Lavorare stanca",
+      "opzioni": ["La luna e i falò e Lavorare stanca", "Il fu Mattia Pascal", "La coscienza di Zeno", "I Malavoglia"],
+      "spiegazione": "Pavese fu poeta e narratore, legato alle Langhe piemontesi.",
+      "livello": "intermedio",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Primo Levi scrisse:",
+      "rispostaCorretta": "Se questo è un uomo",
+      "opzioni": ["Se questo è un uomo", "Il fu Mattia Pascal", "I Malavoglia", "La luna e i falò"],
+      "spiegazione": "Se questo è un uomo (1947) è la testimonianza di Levi su Auschwitz.",
+      "livello": "base",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Se questo è un uomo di Primo Levi narra:",
+      "rispostaCorretta": "L'esperienza nel campo di concentramento di Auschwitz",
+      "opzioni": ["L'esperienza nel campo di concentramento di Auschwitz", "La Resistenza", "La guerra in Africa", "L'emigrazione"],
+      "spiegazione": "Levi testimonia l'orrore del lager con lucidità e umanità.",
+      "livello": "base",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Italo Calvino scrisse:",
+      "rispostaCorretta": "Il sentiero dei nidi di ragno e Le città invisibili",
+      "opzioni": ["Il sentiero dei nidi di ragno e Le città invisibili", "Il fu Mattia Pascal", "I Malavoglia", "La coscienza di Zeno"],
+      "spiegazione": "Calvino passò dal Neorealismo alla letteratura fantastica e combinatoria.",
+      "livello": "base",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La trilogia I nostri antenati di Calvino comprende:",
+      "rispostaCorretta": "Il visconte dimezzato, Il barone rampante, Il cavaliere inesistente",
+      "opzioni": ["Il visconte dimezzato, Il barone rampante, Il cavaliere inesistente", "Tre romanzi storici", "Tre racconti di guerra", "Tre poemi"],
+      "spiegazione": "La trilogia fantastica esplora la condizione umana con allegorie.",
+      "livello": "intermedio",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Alberto Moravia scrisse:",
+      "rispostaCorretta": "Gli indifferenti e La ciociara",
+      "opzioni": ["Gli indifferenti e La ciociara", "Il fu Mattia Pascal", "I Malavoglia", "La coscienza di Zeno"],
+      "spiegazione": "Moravia fu uno dei maggiori narratori del Novecento italiano.",
+      "livello": "intermedio",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Neorealismo letterario si sviluppa:",
+      "rispostaCorretta": "Nel secondo dopoguerra",
+      "opzioni": ["Nel secondo dopoguerra", "Negli anni Venti", "Negli anni Sessanta", "A fine Ottocento"],
+      "spiegazione": "Il Neorealismo nasce dopo la Seconda Guerra Mondiale.",
+      "livello": "intermedio",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Gattopardo di Tomasi di Lampedusa narra:",
+      "rispostaCorretta": "Il declino dell'aristocrazia siciliana durante il Risorgimento",
+      "opzioni": ["Il declino dell'aristocrazia siciliana durante il Risorgimento", "La Resistenza", "La Prima Guerra Mondiale", "L'emigrazione"],
+      "spiegazione": "Il Gattopardo (1958) è il capolavoro postumo di Tomasi di Lampedusa.",
+      "livello": "intermedio",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La frase 'Se vogliamo che tutto rimanga come è, bisogna che tutto cambi' è dal:",
+      "rispostaCorretta": "Gattopardo",
+      "opzioni": ["Gattopardo", "Fu Mattia Pascal", "Promessi Sposi", "Coscienza di Zeno"],
+      "spiegazione": "La celebre frase di Tancredi esprime il trasformismo siciliano.",
+      "livello": "avanzato",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Pier Paolo Pasolini fu:",
+      "rispostaCorretta": "Poeta, scrittore e regista",
+      "opzioni": ["Poeta, scrittore e regista", "Solo poeta", "Solo regista", "Solo scrittore"],
+      "spiegazione": "Pasolini fu un intellettuale poliedrico e controverso.",
+      "livello": "base",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Ragazzi di vita di Pasolini è ambientato:",
+      "rispostaCorretta": "Nelle borgate romane",
+      "opzioni": ["Nelle borgate romane", "In Sicilia", "A Milano", "In campagna"],
+      "spiegazione": "Ragazzi di vita (1955) racconta il sottoproletariato romano.",
+      "livello": "intermedio",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Pirandello scrisse sia romanzi che opere teatrali.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Pirandello fu romanziere (Il fu Mattia Pascal) e drammaturgo (Sei personaggi).",
+      "livello": "base",
+      "argomento": "Luigi Pirandello",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Svevo fu subito riconosciuto come grande scrittore in Italia.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Svevo fu ignorato in Italia e riscoperto grazie a Joyce.",
+      "livello": "intermedio",
+      "argomento": "Italo Svevo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Ungaretti combatté nella Prima Guerra Mondiale.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Ungaretti fu soldato sul Carso e scrisse poesie in trincea.",
+      "livello": "base",
+      "argomento": "Giuseppe Ungaretti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il romanzo Senilità di Svevo narra:",
+      "rispostaCorretta": "La storia di Emilio Brentani, un inetto",
+      "opzioni": ["La storia di Emilio Brentani, un inetto", "La guerra", "Un viaggio", "Una rivoluzione"],
+      "spiegazione": "Senilità (1898) è il secondo romanzo di Svevo, sul tema dell'inettitudine.",
+      "livello": "avanzato",
+      "argomento": "Italo Svevo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una vita di Svevo narra:",
+      "rispostaCorretta": "La storia di Alfonso Nitti, impiegato di banca",
+      "opzioni": ["La storia di Alfonso Nitti, impiegato di banca", "La guerra", "Un viaggio", "Una rivoluzione"],
+      "spiegazione": "Una vita (1892) è il primo romanzo di Svevo.",
+      "livello": "avanzato",
+      "argomento": "Italo Svevo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Sentimento del Tempo di Ungaretti è:",
+      "rispostaCorretta": "La seconda raccolta poetica (1933)",
+      "opzioni": ["La seconda raccolta poetica (1933)", "Un romanzo", "Un saggio", "Un'opera teatrale"],
+      "spiegazione": "Il Sentimento del Tempo segna un ritorno a forme più tradizionali.",
+      "livello": "avanzato",
+      "argomento": "Giuseppe Ungaretti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La poesia 'Veglia' di Ungaretti descrive:",
+      "rispostaCorretta": "Una notte accanto a un compagno morto",
+      "opzioni": ["Una notte accanto a un compagno morto", "Un paesaggio", "Un amore", "Una festa"],
+      "spiegazione": "'Un'intera nottata / buttato vicino / a un compagno / massacrato'.",
+      "livello": "intermedio",
+      "argomento": "Giuseppe Ungaretti",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Bufera e altro di Montale è:",
+      "rispostaCorretta": "La terza raccolta poetica (1956)",
+      "opzioni": ["La terza raccolta poetica (1956)", "Un romanzo", "Un saggio", "La prima raccolta"],
+      "spiegazione": "La Bufera riflette sugli orrori della guerra e del dopoguerra.",
+      "livello": "avanzato",
+      "argomento": "Eugenio Montale",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Satura di Montale è caratterizzata da:",
+      "rispostaCorretta": "Tono ironico e quotidiano",
+      "opzioni": ["Tono ironico e quotidiano", "Linguaggio ermetico", "Temi eroici", "Stile sublime"],
+      "spiegazione": "Satura (1971) segna una svolta verso un linguaggio più colloquiale.",
+      "livello": "avanzato",
+      "argomento": "Eugenio Montale",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il nome di Clizia in Montale deriva da:",
+      "rispostaCorretta": "Un mito ovidiano",
+      "opzioni": ["Un mito ovidiano", "La Bibbia", "Dante", "Petrarca"],
+      "spiegazione": "Clizia è la ninfa trasformata in girasole nelle Metamorfosi di Ovidio.",
+      "livello": "avanzato",
+      "argomento": "Eugenio Montale",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il giardino dei Finzi-Contini di Bassani narra:",
+      "rispostaCorretta": "La storia di una famiglia ebrea ferrarese durante il fascismo",
+      "opzioni": ["La storia di una famiglia ebrea ferrarese durante il fascismo", "La Resistenza", "L'emigrazione", "La Prima Guerra Mondiale"],
+      "spiegazione": "Bassani racconta la tragedia degli ebrei italiani con delicatezza.",
+      "livello": "intermedio",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Elsa Morante scrisse:",
+      "rispostaCorretta": "La Storia e L'isola di Arturo",
+      "opzioni": ["La Storia e L'isola di Arturo", "Il fu Mattia Pascal", "I Malavoglia", "La coscienza di Zeno"],
+      "spiegazione": "Elsa Morante fu una delle maggiori scrittrici del Novecento.",
+      "livello": "intermedio",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Storia di Elsa Morante è ambientata:",
+      "rispostaCorretta": "A Roma durante la Seconda Guerra Mondiale",
+      "opzioni": ["A Roma durante la Seconda Guerra Mondiale", "In Sicilia", "A Milano", "Nel Medioevo"],
+      "spiegazione": "La Storia (1974) narra le vicende di Ida e Useppe nella Roma occupata.",
+      "livello": "avanzato",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il nome della rosa di Umberto Eco è:",
+      "rispostaCorretta": "Un romanzo storico-giallo ambientato nel Medioevo",
+      "opzioni": ["Un romanzo storico-giallo ambientato nel Medioevo", "Un saggio", "Una poesia", "Un'opera teatrale"],
+      "spiegazione": "Il nome della rosa (1980) è un bestseller ambientato in un'abbazia medievale.",
+      "livello": "base",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Dino Buzzati scrisse:",
+      "rispostaCorretta": "Il deserto dei Tartari",
+      "opzioni": ["Il deserto dei Tartari", "Il fu Mattia Pascal", "I Malavoglia", "La coscienza di Zeno"],
+      "spiegazione": "Il deserto dei Tartari (1940) è il capolavoro di Buzzati sull'attesa vana.",
+      "livello": "intermedio",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il deserto dei Tartari narra:",
+      "rispostaCorretta": "L'attesa di un nemico che non arriva mai",
+      "opzioni": ["L'attesa di un nemico che non arriva mai", "Una guerra", "Un amore", "Un viaggio"],
+      "spiegazione": "Giovanni Drogo attende invano i Tartari alla Fortezza Bastiani.",
+      "livello": "avanzato",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Leonardo Sciascia scrisse:",
+      "rispostaCorretta": "Il giorno della civetta e A ciascuno il suo",
+      "opzioni": ["Il giorno della civetta e A ciascuno il suo", "Il fu Mattia Pascal", "I Malavoglia", "La coscienza di Zeno"],
+      "spiegazione": "Sciascia fu lo scrittore della mafia e del potere in Sicilia.",
+      "livello": "intermedio",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il giorno della civetta di Sciascia affronta:",
+      "rispostaCorretta": "Il tema della mafia",
+      "opzioni": ["Il tema della mafia", "La guerra", "L'amore", "L'emigrazione"],
+      "spiegazione": "Il giorno della civetta (1961) è il primo romanzo italiano sulla mafia.",
+      "livello": "intermedio",
+      "argomento": "Narrativa del Novecento",
+      "materia": "italiano"
+    }
+  ]
+}

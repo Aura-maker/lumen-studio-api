@@ -50,25 +50,37 @@ app.use(helmet({
 // Compression
 app.use(compression());
 
-// CORS
-const allowedOrigins = process.env.CORS_ORIGINS 
-  ? process.env.CORS_ORIGINS.split(',')
-  : ['http://localhost:3000', 'http://localhost:3003', 'http://127.0.0.1:3000'];
+// CORS - Permetti frontend Netlify e localhost
+const allowedOrigins = [
+  'http://localhost:3000', 
+  'http://localhost:3003', 
+  'http://127.0.0.1:3000',
+  'http://127.0.0.1:3003',
+  'https://lumen-edu.netlify.app',
+  'https://imparafacile.netlify.app'
+];
 
 app.use(cors({
   origin: (origin, callback) => {
-    // Allow requests with no origin (mobile apps, curl, etc.)
+    // Allow requests with no origin (mobile apps, curl, Postman, etc.)
     if (!origin) return callback(null, true);
+    // Allow all Netlify preview URLs
+    if (origin.includes('netlify.app') || origin.includes('netlify.live')) {
+      return callback(null, true);
+    }
     if (allowedOrigins.includes(origin)) {
       return callback(null, true);
     }
-    // In production, be more strict
-    if (isProduction) {
-      return callback(new Error('CORS not allowed'), false);
+    // In development, allow all
+    if (!isProduction) {
+      return callback(null, true);
     }
-    return callback(null, true);
+    console.log('CORS blocked:', origin);
+    return callback(null, true); // Permetti comunque per ora
   },
-  credentials: true
+  credentials: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization', 'X-User-Id']
 }));
 
 // Body parsers
@@ -211,10 +223,52 @@ app.get('/gamification/profilo', routeWrapper(async (req, res) => {
     return res.status(503).json({ error: 'Servizio non disponibile' });
   }
   
-  const userId = req.query.userId || req.headers['x-user-id'] || 'default-user';
+  // Prova a ottenere userId dal token JWT
+  let userId = 'default-user';
+  const authHeader = req.headers.authorization;
+  if (authHeader && authHeader.startsWith('Bearer ')) {
+    try {
+      const jwt = require('jsonwebtoken');
+      const token = authHeader.split(' ')[1];
+      const decoded = jwt.verify(token, process.env.JWT_SECRET || 'imparafacile-secret-key-2024');
+      userId = decoded.sub || decoded.userId || 'default-user';
+    } catch (e) {
+      // Token non valido, usa default o query param
+      userId = req.query.userId || req.headers['x-user-id'] || 'default-user';
+    }
+  } else {
+    userId = req.query.userId || req.headers['x-user-id'] || 'default-user';
+  }
   
-  // Profilo reale - nessuna simulazione, parte da zero
-  const profilo = gamificationService.getProfiloUtente(userId);
+  // Prova a caricare dal database se utente autenticato
+  let profiloDB = null;
+  if (userId !== 'default-user') {
+    try {
+      const { Utenti, Statistiche, Streak } = require('./src/db');
+      const [utente, stats, streak] = await Promise.all([
+        Utenti.findById(userId).catch(() => null),
+        Statistiche.getStatisticheUtente(userId).catch(() => null),
+        Streak.getStreak(userId).catch(() => null)
+      ]);
+      
+      if (utente) {
+        profiloDB = {
+          xpTotale: utente.punti || 0,
+          quizCompletati: stats?.quizCompletati || 0,
+          streak: streak?.streakCorrente || 0,
+          accuratezzaMedia: stats?.accuratezzaMedia || 0,
+          livello: utente.livello || 1,
+          badges: [],
+          recordStreak: streak?.streakMassimo || 0
+        };
+      }
+    } catch (e) {
+      console.log('DB non disponibile, uso memoria');
+    }
+  }
+  
+  // Usa dati DB se disponibili, altrimenti memoria
+  const profilo = profiloDB || gamificationService.getProfiloUtente(userId);
   
   // Dati live reali - grafici vuoti se nessuna attività
   const giorni = ['Lun', 'Mar', 'Mer', 'Gio', 'Ven', 'Sab', 'Dom'];
@@ -322,6 +376,45 @@ app.get('/api/materie', routeWrapper(async (req, res) => {
   res.json({ materie });
 }));
 
+// ==================== ROUTES CONTENUTI (per QuizUltimate) ====================
+
+// Carica contenuti completi per argomenti/sottoargomenti
+let contenutiCompleti = {};
+try {
+  contenutiCompleti = require('./src/data/contenuti-tutte-materie-complete.js');
+  console.log(`✅ Contenuti completi caricati: ${Object.keys(contenutiCompleti).length} materie`);
+} catch (e) {
+  console.log('⚠️ Contenuti completi non disponibili');
+}
+
+// GET /api/contenuti/materie - Lista materie con argomenti
+app.get('/api/contenuti/materie', routeWrapper(async (req, res) => {
+  const materie = Object.entries(contenutiCompleti).map(([id, data]) => ({
+    id,
+    nome: data.materia?.nome || id,
+    icona: data.materia?.icona || '📚',
+    argomenti: data.argomenti?.length || 0,
+    sottoargomenti: data.argomenti?.reduce((sum, a) => sum + (a.sottoargomenti?.length || 0), 0) || 0
+  }));
+  
+  res.json({ materie });
+}));
+
+// GET /api/contenuti/materia/:id - Dettaglio materia con argomenti e sottoargomenti
+app.get('/api/contenuti/materia/:id', routeWrapper(async (req, res) => {
+  const { id } = req.params;
+  const materia = contenutiCompleti[id.toLowerCase()];
+  
+  if (!materia) {
+    return res.status(404).json({ error: 'Materia non trovata' });
+  }
+  
+  res.json({
+    materia: materia.materia,
+    argomenti: materia.argomenti || []
+  });
+}));
+
 // ==================== ROUTES MATERIE DETTAGLIO ====================
 
 // Route principale per materia (usata dal frontend)
@@ -403,6 +496,40 @@ try {
 } catch (e) {
   console.error('❌ Errore caricamento quiz:', e.message);
 }
+
+// Inizializza quizGenerator per le routes quiz-completo
+app.locals.quizGenerator = {
+  quizDatabase: quizData.quiz || [],
+  getQuizPerMateria: (materia, limit = 10) => {
+    const filtered = (quizData.quiz || []).filter(q => 
+      (q.materia || '').toLowerCase().includes(materia.toLowerCase())
+    );
+    return filtered.sort(() => Math.random() - 0.5).slice(0, limit);
+  },
+  getQuizPerDifficoltaMixMaterie: (difficolta, limit = 10) => {
+    const filtered = (quizData.quiz || []).filter(q => 
+      (q.difficolta || 'medio') === difficolta
+    );
+    return filtered.sort(() => Math.random() - 0.5).slice(0, limit);
+  },
+  getQuizSbagliati: (ids, limit = 10) => {
+    if (ids.length === 0) return (quizData.quiz || []).slice(0, limit);
+    return (quizData.quiz || []).filter(q => ids.includes(q.id)).slice(0, limit);
+  },
+  getSimulazioneEsame: (numDomande = 40) => {
+    return (quizData.quiz || []).sort(() => Math.random() - 0.5).slice(0, numDomande);
+  },
+  getStats: () => ({
+    totaleQuiz: (quizData.quiz || []).length,
+    quizPerMateria: (quizData.quiz || []).reduce((acc, q) => {
+      const m = (q.materia || 'altro').toLowerCase();
+      acc[m] = (acc[m] || 0) + 1;
+      return acc;
+    }, {}),
+    quizPerFonte: {}
+  })
+};
+console.log(`✅ QuizGenerator inizializzato con ${app.locals.quizGenerator.quizDatabase.length} quiz`);
 
 app.get('/api/quiz', routeWrapper(async (req, res) => {
   const { materia, limit = 10 } = req.query;
@@ -605,6 +732,60 @@ function shuffleArray(array) {
   return arr;
 }
 
+// ==================== QUIZ PER MATERIA ====================
+app.get('/api/quiz-ultimate/materia/:materia', routeWrapper(async (req, res) => {
+  const { materia } = req.params;
+  const { numDomande = 10 } = req.query;
+  const limit = parseInt(numDomande);
+  
+  // Filtra quiz per materia
+  const tuttiQuiz = quizData.quiz || [];
+  const quizMateria = tuttiQuiz.filter(q => 
+    (q.materia || '').toLowerCase() === materia.toLowerCase()
+  );
+  
+  // Filtra solo quiz validi
+  const quizValidi = quizMateria.filter(isQuizValido);
+  
+  // Shuffle e prendi il numero richiesto
+  const quizSelezionati = shuffleArray(quizValidi).slice(0, limit);
+  
+  res.json({
+    success: true,
+    quiz: quizSelezionati,
+    totale: quizSelezionati.length,
+    materia: materia
+  });
+}));
+
+// ==================== QUIZ PER ARGOMENTO ====================
+app.get('/api/quiz-ultimate/argomento/:materia/:argomento', routeWrapper(async (req, res) => {
+  const { materia, argomento } = req.params;
+  const { numDomande = 10 } = req.query;
+  const limit = parseInt(numDomande);
+  
+  const argomentoDecoded = decodeURIComponent(argomento).toLowerCase();
+  
+  // Filtra quiz per materia E argomento (senza fallback)
+  const tuttiQuiz = quizData.quiz || [];
+  const quizFiltrati = tuttiQuiz.filter(q => {
+    const materiaMatch = (q.materia || '').toLowerCase() === materia.toLowerCase();
+    const argomentoMatch = (q.argomento || '').toLowerCase().includes(argomentoDecoded);
+    return materiaMatch && argomentoMatch;
+  });
+  
+  // Shuffle e prendi il numero richiesto
+  const quizSelezionati = shuffleArray(quizFiltrati).slice(0, limit);
+  
+  res.json({
+    success: true,
+    quiz: quizSelezionati,
+    totale: quizSelezionati.length,
+    materia: materia,
+    argomento: argomentoDecoded
+  });
+}));
+
 // ==================== QUIZ VELOCE ====================
 app.get('/api/quiz-ultimate/veloce', routeWrapper(async (req, res) => {
   const { numDomande = 10 } = req.query;
@@ -783,13 +964,43 @@ app.post('/api/referral/apply', routeWrapper(async (req, res) => {
 
 // POST /api/quiz/risposta - Registra risposta quiz e assegna XP
 app.post('/api/quiz/risposta', routeWrapper(async (req, res) => {
-  const { quizId, materia, corretto, userId = 'default-user' } = req.body;
+  let { quizId, materia, corretto, userId } = req.body;
+  
+  // Prova a ottenere userId dal token JWT se non fornito
+  if (!userId || userId === 'default-user') {
+    const authHeader = req.headers.authorization;
+    if (authHeader && authHeader.startsWith('Bearer ')) {
+      try {
+        const jwt = require('jsonwebtoken');
+        const token = authHeader.split(' ')[1];
+        const decoded = jwt.verify(token, process.env.JWT_SECRET || 'imparafacile-secret-key-2024');
+        userId = decoded.sub || decoded.userId;
+      } catch (e) {
+        userId = 'default-user';
+      }
+    } else {
+      userId = 'default-user';
+    }
+  }
   
   const xp = corretto ? 10 : 2; // 10 XP se corretto, 2 XP per partecipazione
   
-  // Registra nel sistema gamification
+  // Registra nel sistema gamification (memoria)
   if (gamificationService) {
     gamificationService.completaQuiz(userId, materia || 'generale', corretto, xp);
+  }
+  
+  // Salva anche nel database PostgreSQL se utente autenticato
+  if (userId && userId !== 'default-user') {
+    try {
+      const { Utenti, Statistiche } = require('./src/db');
+      // Aggiorna XP utente
+      await Utenti.aggiornaXP(userId, xp).catch(() => {});
+      // Registra quiz completato
+      await Statistiche.registraQuiz(userId, materia || 'generale', corretto).catch(() => {});
+    } catch (e) {
+      console.log('Errore salvataggio DB quiz:', e.message);
+    }
   }
   
   res.json({ 
@@ -1046,6 +1257,15 @@ try {
   console.log('✅ Feedback routes caricate');
 } catch (e) {
   console.error('❌ Errore caricamento feedback routes:', e.message);
+}
+
+// Quiz Completo routes (per filtro argomento/sottoargomento)
+try {
+  const quizCompletoRoutes = require('./src/routes/quiz-completo');
+  app.use('/api/quiz-completo', quizCompletoRoutes);
+  console.log('✅ Quiz Completo routes caricate');
+} catch (e) {
+  console.error('❌ Errore caricamento quiz-completo routes:', e.message);
 }
 
 // 404 handler

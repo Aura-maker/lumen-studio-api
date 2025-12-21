@@ -1,0 +1,507 @@
+{
+  "materia": "matematica",
+  "descrizione": "Quiz Matematica - Parte 3: Probabilità, Statistica, Geometria analitica avanzata",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "La probabilità di un evento certo è:",
+      "rispostaCorretta": "1",
+      "opzioni": ["1", "0", "0.5", "Infinita"],
+      "spiegazione": "Un evento certo ha probabilità 1 (100%).",
+      "livello": "base",
+      "argomento": "Probabilità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La probabilità di un evento impossibile è:",
+      "rispostaCorretta": "0",
+      "opzioni": ["0", "1", "0.5", "-1"],
+      "spiegazione": "Un evento impossibile ha probabilità 0 (0%).",
+      "livello": "base",
+      "argomento": "Probabilità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La probabilità di un evento è sempre compresa tra:",
+      "rispostaCorretta": "0 e 1",
+      "opzioni": ["0 e 1", "-1 e 1", "0 e 100", "-∞ e +∞"],
+      "spiegazione": "La probabilità P(E) soddisfa sempre 0 ≤ P(E) ≤ 1.",
+      "livello": "base",
+      "argomento": "Probabilità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La probabilità classica di un evento E è:",
+      "rispostaCorretta": "Casi favorevoli / Casi possibili",
+      "opzioni": ["Casi favorevoli / Casi possibili", "Casi possibili / Casi favorevoli", "Casi favorevoli × Casi possibili", "Casi favorevoli - Casi possibili"],
+      "spiegazione": "P(E) = numero di casi favorevoli / numero di casi possibili (equiprobabili).",
+      "livello": "base",
+      "argomento": "Probabilità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lanciando un dado, la probabilità di ottenere un 6 è:",
+      "rispostaCorretta": "1/6",
+      "opzioni": ["1/6", "1/3", "1/2", "6"],
+      "spiegazione": "P(6) = 1 caso favorevole / 6 casi possibili = 1/6.",
+      "livello": "base",
+      "argomento": "Probabilità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lanciando una moneta, la probabilità di ottenere testa è:",
+      "rispostaCorretta": "1/2",
+      "opzioni": ["1/2", "1/3", "1/4", "1"],
+      "spiegazione": "P(testa) = 1/2 = 50%.",
+      "livello": "base",
+      "argomento": "Probabilità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Due eventi sono incompatibili se:",
+      "rispostaCorretta": "Non possono verificarsi contemporaneamente",
+      "opzioni": ["Non possono verificarsi contemporaneamente", "Sono indipendenti", "Hanno la stessa probabilità", "Sono certi"],
+      "spiegazione": "Eventi incompatibili (mutuamente esclusivi): P(A ∩ B) = 0.",
+      "livello": "intermedio",
+      "argomento": "Probabilità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per eventi incompatibili, P(A ∪ B) =",
+      "rispostaCorretta": "P(A) + P(B)",
+      "opzioni": ["P(A) + P(B)", "P(A) × P(B)", "P(A) - P(B)", "P(A) / P(B)"],
+      "spiegazione": "Per eventi incompatibili: P(A ∪ B) = P(A) + P(B).",
+      "livello": "intermedio",
+      "argomento": "Probabilità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Due eventi sono indipendenti se:",
+      "rispostaCorretta": "Il verificarsi di uno non influenza l'altro",
+      "opzioni": ["Il verificarsi di uno non influenza l'altro", "Sono incompatibili", "Hanno la stessa probabilità", "Sono certi"],
+      "spiegazione": "Eventi indipendenti: P(A ∩ B) = P(A) × P(B).",
+      "livello": "intermedio",
+      "argomento": "Probabilità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per eventi indipendenti, P(A ∩ B) =",
+      "rispostaCorretta": "P(A) × P(B)",
+      "opzioni": ["P(A) × P(B)", "P(A) + P(B)", "P(A) - P(B)", "P(A) / P(B)"],
+      "spiegazione": "Per eventi indipendenti: P(A ∩ B) = P(A) × P(B).",
+      "livello": "intermedio",
+      "argomento": "Probabilità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La probabilità condizionata P(A|B) indica:",
+      "rispostaCorretta": "La probabilità di A sapendo che B si è verificato",
+      "opzioni": ["La probabilità di A sapendo che B si è verificato", "La probabilità di A e B insieme", "La probabilità di A o B", "La probabilità di non A"],
+      "spiegazione": "P(A|B) = P(A ∩ B) / P(B).",
+      "livello": "avanzato",
+      "argomento": "Probabilità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il teorema di Bayes permette di calcolare:",
+      "rispostaCorretta": "P(A|B) conoscendo P(B|A)",
+      "opzioni": ["P(A|B) conoscendo P(B|A)", "P(A ∪ B)", "P(A ∩ B)", "P(A) + P(B)"],
+      "spiegazione": "Bayes: P(A|B) = P(B|A) × P(A) / P(B).",
+      "livello": "avanzato",
+      "argomento": "Probabilità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il numero di permutazioni di n elementi è:",
+      "rispostaCorretta": "n!",
+      "opzioni": ["n!", "n²", "2ⁿ", "n"],
+      "spiegazione": "Le permutazioni di n elementi sono n! = n × (n-1) × ... × 1.",
+      "livello": "intermedio",
+      "argomento": "Calcolo combinatorio",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il fattoriale di 5 (5!) è:",
+      "rispostaCorretta": "120",
+      "opzioni": ["120", "25", "5", "720"],
+      "spiegazione": "5! = 5 × 4 × 3 × 2 × 1 = 120.",
+      "livello": "base",
+      "argomento": "Calcolo combinatorio",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le combinazioni di n elementi presi k alla volta sono:",
+      "rispostaCorretta": "C(n,k) = n! / [k!(n-k)!]",
+      "opzioni": ["C(n,k) = n! / [k!(n-k)!]", "C(n,k) = n! / k!", "C(n,k) = n × k", "C(n,k) = nᵏ"],
+      "spiegazione": "Le combinazioni non considerano l'ordine: C(n,k) = n! / [k!(n-k)!].",
+      "livello": "avanzato",
+      "argomento": "Calcolo combinatorio",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La media aritmetica di un insieme di dati è:",
+      "rispostaCorretta": "La somma dei valori divisa per il numero di valori",
+      "opzioni": ["La somma dei valori divisa per il numero di valori", "Il valore centrale", "Il valore più frequente", "La differenza tra massimo e minimo"],
+      "spiegazione": "Media = Σxᵢ / n.",
+      "livello": "base",
+      "argomento": "Statistica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La mediana di un insieme di dati è:",
+      "rispostaCorretta": "Il valore centrale quando i dati sono ordinati",
+      "opzioni": ["Il valore centrale quando i dati sono ordinati", "La somma dei valori", "Il valore più frequente", "La media"],
+      "spiegazione": "La mediana divide i dati ordinati in due metà uguali.",
+      "livello": "base",
+      "argomento": "Statistica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La moda di un insieme di dati è:",
+      "rispostaCorretta": "Il valore più frequente",
+      "opzioni": ["Il valore più frequente", "Il valore centrale", "La media", "La varianza"],
+      "spiegazione": "La moda è il valore che compare più spesso.",
+      "livello": "base",
+      "argomento": "Statistica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La varianza misura:",
+      "rispostaCorretta": "La dispersione dei dati attorno alla media",
+      "opzioni": ["La dispersione dei dati attorno alla media", "Il valore centrale", "Il valore più frequente", "La somma dei dati"],
+      "spiegazione": "Varianza = Σ(xᵢ - μ)² / n.",
+      "livello": "intermedio",
+      "argomento": "Statistica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La deviazione standard è:",
+      "rispostaCorretta": "La radice quadrata della varianza",
+      "opzioni": ["La radice quadrata della varianza", "Il quadrato della varianza", "La media", "La mediana"],
+      "spiegazione": "σ = √varianza. Misura la dispersione nella stessa unità dei dati.",
+      "livello": "intermedio",
+      "argomento": "Statistica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'equazione della retta nel piano cartesiano è:",
+      "rispostaCorretta": "y = mx + q",
+      "opzioni": ["y = mx + q", "y = x²", "x² + y² = r²", "y = 1/x"],
+      "spiegazione": "y = mx + q dove m è il coefficiente angolare e q l'intercetta.",
+      "livello": "base",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il coefficiente angolare m di una retta indica:",
+      "rispostaCorretta": "La pendenza della retta",
+      "opzioni": ["La pendenza della retta", "L'intercetta", "La lunghezza", "L'area"],
+      "spiegazione": "m = tan(α) dove α è l'angolo con l'asse x.",
+      "livello": "base",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Due rette sono parallele se:",
+      "rispostaCorretta": "Hanno lo stesso coefficiente angolare",
+      "opzioni": ["Hanno lo stesso coefficiente angolare", "Hanno coefficienti angolari opposti", "Si intersecano", "Sono perpendicolari"],
+      "spiegazione": "Rette parallele: m₁ = m₂.",
+      "livello": "intermedio",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Due rette sono perpendicolari se:",
+      "rispostaCorretta": "Il prodotto dei coefficienti angolari è -1",
+      "opzioni": ["Il prodotto dei coefficienti angolari è -1", "Hanno lo stesso coefficiente angolare", "La somma dei coefficienti è 0", "Sono parallele"],
+      "spiegazione": "Rette perpendicolari: m₁ × m₂ = -1.",
+      "livello": "intermedio",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'equazione della circonferenza con centro nell'origine è:",
+      "rispostaCorretta": "x² + y² = r²",
+      "opzioni": ["x² + y² = r²", "y = mx + q", "x²/a² + y²/b² = 1", "y = x²"],
+      "spiegazione": "La circonferenza di centro O e raggio r ha equazione x² + y² = r².",
+      "livello": "base",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'equazione della circonferenza con centro (a, b) è:",
+      "rispostaCorretta": "(x - a)² + (y - b)² = r²",
+      "opzioni": ["(x - a)² + (y - b)² = r²", "x² + y² = r²", "(x + a)² + (y + b)² = r²", "x² - y² = r²"],
+      "spiegazione": "La circonferenza di centro (a, b) e raggio r.",
+      "livello": "intermedio",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'equazione della parabola con asse parallelo all'asse y è:",
+      "rispostaCorretta": "y = ax² + bx + c",
+      "opzioni": ["y = ax² + bx + c", "x² + y² = r²", "x²/a² + y²/b² = 1", "xy = k"],
+      "spiegazione": "La parabola con asse verticale ha equazione y = ax² + bx + c.",
+      "livello": "base",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il vertice della parabola y = ax² + bx + c ha ascissa:",
+      "rispostaCorretta": "x = -b/(2a)",
+      "opzioni": ["x = -b/(2a)", "x = b/(2a)", "x = -c/b", "x = a/b"],
+      "spiegazione": "L'ascissa del vertice è xᵥ = -b/(2a).",
+      "livello": "intermedio",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'equazione dell'ellisse con centro nell'origine è:",
+      "rispostaCorretta": "x²/a² + y²/b² = 1",
+      "opzioni": ["x²/a² + y²/b² = 1", "x² + y² = r²", "x²/a² - y²/b² = 1", "y = ax² + bx + c"],
+      "spiegazione": "L'ellisse ha semiassi a e b.",
+      "livello": "intermedio",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'equazione dell'iperbole con centro nell'origine è:",
+      "rispostaCorretta": "x²/a² - y²/b² = 1",
+      "opzioni": ["x²/a² - y²/b² = 1", "x²/a² + y²/b² = 1", "x² + y² = r²", "y = ax² + bx + c"],
+      "spiegazione": "L'iperbole ha due rami simmetrici.",
+      "livello": "avanzato",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La distanza tra due punti A(x₁, y₁) e B(x₂, y₂) è:",
+      "rispostaCorretta": "√[(x₂-x₁)² + (y₂-y₁)²]",
+      "opzioni": ["√[(x₂-x₁)² + (y₂-y₁)²]", "|x₂-x₁| + |y₂-y₁|", "(x₂-x₁) + (y₂-y₁)", "(x₂-x₁) × (y₂-y₁)"],
+      "spiegazione": "Formula della distanza euclidea tra due punti.",
+      "livello": "base",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il punto medio del segmento AB con A(x₁, y₁) e B(x₂, y₂) è:",
+      "rispostaCorretta": "M = ((x₁+x₂)/2, (y₁+y₂)/2)",
+      "opzioni": ["M = ((x₁+x₂)/2, (y₁+y₂)/2)", "M = (x₁-x₂, y₁-y₂)", "M = (x₁×x₂, y₁×y₂)", "M = (x₁/x₂, y₁/y₂)"],
+      "spiegazione": "Il punto medio ha coordinate medie.",
+      "livello": "base",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La probabilità dell'evento complementare è P(Ā) = 1 - P(A).",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "P(Ā) = 1 - P(A) perché P(A) + P(Ā) = 1.",
+      "livello": "intermedio",
+      "argomento": "Probabilità",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La media è sempre uguale alla mediana.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Media e mediana coincidono solo in distribuzioni simmetriche.",
+      "livello": "intermedio",
+      "argomento": "Statistica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Una parabola con a > 0 ha la concavità verso l'alto.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Se a > 0 la parabola è rivolta verso l'alto; se a < 0 verso il basso.",
+      "livello": "intermedio",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il discriminante Δ = b² - 4ac di un'equazione di secondo grado indica:",
+      "rispostaCorretta": "Il numero di soluzioni reali",
+      "opzioni": ["Il numero di soluzioni reali", "Il valore delle soluzioni", "Il vertice della parabola", "L'area"],
+      "spiegazione": "Δ > 0: 2 soluzioni; Δ = 0: 1 soluzione; Δ < 0: nessuna soluzione reale.",
+      "livello": "intermedio",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La distribuzione normale (gaussiana) è caratterizzata da:",
+      "rispostaCorretta": "Forma a campana simmetrica",
+      "opzioni": ["Forma a campana simmetrica", "Forma rettangolare", "Forma triangolare", "Forma esponenziale"],
+      "spiegazione": "La curva di Gauss è simmetrica rispetto alla media.",
+      "livello": "avanzato",
+      "argomento": "Statistica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Nella distribuzione normale, circa il 68% dei dati cade entro:",
+      "rispostaCorretta": "Una deviazione standard dalla media",
+      "opzioni": ["Una deviazione standard dalla media", "Due deviazioni standard", "Tre deviazioni standard", "La mediana"],
+      "spiegazione": "68% entro ±1σ, 95% entro ±2σ, 99.7% entro ±3σ.",
+      "livello": "avanzato",
+      "argomento": "Statistica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il coefficiente di correlazione r misura:",
+      "rispostaCorretta": "La relazione lineare tra due variabili",
+      "opzioni": ["La relazione lineare tra due variabili", "La media", "La varianza", "La moda"],
+      "spiegazione": "r varia tra -1 (correlazione negativa) e +1 (correlazione positiva).",
+      "livello": "avanzato",
+      "argomento": "Statistica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Se r = 0, le due variabili sono:",
+      "rispostaCorretta": "Non correlate linearmente",
+      "opzioni": ["Non correlate linearmente", "Perfettamente correlate", "Inversamente correlate", "Uguali"],
+      "spiegazione": "r = 0 indica assenza di correlazione lineare.",
+      "livello": "avanzato",
+      "argomento": "Statistica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La retta di regressione serve a:",
+      "rispostaCorretta": "Prevedere i valori di una variabile in funzione dell'altra",
+      "opzioni": ["Prevedere i valori di una variabile in funzione dell'altra", "Calcolare la media", "Trovare la moda", "Calcolare la varianza"],
+      "spiegazione": "La retta di regressione minimizza la somma dei quadrati degli scarti.",
+      "livello": "avanzato",
+      "argomento": "Statistica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il coefficiente binomiale C(n,k) conta:",
+      "rispostaCorretta": "I modi di scegliere k elementi da n senza ordine",
+      "opzioni": ["I modi di scegliere k elementi da n senza ordine", "Le permutazioni", "Le disposizioni", "I fattoriali"],
+      "spiegazione": "C(n,k) = n! / [k!(n-k)!] conta le combinazioni.",
+      "livello": "avanzato",
+      "argomento": "Calcolo combinatorio",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le disposizioni di n elementi presi k alla volta sono:",
+      "rispostaCorretta": "D(n,k) = n! / (n-k)!",
+      "opzioni": ["D(n,k) = n! / (n-k)!", "D(n,k) = n! / k!", "D(n,k) = n × k", "D(n,k) = nᵏ"],
+      "spiegazione": "Le disposizioni considerano l'ordine.",
+      "livello": "avanzato",
+      "argomento": "Calcolo combinatorio",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La formula di Newton per (a+b)ⁿ usa:",
+      "rispostaCorretta": "I coefficienti binomiali",
+      "opzioni": ["I coefficienti binomiali", "I fattoriali", "Le permutazioni", "Le derivate"],
+      "spiegazione": "(a+b)ⁿ = Σ C(n,k) aⁿ⁻ᵏ bᵏ.",
+      "livello": "avanzato",
+      "argomento": "Calcolo combinatorio",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il triangolo di Tartaglia (Pascal) contiene:",
+      "rispostaCorretta": "I coefficienti binomiali",
+      "opzioni": ["I coefficienti binomiali", "I numeri primi", "I fattoriali", "Le potenze di 2"],
+      "spiegazione": "Ogni numero è la somma dei due soprastanti.",
+      "livello": "intermedio",
+      "argomento": "Calcolo combinatorio",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'eccentricità di un'ellisse è:",
+      "rispostaCorretta": "e = c/a dove c² = a² - b²",
+      "opzioni": ["e = c/a dove c² = a² - b²", "e = a/c", "e = b/a", "e = 1"],
+      "spiegazione": "L'eccentricità dell'ellisse è 0 < e < 1.",
+      "livello": "avanzato",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I fuochi dell'ellisse si trovano:",
+      "rispostaCorretta": "Sull'asse maggiore, a distanza c dal centro",
+      "opzioni": ["Sull'asse maggiore, a distanza c dal centro", "Sull'asse minore", "Al centro", "Sui vertici"],
+      "spiegazione": "I fuochi F₁ e F₂ sono a distanza c = √(a² - b²) dal centro.",
+      "livello": "avanzato",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli asintoti dell'iperbole x²/a² - y²/b² = 1 sono:",
+      "rispostaCorretta": "y = ±(b/a)x",
+      "opzioni": ["y = ±(b/a)x", "y = ±(a/b)x", "y = ±x", "y = 0"],
+      "spiegazione": "Gli asintoti sono le rette y = ±(b/a)x.",
+      "livello": "avanzato",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La distanza di un punto P(x₀, y₀) dalla retta ax + by + c = 0 è:",
+      "rispostaCorretta": "|ax₀ + by₀ + c| / √(a² + b²)",
+      "opzioni": ["|ax₀ + by₀ + c| / √(a² + b²)", "ax₀ + by₀ + c", "|ax₀ + by₀ + c|", "√(a² + b²)"],
+      "spiegazione": "Formula della distanza punto-retta.",
+      "livello": "avanzato",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'equazione parametrica della retta passante per P(x₀, y₀) con direzione (a, b) è:",
+      "rispostaCorretta": "x = x₀ + at, y = y₀ + bt",
+      "opzioni": ["x = x₀ + at, y = y₀ + bt", "x = at, y = bt", "x = x₀ × a, y = y₀ × b", "x + y = t"],
+      "spiegazione": "Le equazioni parametriche esprimono x e y in funzione del parametro t.",
+      "livello": "avanzato",
+      "argomento": "Geometria analitica",
+      "materia": "matematica"
+    }
+  ]
+}

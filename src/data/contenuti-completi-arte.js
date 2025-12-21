@@ -8,11 +8,158 @@ module.exports = {
     "colore": "#E91E63",
     "icona": "palette",
     "annoScolastico": [
+      "1.",
+      "2.",
+      "3.",
       "4.",
       "5."
     ]
   },
   "argomenti": [
+    {
+      "id": "arte-preistoria-antiche",
+      "titolo": "Arte preistorica e civiltà antiche",
+      "annoRiferimento": "1.",
+      "descrizione": "Dalle origini alle grandi civiltà",
+      "sottoargomenti": [
+        {
+          "titolo": "Arte preistorica",
+          "riassunto": "L'arte preistorica comprende le manifestazioni artistiche dal Paleolitico al Neolitico. Le pitture rupestri del Paleolitico superiore (40.000-10.000 a.C.) si trovano nelle grotte di Lascaux (Francia) e Altamira (Spagna). Raffigurano principalmente animali (bisonti, cavalli, cervi) con straordinario realismo, usando pigmenti naturali (ocra, carbone, manganese). La funzione era probabilmente magico-religiosa, legata alla caccia. Le Veneri paleolitiche sono statuette femminili (Venere di Willendorf) con forme abbondanti, simboli di fertilità. L'arte mobiliare comprende oggetti decorati in osso e pietra. Nel Neolitico (10.000-3.000 a.C.) compaiono le costruzioni megalitiche: menhir (pietre verticali), dolmen (tavole di pietra), cromlech (cerchi di pietre come Stonehenge). L'architettura megalitica aveva funzioni funerarie, religiose e astronomiche. La ceramica neolitica mostra decorazioni geometriche. L'arte preistorica testimonia la nascita del pensiero simbolico e della capacità di rappresentazione.",
+          "livelloDifficolta": "base",
+          "tempoLettura": 6,
+          "tags": ["preistoria", "Lascaux", "Altamira", "megaliti"],
+          "collegamenti": ["pitture rupestri", "Veneri", "Stonehenge"]
+        },
+        {
+          "titolo": "Arte egizia",
+          "riassunto": "L'arte egizia si sviluppa per oltre 3000 anni mantenendo caratteri costanti. L'architettura monumentale serve l'eternità: le piramidi di Giza (Cheope, Chefren, Micerino) sono tombe per i faraoni, costruite con precisione matematica. I templi (Karnak, Luxor, Abu Simbel) hanno schema fisso: viale di sfingi, piloni, cortile, sala ipostila, santuario. La scultura segue la legge della frontalità: figure rigide, simmetriche, con piede sinistro avanzato. I ritratti idealizzano il faraone come dio. La pittura e il rilievo seguono il canone: testa di profilo con occhio frontale, busto frontale, gambe di profilo. Le proporzioni sono fisse (18 quadrati per la figura). I colori sono simbolici: verde per Osiride, blu per il cielo, oro per gli dèi. L'arte funeraria decora le tombe con scene di vita quotidiana per accompagnare il defunto nell'aldilà. Il Libro dei Morti contiene formule e illustrazioni. L'eccezione è il periodo di Akhenaton (1350 a.C.): naturalismo, figure allungate, scene familiari intime. L'arte egizia influenzò l'arte greca arcaica.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 6,
+          "tags": ["Egitto", "piramidi", "frontalità", "canone"],
+          "collegamenti": ["Giza", "templi", "pittura egizia"]
+        }
+      ]
+    },
+    {
+      "id": "arte-greca",
+      "titolo": "Arte greca",
+      "annoRiferimento": "1.",
+      "descrizione": "Dall'arcaismo al classicismo",
+      "sottoargomenti": [
+        {
+          "titolo": "Arte greca arcaica e classica",
+          "riassunto": "L'arte greca arcaica (VII-VI sec. a.C.) sviluppa i kouroi (giovani nudi maschili) e le korai (fanciulle vestite), statue votive con sorriso arcaico e rigidità frontale derivata dall'Egitto. L'architettura crea gli ordini: dorico (Partenone), ionico (Eretteo), corinzio. Il tempio greco è la casa del dio, con cella (naos), pronao e opistodomo, circondato da colonne (periptero). L'età classica (V-IV sec. a.C.) raggiunge l'equilibrio perfetto. Fidia dirige i lavori del Partenone (447-432 a.C.): le metope, il fregio ionico delle Panatenee, i frontoni con nascita di Atena e contesa con Poseidone. La statua crisoelefantina di Atena Parthenos è perduta. Mirone (Discobolo) cattura il movimento in equilibrio. Policleto teorizza il canone: la figura umana ideale è alta 7 teste; il Doriforo ne è l'esempio. Prassitele nel IV secolo introduce la curva praxiteliana (Afrodite Cnidia, Hermes con Dioniso): sensualità, sfumato, grazia. Lisippo allunga il canone a 8 teste, introduce il movimento nello spazio (Apoxyomenos). Skopas esprime il pathos (Menade danzante).",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Grecia", "Partenone", "Fidia", "canone"],
+          "collegamenti": ["ordini", "scultura", "classicismo"]
+        },
+        {
+          "titolo": "Arte ellenistica",
+          "riassunto": "L'arte ellenistica (323-31 a.C.) si sviluppa nei regni sorti dopo Alessandro Magno. I centri sono Pergamo, Alessandria, Antiochia, Rodi. Caratteri: drammaticità, movimento, espressione delle emozioni, realismo (vecchi, bambini, barbari), virtuosismo tecnico. La scultura di Pergamo celebra le vittorie sui Galati: il Galata morente esprime dignità nella sconfitta. L'Altare di Zeus a Pergamo (180 a.C.) ha un fregio monumentale con la Gigantomachia: figure aggrovigliate, muscoli tesi, espressioni intense. La Nike di Samotracia (190 a.C.) rappresenta la Vittoria che atterra sulla prua di una nave: panneggio bagnato, movimento, teatralità. Il Laocoonte (I sec. a.C.) mostra il sacerdote troiano e i figli stritolati dai serpenti: dolore, tensione muscolare, pathos estremo. La Venere di Milo (130 a.C.) unisce classicismo e sensualità. L'architettura ellenistica è monumentale e scenografica: stoà, biblioteche, fari (Alessandria). L'urbanistica razionale (Ippodamo di Mileto) organizza le città a scacchiera. L'arte ellenistica influenzò profondamente l'arte romana.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["ellenismo", "Pergamo", "Laocoonte", "Nike"],
+          "collegamenti": ["pathos", "realismo", "movimento"]
+        }
+      ]
+    },
+    {
+      "id": "arte-romana",
+      "titolo": "Arte romana",
+      "annoRiferimento": "2.",
+      "descrizione": "Architettura e arte dell'Impero",
+      "sottoargomenti": [
+        {
+          "titolo": "Architettura romana",
+          "riassunto": "L'architettura romana è caratterizzata da pragmatismo e grandiosità. Le innovazioni tecniche includono l'arco, la volta (a botte, a crociera), la cupola, il calcestruzzo (opus caementicium). I templi derivano da quelli greci ed etruschi: il Pantheon (125 d.C.) ha una cupola di 43 m con oculo centrale, simbolo del cosmo. Le basiliche sono edifici civili per tribunali e commerci, poi adottate dai cristiani. I fori imperiali (Traiano) sono piazze monumentali con templi, basiliche, biblioteche. Gli anfiteatri (Colosseo, 80 d.C.) ospitano spettacoli gladiatori: struttura ellittica, ordini sovrapposti, velarium. I teatri seguono il modello greco ma con cavea su sostruzioni. Le terme (Caracalla, Diocleziano) sono complessi con frigidarium, tepidarium, calidarium, palestre, biblioteche. Gli acquedotti portano acqua alle città (Pont du Gard). Le strade (via Appia) collegano l'impero. Gli archi di trionfo (Tito, Costantino) celebrano le vittorie. Le domus hanno atrio e peristilio; le insulae sono condomini popolari.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Roma", "Pantheon", "Colosseo", "arco"],
+          "collegamenti": ["cupola", "terme", "fori"]
+        },
+        {
+          "titolo": "Scultura e pittura romana",
+          "riassunto": "La scultura romana eccelle nel ritratto: realismo psicologico, verismo (rughe, difetti), caratterizzazione individuale. I ritratti repubblicani derivano dalle maschere funerarie degli antenati (ius imaginum). I ritratti imperiali idealizzano o caratterizzano secondo l'epoca: Augusto di Prima Porta (classicismo), ritratti flavi (realismo), Marco Aurelio equestre (filosofo). Il rilievo storico narra eventi: l'Ara Pacis (13-9 a.C.) celebra la pace augustea con processione e allegorie; la Colonna Traiana (113 d.C.) racconta le guerre daciche in un fregio a spirale di 200 m. La pittura romana è nota dagli affreschi di Pompei ed Ercolano. I quattro stili pompeiani: I stile (incrostazione, finto marmo), II stile (architetture illusionistiche), III stile (decorativo, candelabri), IV stile (fantastico, prospettive impossibili). I soggetti includono mitologia, paesaggi, nature morte, ritratti (ritratti del Fayum in Egitto). Il mosaico decora pavimenti e pareti con tessere (opus tessellatum, vermiculatum). L'arte romana trasmette modelli all'arte medievale e rinascimentale.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["ritratto", "rilievo storico", "Pompei", "mosaico"],
+          "collegamenti": ["Ara Pacis", "Colonna Traiana", "affresco"]
+        }
+      ]
+    },
+    {
+      "id": "arte-medievale",
+      "titolo": "Arte medievale",
+      "annoRiferimento": "2.",
+      "descrizione": "Paleocristiana, bizantina, romanica",
+      "sottoargomenti": [
+        {
+          "titolo": "Arte paleocristiana e bizantina",
+          "riassunto": "L'arte paleocristiana (III-VI sec.) nasce nelle catacombe con simboli (pesce, ancora, chi-rho) e scene bibliche. Dopo l'Editto di Milano (313) nascono le basiliche: pianta longitudinale con navate, abside, transetto (San Pietro, Santa Maria Maggiore). Il battistero è a pianta centrale (Laterano). I mosaici decorano absidi e pareti con fondo oro, figure frontali, ieratiche. L'arte bizantina (V-XV sec.) ha centro a Costantinopoli. Santa Sofia (532-537) di Antemio e Isidoro ha una cupola su pennacchi che sembra sospesa sulla luce. I mosaici di Ravenna (San Vitale, Sant'Apollinare) mostrano Giustiniano e Teodora con corte: figure bidimensionali, fondo oro, sguardo frontale, gerarchia delle dimensioni. L'iconografia bizantina codifica le immagini sacre: Cristo Pantocratore, Theotokos (Madre di Dio). La crisi iconoclasta (726-843) distrugge le immagini; dopo il trionfo dell'ortodossia, l'icona diventa oggetto di venerazione. L'arte bizantina influenza l'Italia (Venezia, Sicilia) e l'Europa orientale.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["paleocristiano", "bizantino", "mosaico", "Ravenna"],
+          "collegamenti": ["basilica", "Santa Sofia", "icona"]
+        },
+        {
+          "titolo": "Arte romanica",
+          "riassunto": "L'arte romanica (XI-XII sec.) fiorisce dopo il Mille con la rinascita economica e religiosa. L'architettura romanica usa l'arco a tutto sesto, la volta a crociera, i pilastri compositi. Le chiese hanno pianta a croce latina, navate con campate, cripta, facciata a salienti o capanna. Caratteri regionali: Lombardia (Sant'Ambrogio a Milano: mattoni, archetti pensili, protiro), Toscana (San Miniato a Firenze: marmi bicromi, geometria), Puglia (San Nicola a Bari), Sicilia (Monreale: mosaici bizantini). Il Duomo di Modena (Lanfranco e Wiligelmo) ha rilievi con Storie della Genesi. La scultura romanica decora portali, capitelli, chiostri con figure stilizzate, espressive, didattiche. I temi: Cristo in maestà, Giudizio universale, bestiari, cicli biblici. La pittura romanica include affreschi (Sant'Angelo in Formis) e miniature. Il Romanico esprime una visione simbolica: la chiesa è immagine del cosmo, la luce è simbolo divino. I monasteri (Cluny, Cîteaux) diffondono modelli architettonici.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["romanico", "volta a crociera", "scultura", "monasteri"],
+          "collegamenti": ["Sant'Ambrogio", "Wiligelmo", "architettura"]
+        }
+      ]
+    },
+    {
+      "id": "arte-gotica",
+      "titolo": "Arte gotica",
+      "annoRiferimento": "3.",
+      "descrizione": "Le cattedrali e la luce",
+      "sottoargomenti": [
+        {
+          "titolo": "Architettura gotica",
+          "riassunto": "L'arte gotica nasce nell'Île-de-France a metà XII secolo. L'abate Suger ricostruisce Saint-Denis (1140) con nuove soluzioni: l'arco a sesto acuto distribuisce meglio i pesi; la volta a crociera ogivale copre campate rettangolari; i contrafforti esterni e gli archi rampanti scaricano le spinte, permettendo pareti sottili. Le grandi vetrate colorate inondano di luce l'interno: la luce è simbolo di Dio (teologia della luce di Pseudo-Dionigi). Le cattedrali francesi (Notre-Dame de Paris, Chartres, Reims, Amiens) raggiungono altezze vertiginose (42 m ad Amiens). La facciata ha tre portali strombati con sculture, rosone centrale, torri. L'interno ha navate altissime, triforio, cleristorio. In Italia il Gotico è più sobrio: Duomo di Siena (marmi bicromi), Santa Maria del Fiore a Firenze, Duomo di Milano (tardogotico). Le chiese degli ordini mendicanti (Santa Croce, Santa Maria Novella) hanno navata unica ampia per la predicazione. Il Gotico civile produce palazzi comunali (Palazzo Vecchio, Palazzo Pubblico di Siena).",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["gotico", "cattedrale", "vetrate", "arco acuto"],
+          "collegamenti": ["Notre-Dame", "luce", "contrafforti"]
+        },
+        {
+          "titolo": "Giotto e la pittura del Trecento",
+          "riassunto": "Giotto di Bondone (1267-1337) rivoluziona la pittura occidentale. Supera la bidimensionalità bizantina introducendo: volume dei corpi (chiaroscuro), spazio tridimensionale (architetture in prospettiva intuitiva), espressione dei sentimenti, naturalismo. Gli affreschi della Basilica Superiore di Assisi (1290-1295) narrano le Storie di San Francesco con paesaggi realistici e figure monumentali. La Cappella degli Scrovegni a Padova (1303-1305) è il capolavoro: Storie di Gioacchino e Anna, di Maria, di Cristo. Scene come il Compianto sul Cristo morto mostrano dolore autentico, gesti eloquenti, composizione drammatica. Il Crocifisso di Santa Maria Novella abbandona il Cristo triumphans bizantino per il Christus patiens sofferente. Giotto lavora anche a Firenze (Cappella Bardi e Peruzzi in Santa Croce) e progetta il Campanile del Duomo. I seguaci (giotteschi) diffondono il suo stile. Simone Martini a Siena sviluppa il Gotico internazionale: linea elegante, colori preziosi (Maestà, Annunciazione). I Lorenzetti dipingono gli Effetti del Buon Governo a Siena.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Giotto", "Trecento", "Scrovegni", "affresco"],
+          "collegamenti": ["Assisi", "volume", "espressione"]
+        }
+      ]
+    },
+    {
+      "id": "arte-rinascimento",
+      "titolo": "Rinascimento",
+      "annoRiferimento": "3.",
+      "descrizione": "La rinascita dell'arte in Italia",
+      "sottoargomenti": [
+        {
+          "titolo": "Primo Rinascimento a Firenze",
+          "riassunto": "Il Rinascimento nasce a Firenze nel primo Quattrocento. Brunelleschi (1377-1446) inventa la prospettiva lineare (tavolette del Battistero) e costruisce la Cupola di Santa Maria del Fiore (1420-1436): doppia calotta autoportante, tecnica a spina di pesce, lanterna. Lo Spedale degli Innocenti applica proporzioni classiche. Donatello (1386-1466) rivoluziona la scultura: il David in bronzo è il primo nudo a tutto tondo dal'antichità; il San Giorgio mostra il rilievo stiacciato; la Maddalena penitente esprime realismo drammatico. Masaccio (1401-1428) applica la prospettiva alla pittura: la Trinità in Santa Maria Novella ha un'architettura illusionistica perfetta; gli affreschi della Cappella Brancacci mostrano figure monumentali, luce coerente, espressività (Cacciata dal Paradiso, Tributo). Leon Battista Alberti (1404-1472) teorizza le arti (De pictura, De re aedificatoria) e progetta facciate classiche (Santa Maria Novella, Tempio Malatestiano). Il mecenatismo dei Medici sostiene gli artisti.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Rinascimento", "Brunelleschi", "Donatello", "Masaccio"],
+          "collegamenti": ["prospettiva", "Firenze", "Cupola"]
+        },
+        {
+          "titolo": "Alto Rinascimento: Leonardo, Michelangelo, Raffaello",
+          "riassunto": "L'Alto Rinascimento (fine XV - inizio XVI sec.) raggiunge la perfezione classica. Leonardo da Vinci (1452-1519) è artista-scienziato: lo sfumato crea atmosfera (Vergine delle Rocce); l'Ultima Cena a Milano rivoluziona l'iconografia con la reazione degli apostoli; la Gioconda è il ritratto più famoso per il sorriso enigmatico e il paesaggio sfumato. Michelangelo Buonarroti (1475-1564) domina scultura, pittura, architettura: il David (1501-1504) è simbolo di Firenze; la Pietà vaticana unisce bellezza e dolore; la volta della Sistina (1508-1512) narra la Genesi con figure titaniche; il Giudizio universale (1536-1541) esprime angoscia; la Cupola di San Pietro completa l'opera di Bramante. Raffaello Sanzio (1483-1520) incarna l'equilibrio classico: le Stanze Vaticane (Scuola di Atene) sintetizzano filosofia e arte; le Madonne esprimono grazia serena; i ritratti sono penetranti. Bramante progetta il nuovo San Pietro a pianta centrale. Questi artisti definiscono il canone della 'maniera moderna'.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Leonardo", "Michelangelo", "Raffaello", "Alto Rinascimento"],
+          "collegamenti": ["Sistina", "Gioconda", "San Pietro"]
+        }
+      ]
+    },
     {
       "id": "arte-neoclassicismo",
       "titolo": "Neoclassicismo",

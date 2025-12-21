@@ -1,0 +1,507 @@
+{
+  "materia": "scienze",
+  "descrizione": "Quiz Scienze - Parte 3: Astronomia, Geologia, Biotecnologie",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Il Sistema Solare è composto da:",
+      "rispostaCorretta": "Il Sole, 8 pianeti e altri corpi celesti",
+      "opzioni": ["Il Sole, 8 pianeti e altri corpi celesti", "Solo il Sole e la Terra", "9 pianeti", "Solo stelle"],
+      "spiegazione": "Il Sistema Solare ha 8 pianeti (Plutone è un pianeta nano dal 2006).",
+      "livello": "base",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I pianeti rocciosi (terrestri) del Sistema Solare sono:",
+      "rispostaCorretta": "Mercurio, Venere, Terra, Marte",
+      "opzioni": ["Mercurio, Venere, Terra, Marte", "Giove, Saturno, Urano, Nettuno", "Solo Terra e Marte", "Tutti i pianeti"],
+      "spiegazione": "I pianeti interni sono rocciosi; quelli esterni sono gassosi.",
+      "livello": "base",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I pianeti gassosi (gioviani) del Sistema Solare sono:",
+      "rispostaCorretta": "Giove, Saturno, Urano, Nettuno",
+      "opzioni": ["Giove, Saturno, Urano, Nettuno", "Mercurio, Venere, Terra, Marte", "Solo Giove e Saturno", "Tutti i pianeti"],
+      "spiegazione": "I giganti gassosi sono i pianeti esterni, molto più grandi dei terrestri.",
+      "livello": "base",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Sole è:",
+      "rispostaCorretta": "Una stella di media grandezza",
+      "opzioni": ["Una stella di media grandezza", "Il pianeta più grande", "Una cometa", "Un satellite"],
+      "spiegazione": "Il Sole è una stella nana gialla di tipo G.",
+      "livello": "base",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'energia del Sole è prodotta da:",
+      "rispostaCorretta": "Fusione nucleare dell'idrogeno in elio",
+      "opzioni": ["Fusione nucleare dell'idrogeno in elio", "Fissione nucleare", "Combustione", "Reazioni chimiche"],
+      "spiegazione": "Nel nucleo del Sole l'idrogeno si fonde in elio liberando energia.",
+      "livello": "intermedio",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Luna è:",
+      "rispostaCorretta": "Il satellite naturale della Terra",
+      "opzioni": ["Il satellite naturale della Terra", "Un pianeta", "Una stella", "Un asteroide"],
+      "spiegazione": "La Luna orbita attorno alla Terra ed è il quinto satellite più grande del Sistema Solare.",
+      "livello": "base",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le fasi lunari dipendono da:",
+      "rispostaCorretta": "La posizione relativa di Sole, Terra e Luna",
+      "opzioni": ["La posizione relativa di Sole, Terra e Luna", "La distanza dalla Terra", "La rotazione della Luna", "Le eclissi"],
+      "spiegazione": "Vediamo parti diverse della Luna illuminate dal Sole durante il mese.",
+      "livello": "intermedio",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un'eclissi di Sole avviene quando:",
+      "rispostaCorretta": "La Luna si interpone tra Sole e Terra",
+      "opzioni": ["La Luna si interpone tra Sole e Terra", "La Terra si interpone tra Sole e Luna", "Il Sole si spegne", "La Luna scompare"],
+      "spiegazione": "Nell'eclissi solare la Luna copre il Sole (totalmente o parzialmente).",
+      "livello": "intermedio",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un'eclissi di Luna avviene quando:",
+      "rispostaCorretta": "La Terra si interpone tra Sole e Luna",
+      "opzioni": ["La Terra si interpone tra Sole e Luna", "La Luna si interpone tra Sole e Terra", "La Luna scompare", "Il Sole si spegne"],
+      "spiegazione": "Nell'eclissi lunare la Luna entra nell'ombra della Terra.",
+      "livello": "intermedio",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Via Lattea è:",
+      "rispostaCorretta": "La nostra galassia",
+      "opzioni": ["La nostra galassia", "Una costellazione", "Un pianeta", "Una nebulosa"],
+      "spiegazione": "La Via Lattea è una galassia a spirale con circa 200 miliardi di stelle.",
+      "livello": "base",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'anno luce è:",
+      "rispostaCorretta": "La distanza percorsa dalla luce in un anno",
+      "opzioni": ["La distanza percorsa dalla luce in un anno", "Un'unità di tempo", "La velocità della luce", "Un anno terrestre"],
+      "spiegazione": "L'anno luce è circa 9.46 × 10¹² km.",
+      "livello": "intermedio",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Big Bang è:",
+      "rispostaCorretta": "La teoria sull'origine dell'universo",
+      "opzioni": ["La teoria sull'origine dell'universo", "Un'esplosione stellare", "La fine dell'universo", "Una galassia"],
+      "spiegazione": "Il Big Bang avvenne circa 13.8 miliardi di anni fa.",
+      "livello": "base",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un buco nero è:",
+      "rispostaCorretta": "Una regione dello spazio con gravità così forte che nulla può sfuggire",
+      "opzioni": ["Una regione dello spazio con gravità così forte che nulla può sfuggire", "Un buco nello spazio", "Una stella", "Un pianeta"],
+      "spiegazione": "I buchi neri si formano dal collasso di stelle massicce.",
+      "livello": "intermedio",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Terra è composta da strati concentrici:",
+      "rispostaCorretta": "Crosta, mantello, nucleo esterno, nucleo interno",
+      "opzioni": ["Crosta, mantello, nucleo esterno, nucleo interno", "Solo crosta e nucleo", "Atmosfera e litosfera", "Solo roccia"],
+      "spiegazione": "La struttura interna della Terra è stratificata per densità.",
+      "livello": "base",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La crosta terrestre è:",
+      "rispostaCorretta": "Lo strato più esterno e sottile",
+      "opzioni": ["Lo strato più esterno e sottile", "Lo strato più interno", "Lo strato più spesso", "Il nucleo"],
+      "spiegazione": "La crosta ha spessore variabile: 5-10 km oceanica, 30-70 km continentale.",
+      "livello": "base",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La teoria della tettonica a placche afferma che:",
+      "rispostaCorretta": "La litosfera è divisa in placche che si muovono",
+      "opzioni": ["La litosfera è divisa in placche che si muovono", "La Terra è ferma", "I continenti non si muovono", "Solo i mari si muovono"],
+      "spiegazione": "Le placche tettoniche galleggiano sull'astenosfera e si muovono.",
+      "livello": "intermedio",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I terremoti sono causati da:",
+      "rispostaCorretta": "Il movimento delle placche tettoniche",
+      "opzioni": ["Il movimento delle placche tettoniche", "Il vento", "La pioggia", "Il Sole"],
+      "spiegazione": "I terremoti si verificano lungo i margini delle placche.",
+      "livello": "base",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'epicentro di un terremoto è:",
+      "rispostaCorretta": "Il punto sulla superficie sopra l'ipocentro",
+      "opzioni": ["Il punto sulla superficie sopra l'ipocentro", "Il punto di origine in profondità", "Il punto più lontano", "Il centro della Terra"],
+      "spiegazione": "L'epicentro è la proiezione in superficie dell'ipocentro.",
+      "livello": "intermedio",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La scala Richter misura:",
+      "rispostaCorretta": "La magnitudo (energia) di un terremoto",
+      "opzioni": ["La magnitudo (energia) di un terremoto", "I danni", "La profondità", "La durata"],
+      "spiegazione": "La scala Richter è logaritmica: ogni grado è 30 volte più energia.",
+      "livello": "intermedio",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I vulcani si formano:",
+      "rispostaCorretta": "Dove il magma risale in superficie",
+      "opzioni": ["Dove il magma risale in superficie", "Solo in montagna", "Solo in mare", "Casualmente"],
+      "spiegazione": "I vulcani si trovano spesso ai margini delle placche o sui punti caldi.",
+      "livello": "base",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La lava è:",
+      "rispostaCorretta": "Magma che fuoriesce in superficie",
+      "opzioni": ["Magma che fuoriesce in superficie", "Roccia solida", "Acqua bollente", "Gas"],
+      "spiegazione": "Il magma si chiama lava quando esce dal vulcano.",
+      "livello": "base",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le rocce ignee si formano da:",
+      "rispostaCorretta": "Il raffreddamento del magma",
+      "opzioni": ["Il raffreddamento del magma", "La sedimentazione", "Il metamorfismo", "L'erosione"],
+      "spiegazione": "Le rocce ignee (magmatiche) derivano dal magma solidificato.",
+      "livello": "intermedio",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le rocce sedimentarie si formano da:",
+      "rispostaCorretta": "L'accumulo e la compattazione di sedimenti",
+      "opzioni": ["L'accumulo e la compattazione di sedimenti", "Il raffreddamento del magma", "Il metamorfismo", "Le eruzioni"],
+      "spiegazione": "Le rocce sedimentarie si formano per deposizione e litificazione.",
+      "livello": "intermedio",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le rocce metamorfiche si formano da:",
+      "rispostaCorretta": "La trasformazione di rocce preesistenti per calore e pressione",
+      "opzioni": ["La trasformazione di rocce preesistenti per calore e pressione", "Il raffreddamento del magma", "La sedimentazione", "L'erosione"],
+      "spiegazione": "Il metamorfismo trasforma le rocce senza fonderle.",
+      "livello": "intermedio",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il DNA ricombinante è:",
+      "rispostaCorretta": "DNA creato combinando sequenze di organismi diversi",
+      "opzioni": ["DNA creato combinando sequenze di organismi diversi", "DNA naturale", "RNA", "Proteine"],
+      "spiegazione": "Il DNA ricombinante è alla base delle biotecnologie.",
+      "livello": "intermedio",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli OGM sono:",
+      "rispostaCorretta": "Organismi Geneticamente Modificati",
+      "opzioni": ["Organismi Geneticamente Modificati", "Organismi naturali", "Virus", "Batteri normali"],
+      "spiegazione": "Gli OGM hanno il DNA modificato con tecniche di ingegneria genetica.",
+      "livello": "base",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La PCR (Polymerase Chain Reaction) serve a:",
+      "rispostaCorretta": "Amplificare (copiare) sequenze di DNA",
+      "opzioni": ["Amplificare (copiare) sequenze di DNA", "Distruggere il DNA", "Creare proteine", "Analizzare le proteine"],
+      "spiegazione": "La PCR moltiplica milioni di volte una sequenza di DNA.",
+      "livello": "avanzato",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "CRISPR-Cas9 è:",
+      "rispostaCorretta": "Una tecnica di editing genetico",
+      "opzioni": ["Una tecnica di editing genetico", "Un virus", "Un batterio", "Una proteina"],
+      "spiegazione": "CRISPR permette di modificare il DNA con precisione.",
+      "livello": "avanzato",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La clonazione è:",
+      "rispostaCorretta": "La creazione di copie geneticamente identiche",
+      "opzioni": ["La creazione di copie geneticamente identiche", "La riproduzione sessuale", "La mutazione", "L'evoluzione"],
+      "spiegazione": "La pecora Dolly (1996) fu il primo mammifero clonato.",
+      "livello": "intermedio",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le cellule staminali sono:",
+      "rispostaCorretta": "Cellule indifferenziate che possono specializzarsi",
+      "opzioni": ["Cellule indifferenziate che possono specializzarsi", "Cellule morte", "Cellule tumorali", "Virus"],
+      "spiegazione": "Le staminali possono diventare diversi tipi di cellule.",
+      "livello": "intermedio",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Progetto Genoma Umano ha:",
+      "rispostaCorretta": "Sequenziato l'intero DNA umano",
+      "opzioni": ["Sequenziato l'intero DNA umano", "Creato nuovi geni", "Clonato l'uomo", "Curato tutte le malattie"],
+      "spiegazione": "Il Progetto Genoma Umano fu completato nel 2003.",
+      "livello": "avanzato",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Plutone è ancora considerato un pianeta del Sistema Solare.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Dal 2006 Plutone è classificato come pianeta nano.",
+      "livello": "base",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "I terremoti possono essere previsti con precisione.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Non è possibile prevedere con esattezza quando e dove avverrà un terremoto.",
+      "livello": "intermedio",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Gli OGM sono usati in agricoltura e medicina.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Gli OGM sono usati per colture resistenti e produzione di farmaci.",
+      "livello": "base",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Pangea era:",
+      "rispostaCorretta": "Un supercontinente che esisteva 200 milioni di anni fa",
+      "opzioni": ["Un supercontinente che esisteva 200 milioni di anni fa", "Un oceano", "Un pianeta", "Una galassia"],
+      "spiegazione": "La Pangea si frammentò formando i continenti attuali.",
+      "livello": "intermedio",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La deriva dei continenti fu proposta da:",
+      "rispostaCorretta": "Alfred Wegener",
+      "opzioni": ["Alfred Wegener", "Charles Darwin", "Isaac Newton", "Albert Einstein"],
+      "spiegazione": "Wegener propose la teoria nel 1912, confermata poi dalla tettonica a placche.",
+      "livello": "avanzato",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La dorsale oceanica è:",
+      "rispostaCorretta": "Una catena montuosa sottomarina dove si forma nuova crosta",
+      "opzioni": ["Una catena montuosa sottomarina dove si forma nuova crosta", "Una fossa oceanica", "Un'isola", "Un vulcano"],
+      "spiegazione": "Alle dorsali le placche si allontanano e risale magma.",
+      "livello": "avanzato",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una fossa oceanica si forma dove:",
+      "rispostaCorretta": "Una placca scende sotto un'altra (subduzione)",
+      "opzioni": ["Una placca scende sotto un'altra (subduzione)", "Le placche si allontanano", "Non ci sono placche", "C'è un vulcano"],
+      "spiegazione": "La subduzione crea le fosse più profonde (es. Fossa delle Marianne).",
+      "livello": "avanzato",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I fossili sono:",
+      "rispostaCorretta": "Resti o tracce di organismi vissuti nel passato",
+      "opzioni": ["Resti o tracce di organismi vissuti nel passato", "Rocce", "Minerali", "Cristalli"],
+      "spiegazione": "I fossili si formano per mineralizzazione o conservazione.",
+      "livello": "base",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La datazione radiometrica usa:",
+      "rispostaCorretta": "Il decadimento di isotopi radioattivi",
+      "opzioni": ["Il decadimento di isotopi radioattivi", "I fossili", "Le rocce", "L'acqua"],
+      "spiegazione": "Il carbonio-14 è usato per datare materiali organici fino a 50.000 anni.",
+      "livello": "avanzato",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'era geologica attuale è:",
+      "rispostaCorretta": "Il Cenozoico (era dei mammiferi)",
+      "opzioni": ["Il Cenozoico (era dei mammiferi)", "Il Mesozoico (era dei dinosauri)", "Il Paleozoico", "Il Precambriano"],
+      "spiegazione": "Il Cenozoico iniziò 66 milioni di anni fa con l'estinzione dei dinosauri.",
+      "livello": "avanzato",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I dinosauri si estinsero alla fine del:",
+      "rispostaCorretta": "Cretaceo (66 milioni di anni fa)",
+      "opzioni": ["Cretaceo (66 milioni di anni fa)", "Giurassico", "Triassico", "Permiano"],
+      "spiegazione": "L'estinzione fu probabilmente causata da un asteroide e vulcanismo.",
+      "livello": "intermedio",
+      "argomento": "Geologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un esopianeta è:",
+      "rispostaCorretta": "Un pianeta che orbita attorno a una stella diversa dal Sole",
+      "opzioni": ["Un pianeta che orbita attorno a una stella diversa dal Sole", "Un pianeta del Sistema Solare", "Una luna", "Un asteroide"],
+      "spiegazione": "Sono stati scoperti migliaia di esopianeti.",
+      "livello": "intermedio",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una supernova è:",
+      "rispostaCorretta": "L'esplosione di una stella massiccia",
+      "opzioni": ["L'esplosione di una stella massiccia", "Una nuova stella", "Un pianeta", "Una galassia"],
+      "spiegazione": "Le supernove producono elementi pesanti e possono formare buchi neri.",
+      "livello": "avanzato",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una nana bianca è:",
+      "rispostaCorretta": "Il residuo di una stella di massa medio-piccola",
+      "opzioni": ["Il residuo di una stella di massa medio-piccola", "Una stella giovane", "Un buco nero", "Una galassia"],
+      "spiegazione": "Il Sole diventerà una nana bianca tra circa 5 miliardi di anni.",
+      "livello": "avanzato",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una stella di neutroni è:",
+      "rispostaCorretta": "Il residuo di una supernova, estremamente denso",
+      "opzioni": ["Il residuo di una supernova, estremamente denso", "Una stella normale", "Un pianeta", "Una cometa"],
+      "spiegazione": "Le stelle di neutroni hanno densità enorme: un cucchiaino pesa miliardi di tonnellate.",
+      "livello": "avanzato",
+      "argomento": "Astronomia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La terapia genica mira a:",
+      "rispostaCorretta": "Curare malattie introducendo geni corretti",
+      "opzioni": ["Curare malattie introducendo geni corretti", "Creare nuove malattie", "Clonare organismi", "Produrre farmaci"],
+      "spiegazione": "La terapia genica può correggere difetti genetici.",
+      "livello": "avanzato",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I plasmidi sono usati in biotecnologia come:",
+      "rispostaCorretta": "Vettori per trasferire geni",
+      "opzioni": ["Vettori per trasferire geni", "Enzimi", "Proteine", "Virus"],
+      "spiegazione": "I plasmidi batterici possono incorporare DNA estraneo.",
+      "livello": "avanzato",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'insulina umana oggi è prodotta principalmente da:",
+      "rispostaCorretta": "Batteri geneticamente modificati",
+      "opzioni": ["Batteri geneticamente modificati", "Maiali", "Sintesi chimica", "Piante"],
+      "spiegazione": "L'insulina ricombinante è prodotta da E. coli o lieviti con il gene umano.",
+      "livello": "avanzato",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La bioinformatica è:",
+      "rispostaCorretta": "L'applicazione dell'informatica alla biologia",
+      "opzioni": ["L'applicazione dell'informatica alla biologia", "La biologia delle informazioni", "L'informatica biologica", "La programmazione"],
+      "spiegazione": "La bioinformatica analizza dati genomici e proteomici.",
+      "livello": "avanzato",
+      "argomento": "Biotecnologie",
+      "materia": "scienze"
+    }
+  ]
+}

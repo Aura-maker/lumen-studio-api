@@ -1,0 +1,627 @@
+{
+  "materia": "filosofia",
+  "descrizione": "Quiz Filosofia 3° anno - Presocratici, Socrate, Platone, Aristotele, Ellenismo, Medioevo",
+  "totale": 70,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Talete di Mileto identificò l'archè con:",
+      "rispostaCorretta": "L'acqua",
+      "opzioni": ["L'acqua", "L'aria", "Il fuoco", "La terra"],
+      "spiegazione": "Talete identificò l'archè, il principio primo di tutte le cose, con l'acqua.",
+      "livello": "base",
+      "argomento": "I Presocratici",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Anassimandro identificò l'archè con:",
+      "rispostaCorretta": "L'apeiron (l'infinito)",
+      "opzioni": ["L'apeiron (l'infinito)", "L'acqua", "L'aria", "Il numero"],
+      "spiegazione": "Anassimandro identificò l'archè con l'apeiron, l'infinito indeterminato.",
+      "livello": "intermedio",
+      "argomento": "I Presocratici",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Anassimene identificò l'archè con:",
+      "rispostaCorretta": "L'aria",
+      "opzioni": ["L'aria", "L'acqua", "Il fuoco", "La terra"],
+      "spiegazione": "Anassimene identificò l'archè con l'aria, che per rarefazione e condensazione genera tutto.",
+      "livello": "base",
+      "argomento": "I Presocratici",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Pitagora sosteneva che il principio di tutte le cose fosse:",
+      "rispostaCorretta": "Il numero",
+      "opzioni": ["Il numero", "L'acqua", "L'atomo", "L'idea"],
+      "spiegazione": "Per Pitagora il numero è il principio di tutte le cose: tutto è numero e armonia.",
+      "livello": "base",
+      "argomento": "I Presocratici",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Eraclito sosteneva che tutto è:",
+      "rispostaCorretta": "In continuo divenire (panta rei)",
+      "opzioni": ["In continuo divenire (panta rei)", "Immobile", "Illusione", "Numero"],
+      "spiegazione": "Eraclito sosteneva che tutto scorre (panta rei): non ci si bagna due volte nello stesso fiume.",
+      "livello": "base",
+      "argomento": "I Presocratici",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Eraclito l'archè è:",
+      "rispostaCorretta": "Il fuoco",
+      "opzioni": ["Il fuoco", "L'acqua", "L'aria", "La terra"],
+      "spiegazione": "Per Eraclito il fuoco è l'archè, simbolo del divenire e della trasformazione.",
+      "livello": "intermedio",
+      "argomento": "I Presocratici",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Parmenide sosteneva che l'essere è:",
+      "rispostaCorretta": "Uno, eterno, immobile",
+      "opzioni": ["Uno, eterno, immobile", "Molteplice e in divenire", "Illusorio", "Materiale"],
+      "spiegazione": "Per Parmenide l'essere è uno, eterno, immobile, ingenerato e incorruttibile.",
+      "livello": "intermedio",
+      "argomento": "I Presocratici",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Parmenide il divenire è:",
+      "rispostaCorretta": "Apparenza illusoria",
+      "opzioni": ["Apparenza illusoria", "La vera realtà", "Creazione divina", "Movimento degli atomi"],
+      "spiegazione": "Per Parmenide il divenire è apparenza illusoria: solo l'essere immutabile è reale.",
+      "livello": "avanzato",
+      "argomento": "I Presocratici",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Democrito sosteneva che la realtà è composta da:",
+      "rispostaCorretta": "Atomi e vuoto",
+      "opzioni": ["Atomi e vuoto", "Acqua e fuoco", "Idee e materia", "Numeri"],
+      "spiegazione": "Per Democrito la realtà è composta da atomi (particelle indivisibili) e vuoto.",
+      "livello": "base",
+      "argomento": "I Presocratici",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Sofisti erano:",
+      "rispostaCorretta": "Maestri di retorica itineranti",
+      "opzioni": ["Maestri di retorica itineranti", "Sacerdoti", "Politici", "Scienziati"],
+      "spiegazione": "I Sofisti erano maestri itineranti che insegnavano retorica e arte del discorso a pagamento.",
+      "livello": "base",
+      "argomento": "I Sofisti e Socrate",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Protagora affermò che 'l'uomo è misura di tutte le cose', intendendo:",
+      "rispostaCorretta": "Il relativismo della conoscenza",
+      "opzioni": ["Il relativismo della conoscenza", "L'onnipotenza umana", "La superiorità dell'uomo", "L'importanza della scienza"],
+      "spiegazione": "Per Protagora non esiste verità assoluta: ogni uomo è misura della propria verità.",
+      "livello": "intermedio",
+      "argomento": "I Sofisti e Socrate",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il metodo socratico si chiama:",
+      "rispostaCorretta": "Maieutica",
+      "opzioni": ["Maieutica", "Dialettica", "Retorica", "Sillogismo"],
+      "spiegazione": "La maieutica è l'arte di far partorire la verità attraverso il dialogo.",
+      "livello": "base",
+      "argomento": "I Sofisti e Socrate",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Socrate fu condannato a morte con l'accusa di:",
+      "rispostaCorretta": "Corrompere i giovani e non credere negli dèi",
+      "opzioni": ["Corrompere i giovani e non credere negli dèi", "Tradimento", "Furto", "Omicidio"],
+      "spiegazione": "Socrate fu condannato nel 399 a.C. per empietà e corruzione dei giovani.",
+      "livello": "base",
+      "argomento": "I Sofisti e Socrate",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La frase 'So di non sapere' è attribuita a:",
+      "rispostaCorretta": "Socrate",
+      "opzioni": ["Socrate", "Platone", "Aristotele", "Protagora"],
+      "spiegazione": "Socrate affermava di sapere solo di non sapere, punto di partenza della ricerca.",
+      "livello": "base",
+      "argomento": "I Sofisti e Socrate",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Socrate la virtù è:",
+      "rispostaCorretta": "Conoscenza (intellettualismo etico)",
+      "opzioni": ["Conoscenza (intellettualismo etico)", "Forza fisica", "Ricchezza", "Nascita nobile"],
+      "spiegazione": "Per Socrate la virtù è conoscenza: chi conosce il bene non può fare il male.",
+      "livello": "intermedio",
+      "argomento": "I Sofisti e Socrate",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Platone fondò la sua scuola chiamata:",
+      "rispostaCorretta": "Accademia",
+      "opzioni": ["Accademia", "Liceo", "Stoà", "Giardino"],
+      "spiegazione": "Platone fondò l'Accademia ad Atene nel 387 a.C.",
+      "livello": "base",
+      "argomento": "Platone",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Platone la vera realtà è costituita da:",
+      "rispostaCorretta": "Le Idee (mondo iperuranio)",
+      "opzioni": ["Le Idee (mondo iperuranio)", "La materia", "Gli atomi", "I numeri"],
+      "spiegazione": "Per Platone la vera realtà sono le Idee eterne nel mondo iperuranio.",
+      "livello": "base",
+      "argomento": "Platone",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il mito della caverna di Platone illustra:",
+      "rispostaCorretta": "Il passaggio dall'ignoranza alla conoscenza",
+      "opzioni": ["Il passaggio dall'ignoranza alla conoscenza", "La creazione del mondo", "La morte dell'anima", "L'origine del male"],
+      "spiegazione": "Il mito della caverna illustra il percorso dall'ignoranza (ombre) alla conoscenza (sole).",
+      "livello": "intermedio",
+      "argomento": "Platone",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Platone l'anima è:",
+      "rispostaCorretta": "Immortale e preesistente al corpo",
+      "opzioni": ["Immortale e preesistente al corpo", "Mortale", "Materiale", "Inesistente"],
+      "spiegazione": "Per Platone l'anima è immortale, preesiste al corpo e si reincarna.",
+      "livello": "intermedio",
+      "argomento": "Platone",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Nella Repubblica di Platone, lo Stato ideale è governato da:",
+      "rispostaCorretta": "I filosofi",
+      "opzioni": ["I filosofi", "I guerrieri", "I mercanti", "Il popolo"],
+      "spiegazione": "Per Platone lo Stato ideale deve essere governato dai filosofi-re.",
+      "livello": "base",
+      "argomento": "Platone",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Aristotele fondò la sua scuola chiamata:",
+      "rispostaCorretta": "Liceo",
+      "opzioni": ["Liceo", "Accademia", "Stoà", "Giardino"],
+      "spiegazione": "Aristotele fondò il Liceo ad Atene nel 335 a.C.",
+      "livello": "base",
+      "argomento": "Aristotele",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Aristotele fu precettore di:",
+      "rispostaCorretta": "Alessandro Magno",
+      "opzioni": ["Alessandro Magno", "Pericle", "Giulio Cesare", "Augusto"],
+      "spiegazione": "Aristotele fu precettore del giovane Alessandro Magno in Macedonia.",
+      "livello": "base",
+      "argomento": "Aristotele",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Aristotele la sostanza è composta da:",
+      "rispostaCorretta": "Materia e forma",
+      "opzioni": ["Materia e forma", "Atomi e vuoto", "Idee e copie", "Anima e corpo"],
+      "spiegazione": "Per Aristotele ogni sostanza è composta da materia (potenza) e forma (atto).",
+      "livello": "intermedio",
+      "argomento": "Aristotele",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le quattro cause aristoteliche sono:",
+      "rispostaCorretta": "Materiale, formale, efficiente, finale",
+      "opzioni": ["Materiale, formale, efficiente, finale", "Prima, seconda, terza, quarta", "Fisica, chimica, biologica, psicologica", "Naturale, artificiale, divina, umana"],
+      "spiegazione": "Aristotele individua quattro cause: materiale, formale, efficiente e finale.",
+      "livello": "avanzato",
+      "argomento": "Aristotele",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il sillogismo aristotelico è:",
+      "rispostaCorretta": "Un ragionamento deduttivo con due premesse e una conclusione",
+      "opzioni": ["Un ragionamento deduttivo con due premesse e una conclusione", "Un dialogo", "Una dimostrazione matematica", "Un esperimento"],
+      "spiegazione": "Il sillogismo è un ragionamento deduttivo: da due premesse si ricava una conclusione.",
+      "livello": "intermedio",
+      "argomento": "Aristotele",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Aristotele il fine ultimo dell'uomo è:",
+      "rispostaCorretta": "La felicità (eudaimonia)",
+      "opzioni": ["La felicità (eudaimonia)", "Il piacere", "La ricchezza", "Il potere"],
+      "spiegazione": "Per Aristotele il fine ultimo è la felicità, raggiunta con la vita virtuosa.",
+      "livello": "intermedio",
+      "argomento": "Aristotele",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Aristotele l'uomo è un:",
+      "rispostaCorretta": "Animale politico (zoon politikon)",
+      "opzioni": ["Animale politico (zoon politikon)", "Animale razionale", "Essere divino", "Essere solitario"],
+      "spiegazione": "Per Aristotele l'uomo è un animale politico, realizza la sua natura nella polis.",
+      "livello": "base",
+      "argomento": "Aristotele",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Epicureismo fu fondato da:",
+      "rispostaCorretta": "Epicuro",
+      "opzioni": ["Epicuro", "Zenone", "Pirrone", "Plotino"],
+      "spiegazione": "L'Epicureismo fu fondato da Epicuro nel Giardino ad Atene.",
+      "livello": "base",
+      "argomento": "Le filosofie ellenistiche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Epicuro il fine della vita è:",
+      "rispostaCorretta": "Il piacere (atarassia)",
+      "opzioni": ["Il piacere (atarassia)", "La virtù", "La conoscenza", "Il potere"],
+      "spiegazione": "Per Epicuro il fine è il piacere inteso come assenza di dolore (atarassia).",
+      "livello": "intermedio",
+      "argomento": "Le filosofie ellenistiche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo Stoicismo fu fondato da:",
+      "rispostaCorretta": "Zenone di Cizio",
+      "opzioni": ["Zenone di Cizio", "Epicuro", "Pirrone", "Plotino"],
+      "spiegazione": "Lo Stoicismo fu fondato da Zenone di Cizio nella Stoà (portico) ad Atene.",
+      "livello": "base",
+      "argomento": "Le filosofie ellenistiche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per gli Stoici il saggio deve:",
+      "rispostaCorretta": "Accettare il destino con impassibilità (apatia)",
+      "opzioni": ["Accettare il destino con impassibilità (apatia)", "Cercare il piacere", "Dubitare di tutto", "Ritirarsi dalla società"],
+      "spiegazione": "Per gli Stoici il saggio accetta il destino con apatia, vivendo secondo natura.",
+      "livello": "intermedio",
+      "argomento": "Le filosofie ellenistiche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo Scetticismo fu fondato da:",
+      "rispostaCorretta": "Pirrone",
+      "opzioni": ["Pirrone", "Epicuro", "Zenone", "Plotino"],
+      "spiegazione": "Lo Scetticismo fu fondato da Pirrone di Elide.",
+      "livello": "intermedio",
+      "argomento": "Le filosofie ellenistiche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per gli Scettici la conoscenza certa è:",
+      "rispostaCorretta": "Impossibile (epoché)",
+      "opzioni": ["Impossibile (epoché)", "Raggiungibile con la ragione", "Data dai sensi", "Rivelata dagli dèi"],
+      "spiegazione": "Per gli Scettici la conoscenza certa è impossibile: bisogna sospendere il giudizio (epoché).",
+      "livello": "avanzato",
+      "argomento": "Le filosofie ellenistiche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Neoplatonismo fu fondato da:",
+      "rispostaCorretta": "Plotino",
+      "opzioni": ["Plotino", "Platone", "Aristotele", "Epicuro"],
+      "spiegazione": "Il Neoplatonismo fu fondato da Plotino nel III secolo d.C.",
+      "livello": "intermedio",
+      "argomento": "Le filosofie ellenistiche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Plotino la realtà deriva dall'Uno per:",
+      "rispostaCorretta": "Emanazione",
+      "opzioni": ["Emanazione", "Creazione", "Evoluzione", "Caso"],
+      "spiegazione": "Per Plotino la realtà deriva dall'Uno per emanazione, come luce dal sole.",
+      "livello": "avanzato",
+      "argomento": "Le filosofie ellenistiche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Sant'Agostino visse nel:",
+      "rispostaCorretta": "IV-V secolo d.C.",
+      "opzioni": ["IV-V secolo d.C.", "I secolo d.C.", "XIII secolo", "XVI secolo"],
+      "spiegazione": "Sant'Agostino (354-430 d.C.) fu il maggiore Padre della Chiesa latina.",
+      "livello": "base",
+      "argomento": "La filosofia medievale",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Sant'Agostino la verità si trova:",
+      "rispostaCorretta": "Nell'interiorità dell'uomo",
+      "opzioni": ["Nell'interiorità dell'uomo", "Nel mondo esterno", "Nei libri", "Nella natura"],
+      "spiegazione": "Per Agostino la verità si trova nell'interiorità: 'In te ipsum redi, in interiore homine habitat veritas'.",
+      "livello": "intermedio",
+      "argomento": "La filosofia medievale",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Confessioni di Sant'Agostino sono:",
+      "rispostaCorretta": "Un'autobiografia spirituale",
+      "opzioni": ["Un'autobiografia spirituale", "Un trattato di logica", "Un commento biblico", "Un'opera politica"],
+      "spiegazione": "Le Confessioni sono un'autobiografia spirituale che narra la conversione di Agostino.",
+      "livello": "base",
+      "argomento": "La filosofia medievale",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Città di Dio di Sant'Agostino contrappone:",
+      "rispostaCorretta": "La città terrena alla città celeste",
+      "opzioni": ["La città terrena alla città celeste", "Roma a Cartagine", "Oriente a Occidente", "Chiesa a Stato"],
+      "spiegazione": "La Città di Dio contrappone la città terrena (amore di sé) alla città celeste (amore di Dio).",
+      "livello": "intermedio",
+      "argomento": "La filosofia medievale",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "San Tommaso d'Aquino visse nel:",
+      "rispostaCorretta": "XIII secolo",
+      "opzioni": ["XIII secolo", "V secolo", "X secolo", "XVI secolo"],
+      "spiegazione": "San Tommaso d'Aquino (1225-1274) fu il massimo filosofo della Scolastica.",
+      "livello": "base",
+      "argomento": "La filosofia medievale",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "San Tommaso cercò di conciliare:",
+      "rispostaCorretta": "Fede e ragione",
+      "opzioni": ["Fede e ragione", "Chiesa e Stato", "Anima e corpo", "Bene e male"],
+      "spiegazione": "San Tommaso cercò di conciliare fede cristiana e filosofia aristotelica.",
+      "livello": "base",
+      "argomento": "La filosofia medievale",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le cinque vie di San Tommaso sono:",
+      "rispostaCorretta": "Prove dell'esistenza di Dio",
+      "opzioni": ["Prove dell'esistenza di Dio", "Virtù cardinali", "Sacramenti", "Comandamenti"],
+      "spiegazione": "Le cinque vie sono prove razionali dell'esistenza di Dio nella Summa Theologiae.",
+      "livello": "intermedio",
+      "argomento": "La filosofia medievale",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Scolastica è:",
+      "rispostaCorretta": "La filosofia cristiana medievale",
+      "opzioni": ["La filosofia cristiana medievale", "La filosofia greca", "La scienza moderna", "L'arte rinascimentale"],
+      "spiegazione": "La Scolastica è la filosofia cristiana medievale insegnata nelle scuole e università.",
+      "livello": "base",
+      "argomento": "La filosofia medievale",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il problema degli universali riguarda:",
+      "rispostaCorretta": "L'esistenza dei concetti generali",
+      "opzioni": ["L'esistenza dei concetti generali", "L'origine dell'universo", "La natura di Dio", "L'immortalità dell'anima"],
+      "spiegazione": "Il problema degli universali riguarda se i concetti generali esistano realmente o solo nella mente.",
+      "livello": "avanzato",
+      "argomento": "La filosofia medievale",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Socrate scrisse molte opere filosofiche.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Socrate non scrisse nulla. Il suo pensiero ci è noto attraverso i dialoghi di Platone.",
+      "livello": "base",
+      "argomento": "I Sofisti e Socrate",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Aristotele fu allievo di Platone.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Aristotele fu allievo di Platone all'Accademia per vent'anni.",
+      "livello": "base",
+      "argomento": "Aristotele",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Per Platone le Idee esistono nel mondo sensibile.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Per Platone le Idee esistono nel mondo iperuranio, separato dal mondo sensibile.",
+      "livello": "intermedio",
+      "argomento": "Platone",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il logos di Eraclito è:",
+      "rispostaCorretta": "La legge razionale che governa il divenire",
+      "opzioni": ["La legge razionale che governa il divenire", "Un dio personale", "La materia prima", "L'anima umana"],
+      "spiegazione": "Il logos è la legge razionale che governa il divenire e l'armonia dei contrari.",
+      "livello": "avanzato",
+      "argomento": "I Presocratici",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Zenone di Elea è famoso per:",
+      "rispostaCorretta": "I paradossi contro il movimento",
+      "opzioni": ["I paradossi contro il movimento", "La fondazione dello Stoicismo", "La teoria degli atomi", "Il mito della caverna"],
+      "spiegazione": "Zenone di Elea formulò paradossi (Achille e la tartaruga) per dimostrare l'impossibilità del movimento.",
+      "livello": "intermedio",
+      "argomento": "I Presocratici",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Empedocle identificò i principi con:",
+      "rispostaCorretta": "I quattro elementi (acqua, aria, terra, fuoco)",
+      "opzioni": ["I quattro elementi (acqua, aria, terra, fuoco)", "Gli atomi", "I numeri", "Le idee"],
+      "spiegazione": "Empedocle identificò quattro radici (elementi) mosse da Amore e Odio.",
+      "livello": "intermedio",
+      "argomento": "I Presocratici",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Anassagora introdusse il concetto di:",
+      "rispostaCorretta": "Nous (intelletto ordinatore)",
+      "opzioni": ["Nous (intelletto ordinatore)", "Atomo", "Idea", "Logos"],
+      "spiegazione": "Anassagora introdusse il Nous, intelletto che ordina la materia caotica.",
+      "livello": "avanzato",
+      "argomento": "I Presocratici",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gorgia sosteneva che:",
+      "rispostaCorretta": "Nulla esiste, se esiste non è conoscibile, se è conoscibile non è comunicabile",
+      "opzioni": ["Nulla esiste, se esiste non è conoscibile, se è conoscibile non è comunicabile", "Tutto è numero", "L'essere è uno", "La virtù è conoscenza"],
+      "spiegazione": "Gorgia espresse il nichilismo sofistico con le tre tesi sul non-essere.",
+      "livello": "avanzato",
+      "argomento": "I Sofisti e Socrate",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ironia socratica consiste nel:",
+      "rispostaCorretta": "Fingere ignoranza per smascherare la falsa sapienza",
+      "opzioni": ["Fingere ignoranza per smascherare la falsa sapienza", "Fare battute", "Criticare apertamente", "Lodare falsamente"],
+      "spiegazione": "L'ironia socratica è il fingere ignoranza per portare l'interlocutore a riconoscere la propria.",
+      "livello": "intermedio",
+      "argomento": "I Sofisti e Socrate",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Platone la conoscenza è:",
+      "rispostaCorretta": "Reminiscenza (anamnesi)",
+      "opzioni": ["Reminiscenza (anamnesi)", "Sensazione", "Creazione", "Rivelazione"],
+      "spiegazione": "Per Platone conoscere è ricordare ciò che l'anima ha visto nel mondo delle Idee.",
+      "livello": "intermedio",
+      "argomento": "Platone",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le tre parti dell'anima platonica sono:",
+      "rispostaCorretta": "Razionale, irascibile, concupiscibile",
+      "opzioni": ["Razionale, irascibile, concupiscibile", "Vegetativa, sensitiva, intellettiva", "Corpo, mente, spirito", "Id, ego, super-io"],
+      "spiegazione": "Per Platone l'anima ha tre parti: razionale (testa), irascibile (petto), concupiscibile (ventre).",
+      "livello": "avanzato",
+      "argomento": "Platone",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Demiurgo platonico è:",
+      "rispostaCorretta": "L'artefice divino che plasma il mondo",
+      "opzioni": ["L'artefice divino che plasma il mondo", "Il dio creatore dal nulla", "L'anima del mondo", "Il primo uomo"],
+      "spiegazione": "Nel Timeo il Demiurgo è l'artefice che plasma la materia guardando alle Idee.",
+      "livello": "avanzato",
+      "argomento": "Platone",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Aristotele il Motore Immobile è:",
+      "rispostaCorretta": "Dio, causa finale dell'universo",
+      "opzioni": ["Dio, causa finale dell'universo", "La materia prima", "L'anima umana", "Il cielo delle stelle fisse"],
+      "spiegazione": "Il Motore Immobile è Dio, pensiero di pensiero, che muove l'universo come causa finale.",
+      "livello": "avanzato",
+      "argomento": "Aristotele",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La virtù per Aristotele è:",
+      "rispostaCorretta": "Il giusto mezzo tra due eccessi",
+      "opzioni": ["Il giusto mezzo tra due eccessi", "L'assenza di passioni", "La conoscenza del bene", "L'obbedienza alla legge"],
+      "spiegazione": "Per Aristotele la virtù è il giusto mezzo: il coraggio è tra viltà e temerarietà.",
+      "livello": "intermedio",
+      "argomento": "Aristotele",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Seneca, Epitteto e Marco Aurelio furono:",
+      "rispostaCorretta": "Filosofi stoici",
+      "opzioni": ["Filosofi stoici", "Filosofi epicurei", "Filosofi scettici", "Filosofi neoplatonici"],
+      "spiegazione": "Seneca, Epitteto e Marco Aurelio furono i maggiori rappresentanti dello Stoicismo romano.",
+      "livello": "intermedio",
+      "argomento": "Le filosofie ellenistiche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il tetrafarmaco epicureo riguarda:",
+      "rispostaCorretta": "I quattro rimedi contro le paure",
+      "opzioni": ["I quattro rimedi contro le paure", "Quattro medicine", "Quattro virtù", "Quattro elementi"],
+      "spiegazione": "Il tetrafarmaco sono quattro rimedi: non temere gli dèi, la morte, il dolore; il piacere è raggiungibile.",
+      "livello": "avanzato",
+      "argomento": "Le filosofie ellenistiche",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Sant'Agostino il male è:",
+      "rispostaCorretta": "Privazione di bene",
+      "opzioni": ["Privazione di bene", "Una sostanza", "Creazione divina", "Illusione"],
+      "spiegazione": "Per Agostino il male non è una sostanza ma privazione di bene (privatio boni).",
+      "livello": "avanzato",
+      "argomento": "La filosofia medievale",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La prova ontologica dell'esistenza di Dio fu formulata da:",
+      "rispostaCorretta": "Sant'Anselmo d'Aosta",
+      "opzioni": ["Sant'Anselmo d'Aosta", "San Tommaso", "Sant'Agostino", "Aristotele"],
+      "spiegazione": "Sant'Anselmo formulò la prova ontologica: Dio è ciò di cui non si può pensare nulla di maggiore.",
+      "livello": "avanzato",
+      "argomento": "La filosofia medievale",
+      "materia": "filosofia"
+    }
+  ]
+}

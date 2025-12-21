@@ -1,0 +1,557 @@
+{
+  "materia": "filosofia",
+  "descrizione": "Quiz Filosofia - Parte 2: Rinascimento, Razionalismo, Empirismo, Illuminismo, Kant",
+  "totale": 60,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Niccolò Machiavelli scrisse Il Principe nel:",
+      "rispostaCorretta": "1513",
+      "opzioni": ["1513", "1500", "1532", "1469"],
+      "spiegazione": "Il Principe fu scritto nel 1513 ma pubblicato postumo nel 1532.",
+      "livello": "intermedio",
+      "argomento": "Filosofia rinascimentale",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Machiavelli il fine della politica è:",
+      "rispostaCorretta": "La conquista e il mantenimento del potere",
+      "opzioni": ["La conquista e il mantenimento del potere", "La giustizia", "La felicità dei sudditi", "La gloria di Dio"],
+      "spiegazione": "Machiavelli separa politica e morale: il fine giustifica i mezzi.",
+      "livello": "intermedio",
+      "argomento": "Filosofia rinascimentale",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giordano Bruno fu condannato al rogo per:",
+      "rispostaCorretta": "Eresia",
+      "opzioni": ["Eresia", "Furto", "Tradimento", "Omicidio"],
+      "spiegazione": "Bruno fu bruciato a Roma nel 1600 per le sue idee cosmologiche e filosofiche.",
+      "livello": "intermedio",
+      "argomento": "Filosofia rinascimentale",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Galileo Galilei è considerato il padre del:",
+      "rispostaCorretta": "Metodo scientifico sperimentale",
+      "opzioni": ["Metodo scientifico sperimentale", "Razionalismo", "Empirismo", "Idealismo"],
+      "spiegazione": "Galileo fondò il metodo scientifico basato su osservazione e matematica.",
+      "livello": "base",
+      "argomento": "La rivoluzione scientifica",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Cartesio è considerato il padre del:",
+      "rispostaCorretta": "Razionalismo moderno",
+      "opzioni": ["Razionalismo moderno", "Empirismo", "Idealismo", "Positivismo"],
+      "spiegazione": "Cartesio fondò il razionalismo moderno con il metodo del dubbio.",
+      "livello": "base",
+      "argomento": "Il Razionalismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il 'Cogito ergo sum' di Cartesio significa:",
+      "rispostaCorretta": "Penso dunque sono",
+      "opzioni": ["Penso dunque sono", "Dubito dunque esisto", "Credo dunque sono", "Vivo dunque penso"],
+      "spiegazione": "Il Cogito è la prima certezza indubitabile: se penso, esisto.",
+      "livello": "base",
+      "argomento": "Il Razionalismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il dualismo cartesiano distingue:",
+      "rispostaCorretta": "Res cogitans (pensiero) e res extensa (materia)",
+      "opzioni": ["Res cogitans (pensiero) e res extensa (materia)", "Bene e male", "Anima e spirito", "Forma e materia"],
+      "spiegazione": "Cartesio distingue la sostanza pensante (mente) dalla sostanza estesa (corpo).",
+      "livello": "intermedio",
+      "argomento": "Il Razionalismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Spinoza identificò Dio con:",
+      "rispostaCorretta": "La Natura (Deus sive Natura)",
+      "opzioni": ["La Natura (Deus sive Natura)", "L'uomo", "La ragione", "Lo Stato"],
+      "spiegazione": "Per Spinoza Dio e Natura sono la stessa cosa: panteismo.",
+      "livello": "intermedio",
+      "argomento": "Il Razionalismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Leibniz teorizzò che la realtà è composta da:",
+      "rispostaCorretta": "Monadi",
+      "opzioni": ["Monadi", "Atomi", "Idee", "Forme"],
+      "spiegazione": "Le monadi sono sostanze semplici, centri di forza spirituale.",
+      "livello": "avanzato",
+      "argomento": "Il Razionalismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Empirismo sostiene che la conoscenza deriva da:",
+      "rispostaCorretta": "L'esperienza sensibile",
+      "opzioni": ["L'esperienza sensibile", "Le idee innate", "La ragione pura", "La rivelazione"],
+      "spiegazione": "Per l'Empirismo la mente è una tabula rasa: tutto viene dall'esperienza.",
+      "livello": "base",
+      "argomento": "L'Empirismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "John Locke sosteneva che la mente alla nascita è:",
+      "rispostaCorretta": "Una tabula rasa",
+      "opzioni": ["Una tabula rasa", "Piena di idee innate", "Già formata", "Divina"],
+      "spiegazione": "Per Locke la mente è una lavagna vuota che l'esperienza riempie.",
+      "livello": "base",
+      "argomento": "L'Empirismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Locke distinse le qualità primarie dalle qualità:",
+      "rispostaCorretta": "Secondarie",
+      "opzioni": ["Secondarie", "Terziarie", "Essenziali", "Accidentali"],
+      "spiegazione": "Qualità primarie (estensione, figura) sono oggettive; secondarie (colore, sapore) soggettive.",
+      "livello": "avanzato",
+      "argomento": "L'Empirismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "George Berkeley sosteneva che 'esse est percipi', cioè:",
+      "rispostaCorretta": "Essere è essere percepito",
+      "opzioni": ["Essere è essere percepito", "Essere è pensare", "Essere è agire", "Essere è esistere"],
+      "spiegazione": "Per Berkeley le cose esistono solo in quanto percepite: idealismo.",
+      "livello": "avanzato",
+      "argomento": "L'Empirismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "David Hume negò la possibilità di dimostrare:",
+      "rispostaCorretta": "Il nesso causale",
+      "opzioni": ["Il nesso causale", "L'esistenza di Dio", "La libertà", "La materia"],
+      "spiegazione": "Per Hume la causalità è solo abitudine: non possiamo provarla razionalmente.",
+      "livello": "avanzato",
+      "argomento": "L'Empirismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Thomas Hobbes descrisse lo stato di natura come:",
+      "rispostaCorretta": "Bellum omnium contra omnes (guerra di tutti contro tutti)",
+      "opzioni": ["Bellum omnium contra omnes (guerra di tutti contro tutti)", "Un paradiso", "Uno stato di pace", "Una democrazia"],
+      "spiegazione": "Per Hobbes senza Stato gli uomini vivono in guerra perpetua.",
+      "livello": "intermedio",
+      "argomento": "Filosofia politica moderna",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Hobbes il Leviatano è:",
+      "rispostaCorretta": "Lo Stato assoluto",
+      "opzioni": ["Lo Stato assoluto", "Un mostro biblico", "Il popolo", "La Chiesa"],
+      "spiegazione": "Il Leviatano è lo Stato a cui gli uomini cedono i diritti per avere sicurezza.",
+      "livello": "intermedio",
+      "argomento": "Filosofia politica moderna",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Locke teorizzò i diritti naturali dell'uomo:",
+      "rispostaCorretta": "Vita, libertà e proprietà",
+      "opzioni": ["Vita, libertà e proprietà", "Fede, speranza e carità", "Libertà, uguaglianza, fraternità", "Pace, giustizia e amore"],
+      "spiegazione": "Per Locke i diritti naturali sono inalienabili e lo Stato deve proteggerli.",
+      "livello": "intermedio",
+      "argomento": "Filosofia politica moderna",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Immanuel Kant nacque a:",
+      "rispostaCorretta": "Königsberg",
+      "opzioni": ["Königsberg", "Berlino", "Vienna", "Parigi"],
+      "spiegazione": "Kant nacque a Königsberg nel 1724 e non lasciò mai la città.",
+      "livello": "base",
+      "argomento": "Immanuel Kant",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Critica della ragion pura di Kant fu pubblicata nel:",
+      "rispostaCorretta": "1781",
+      "opzioni": ["1781", "1790", "1788", "1800"],
+      "spiegazione": "La Critica della ragion pura (1781) analizza i limiti della conoscenza.",
+      "livello": "intermedio",
+      "argomento": "Immanuel Kant",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Kant la conoscenza nasce dall'unione di:",
+      "rispostaCorretta": "Sensibilità e intelletto",
+      "opzioni": ["Sensibilità e intelletto", "Fede e ragione", "Anima e corpo", "Teoria e pratica"],
+      "spiegazione": "Kant sintetizza empirismo e razionalismo: i sensi danno materia, l'intelletto forma.",
+      "livello": "intermedio",
+      "argomento": "Immanuel Kant",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le forme a priori della sensibilità per Kant sono:",
+      "rispostaCorretta": "Spazio e tempo",
+      "opzioni": ["Spazio e tempo", "Causa ed effetto", "Sostanza e accidente", "Quantità e qualità"],
+      "spiegazione": "Spazio e tempo sono forme a priori con cui organizziamo l'esperienza.",
+      "livello": "avanzato",
+      "argomento": "Immanuel Kant",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Kant il noumeno è:",
+      "rispostaCorretta": "La cosa in sé, inconoscibile",
+      "opzioni": ["La cosa in sé, inconoscibile", "Il fenomeno", "L'idea", "La sensazione"],
+      "spiegazione": "Il noumeno è la realtà in sé, che non possiamo conoscere; conosciamo solo i fenomeni.",
+      "livello": "avanzato",
+      "argomento": "Immanuel Kant",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'imperativo categorico di Kant afferma:",
+      "rispostaCorretta": "Agisci secondo una massima che possa valere come legge universale",
+      "opzioni": ["Agisci secondo una massima che possa valere come legge universale", "Cerca il piacere", "Obbedisci all'autorità", "Segui il tuo istinto"],
+      "spiegazione": "L'imperativo categorico è il principio morale universale e incondizionato.",
+      "livello": "avanzato",
+      "argomento": "Immanuel Kant",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Critica della ragion pratica di Kant tratta:",
+      "rispostaCorretta": "L'etica e la morale",
+      "opzioni": ["L'etica e la morale", "La conoscenza", "L'estetica", "La politica"],
+      "spiegazione": "La Critica della ragion pratica (1788) analizza i fondamenti della morale.",
+      "livello": "intermedio",
+      "argomento": "Immanuel Kant",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Critica del Giudizio di Kant tratta:",
+      "rispostaCorretta": "L'estetica e la teleologia",
+      "opzioni": ["L'estetica e la teleologia", "La conoscenza", "La morale", "La politica"],
+      "spiegazione": "La Critica del Giudizio (1790) analizza il bello e il finalismo nella natura.",
+      "livello": "avanzato",
+      "argomento": "Immanuel Kant",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Kant i giudizi sintetici a priori sono:",
+      "rispostaCorretta": "Giudizi che ampliano la conoscenza e sono universali",
+      "opzioni": ["Giudizi che ampliano la conoscenza e sono universali", "Giudizi analitici", "Giudizi empirici", "Giudizi di valore"],
+      "spiegazione": "I giudizi sintetici a priori (es. matematica) sono universali e ampliano la conoscenza.",
+      "livello": "avanzato",
+      "argomento": "Immanuel Kant",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Voltaire criticò principalmente:",
+      "rispostaCorretta": "L'intolleranza religiosa e il fanatismo",
+      "opzioni": ["L'intolleranza religiosa e il fanatismo", "La scienza", "La democrazia", "Il commercio"],
+      "spiegazione": "Voltaire fu paladino della tolleranza: 'Écrasez l'infâme' (schiacciate l'infame).",
+      "livello": "intermedio",
+      "argomento": "L'Illuminismo filosofico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Rousseau nel Contratto sociale teorizzò:",
+      "rispostaCorretta": "La sovranità popolare",
+      "opzioni": ["La sovranità popolare", "L'assolutismo", "L'anarchia", "La teocrazia"],
+      "spiegazione": "Per Rousseau la sovranità appartiene al popolo che esprime la volontà generale.",
+      "livello": "intermedio",
+      "argomento": "L'Illuminismo filosofico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Rousseau l'uomo nasce buono ma:",
+      "rispostaCorretta": "La società lo corrompe",
+      "opzioni": ["La società lo corrompe", "Dio lo punisce", "La natura lo limita", "La ragione lo inganna"],
+      "spiegazione": "Rousseau critica la civiltà: l'uomo naturale è buono, la società lo corrompe.",
+      "livello": "intermedio",
+      "argomento": "L'Illuminismo filosofico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Emilio di Rousseau tratta:",
+      "rispostaCorretta": "L'educazione naturale",
+      "opzioni": ["L'educazione naturale", "La politica", "La religione", "L'economia"],
+      "spiegazione": "L'Emilio (1762) propone un'educazione secondo natura, non coercitiva.",
+      "livello": "avanzato",
+      "argomento": "L'Illuminismo filosofico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Cartesio era un filosofo empirista.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Cartesio era razionalista: la conoscenza deriva dalla ragione, non dall'esperienza.",
+      "livello": "base",
+      "argomento": "Il Razionalismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Kant cercò di superare il contrasto tra razionalismo ed empirismo.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Kant operò una sintesi: la conoscenza nasce dall'unione di esperienza e forme a priori.",
+      "livello": "intermedio",
+      "argomento": "Immanuel Kant",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Per Hume possiamo dimostrare razionalmente il nesso di causa-effetto.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Hume nega la dimostrabilità della causalità: è solo abitudine psicologica.",
+      "livello": "avanzato",
+      "argomento": "L'Empirismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Francis Bacon è considerato il padre del:",
+      "rispostaCorretta": "Metodo induttivo",
+      "opzioni": ["Metodo induttivo", "Metodo deduttivo", "Razionalismo", "Idealismo"],
+      "spiegazione": "Bacon teorizzò il metodo induttivo: dall'osservazione dei casi alla legge generale.",
+      "livello": "intermedio",
+      "argomento": "La rivoluzione scientifica",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli idola di Bacon sono:",
+      "rispostaCorretta": "Pregiudizi che ostacolano la conoscenza",
+      "opzioni": ["Pregiudizi che ostacolano la conoscenza", "Divinità", "Idee innate", "Forme logiche"],
+      "spiegazione": "Gli idola (della tribù, della spelonca, del foro, del teatro) sono errori da eliminare.",
+      "livello": "avanzato",
+      "argomento": "La rivoluzione scientifica",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Novum Organum di Bacon propone:",
+      "rispostaCorretta": "Un nuovo metodo scientifico",
+      "opzioni": ["Un nuovo metodo scientifico", "Una nuova religione", "Una nuova politica", "Una nuova etica"],
+      "spiegazione": "Il Novum Organum (1620) propone il metodo induttivo contro l'Organon aristotelico.",
+      "livello": "avanzato",
+      "argomento": "La rivoluzione scientifica",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Pascal distinse l'esprit de géométrie dall'esprit de:",
+      "rispostaCorretta": "Finesse",
+      "opzioni": ["Finesse", "Force", "Foi", "Forme"],
+      "spiegazione": "Pascal distingue lo spirito geometrico (ragione) dallo spirito di finezza (intuizione).",
+      "livello": "avanzato",
+      "argomento": "Il Razionalismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La scommessa di Pascal riguarda:",
+      "rispostaCorretta": "L'esistenza di Dio",
+      "opzioni": ["L'esistenza di Dio", "La libertà", "La conoscenza", "La morale"],
+      "spiegazione": "Pascal argomenta che conviene scommettere sull'esistenza di Dio.",
+      "livello": "avanzato",
+      "argomento": "Il Razionalismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Etica di Spinoza è scritta:",
+      "rispostaCorretta": "More geometrico (alla maniera geometrica)",
+      "opzioni": ["More geometrico (alla maniera geometrica)", "In forma dialogica", "Come romanzo", "Come poesia"],
+      "spiegazione": "L'Etica usa il metodo geometrico: definizioni, assiomi, teoremi.",
+      "livello": "avanzato",
+      "argomento": "Il Razionalismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Spinoza la libertà consiste nel:",
+      "rispostaCorretta": "Comprendere la necessità",
+      "opzioni": ["Comprendere la necessità", "Fare ciò che si vuole", "Obbedire a Dio", "Ribellarsi"],
+      "spiegazione": "Per Spinoza siamo liberi quando comprendiamo la necessità delle cose.",
+      "livello": "avanzato",
+      "argomento": "Il Razionalismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'armonia prestabilita di Leibniz spiega:",
+      "rispostaCorretta": "Come le monadi si accordano senza interagire",
+      "opzioni": ["Come le monadi si accordano senza interagire", "La creazione del mondo", "La libertà umana", "Il male nel mondo"],
+      "spiegazione": "Dio ha sincronizzato le monadi come orologi che segnano la stessa ora.",
+      "livello": "avanzato",
+      "argomento": "Il Razionalismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Leibniz viviamo nel:",
+      "rispostaCorretta": "Migliore dei mondi possibili",
+      "opzioni": ["Migliore dei mondi possibili", "Peggiore dei mondi", "Un mondo casuale", "Un mondo illusorio"],
+      "spiegazione": "Dio, essendo perfetto, ha creato il migliore dei mondi possibili (ottimismo).",
+      "livello": "intermedio",
+      "argomento": "Il Razionalismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Trattato sulla natura umana fu scritto da:",
+      "rispostaCorretta": "David Hume",
+      "opzioni": ["David Hume", "John Locke", "George Berkeley", "Thomas Hobbes"],
+      "spiegazione": "Hume scrisse il Trattato sulla natura umana (1739-40).",
+      "livello": "intermedio",
+      "argomento": "L'Empirismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Hume le percezioni si dividono in:",
+      "rispostaCorretta": "Impressioni e idee",
+      "opzioni": ["Impressioni e idee", "Sensazioni e pensieri", "Forme e materia", "Soggetto e oggetto"],
+      "spiegazione": "Le impressioni sono percezioni vivaci; le idee sono copie sbiadite delle impressioni.",
+      "livello": "avanzato",
+      "argomento": "L'Empirismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Saggio sull'intelletto umano fu scritto da:",
+      "rispostaCorretta": "John Locke",
+      "opzioni": ["John Locke", "David Hume", "George Berkeley", "Francis Bacon"],
+      "spiegazione": "Locke scrisse il Saggio sull'intelletto umano (1690).",
+      "livello": "intermedio",
+      "argomento": "L'Empirismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Locke le idee semplici derivano da:",
+      "rispostaCorretta": "Sensazione e riflessione",
+      "opzioni": ["Sensazione e riflessione", "Ragione e fede", "Intuizione e deduzione", "Memoria e immaginazione"],
+      "spiegazione": "Le idee semplici vengono dai sensi (sensazione) o dall'introspezione (riflessione).",
+      "livello": "avanzato",
+      "argomento": "L'Empirismo",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Due trattati sul governo di Locke teorizzano:",
+      "rispostaCorretta": "Il liberalismo politico",
+      "opzioni": ["Il liberalismo politico", "L'assolutismo", "L'anarchia", "Il comunismo"],
+      "spiegazione": "Locke teorizza lo Stato liberale che tutela i diritti naturali.",
+      "livello": "intermedio",
+      "argomento": "Filosofia politica moderna",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Locke il potere politico deriva da:",
+      "rispostaCorretta": "Il consenso dei governati",
+      "opzioni": ["Il consenso dei governati", "Dio", "La forza", "La tradizione"],
+      "spiegazione": "Il potere legittimo nasce dal consenso: contrattualismo.",
+      "livello": "intermedio",
+      "argomento": "Filosofia politica moderna",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Montesquieu nello Spirito delle leggi analizza:",
+      "rispostaCorretta": "Le forme di governo e la separazione dei poteri",
+      "opzioni": ["Le forme di governo e la separazione dei poteri", "La religione", "L'economia", "L'arte"],
+      "spiegazione": "Lo Spirito delle leggi (1748) teorizza la separazione dei poteri.",
+      "livello": "intermedio",
+      "argomento": "L'Illuminismo filosofico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Cesare Beccaria scrisse:",
+      "rispostaCorretta": "Dei delitti e delle pene",
+      "opzioni": ["Dei delitti e delle pene", "Il Principe", "Il Contratto sociale", "L'Enciclopedia"],
+      "spiegazione": "Beccaria (1764) criticò la tortura e la pena di morte.",
+      "livello": "intermedio",
+      "argomento": "L'Illuminismo filosofico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il deismo illuminista sostiene che:",
+      "rispostaCorretta": "Dio esiste ma non interviene nel mondo",
+      "opzioni": ["Dio esiste ma non interviene nel mondo", "Dio non esiste", "Dio interviene continuamente", "Esistono molti dèi"],
+      "spiegazione": "Il deismo crede in un Dio creatore che non interviene: religione naturale.",
+      "livello": "avanzato",
+      "argomento": "L'Illuminismo filosofico",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Kant rispose alla domanda 'Che cos'è l'Illuminismo?' affermando:",
+      "rispostaCorretta": "Sapere aude! (Abbi il coraggio di servirti della tua ragione)",
+      "opzioni": ["Sapere aude! (Abbi il coraggio di servirti della tua ragione)", "Cogito ergo sum", "Homo homini lupus", "Esse est percipi"],
+      "spiegazione": "Per Kant l'Illuminismo è l'uscita dell'uomo dalla minorità: usa la tua ragione!",
+      "livello": "intermedio",
+      "argomento": "Immanuel Kant",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Kant la rivoluzione copernicana in filosofia significa che:",
+      "rispostaCorretta": "Il soggetto costituisce l'oggetto della conoscenza",
+      "opzioni": ["Il soggetto costituisce l'oggetto della conoscenza", "La Terra gira intorno al Sole", "L'oggetto determina il soggetto", "La scienza è impossibile"],
+      "spiegazione": "Come Copernico, Kant ribalta: non la mente si adatta all'oggetto, ma viceversa.",
+      "livello": "avanzato",
+      "argomento": "Immanuel Kant",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le categorie kantiane sono:",
+      "rispostaCorretta": "Concetti puri dell'intelletto",
+      "opzioni": ["Concetti puri dell'intelletto", "Sensazioni", "Idee innate", "Impressioni"],
+      "spiegazione": "Le 12 categorie (quantità, qualità, relazione, modalità) sono forme a priori dell'intelletto.",
+      "livello": "avanzato",
+      "argomento": "Immanuel Kant",
+      "materia": "filosofia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Kant i postulati della ragion pratica sono:",
+      "rispostaCorretta": "Libertà, immortalità dell'anima, esistenza di Dio",
+      "opzioni": ["Libertà, immortalità dell'anima, esistenza di Dio", "Fede, speranza, carità", "Verità, bontà, bellezza", "Spazio, tempo, causalità"],
+      "spiegazione": "I postulati sono presupposti necessari per la morale, non dimostrabili teoricamente.",
+      "livello": "avanzato",
+      "argomento": "Immanuel Kant",
+      "materia": "filosofia"
+    }
+  ]
+}

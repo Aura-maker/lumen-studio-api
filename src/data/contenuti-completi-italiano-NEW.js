@@ -2,15 +2,282 @@
 module.exports = {
   materia: {
     nome: "📘 Italiano",
-    descrizione: "Letteratura italiana dal Preromanticismo al Novecento",
+    descrizione: "Letteratura italiana dalle Origini al Novecento",
     colore: "#4A90E2",
     icona: "book-open",
     annoScolastico: [
+      "3",
       "4",
       "5"
     ]
   },
   argomenti: [
+    {
+      titolo: "Le origini della letteratura italiana",
+      annoRiferimento: "3",
+      descrizione: "Dalle origini al Duecento",
+      sottoargomenti: [
+        {
+          titolo: "Il contesto storico-culturale del Medioevo",
+          riassunto: "Il Medioevo (476-1492) è un periodo di profonde trasformazioni. Dopo la caduta dell'Impero Romano d'Occidente, l'Europa si frammenta in regni romano-barbarici. La Chiesa diventa l'unica istituzione unitaria, custode della cultura latina attraverso i monasteri. Il latino rimane lingua della cultura, della liturgia e dell'amministrazione, mentre nascono i volgari romanzi dall'evoluzione del latino parlato. La società è rigidamente divisa in tre ordini: oratores (clero), bellatores (nobili guerrieri), laboratores (contadini). Il sistema feudale organizza i rapporti di potere attraverso vincoli di vassallaggio. La visione del mondo è teocentrica: Dio è al centro di tutto, la vita terrena è preparazione all'aldilà, la natura è un libro scritto da Dio da interpretare simbolicamente. L'allegorismo pervade ogni aspetto della cultura: ogni elemento ha un significato letterale e uno spirituale. Le Crociate (1096-1291) aprono nuovi orizzonti commerciali e culturali. Nascono i Comuni, nuove forme di organizzazione politica ed economica che favoriscono la nascita della borghesia mercantile. Le università (Bologna 1088, Parigi, Oxford) diventano centri di elaborazione culturale. La Scuola Siciliana alla corte di Federico II (1220-1250) produce la prima poesia d'arte in volgare italiano.",
+          livelloDifficolta: "base",
+          tempoLettura: 6,
+          tags: ["medioevo", "origini", "contesto storico"]
+        },
+        {
+          titolo: "La nascita del volgare e i primi documenti",
+          riassunto: "Il volgare italiano nasce dalla trasformazione del latino parlato (latino volgare) sotto l'influenza dei substrati prelatini e dei superstrati germanici. I primi documenti in volgare italiano sono di natura pratica e giuridica. Il Placito Capuano (960) è considerato il primo documento ufficiale: 'Sao ko kelle terre, per kelle fini que ki contene, trenta anni le possette parte Sancti Benedicti'. L'Indovinello Veronese (fine VIII-inizio IX secolo) è forse il primo testo in volgare: 'Se pareba boves, alba pratalia araba, albo versorio teneba, negro semen seminaba' (metafora della scrittura). L'Iscrizione di San Clemente (fine XI secolo) a Roma mostra un volgare più evoluto in un contesto narrativo. Il Ritmo Laurenziano (1157) è il primo testo letterario in volgare toscano. La Carta Pisana (1109) documenta il volgare in ambito commerciale. Questi testi mostrano la graduale emancipazione del volgare dal latino, prima in contesti pratici, poi letterari. Il passaggio dal latino al volgare non è improvviso ma graduale, con fasi di bilinguismo e diglossia. Il volgare si afferma prima nella poesia (più libera dalle convenzioni) poi nella prosa.",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 5,
+          tags: ["volgare", "primi documenti", "linguistica"]
+        },
+        {
+          titolo: "La poesia religiosa: San Francesco e Jacopone",
+          riassunto: "La poesia religiosa del Duecento esprime la spiritualità dei nuovi ordini mendicanti (Francescani e Domenicani). San Francesco d'Assisi (1181/82-1226) compone il Cantico delle creature (1224), primo testo poetico in volgare italiano di autore certo. È una lauda in prosa ritmica che celebra Dio attraverso le sue creature: 'Laudato sie, mi' Signore, cum tucte le tue creature, spetialmente messor lo frate sole'. La natura non è più vista come valle di lacrime ma come manifestazione della bontà divina. Il linguaggio è semplice, popolare, umbro. Jacopone da Todi (1236-1306), frate francescano, scrive laude drammatiche di intenso misticismo. Dopo la morte della moglie, abbandona la vita mondana per una religiosità estrema, ascetica, che rifiuta ogni compromesso con il mondo. Le sue laude esprimono il desiderio di annullamento in Dio, il disprezzo del corpo, l'esperienza mistica. 'Donna de Paradiso' è un capolavoro di drammaticità: dialogo tra Maria, Cristo, il popolo e il narratore durante la Passione. Lo stile è violento, espressionistico, con immagini crude e linguaggio popolare. Jacopone critica aspramente la Chiesa corrotta di Bonifacio VIII.",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 6,
+          tags: ["poesia religiosa", "San Francesco", "Jacopone"]
+        },
+        {
+          titolo: "La Scuola Siciliana",
+          riassunto: "La Scuola Siciliana (1230-1266) nasce alla corte di Federico II di Svevia a Palermo. È la prima scuola poetica italiana in volgare illustre. I poeti sono funzionari e notai dell'imperatore: Giacomo da Lentini (caposcuola, inventore del sonetto), Pier della Vigna, Guido delle Colonne, Rinaldo d'Aquino, Stefano Protonotaro. Temi: l'amore cortese derivato dalla lirica provenzale, ma laicizzato e interiorizzato. La donna è oggetto di contemplazione, l'amore è sofferenza nobilitante, il poeta analizza i propri sentimenti. Assenti i temi politici e religiosi. Forme metriche: canzone (derivata dalla canso provenzale), sonetto (invenzione siciliana: 14 versi, 2 quartine + 2 terzine). Lingua: siciliano illustre, depurato dai tratti più locali. I testi ci sono giunti in copie toscane (toscanizzati dai copisti). Stile: raffinato, ricco di figure retoriche, lessico astratto per esprimere stati d'animo. La scuola termina con la morte di Manfredi (1266) e la fine della dinastia sveva. L'eredità passa ai poeti toscani.",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 6,
+          tags: ["Scuola Siciliana", "Federico II", "sonetto"]
+        },
+        {
+          titolo: "Il Dolce Stil Novo",
+          riassunto: "Il Dolce Stil Novo (1280-1310) è il movimento poetico che rinnova la lirica italiana. Il nome deriva da Dante (Purgatorio XXIV): 'dolce stil novo'. Nasce a Bologna con Guido Guinizzelli, si sviluppa a Firenze con Guido Cavalcanti, Dante, Lapo Gianni, Cino da Pistoia. Novità rispetto ai Siciliani: la donna-angelo, creatura celeste che eleva l'anima a Dio; l'amore come esperienza spirituale e conoscitiva; il 'cor gentil' (cuore nobile) come sede naturale dell'amore (la nobiltà è d'animo, non di sangue); l'analisi psicologica degli effetti d'amore. Guinizzelli in 'Al cor gentil rempaira sempre amore' teorizza l'identità tra amore e nobiltà d'animo. Cavalcanti in 'Donna me prega' analizza filosoficamente l'amore come passione che turba l'intelletto. Dante supera entrambi: Beatrice è figura Christi, l'amore per lei conduce alla salvezza. Lo stile è 'dolce' (armonioso, musicale), il lessico selezionato, la sintassi fluida. La lingua è il fiorentino illustre che diventerà base dell'italiano letterario.",
+          livelloDifficolta: "avanzato",
+          tempoLettura: 6,
+          tags: ["Stilnovo", "Guinizzelli", "Cavalcanti"]
+        }
+      ]
+    },
+    {
+      titolo: "Dante Alighieri",
+      annoRiferimento: "3",
+      descrizione: "Il padre della lingua italiana",
+      sottoargomenti: [
+        {
+          titolo: "Vita e formazione culturale",
+          riassunto: "Dante Alighieri nasce a Firenze nel 1265 da famiglia di piccola nobiltà guelfa. La formazione è vasta: studia retorica con Brunetto Latini, filosofia nelle scuole francescane e domenicane, frequenta l'università di Bologna. Conosce i classici latini (Virgilio, Ovidio, Lucano, Stazio), la filosofia aristotelica mediata da Tommaso d'Aquino, la mistica (Bernardo di Chiaravalle), la poesia provenzale e siciliana. L'incontro con Beatrice (1274) segna la sua vita: la donna diventa simbolo di perfezione e tramite verso Dio. Dopo la morte di Beatrice (1290), attraversa una crisi che lo porta a studiare filosofia ('donna gentile'). Partecipa attivamente alla vita politica fiorentina: combatte a Campaldino (1289), è priore nel 1300. La lotta tra Guelfi Bianchi (moderati, cui appartiene) e Neri (filopopali) lo travolge: nel 1302 è condannato all'esilio con l'accusa di baratteria. Non tornerà mai a Firenze. L'esilio è esperienza dolorosa ma feconda: 'Tu proverai sì come sa di sale / lo pane altrui'. Peregrina per le corti italiane (Verona, Ravenna), scrive le opere maggiori. Muore a Ravenna nel 1321.",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 6,
+          tags: ["Dante", "biografia", "esilio"]
+        },
+        {
+          titolo: "La Vita Nuova",
+          riassunto: "La Vita Nuova (1292-1294) è un prosimetro (prosa + poesie) che racconta l'amore per Beatrice. È il primo libro di memorie della letteratura italiana. Struttura: 42 capitoli che alternano prose narrative e commenti a 31 poesie (25 sonetti, 5 canzoni, 1 ballata). Racconta l'amore dalla prima visione di Beatrice (1274) alla sua morte (1290) e oltre. L'opera segna l'evoluzione dalla poesia cortese allo Stilnovo: inizialmente l'amore è turbamento, poi diventa contemplazione della donna-angelo che conduce a Dio. Momento centrale: la 'loda' di Beatrice, poetare che non chiede nulla in cambio ma celebra la donna per la sua perfezione. Beatrice è 'miracolo' che manifesta Dio in terra. La prosa spiega le circostanze delle poesie e ne fornisce l'interpretazione. Il numero 9 (trinità al quadrato) ricorre ossessivamente. L'opera si chiude con la promessa di dire di Beatrice 'quello che mai non fue detto d'alcuna': annuncio della Commedia.",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 6,
+          tags: ["Vita Nuova", "Beatrice", "Stilnovo"]
+        },
+        {
+          titolo: "Il Convivio e il De vulgari eloquentia",
+          riassunto: "Il Convivio (1304-1307) è un trattato incompiuto in volgare: doveva commentare 14 canzoni, ne commenta solo 3. È un 'banchetto' di sapienza offerto a chi non conosce il latino. Dante difende il volgare come lingua capace di esprimere concetti filosofici. Espone la teoria dei quattro sensi delle Scritture (letterale, allegorico, morale, anagogico) applicabile anche alla poesia. Celebra la filosofia come 'donna gentile' che consola dopo la morte di Beatrice. Il De vulgari eloquentia (1303-1305) è un trattato in latino sulla lingua e la poesia. Cerca il 'volgare illustre': la lingua letteraria ideale, non identificabile con nessun dialetto ma presente in tutti. Deve essere illustre (che dà lustro), cardinale (cardine degli altri), aulico (degno di una corte), curiale (adatto a una curia). Classifica i dialetti italiani (14 gruppi) criticandoli tutti. Teorizza la canzone come forma metrica più nobile. L'opera resta incompiuta ma è fondamentale per la riflessione linguistica italiana.",
+          livelloDifficolta: "avanzato",
+          tempoLettura: 6,
+          tags: ["Convivio", "De vulgari eloquentia", "volgare illustre"]
+        },
+        {
+          titolo: "La Divina Commedia: struttura e cosmologia",
+          riassunto: "La Divina Commedia (1306-1321) è il capolavoro di Dante e della letteratura italiana. Poema in terzine di endecasillabi (terza rima: ABA BCB CDC...), diviso in 3 cantiche (Inferno, Purgatorio, Paradiso) di 33 canti ciascuna, più 1 canto proemiale (totale 100 canti, 14.233 versi). Il numero 3 (Trinità) e i suoi multipli dominano la struttura. Racconta il viaggio di Dante attraverso i tre regni dell'oltretomba nella Settimana Santa del 1300. L'Inferno è una voragine conica sotto Gerusalemme, divisa in 9 cerchi dove i peccatori scontano pene eterne secondo il contrappasso. Il Purgatorio è una montagna nell'emisfero australe, con 7 cornici dove le anime si purificano. Il Paradiso è costituito da 9 cieli concentrici più l'Empireo, sede di Dio. Guide: Virgilio (ragione umana) per Inferno e Purgatorio; Beatrice (teologia) per il Paradiso; San Bernardo (mistica) per l'ultima visione. Il viaggio è allegoria della conversione dell'anima dal peccato alla salvezza.",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 7,
+          tags: ["Divina Commedia", "struttura", "cosmologia"]
+        },
+        {
+          titolo: "L'Inferno: peccati e pene",
+          riassunto: "L'Inferno è il regno della dannazione eterna, dove le anime scontano pene proporzionate ai peccati secondo la legge del contrappasso (corrispondenza tra colpa e pena). Struttura: Antinferno (ignavi), poi 9 cerchi. Cerchi 1-5: peccati di incontinenza (lussuriosi, golosi, avari/prodighi, iracondi). Cerchio 6: eretici. Cerchi 7-9: peccati di malizia (violenti, fraudolenti, traditori). La gravità aumenta scendendo. Figure memorabili: Paolo e Francesca (lussuria, canto V), Farinata degli Uberti (eresia, X), Pier della Vigna (suicidi, XIII), Ulisse (fraudolenti, XXVI), Ugolino (traditori, XXXIII). Lo stile è 'comico' nel senso medievale: mescola registri, dal sublime al basso, usa un lessico realistico, talvolta crudo. L'atmosfera è cupa, dominata dal buio, dal fuoco, dal ghiaccio. Lucifero, al centro della Terra, è mostro tricefalo che mastica i tre massimi traditori: Giuda, Bruto, Cassio. Dante e Virgilio escono risalendo lungo il corpo di Lucifero.",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 7,
+          tags: ["Inferno", "contrappasso", "peccati"]
+        },
+        {
+          titolo: "Il Purgatorio: espiazione e speranza",
+          riassunto: "Il Purgatorio è il regno dell'espiazione temporanea, dove le anime si purificano prima di salire al Paradiso. È l'unico regno 'in movimento': le anime progrediscono. Struttura: Antipurgatorio (negligenti), poi 7 cornici per i 7 vizi capitali (superbia, invidia, ira, accidia, avarizia, gola, lussuria). In cima, il Paradiso Terrestre. L'atmosfera è serena, dominata dalla luce dell'alba e del tramonto, dalla musica, dalla preghiera. Le anime cantano salmi e inni, si aiutano reciprocamente. Il contrappasso è correttivo, non punitivo. Figure memorabili: Manfredi (Antipurgatorio, III), Sordello (VI), Stazio (XXI-XXII), Forese Donati (XXIII-XXIV), Arnaut Daniel (XXVI). Nel Paradiso Terrestre, Dante incontra Matelda e assiste alla processione allegorica della Chiesa. Beatrice appare sul carro trionfale; Virgilio scompare. Dante confessa i suoi peccati, è immerso nel Lete (oblio del male) e nell'Eunoè (memoria del bene). È pronto per salire al Paradiso.",
+          livelloDifficolta: "avanzato",
+          tempoLettura: 7,
+          tags: ["Purgatorio", "espiazione", "Beatrice"]
+        },
+        {
+          titolo: "Il Paradiso: visione e ineffabilità",
+          riassunto: "Il Paradiso è il regno della beatitudine eterna, dove le anime godono della visione di Dio. Struttura: 9 cieli (Luna, Mercurio, Venere, Sole, Marte, Giove, Saturno, Stelle Fisse, Primo Mobile) più l'Empireo. Le anime appaiono nei cieli secondo il grado di beatitudine, ma tutte risiedono nell'Empireo. L'atmosfera è dominata dalla luce, sempre più intensa salendo. Il problema stilistico è l'ineffabilità: come esprimere l'inesprimibile? Dante usa similitudini, perifrasi, dichiarazioni di inadeguatezza. Figure memorabili: Piccarda Donati (III), Giustiniano (VI), Carlo Martello (VIII), San Tommaso e San Bonaventura (X-XII), Cacciaguida (XV-XVII), San Pietro, San Giacomo, San Giovanni (XXIV-XXVI). Nell'Empireo, Dante vede la Candida Rosa dei beati. San Bernardo lo guida alla visione finale. La preghiera alla Vergine (XXXIII) prepara l'ultima visione: Dio come luce infinita, la Trinità come tre cerchi, l'Incarnazione come figura umana nel cerchio divino. Il poema si chiude con 'l'amor che move il sole e l'altre stelle'.",
+          livelloDifficolta: "avanzato",
+          tempoLettura: 7,
+          tags: ["Paradiso", "visione", "Beatrice"]
+        }
+      ]
+    },
+    {
+      titolo: "Francesco Petrarca",
+      annoRiferimento: "3",
+      descrizione: "Il padre dell'Umanesimo",
+      sottoargomenti: [
+        {
+          titolo: "Vita e personalità",
+          riassunto: "Francesco Petrarca nasce ad Arezzo nel 1304 da famiglia fiorentina esiliata. Il padre, notaio, si trasferisce ad Avignone (sede papale) nel 1312. Petrarca studia diritto a Montpellier e Bologna, ma la sua passione sono i classici latini. Nel 1327 vede Laura nella chiesa di Santa Chiara ad Avignone: nasce l'amore che ispirerà il Canzoniere. Prende gli ordini minori per ottenere benefici ecclesiastici che gli permettono di dedicarsi agli studi. Viaggia instancabilmente per l'Europa cercando manoscritti antichi: scopre le lettere di Cicerone a Verona (1345). Nel 1341 è incoronato poeta in Campidoglio a Roma, massimo riconoscimento letterario. Vive tra Avignone, Valchiusa (ritiro solitario), Italia (Milano, Venezia, Padova, Arquà). Muore ad Arquà nel 1374. Personalità complessa, lacerata tra aspirazioni terrene e spirituali, tra amore per Laura e desiderio di perfezione morale, tra fama mondana e contemplazione. È il primo intellettuale moderno: vive della propria attività letteraria, costruisce consapevolmente la propria immagine pubblica.",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 6,
+          tags: ["Petrarca", "biografia", "Umanesimo"]
+        },
+        {
+          titolo: "Il Canzoniere: struttura e temi",
+          riassunto: "Il Canzoniere (Rerum vulgarium fragmenta) è la raccolta di 366 componimenti (317 sonetti, 29 canzoni, 9 sestine, 7 ballate, 4 madrigali) che Petrarca compose e ordinò per tutta la vita. Diviso in due parti: 'in vita' e 'in morte' di Laura (morta nel 1348). Non è un diario ma un'opera costruita: i 'fragmenta' sono ordinati per creare un percorso spirituale dall'amore terreno alla conversione. Temi: l'amore per Laura, mai corrisposto, fonte di gioia e tormento; il conflitto tra passione e ragione, tra desiderio terreno e aspirazione celeste; il tempo che fugge, la giovinezza perduta, la vanità delle cose umane; il paesaggio come specchio dell'anima (Valchiusa). Laura è donna reale ma anche simbolo: il nome evoca l'alloro (poesia), l'aura (vento, spirito), l'oro (perfezione). Lo stile è raffinatissimo: lessico selezionato, sintassi armoniosa, musicalità perfetta. Il Canzoniere diventa modello per secoli di lirica europea (petrarchismo).",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 6,
+          tags: ["Canzoniere", "Laura", "lirica"]
+        },
+        {
+          titolo: "Le opere latine e l'Umanesimo",
+          riassunto: "Petrarca scrive le opere che considera maggiori in latino, lingua dei classici. L'Africa è un poema epico su Scipione l'Africano, mai completato. Il De viris illustribus raccoglie biografie di uomini illustri romani. Il Secretum è un dialogo immaginario con Sant'Agostino sulla propria crisi spirituale: confessa l'accidia e l'amore per Laura come ostacoli alla salvezza. Le Epistolae (Familiares, Seniles, Sine nomine) sono lettere modellate su Cicerone, alcune indirizzate agli antichi (Cicerone, Livio, Virgilio). I Trionfi sono un poema allegorico in volgare: trionfo dell'Amore, della Pudicizia, della Morte, della Fama, del Tempo, dell'Eternità. Petrarca è il padre dell'Umanesimo: riscopre i classici non come autorità ma come modelli di umanità; studia i testi filologicamente, cercando le lezioni originali; valorizza l'individuo, la sua interiorità, la sua dignità; inaugura una nuova concezione della storia come magistra vitae.",
+          livelloDifficolta: "avanzato",
+          tempoLettura: 6,
+          tags: ["opere latine", "Umanesimo", "Secretum"]
+        }
+      ]
+    },
+    {
+      titolo: "Giovanni Boccaccio",
+      annoRiferimento: "3",
+      descrizione: "Il padre della prosa italiana",
+      sottoargomenti: [
+        {
+          titolo: "Vita e formazione",
+          riassunto: "Giovanni Boccaccio nasce nel 1313, forse a Certaldo, figlio illegittimo di un mercante fiorentino. Trascorre l'adolescenza a Napoli (1327-1340) alla corte angioina: ambiente raffinato, cosmopolita, aperto alla cultura francese. Qui si forma il suo gusto per la narrativa cortese e l'amore per 'Fiammetta' (forse Maria d'Aquino). Tornato a Firenze, vive la peste del 1348 che ispirerà il Decameron. Stringe amicizia con Petrarca (1350), che lo orienta verso l'Umanesimo e gli studi classici. Negli ultimi anni si dedica all'erudizione: commenta Dante (Esposizioni), scrive opere latine (De mulieribus claris, De casibus virorum illustrium, Genealogia deorum gentilium). Prende gli ordini minori, attraversa una crisi religiosa, rinnega le opere giovanili. Muore a Certaldo nel 1375. Personalità diversa da Petrarca: meno tormentato, più aperto alla vita, alla corporeità, al comico. È il fondatore della prosa narrativa italiana.",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 5,
+          tags: ["Boccaccio", "biografia", "Napoli"]
+        },
+        {
+          titolo: "Il Decameron: struttura e cornice",
+          riassunto: "Il Decameron (1349-1351) è una raccolta di 100 novelle narrate in 10 giorni (greco: deka hemerai) da 10 giovani (7 donne, 3 uomini) rifugiati in una villa fuori Firenze per sfuggire alla peste del 1348. La cornice narrativa è fondamentale: la peste rappresenta il caos, la dissoluzione dell'ordine sociale e morale; la brigata ricrea un ordine attraverso il racconto, la civiltà, le regole. Ogni giorno ha un re/regina che propone un tema (tranne il primo e il nono, a tema libero). Temi delle giornate: fortuna, ingegno, amore tragico, amore a lieto fine, motti arguti, beffe, liberalità, ecc. La struttura è simmetrica: 10x10=100, numero perfetto. Lo stile della cornice è elevato, quello delle novelle varia secondo i personaggi e le situazioni. Il Decameron celebra l'intelligenza umana, la capacità di dominare la fortuna, il valore della parola. È un'epopea della borghesia mercantile fiorentina.",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 6,
+          tags: ["Decameron", "novella", "peste"]
+        },
+        {
+          titolo: "Temi e personaggi del Decameron",
+          riassunto: "Il Decameron presenta una visione laica e terrena della vita. Temi principali: l'amore in tutte le sue forme (cortese, sensuale, tragico, comico); l'ingegno e l'astuzia che permettono di superare gli ostacoli; la fortuna, forza cieca che l'uomo può dominare con l'intelligenza; la critica alla corruzione del clero; la celebrazione della natura e dei piaceri terreni. Personaggi memorabili: ser Ciappelletto (I,1), il peggior uomo del mondo che muore in odore di santità grazie a una falsa confessione; Andreuccio da Perugia (II,5), ingenuo mercante che a Napoli perde tutto ma recupera grazie all'astuzia; Lisabetta da Messina (IV,5), tragico amore contrastato dalla famiglia; Federigo degli Alberighi (V,9), nobile che sacrifica il suo falcone per amore; Chichibio (VI,4), cuoco che si salva con una battuta; Calandrino (VIII,3,6; IX,3,5), sciocco beffato dagli amici. Lo stile varia dal tragico al comico, dal sublime al basso, anticipando il realismo moderno.",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 6,
+          tags: ["Decameron", "novelle", "personaggi"]
+        }
+      ]
+    },
+    {
+      titolo: "L'Umanesimo e il Rinascimento",
+      annoRiferimento: "3",
+      descrizione: "La rinascita della cultura classica",
+      sottoargomenti: [
+        {
+          titolo: "L'Umanesimo: caratteri generali",
+          riassunto: "L'Umanesimo (1400-1500 circa) è il movimento culturale che pone l'uomo al centro dell'universo (antropocentrismo) contro il teocentrismo medievale. Caratteri: riscoperta dei classici greci e latini, studiati filologicamente nei testi originali; valorizzazione della vita attiva (negotium) accanto a quella contemplativa (otium); dignità dell'uomo, creatura libera capace di autodeterminarsi; ottimismo sulla natura umana e sulle sue capacità; studio delle humanae litterae (grammatica, retorica, poesia, storia, filosofia morale) come formazione dell'uomo completo. Centri: Firenze (Cosimo e Lorenzo de' Medici, Accademia Platonica), Roma (curia papale), Napoli (corte aragonese), Ferrara, Mantova, Urbino. Figure: Coluccio Salutati, Leonardo Bruni, Poggio Bracciolini (scopritori di manoscritti); Leon Battista Alberti (uomo universale); Marsilio Ficino, Pico della Mirandola (filosofi platonici); Lorenzo de' Medici (poeta e mecenate). La stampa (1455) rivoluziona la diffusione della cultura.",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 6,
+          tags: ["Umanesimo", "antropocentrismo", "classici"]
+        },
+        {
+          titolo: "Il Rinascimento: arte e letteratura",
+          riassunto: "Il Rinascimento (1500-1550 circa) è l'apogeo della civiltà umanistica. L'Italia è frammentata politicamente ma culturalmente egemone in Europa. Le corti sono centri di mecenatismo: Roma (papi Giulio II, Leone X), Firenze (Medici), Ferrara (Este), Mantova (Gonzaga), Urbino (Montefeltro). L'arte raggiunge vertici insuperati: Leonardo, Michelangelo, Raffaello. La letteratura elabora modelli destinati a durare secoli: Ariosto (poema cavalleresco), Machiavelli (trattatistica politica), Guicciardini (storiografia), Castiglione (trattato di comportamento), Bembo (teoria linguistica). Il Cortegiano di Castiglione (1528) definisce l'ideale dell'uomo di corte: colto, elegante, abile nelle armi e nelle lettere, dotato di 'sprezzatura' (naturalezza studiata). Le Prose della volgar lingua di Bembo (1525) fissano il toscano trecentesco (Petrarca per la poesia, Boccaccio per la prosa) come modello linguistico. La 'questione della lingua' anima il dibattito culturale.",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 6,
+          tags: ["Rinascimento", "corti", "Castiglione"]
+        }
+      ]
+    },
+    {
+      titolo: "Ludovico Ariosto",
+      annoRiferimento: "3",
+      descrizione: "Il poeta dell'Orlando furioso",
+      sottoargomenti: [
+        {
+          titolo: "Vita e opere minori",
+          riassunto: "Ludovico Ariosto nasce a Reggio Emilia nel 1474, primogenito di una famiglia al servizio degli Este. Studia diritto a Ferrara ma preferisce le lettere. Dal 1503 è al servizio del cardinale Ippolito d'Este, che lo impiega in missioni diplomatiche gravose e mal retribuite. Il rapporto è conflittuale: Ippolito non apprezza il Furioso ('Dove avete trovato tante corbellerie?'). Dal 1518 passa al servizio del duca Alfonso I. Dal 1522 al 1525 è governatore della Garfagnana, regione turbolenta. Torna a Ferrara, dove vive con Alessandra Benucci (sposata segretamente). Muore nel 1533. Opere minori: le Satire (1517-1525), 7 epistole in terzine di tono oraziano, autobiografiche, che esprimono l'ideale di vita tranquilla, lontana dalle corti; le Commedie (Cassaria, Suppositi, Negromante, Lena, Studenti), che inaugurano la commedia regolare italiana sul modello di Plauto e Terenzio; le Rime, di stampo petrarchesco.",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 5,
+          tags: ["Ariosto", "biografia", "Satire"]
+        },
+        {
+          titolo: "L'Orlando furioso: struttura e trama",
+          riassunto: "L'Orlando furioso (1516, 1521, 1532) è un poema cavalleresco in ottave (46 canti, oltre 38.000 versi) che continua l'Orlando innamorato di Boiardo. Ambientazione: la guerra tra Carlo Magno e i Saraceni di Agramante. Tre filoni narrativi intrecciati: 1) la guerra (assedio di Parigi, battaglie, duelli); 2) la follia di Orlando per amore di Angelica, che fugge con Medoro; 3) l'amore di Ruggiero (saraceno) e Bradamante (cristiana), capostipiti degli Este. La struttura è labirintica: le storie si intrecciano, si interrompono, riprendono (tecnica dell'entrelacement). Il narratore interviene con commenti ironici, proverbi, riflessioni. L'ottava ariostesca è perfetta: sintassi fluida, ritmo musicale, ironia elegante. Il poema celebra gli Este (committenti) ma anche l'ideale cavalleresco ormai tramontato. L'ironia pervade tutto: i valori cavallereschi sono belli ma irreali.",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 6,
+          tags: ["Orlando furioso", "poema cavalleresco", "ottava"]
+        },
+        {
+          titolo: "Temi e personaggi del Furioso",
+          riassunto: "Il Furioso esplora i temi dell'amore, della follia, della guerra, della ricerca. L'amore è forza irrazionale che travolge: Orlando, il più saggio dei paladini, impazzisce per Angelica; Rodomonte, feroce guerriero, è vinto da Doralice. La follia di Orlando (canti XXIII-XXIV) è il centro del poema: scopre l'amore di Angelica e Medoro, perde il senno che vola sulla Luna. Astolfo lo recupererà con l'ippogrifo. La ricerca è vana: tutti cercano qualcosa (Angelica, la gloria, l'amata) ma raramente trovano. Il caso domina le vicende umane. Personaggi: Orlando (eroe tragico), Angelica (oggetto del desiderio, sfuggente), Ruggiero (eroe positivo, fondatore della dinastia), Bradamante (guerriera innamorata), Astolfo (avventuriero fantastico), Rodomonte (guerriero feroce), Cloridano e Medoro (amicizia e amore). L'ironia ariostesca relativizza tutto: anche i valori più alti sono guardati con distacco sorridente.",
+          livelloDifficolta: "avanzato",
+          tempoLettura: 6,
+          tags: ["Orlando furioso", "follia", "ironia"]
+        }
+      ]
+    },
+    {
+      titolo: "Niccolò Machiavelli",
+      annoRiferimento: "3",
+      descrizione: "Il fondatore della scienza politica",
+      sottoargomenti: [
+        {
+          titolo: "Vita e pensiero politico",
+          riassunto: "Niccolò Machiavelli nasce a Firenze nel 1469 da famiglia borghese. Dal 1498 al 1512 è segretario della seconda cancelleria della Repubblica fiorentina: si occupa di politica interna e missioni diplomatiche. Conosce i grandi della politica europea: Cesare Borgia (modello del Principe), Luigi XII, Massimiliano I. Nel 1512 i Medici tornano al potere, Machiavelli è destituito, imprigionato, torturato. Si ritira nella villa di Sant'Andrea in Percussina dove scrive le opere maggiori. Cerca invano di rientrare nella vita politica. Muore nel 1527. Il pensiero politico si fonda sulla separazione tra politica e morale: la politica ha leggi proprie, non può essere giudicata con criteri etici o religiosi. La 'verità effettuale' conta più dell'immaginazione: bisogna vedere come gli uomini sono, non come dovrebbero essere. La storia è maestra: i Romani sono il modello. La fortuna domina metà delle azioni umane, ma l'altra metà dipende dalla virtù (energia, capacità di agire).",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 6,
+          tags: ["Machiavelli", "biografia", "politica"]
+        },
+        {
+          titolo: "Il Principe",
+          riassunto: "Il Principe (1513, pubblicato 1532) è un trattato sui 'principati nuovi', cioè gli stati conquistati con la forza o l'astuzia. Dedicato a Lorenzo de' Medici, è un manuale per conquistare e mantenere il potere. Struttura: tipi di principati (cap. I-XI), milizie (XII-XIV), qualità del principe (XV-XXIII), Italia (XXIV-XXVI). Tesi centrale: il fine (mantenere lo stato) giustifica i mezzi. Il principe deve saper usare la forza (leone) e l'astuzia (volpe), essere temuto più che amato, simulare e dissimulare, non mantenere la parola data se dannoso. Cesare Borgia è il modello: energico, spregiudicato, capace di usare la crudeltà 'bene usata'. L'ultimo capitolo è un'esortazione a liberare l'Italia dai 'barbari' stranieri. Lo stile è asciutto, diretto, senza ornamenti retorici. L'opera scandalizzò per il realismo cinico, ma fondò la scienza politica moderna.",
+          livelloDifficolta: "avanzato",
+          tempoLettura: 6,
+          tags: ["Il Principe", "virtù", "fortuna"]
+        },
+        {
+          titolo: "I Discorsi e le altre opere",
+          riassunto: "I Discorsi sopra la prima deca di Tito Livio (1513-1519) sono un commento ai primi dieci libri della storia romana di Livio. Machiavelli vi espone la sua preferenza per la repubblica rispetto al principato: la repubblica garantisce libertà, partecipazione, stabilità. Roma repubblicana è il modello: i conflitti tra patrizi e plebe non la indebolirono ma la resero forte. La religione è instrumentum regni: utile per controllare il popolo. L'Arte della guerra (1519-1520) teorizza la milizia cittadina contro i mercenari. Le Istorie fiorentine (1520-1525), commissionate dai Medici, narrano la storia di Firenze dalle origini al 1492. La Mandragola (1518) è la più grande commedia del Cinquecento: Callimaco seduce Lucrezia con l'inganno della mandragola, aiutato dal parassita Ligurio e dal frate corrotto Timoteo. È una commedia amara sulla corruzione universale. Clizia (1525) è un'altra commedia sul modello plautino.",
+          livelloDifficolta: "avanzato",
+          tempoLettura: 6,
+          tags: ["Discorsi", "Mandragola", "repubblica"]
+        }
+      ]
+    },
+    {
+      titolo: "Torquato Tasso",
+      annoRiferimento: "3",
+      descrizione: "Il poeta della Gerusalemme liberata",
+      sottoargomenti: [
+        {
+          titolo: "Vita e personalità",
+          riassunto: "Torquato Tasso nasce a Sorrento nel 1544. Il padre Bernardo è poeta di corte, la madre Porzia de' Rossi muore quando Torquato ha 12 anni. Cresce nelle corti italiane: Urbino, Venezia, Padova (studi), Ferrara (dal 1565 al servizio degli Este). A Ferrara scrive le opere maggiori ma sviluppa una forma di paranoia: teme accuse di eresia, sospetta complotti. Nel 1579 è rinchiuso nell'ospedale di Sant'Anna come pazzo (fino al 1586). Gli ultimi anni li trascorre errando tra corti e conventi. Muore a Roma nel 1595, poco prima dell'incoronazione poetica in Campidoglio. Personalità tormentata: sensibilità estrema, inquietudine religiosa (scrupoli, sensi di colpa), conflitto tra sensualità e spiritualità, tra libertà creativa e norme (della Chiesa, dell'Accademia). Incarna la crisi del Rinascimento e l'avvento della Controriforma. La sua poesia esprime il dissidio tra il fascino del peccato e l'aspirazione alla salvezza.",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 5,
+          tags: ["Tasso", "biografia", "Ferrara"]
+        },
+        {
+          titolo: "La Gerusalemme liberata: struttura e trama",
+          riassunto: "La Gerusalemme liberata (1575, pubblicata 1581) è un poema epico in ottave (20 canti, circa 15.000 versi) sulla prima crociata (1096-1099). Argomento: la conquista di Gerusalemme guidata da Goffredo di Buglione. Struttura più unitaria del Furioso: un'azione principale (la guerra), episodi secondari che la ritardano. I ritardi sono causati dalle forze del male (demoni, maghi) e dalle passioni umane (amore). Personaggi: Goffredo (capo saggio e pio), Rinaldo (eroe giovane e impetuoso), Tancredi (cavaliere innamorato di Clorinda), Clorinda (guerriera saracena), Erminia (principessa innamorata di Tancredi), Armida (maga seduttrice). Episodi celebri: il duello Tancredi-Clorinda (canto XII), il giardino di Armida (canti XV-XVI), la selva incantata (canto XIII). Lo stile è elevato, musicale, ricco di figure retoriche. L'ottava tassiana è diversa da quella ariostesca: più patetica, meno ironica, con enjambement che creano tensione.",
+          livelloDifficolta: "intermedio",
+          tempoLettura: 6,
+          tags: ["Gerusalemme liberata", "crociata", "epica"]
+        },
+        {
+          titolo: "Temi e poetica della Liberata",
+          riassunto: "La Gerusalemme liberata esprime i conflitti dell'anima tassiana. Tema centrale: il contrasto tra dovere (la crociata, la fede) e piacere (l'amore, la sensualità). I guerrieri cristiani sono continuamente tentati: Rinaldo dal giardino di Armida, Tancredi dall'amore per Clorinda. Il meraviglioso cristiano (angeli, demoni, magie) sostituisce quello pagano: la crociata è guerra cosmica tra Bene e Male. La natura è ambigua: può essere locus amoenus (giardino) o locus horridus (selva). La donna è tentatrice (Armida) o vittima (Clorinda, Erminia). L'amore è sempre infelice, ostacolato, mortale. Il patetismo domina: scene di morte, lamenti, addii. La poetica tassiana teorizza l'unità aristotelica (un'azione, un eroe, un tempo limitato) contro la varietà ariostesca. Ma il poeta non riesce a rinunciare agli episodi romanzeschi. La revisione ossessiva del poema (Gerusalemme conquistata, 1593) lo peggiora.",
+          livelloDifficolta: "avanzato",
+          tempoLettura: 6,
+          tags: ["Gerusalemme liberata", "Controriforma", "conflitto"]
+        },
+        {
+          titolo: "L'Aminta e le altre opere",
+          riassunto: "L'Aminta (1573) è una favola pastorale in 5 atti che inaugura il genere. Ambientata in un'Arcadia idealizzata, racconta l'amore del pastore Aminta per la ninfa Silvia, che lo rifiuta. Dopo varie peripezie (Silvia creduta morta, tentato suicidio di Aminta), lieto fine. Il coro celebra l'età dell'oro, quando 's'ei piace, ei lice' (se piace, è lecito): nostalgia di una libertà perduta. Lo stile è musicale, il verso è l'endecasillabo sciolto. Le Rime sono liriche d'amore e d'occasione, di stampo petrarchesco ma con accenti più sensuali e malinconici. I Dialoghi sono prose filosofiche su vari argomenti. Le Lettere documentano la sua vita tormentata. Il Rinaldo (1562) è un poema giovanile in ottave. Il Re Torrismondo (1587) è una tragedia cupa. La Gerusalemme conquistata (1593) è la revisione 'corretta' della Liberata: più ortodossa ma meno poetica. Tasso influenzerà il Barocco e il melodramma.",
+          livelloDifficolta: "avanzato",
+          tempoLettura: 5,
+          tags: ["Aminta", "pastorale", "Rime"]
+        }
+      ]
+    },
     {
       titolo: "Ugo Foscolo",
       annoRiferimento: "4",

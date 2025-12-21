@@ -1,0 +1,487 @@
+{
+  "materia": "italiano",
+  "descrizione": "Quiz Italiano triennio - Parte 1: Epica",
+  "totale": 50,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Omero, secondo la tradizione, era originario di quale regione?",
+      "rispostaCorretta": "Ionia",
+      "opzioni": ["Ionia", "Attica", "Sparta", "Creta"],
+      "spiegazione": "Le fonti antiche descrivono Omero come un aedo cieco vissuto tra il IX e l'VIII secolo a.C., probabilmente originario della Ionia.",
+      "livello": "base",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La questione omerica esplose nel Settecento grazie a quale studioso?",
+      "rispostaCorretta": "Friedrich August Wolf",
+      "opzioni": ["Friedrich August Wolf", "Johann Wolfgang Goethe", "Immanuel Kant", "Friedrich Schiller"],
+      "spiegazione": "La questione omerica esplose nel Settecento con Friedrich August Wolf, che mise in discussione l'esistenza di Omero come autore unico.",
+      "livello": "intermedio",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Gli analitici sostengono che i poemi omerici siano opera di un unico autore.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Gli analitici sostengono che i poemi siano il risultato della fusione di canti diversi. Sono gli unitari a difendere l'unità compositiva.",
+      "livello": "intermedio",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli aedi si accompagnavano con quale strumento musicale?",
+      "rispostaCorretta": "La cetra",
+      "opzioni": ["La cetra", "Il flauto", "La lira", "Il tamburo"],
+      "spiegazione": "Gli aedi erano cantori professionisti che tramandavano a memoria le gesta degli eroi accompagnandosi con la cetra.",
+      "livello": "base",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Iliade è composta da quanti libri?",
+      "rispostaCorretta": "24",
+      "opzioni": ["24", "12", "18", "30"],
+      "spiegazione": "L'Iliade è un poema epico di circa 15.700 esametri, suddiviso in 24 libri.",
+      "livello": "base",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Iliade narra quanti giorni del decimo anno di guerra?",
+      "rispostaCorretta": "51 giorni",
+      "opzioni": ["51 giorni", "10 giorni", "100 giorni", "365 giorni"],
+      "spiegazione": "L'Iliade narra solo 51 giorni del decimo anno, concentrandosi sull'ira di Achille.",
+      "livello": "intermedio",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La guerra di Troia fu scatenata dal rapimento di Elena da parte di chi?",
+      "rispostaCorretta": "Paride",
+      "opzioni": ["Paride", "Ettore", "Enea", "Priamo"],
+      "spiegazione": "La guerra fu scatenata dal rapimento di Elena, moglie di Menelao, da parte di Paride.",
+      "livello": "base",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Agamennone offese Achille sottraendogli quale schiava?",
+      "rispostaCorretta": "Briseide",
+      "opzioni": ["Briseide", "Criseide", "Andromaca", "Ecuba"],
+      "spiegazione": "Agamennone offese Achille sottraendogli la schiava Briseide, causando l'ira che è il tema centrale del poema.",
+      "livello": "intermedio",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Chi uccide Patroclo nell'Iliade?",
+      "rispostaCorretta": "Ettore",
+      "opzioni": ["Ettore", "Paride", "Enea", "Priamo"],
+      "spiegazione": "Patroclo viene ucciso da Ettore, il principale eroe troiano.",
+      "livello": "base",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Achille è figlio della dea Teti e del mortale:",
+      "rispostaCorretta": "Peleo",
+      "opzioni": ["Peleo", "Priamo", "Laerte", "Anchise"],
+      "spiegazione": "Achille è figlio della dea Teti e del mortale Peleo, re dei Mirmidoni.",
+      "livello": "intermedio",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Ettore è sposo di quale donna troiana?",
+      "rispostaCorretta": "Andromaca",
+      "opzioni": ["Andromaca", "Elena", "Ecuba", "Cassandra"],
+      "spiegazione": "Ettore è sposo di Andromaca. Il suo addio alla moglie è una delle scene più commoventi del poema.",
+      "livello": "base",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il termine greco 'kleos' indica:",
+      "rispostaCorretta": "La gloria immortale",
+      "opzioni": ["La gloria immortale", "Il destino", "La forza fisica", "La pietà"],
+      "spiegazione": "Il kleos è la gloria immortale conquistata con il valore, anche a costo della vita.",
+      "livello": "avanzato",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Odissea è composta da circa quanti esametri?",
+      "rispostaCorretta": "12.000",
+      "opzioni": ["12.000", "15.700", "10.000", "20.000"],
+      "spiegazione": "L'Odissea è composta da circa 12.000 esametri suddivisi in 24 libri.",
+      "livello": "intermedio",
+      "argomento": "L'epica classica: Odissea",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I primi quattro libri dell'Odissea sono chiamati:",
+      "rispostaCorretta": "Telemachia",
+      "opzioni": ["Telemachia", "Nostos", "Nekyia", "Apologoi"],
+      "spiegazione": "I primi quattro libri (Telemachia) narrano il viaggio di Telemaco alla ricerca di notizie sul padre.",
+      "livello": "avanzato",
+      "argomento": "L'epica classica: Odissea",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "All'inizio dell'Odissea, Odisseo è trattenuto dalla ninfa:",
+      "rispostaCorretta": "Calipso",
+      "opzioni": ["Calipso", "Circe", "Nausicaa", "Penelope"],
+      "spiegazione": "Il poema si apre con Odisseo trattenuto dalla ninfa Calipso sull'isola di Ogigia.",
+      "livello": "base",
+      "argomento": "L'epica classica: Odissea",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'epiteto 'polytropos' attribuito a Odisseo significa:",
+      "rispostaCorretta": "Dai molti modi",
+      "opzioni": ["Dai molti modi", "Molto paziente", "Dalle molte risorse", "Molto forte"],
+      "spiegazione": "Polytropos significa 'dai molti modi', indica la capacità di Odisseo di adattarsi.",
+      "livello": "avanzato",
+      "argomento": "L'epica classica: Odissea",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La 'metis' di Odisseo indica:",
+      "rispostaCorretta": "L'intelligenza astuta",
+      "opzioni": ["L'intelligenza astuta", "La forza fisica", "Il coraggio", "La pietà"],
+      "spiegazione": "La metis è l'intelligenza astuta che permette a Odisseo di superare ogni ostacolo.",
+      "livello": "intermedio",
+      "argomento": "L'epica classica: Odissea",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quale stratagemma usa Odisseo per sfuggire a Polifemo?",
+      "rispostaCorretta": "Dice di chiamarsi Nessuno",
+      "opzioni": ["Dice di chiamarsi Nessuno", "Si traveste da pecora", "Offre vino avvelenato", "Chiede aiuto a Poseidone"],
+      "spiegazione": "Odisseo dice di chiamarsi 'Nessuno', così quando Polifemo chiede aiuto, gli altri Ciclopi pensano che nessuno lo abbia ferito.",
+      "livello": "base",
+      "argomento": "L'epica classica: Odissea",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Circe trasforma i compagni di Odisseo in quali animali?",
+      "rispostaCorretta": "Porci",
+      "opzioni": ["Porci", "Lupi", "Leoni", "Cervi"],
+      "spiegazione": "La maga Circe trasforma i compagni di Odisseo in porci.",
+      "livello": "base",
+      "argomento": "L'epica classica: Odissea",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il tema del 'nostos' nell'Odissea indica:",
+      "rispostaCorretta": "Il ritorno in patria",
+      "opzioni": ["Il ritorno in patria", "La vendetta", "L'amore", "La guerra"],
+      "spiegazione": "Il nostos è il ritorno in patria, tema centrale dell'Odissea.",
+      "livello": "intermedio",
+      "argomento": "L'epica classica: Odissea",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Penelope inganna i Proci con lo stratagemma:",
+      "rispostaCorretta": "Della tela",
+      "opzioni": ["Della tela", "Del letto", "Dell'arco", "Delle frecce"],
+      "spiegazione": "Penelope tesse di giorno e disfa di notte il sudario per Laerte, rimandando la scelta dello sposo.",
+      "livello": "base",
+      "argomento": "L'epica classica: Odissea",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Virgilio nacque nel:",
+      "rispostaCorretta": "70 a.C.",
+      "opzioni": ["70 a.C.", "43 a.C.", "100 a.C.", "19 a.C."],
+      "spiegazione": "Publio Virgilio Marone nacque nel 70 a.C. presso Mantova.",
+      "livello": "base",
+      "argomento": "L'epica latina: Eneide",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Eneide è composta da quanti libri?",
+      "rispostaCorretta": "12",
+      "opzioni": ["12", "24", "10", "6"],
+      "spiegazione": "L'Eneide è un poema epico in 12 libri e circa 10.000 esametri.",
+      "livello": "base",
+      "argomento": "L'epica latina: Eneide",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Eneide celebra le origini mitiche della famiglia di:",
+      "rispostaCorretta": "Augusto",
+      "opzioni": ["Augusto", "Cesare", "Pompeo", "Cicerone"],
+      "spiegazione": "L'Eneide celebra la gens Iulia, la famiglia di Augusto, che si vantava di discendere da Iulo, figlio di Enea.",
+      "livello": "intermedio",
+      "argomento": "L'epica latina: Eneide",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il proemio dell'Eneide inizia con le parole:",
+      "rispostaCorretta": "Arma virumque cano",
+      "opzioni": ["Arma virumque cano", "Canto l'arme pietose", "Musa mihi causas", "Nel mezzo del cammin"],
+      "spiegazione": "Il proemio 'Arma virumque cano' (Canto le armi e l'uomo) annuncia i temi del poema.",
+      "livello": "intermedio",
+      "argomento": "L'epica latina: Eneide",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Nel libro IV dell'Eneide, Didone si uccide perché:",
+      "rispostaCorretta": "Enea la abbandona per ordine di Giove",
+      "opzioni": ["Enea la abbandona per ordine di Giove", "Viene tradita dalla sorella", "I Troiani distruggono Cartagine", "Enea sposa un'altra"],
+      "spiegazione": "Giove ordina a Enea di ripartire. Didone si uccide maledicendo Enea.",
+      "livello": "intermedio",
+      "argomento": "L'epica latina: Eneide",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'epiteto 'pius' attribuito a Enea indica:",
+      "rispostaCorretta": "Devozione verso dèi, patria e famiglia",
+      "opzioni": ["Devozione verso dèi, patria e famiglia", "Forza fisica", "Astuzia", "Coraggio in battaglia"],
+      "spiegazione": "Pius indica devozione religiosa e rispetto verso gli dèi, la patria, la famiglia.",
+      "livello": "avanzato",
+      "argomento": "L'epica latina: Eneide",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'espressione virgiliana 'sunt lacrimae rerum' significa:",
+      "rispostaCorretta": "Ci sono lacrime per le cose umane",
+      "opzioni": ["Ci sono lacrime per le cose umane", "Le lacrime sono inutili", "Il pianto è debolezza", "Le lacrime lavano i peccati"],
+      "spiegazione": "L'espressione esprime la malinconia virgiliana e il costo umano della storia.",
+      "livello": "avanzato",
+      "argomento": "L'epica latina: Eneide",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Virgilio completò l'Eneide prima di morire.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "L'Eneide rimase incompiuta. Virgilio aveva chiesto che fosse bruciata, ma Augusto ne ordinò la pubblicazione.",
+      "livello": "intermedio",
+      "argomento": "L'epica latina: Eneide",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Enea porta con sé dalla caduta di Troia:",
+      "rispostaCorretta": "Il padre Anchise e il figlio Ascanio",
+      "opzioni": ["Il padre Anchise e il figlio Ascanio", "Solo la moglie Creusa", "Solo i tesori", "Nessuno"],
+      "spiegazione": "Enea porta con sé Anchise (tradizione) e Ascanio (futuro), salvando anche i Penati di Troia.",
+      "livello": "base",
+      "argomento": "L'epica latina: Eneide",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'aretè nell'ideale eroico greco indica:",
+      "rispostaCorretta": "L'eccellenza guerriera",
+      "opzioni": ["L'eccellenza guerriera", "La pietà religiosa", "La saggezza", "La ricchezza"],
+      "spiegazione": "L'aretè è l'eccellenza guerriera che garantisce la gloria immortale (kleos).",
+      "livello": "avanzato",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Nell'Iliade, Zeus favorisce i Greci mentre Apollo favorisce i Troiani.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Zeus mantiene l'equilibrio. Era e Atena favoriscono i Greci, Apollo e Afrodite i Troiani.",
+      "livello": "intermedio",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il poema si conclude con i funerali di:",
+      "rispostaCorretta": "Ettore",
+      "opzioni": ["Ettore", "Achille", "Patroclo", "Priamo"],
+      "spiegazione": "L'Iliade si conclude con i funerali di Ettore, dopo la restituzione del corpo a Priamo.",
+      "livello": "intermedio",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Chi forgia le nuove armi per Achille?",
+      "rispostaCorretta": "Efesto",
+      "opzioni": ["Efesto", "Zeus", "Apollo", "Ares"],
+      "spiegazione": "Dopo la morte di Patroclo, Achille riceve nuove armi forgiate da Efesto, dio del fuoco.",
+      "livello": "intermedio",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Priamo si reca da Achille per:",
+      "rispostaCorretta": "Riavere il corpo di Ettore",
+      "opzioni": ["Riavere il corpo di Ettore", "Chiedere la pace", "Offrire Elena", "Arrendersi"],
+      "spiegazione": "La supplica di Priamo ad Achille per riavere il corpo del figlio è uno dei momenti più alti di umanità del poema.",
+      "livello": "base",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Sirene nell'Odissea rappresentano:",
+      "rispostaCorretta": "La seduzione intellettuale",
+      "opzioni": ["La seduzione intellettuale", "La forza bruta", "La ricchezza", "La morte"],
+      "spiegazione": "Le Sirene rappresentano la seduzione intellettuale: Odisseo le ascolta legato all'albero.",
+      "livello": "avanzato",
+      "argomento": "L'epica classica: Odissea",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Odisseo scende nell'Ade per incontrare:",
+      "rispostaCorretta": "Tiresia",
+      "opzioni": ["Tiresia", "Achille", "Agamennone", "Sua madre"],
+      "spiegazione": "La discesa nell'Ade permette di incontrare l'indovino Tiresia, ma anche la madre Anticlea e gli eroi morti.",
+      "livello": "intermedio",
+      "argomento": "L'epica classica: Odissea",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Chi riconosce per primo Odisseo al suo ritorno a Itaca?",
+      "rispostaCorretta": "Il cane Argo",
+      "opzioni": ["Il cane Argo", "Penelope", "Telemaco", "Euriclea"],
+      "spiegazione": "Il cane Argo riconosce Odisseo dopo vent'anni e muore subito dopo.",
+      "livello": "intermedio",
+      "argomento": "L'epica classica: Odissea",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Euriclea riconosce Odisseo da:",
+      "rispostaCorretta": "Una cicatrice",
+      "opzioni": ["Una cicatrice", "La voce", "Gli occhi", "Un anello"],
+      "spiegazione": "La nutrice Euriclea riconosce Odisseo dalla cicatrice sulla gamba.",
+      "livello": "base",
+      "argomento": "L'epica classica: Odissea",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Proci nell'Odissea sono:",
+      "rispostaCorretta": "Pretendenti che vogliono sposare Penelope",
+      "opzioni": ["Pretendenti che vogliono sposare Penelope", "Soldati troiani", "Compagni di Odisseo", "Servi di Itaca"],
+      "spiegazione": "I Proci sono i pretendenti che dilapidano i beni di Odisseo aspettando che Penelope scelga uno sposo.",
+      "livello": "base",
+      "argomento": "L'epica classica: Odissea",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Odisseo accetta l'immortalità offerta da Calipso.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Odisseo rifiuta l'immortalità di Calipso per tornare alla condizione mortale, alla patria, alla famiglia.",
+      "livello": "intermedio",
+      "argomento": "L'epica classica: Odissea",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Eneide è divisa in due parti che riecheggiano:",
+      "rispostaCorretta": "Odissea (I-VI) e Iliade (VII-XII)",
+      "opzioni": ["Odissea (I-VI) e Iliade (VII-XII)", "Iliade (I-VI) e Odissea (VII-XII)", "Solo l'Iliade", "Solo l'Odissea"],
+      "spiegazione": "I primi sei libri riecheggiano l'Odissea (viaggi), gli ultimi sei l'Iliade (guerre).",
+      "livello": "avanzato",
+      "argomento": "L'epica latina: Eneide",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Nel libro VI dell'Eneide, Enea scende nell'Ade e incontra:",
+      "rispostaCorretta": "Anchise che gli mostra la futura gloria di Roma",
+      "opzioni": ["Anchise che gli mostra la futura gloria di Roma", "Didone che lo perdona", "Turno che lo sfida", "Creusa che lo guida"],
+      "spiegazione": "Anchise mostra a Enea la futura gloria di Roma, dando senso alle sofferenze del viaggio.",
+      "livello": "intermedio",
+      "argomento": "L'epica latina: Eneide",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Eneide si conclude con:",
+      "rispostaCorretta": "La morte di Turno",
+      "opzioni": ["La morte di Turno", "Il matrimonio di Enea", "La fondazione di Roma", "La morte di Enea"],
+      "spiegazione": "Il poema si chiude bruscamente con la morte di Turno in duello con Enea.",
+      "livello": "intermedio",
+      "argomento": "L'epica latina: Eneide",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giove profetizza per Roma:",
+      "rispostaCorretta": "Imperium sine fine (impero senza fine)",
+      "opzioni": ["Imperium sine fine", "Gloria aeterna", "Pax romana", "Fatum mortale"],
+      "spiegazione": "Giove profetizza 'imperium sine fine dedi', legittimando il potere augusteo come destino cosmico.",
+      "livello": "avanzato",
+      "argomento": "L'epica latina: Eneide",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La redazione definitiva dei poemi omerici si deve a:",
+      "rispostaCorretta": "Pisistrato",
+      "opzioni": ["Pisistrato", "Pericle", "Solone", "Clistene"],
+      "spiegazione": "La redazione definitiva si deve alla commissione di Pisistrato ad Atene nel VI secolo a.C.",
+      "livello": "avanzato",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il titolo 'Iliade' deriva da:",
+      "rispostaCorretta": "Ilio, altro nome di Troia",
+      "opzioni": ["Ilio, altro nome di Troia", "Achille, il protagonista", "Elena, causa della guerra", "Omero, l'autore"],
+      "spiegazione": "Il titolo deriva da Ilio (Ilion in greco), altro nome della città di Troia.",
+      "livello": "base",
+      "argomento": "L'epica classica: Iliade",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Poseidone perseguita Odisseo perché l'eroe:",
+      "rispostaCorretta": "Ha accecato suo figlio Polifemo",
+      "opzioni": ["Ha accecato suo figlio Polifemo", "Ha offeso il dio", "Ha rubato un tesoro", "Ha ucciso un sacerdote"],
+      "spiegazione": "Odisseo attira l'ira di Poseidone dopo aver accecato Polifemo e aver rivelato il proprio nome.",
+      "livello": "intermedio",
+      "argomento": "L'epica classica: Odissea",
+      "materia": "italiano"
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "materia": "fisica",
+  "descrizione": "Quiz Fisica triennio - Grandezze, Cinematica, Dinamica, Energia, Termodinamica, Onde, Ottica",
+  "totale": 70,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "L'unità di misura della forza nel Sistema Internazionale è:",
+      "rispostaCorretta": "Newton (N)",
+      "opzioni": ["Newton (N)", "Joule (J)", "Watt (W)", "Pascal (Pa)"],
+      "spiegazione": "La forza si misura in Newton (N) = kg × m/s².",
+      "livello": "base",
+      "argomento": "Grandezze fisiche e misure",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'unità di misura dell'energia nel Sistema Internazionale è:",
+      "rispostaCorretta": "Joule (J)",
+      "opzioni": ["Joule (J)", "Newton (N)", "Watt (W)", "Volt (V)"],
+      "spiegazione": "L'energia si misura in Joule (J) = N × m = kg × m²/s².",
+      "livello": "base",
+      "argomento": "Grandezze fisiche e misure",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'unità di misura della potenza nel Sistema Internazionale è:",
+      "rispostaCorretta": "Watt (W)",
+      "opzioni": ["Watt (W)", "Joule (J)", "Newton (N)", "Ampere (A)"],
+      "spiegazione": "La potenza si misura in Watt (W) = J/s.",
+      "livello": "base",
+      "argomento": "Grandezze fisiche e misure",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una grandezza vettoriale è caratterizzata da:",
+      "rispostaCorretta": "Modulo, direzione e verso",
+      "opzioni": ["Modulo, direzione e verso", "Solo modulo", "Solo direzione", "Solo verso"],
+      "spiegazione": "Le grandezze vettoriali hanno modulo (intensità), direzione e verso.",
+      "livello": "base",
+      "argomento": "Grandezze fisiche e misure",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La velocità media è definita come:",
+      "rispostaCorretta": "Spostamento / tempo",
+      "opzioni": ["Spostamento / tempo", "Tempo / spostamento", "Spostamento × tempo", "Accelerazione × tempo"],
+      "spiegazione": "La velocità media è v = Δs/Δt (spostamento diviso tempo).",
+      "livello": "base",
+      "argomento": "Cinematica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'accelerazione è definita come:",
+      "rispostaCorretta": "Variazione di velocità / tempo",
+      "opzioni": ["Variazione di velocità / tempo", "Velocità × tempo", "Spostamento / tempo", "Forza × massa"],
+      "spiegazione": "L'accelerazione è a = Δv/Δt (variazione di velocità diviso tempo).",
+      "livello": "base",
+      "argomento": "Cinematica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Nel moto rettilineo uniforme (MRU) la velocità è:",
+      "rispostaCorretta": "Costante",
+      "opzioni": ["Costante", "Crescente", "Decrescente", "Nulla"],
+      "spiegazione": "Nel MRU la velocità è costante e l'accelerazione è zero.",
+      "livello": "base",
+      "argomento": "Cinematica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La legge oraria del moto rettilineo uniforme è:",
+      "rispostaCorretta": "s = s₀ + vt",
+      "opzioni": ["s = s₀ + vt", "s = ½at²", "s = v₀t + ½at²", "v = at"],
+      "spiegazione": "Nel MRU: s = s₀ + vt, dove s₀ è la posizione iniziale.",
+      "livello": "intermedio",
+      "argomento": "Cinematica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Nel moto uniformemente accelerato (MUA) l'accelerazione è:",
+      "rispostaCorretta": "Costante",
+      "opzioni": ["Costante", "Crescente", "Decrescente", "Nulla"],
+      "spiegazione": "Nel MUA l'accelerazione è costante e diversa da zero.",
+      "livello": "base",
+      "argomento": "Cinematica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La legge oraria del moto uniformemente accelerato è:",
+      "rispostaCorretta": "s = s₀ + v₀t + ½at²",
+      "opzioni": ["s = s₀ + v₀t + ½at²", "s = s₀ + vt", "s = vt", "s = at"],
+      "spiegazione": "Nel MUA: s = s₀ + v₀t + ½at², dove a è l'accelerazione costante.",
+      "livello": "intermedio",
+      "argomento": "Cinematica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'accelerazione di gravità sulla Terra è circa:",
+      "rispostaCorretta": "9,8 m/s²",
+      "opzioni": ["9,8 m/s²", "10 m/s", "9,8 m/s", "98 m/s²"],
+      "spiegazione": "L'accelerazione di gravità g ≈ 9,8 m/s² (spesso approssimata a 10 m/s²).",
+      "livello": "base",
+      "argomento": "Cinematica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il primo principio della dinamica (principio d'inerzia) afferma che:",
+      "rispostaCorretta": "Un corpo permane nel suo stato di quiete o moto rettilineo uniforme se non agiscono forze",
+      "opzioni": ["Un corpo permane nel suo stato di quiete o moto rettilineo uniforme se non agiscono forze", "F = ma", "Azione e reazione sono uguali e contrarie", "L'energia si conserva"],
+      "spiegazione": "Il primo principio di Newton: senza forze, un corpo mantiene il suo stato di moto.",
+      "livello": "base",
+      "argomento": "Dinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il secondo principio della dinamica afferma che:",
+      "rispostaCorretta": "F = ma",
+      "opzioni": ["F = ma", "Un corpo in quiete resta in quiete", "Azione = reazione", "E = mc²"],
+      "spiegazione": "Il secondo principio di Newton: la forza è uguale a massa per accelerazione.",
+      "livello": "base",
+      "argomento": "Dinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il terzo principio della dinamica afferma che:",
+      "rispostaCorretta": "Ad ogni azione corrisponde una reazione uguale e contraria",
+      "opzioni": ["Ad ogni azione corrisponde una reazione uguale e contraria", "F = ma", "L'energia si conserva", "La velocità è costante"],
+      "spiegazione": "Il terzo principio di Newton: azione e reazione sono uguali in modulo e opposte in verso.",
+      "livello": "base",
+      "argomento": "Dinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La forza peso è data da:",
+      "rispostaCorretta": "P = mg",
+      "opzioni": ["P = mg", "P = mv", "P = ma", "P = m/g"],
+      "spiegazione": "La forza peso è P = mg, dove g è l'accelerazione di gravità.",
+      "livello": "base",
+      "argomento": "Dinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La forza di attrito statico:",
+      "rispostaCorretta": "Impedisce il movimento e ha valore massimo μₛN",
+      "opzioni": ["Impedisce il movimento e ha valore massimo μₛN", "È sempre costante", "Aumenta con la velocità", "È nulla su superfici ruvide"],
+      "spiegazione": "L'attrito statico impedisce il moto; il suo valore massimo è Fₛ = μₛN.",
+      "livello": "intermedio",
+      "argomento": "Dinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il lavoro di una forza è definito come:",
+      "rispostaCorretta": "L = F × s × cos(θ)",
+      "opzioni": ["L = F × s × cos(θ)", "L = F × t", "L = m × v", "L = F / s"],
+      "spiegazione": "Il lavoro è L = F × s × cos(θ), dove θ è l'angolo tra forza e spostamento.",
+      "livello": "intermedio",
+      "argomento": "Lavoro ed energia",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'energia cinetica è data da:",
+      "rispostaCorretta": "Ec = ½mv²",
+      "opzioni": ["Ec = ½mv²", "Ec = mgh", "Ec = mv", "Ec = ma"],
+      "spiegazione": "L'energia cinetica è Ec = ½mv², dove v è la velocità.",
+      "livello": "base",
+      "argomento": "Lavoro ed energia",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'energia potenziale gravitazionale è data da:",
+      "rispostaCorretta": "Ep = mgh",
+      "opzioni": ["Ep = mgh", "Ep = ½mv²", "Ep = mg", "Ep = mv"],
+      "spiegazione": "L'energia potenziale gravitazionale è Ep = mgh, dove h è l'altezza.",
+      "livello": "base",
+      "argomento": "Lavoro ed energia",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il principio di conservazione dell'energia meccanica afferma che:",
+      "rispostaCorretta": "In assenza di forze non conservative, Ec + Ep = costante",
+      "opzioni": ["In assenza di forze non conservative, Ec + Ep = costante", "L'energia si crea dal nulla", "L'energia si distrugge", "La velocità è costante"],
+      "spiegazione": "In assenza di attrito, l'energia meccanica totale si conserva.",
+      "livello": "intermedio",
+      "argomento": "Lavoro ed energia",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La potenza è definita come:",
+      "rispostaCorretta": "Lavoro / tempo",
+      "opzioni": ["Lavoro / tempo", "Forza × tempo", "Energia × tempo", "Massa × velocità"],
+      "spiegazione": "La potenza è P = L/t (lavoro diviso tempo), misurata in Watt.",
+      "livello": "base",
+      "argomento": "Lavoro ed energia",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La quantità di moto è definita come:",
+      "rispostaCorretta": "p = mv",
+      "opzioni": ["p = mv", "p = ma", "p = ½mv²", "p = mgh"],
+      "spiegazione": "La quantità di moto è p = mv (massa per velocità), grandezza vettoriale.",
+      "livello": "base",
+      "argomento": "Quantità di moto e urti",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il principio di conservazione della quantità di moto afferma che:",
+      "rispostaCorretta": "In un sistema isolato, la quantità di moto totale si conserva",
+      "opzioni": ["In un sistema isolato, la quantità di moto totale si conserva", "La velocità si conserva", "La massa si conserva", "L'energia si crea"],
+      "spiegazione": "In assenza di forze esterne, la quantità di moto totale del sistema è costante.",
+      "livello": "intermedio",
+      "argomento": "Quantità di moto e urti",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "In un urto elastico si conservano:",
+      "rispostaCorretta": "Quantità di moto ed energia cinetica",
+      "opzioni": ["Quantità di moto ed energia cinetica", "Solo la quantità di moto", "Solo l'energia cinetica", "Nessuna delle due"],
+      "spiegazione": "Nell'urto elastico si conservano sia la quantità di moto che l'energia cinetica.",
+      "livello": "intermedio",
+      "argomento": "Quantità di moto e urti",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La temperatura assoluta zero corrisponde a:",
+      "rispostaCorretta": "-273,15 °C (0 K)",
+      "opzioni": ["-273,15 °C (0 K)", "0 °C", "-100 °C", "-459 °C"],
+      "spiegazione": "Lo zero assoluto è 0 K = -273,15 °C, temperatura minima teorica.",
+      "livello": "base",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il calore specifico indica:",
+      "rispostaCorretta": "La quantità di calore per aumentare di 1°C un kg di sostanza",
+      "opzioni": ["La quantità di calore per aumentare di 1°C un kg di sostanza", "La temperatura di fusione", "La densità", "La pressione"],
+      "spiegazione": "Il calore specifico c indica quanta energia serve per scaldare 1 kg di 1°C.",
+      "livello": "intermedio",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La formula del calore scambiato è:",
+      "rispostaCorretta": "Q = mcΔT",
+      "opzioni": ["Q = mcΔT", "Q = mv", "Q = mgh", "Q = ½mv²"],
+      "spiegazione": "Il calore scambiato è Q = mcΔT (massa × calore specifico × variazione temperatura).",
+      "livello": "intermedio",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il primo principio della termodinamica afferma che:",
+      "rispostaCorretta": "ΔU = Q - L (l'energia interna varia per calore e lavoro)",
+      "opzioni": ["ΔU = Q - L (l'energia interna varia per calore e lavoro)", "L'entropia aumenta sempre", "Il calore passa dal freddo al caldo", "L'energia si crea"],
+      "spiegazione": "Il primo principio: la variazione di energia interna è calore meno lavoro.",
+      "livello": "avanzato",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il secondo principio della termodinamica afferma che:",
+      "rispostaCorretta": "Il calore non può passare spontaneamente dal freddo al caldo",
+      "opzioni": ["Il calore non può passare spontaneamente dal freddo al caldo", "L'energia si conserva", "La temperatura è costante", "Il lavoro è nullo"],
+      "spiegazione": "Il secondo principio: i processi spontanei hanno una direzione preferenziale.",
+      "livello": "avanzato",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un'onda è caratterizzata da:",
+      "rispostaCorretta": "Frequenza, lunghezza d'onda, ampiezza, velocità",
+      "opzioni": ["Frequenza, lunghezza d'onda, ampiezza, velocità", "Solo frequenza", "Solo ampiezza", "Solo velocità"],
+      "spiegazione": "Le onde sono caratterizzate da frequenza (f), lunghezza d'onda (λ), ampiezza (A) e velocità (v).",
+      "livello": "base",
+      "argomento": "Onde",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La relazione tra velocità, frequenza e lunghezza d'onda è:",
+      "rispostaCorretta": "v = f × λ",
+      "opzioni": ["v = f × λ", "v = f / λ", "v = f + λ", "v = f - λ"],
+      "spiegazione": "La velocità dell'onda è v = f × λ (frequenza per lunghezza d'onda).",
+      "livello": "intermedio",
+      "argomento": "Onde",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le onde sonore sono:",
+      "rispostaCorretta": "Onde longitudinali meccaniche",
+      "opzioni": ["Onde longitudinali meccaniche", "Onde trasversali", "Onde elettromagnetiche", "Onde stazionarie"],
+      "spiegazione": "Il suono è un'onda longitudinale che necessita di un mezzo per propagarsi.",
+      "livello": "base",
+      "argomento": "Onde",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La velocità del suono nell'aria è circa:",
+      "rispostaCorretta": "340 m/s",
+      "opzioni": ["340 m/s", "300.000 km/s", "1500 m/s", "100 m/s"],
+      "spiegazione": "La velocità del suono nell'aria a 20°C è circa 340 m/s.",
+      "livello": "base",
+      "argomento": "Onde",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'effetto Doppler riguarda:",
+      "rispostaCorretta": "La variazione di frequenza percepita quando sorgente e osservatore sono in moto relativo",
+      "opzioni": ["La variazione di frequenza percepita quando sorgente e osservatore sono in moto relativo", "La riflessione delle onde", "La diffrazione", "L'interferenza"],
+      "spiegazione": "L'effetto Doppler: la frequenza percepita cambia se c'è moto relativo.",
+      "livello": "avanzato",
+      "argomento": "Onde",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La luce è:",
+      "rispostaCorretta": "Un'onda elettromagnetica",
+      "opzioni": ["Un'onda elettromagnetica", "Un'onda meccanica", "Un'onda sonora", "Una particella"],
+      "spiegazione": "La luce è un'onda elettromagnetica che può propagarsi anche nel vuoto.",
+      "livello": "base",
+      "argomento": "Ottica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La velocità della luce nel vuoto è circa:",
+      "rispostaCorretta": "300.000 km/s (3 × 10⁸ m/s)",
+      "opzioni": ["300.000 km/s (3 × 10⁸ m/s)", "340 m/s", "1500 m/s", "30.000 km/s"],
+      "spiegazione": "La velocità della luce nel vuoto è c ≈ 3 × 10⁸ m/s.",
+      "livello": "base",
+      "argomento": "Ottica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La legge della riflessione afferma che:",
+      "rispostaCorretta": "L'angolo di incidenza è uguale all'angolo di riflessione",
+      "opzioni": ["L'angolo di incidenza è uguale all'angolo di riflessione", "La luce si piega", "La luce si disperde", "La luce si assorbe"],
+      "spiegazione": "Nella riflessione: angolo di incidenza = angolo di riflessione.",
+      "livello": "base",
+      "argomento": "Ottica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La rifrazione è:",
+      "rispostaCorretta": "La deviazione della luce quando passa da un mezzo a un altro",
+      "opzioni": ["La deviazione della luce quando passa da un mezzo a un altro", "Il rimbalzo della luce", "La scomposizione della luce", "L'assorbimento della luce"],
+      "spiegazione": "La rifrazione è la deviazione della luce al passaggio tra mezzi diversi.",
+      "livello": "base",
+      "argomento": "Ottica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La legge di Snell della rifrazione è:",
+      "rispostaCorretta": "n₁ sin(θ₁) = n₂ sin(θ₂)",
+      "opzioni": ["n₁ sin(θ₁) = n₂ sin(θ₂)", "θ₁ = θ₂", "n₁ = n₂", "v₁ = v₂"],
+      "spiegazione": "La legge di Snell: n₁ sin(θ₁) = n₂ sin(θ₂), dove n sono gli indici di rifrazione.",
+      "livello": "avanzato",
+      "argomento": "Ottica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'indice di rifrazione di un mezzo è:",
+      "rispostaCorretta": "n = c/v (velocità della luce nel vuoto / velocità nel mezzo)",
+      "opzioni": ["n = c/v (velocità della luce nel vuoto / velocità nel mezzo)", "n = v/c", "n = λ/f", "n = f/λ"],
+      "spiegazione": "L'indice di rifrazione n = c/v indica quanto la luce rallenta nel mezzo.",
+      "livello": "intermedio",
+      "argomento": "Ottica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una lente convergente:",
+      "rispostaCorretta": "Fa convergere i raggi luminosi in un punto (fuoco)",
+      "opzioni": ["Fa convergere i raggi luminosi in un punto (fuoco)", "Fa divergere i raggi", "Non modifica i raggi", "Assorbe la luce"],
+      "spiegazione": "Le lenti convergenti (convesse) fanno convergere i raggi paralleli nel fuoco.",
+      "livello": "base",
+      "argomento": "Ottica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una lente divergente:",
+      "rispostaCorretta": "Fa divergere i raggi luminosi",
+      "opzioni": ["Fa divergere i raggi luminosi", "Fa convergere i raggi", "Non modifica i raggi", "Assorbe la luce"],
+      "spiegazione": "Le lenti divergenti (concave) fanno divergere i raggi luminosi.",
+      "livello": "base",
+      "argomento": "Ottica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Nel moto rettilineo uniforme l'accelerazione è zero.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Nel MRU la velocità è costante, quindi l'accelerazione è nulla.",
+      "livello": "base",
+      "argomento": "Cinematica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La massa e il peso sono la stessa cosa.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "La massa è una proprietà intrinseca (kg), il peso è una forza (N) = mg.",
+      "livello": "base",
+      "argomento": "Dinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il suono può propagarsi nel vuoto.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Il suono è un'onda meccanica e necessita di un mezzo materiale per propagarsi.",
+      "livello": "base",
+      "argomento": "Onde",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La luce può propagarsi nel vuoto.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "La luce è un'onda elettromagnetica e può propagarsi anche nel vuoto.",
+      "livello": "base",
+      "argomento": "Ottica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'impulso è definito come:",
+      "rispostaCorretta": "I = F × Δt",
+      "opzioni": ["I = F × Δt", "I = m × v", "I = m × a", "I = F / t"],
+      "spiegazione": "L'impulso è I = F × Δt ed è uguale alla variazione di quantità di moto.",
+      "livello": "intermedio",
+      "argomento": "Quantità di moto e urti",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'energia potenziale elastica di una molla è:",
+      "rispostaCorretta": "Ep = ½kx²",
+      "opzioni": ["Ep = ½kx²", "Ep = kx", "Ep = ½mv²", "Ep = mgh"],
+      "spiegazione": "L'energia potenziale elastica è Ep = ½kx², dove k è la costante elastica.",
+      "livello": "intermedio",
+      "argomento": "Lavoro ed energia",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La legge di Hooke per le molle è:",
+      "rispostaCorretta": "F = -kx",
+      "opzioni": ["F = -kx", "F = ma", "F = mg", "F = mv"],
+      "spiegazione": "La legge di Hooke: F = -kx, la forza è proporzionale all'allungamento.",
+      "livello": "intermedio",
+      "argomento": "Dinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il periodo di un'onda è:",
+      "rispostaCorretta": "Il tempo per compiere un'oscillazione completa",
+      "opzioni": ["Il tempo per compiere un'oscillazione completa", "La distanza tra due creste", "L'altezza massima", "La velocità"],
+      "spiegazione": "Il periodo T è il tempo per un'oscillazione completa. T = 1/f.",
+      "livello": "base",
+      "argomento": "Onde",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La frequenza di un'onda si misura in:",
+      "rispostaCorretta": "Hertz (Hz)",
+      "opzioni": ["Hertz (Hz)", "Metri (m)", "Secondi (s)", "Newton (N)"],
+      "spiegazione": "La frequenza si misura in Hertz (Hz) = 1/s (oscillazioni al secondo).",
+      "livello": "base",
+      "argomento": "Onde",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La lunghezza d'onda è:",
+      "rispostaCorretta": "La distanza tra due punti consecutivi in fase",
+      "opzioni": ["La distanza tra due punti consecutivi in fase", "Il tempo di un'oscillazione", "L'altezza dell'onda", "La velocità dell'onda"],
+      "spiegazione": "La lunghezza d'onda λ è la distanza tra due creste (o ventri) consecutive.",
+      "livello": "base",
+      "argomento": "Onde",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'interferenza costruttiva si verifica quando:",
+      "rispostaCorretta": "Due onde in fase si sommano",
+      "opzioni": ["Due onde in fase si sommano", "Due onde si annullano", "Un'onda si riflette", "Un'onda si rifrange"],
+      "spiegazione": "L'interferenza costruttiva: onde in fase si sommano, aumentando l'ampiezza.",
+      "livello": "avanzato",
+      "argomento": "Onde",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La diffrazione è:",
+      "rispostaCorretta": "La deviazione delle onde quando incontrano un ostacolo o una fenditura",
+      "opzioni": ["La deviazione delle onde quando incontrano un ostacolo o una fenditura", "La riflessione", "La rifrazione", "L'assorbimento"],
+      "spiegazione": "La diffrazione è la capacità delle onde di aggirare ostacoli o passare fenditure.",
+      "livello": "avanzato",
+      "argomento": "Onde",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo spettro elettromagnetico comprende:",
+      "rispostaCorretta": "Onde radio, microonde, infrarosso, luce visibile, UV, raggi X, raggi gamma",
+      "opzioni": ["Onde radio, microonde, infrarosso, luce visibile, UV, raggi X, raggi gamma", "Solo luce visibile", "Solo raggi X", "Solo onde sonore"],
+      "spiegazione": "Lo spettro EM va dalle onde radio (bassa frequenza) ai raggi gamma (alta frequenza).",
+      "livello": "intermedio",
+      "argomento": "Ottica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La dispersione della luce è:",
+      "rispostaCorretta": "La scomposizione della luce bianca nei colori dello spettro",
+      "opzioni": ["La scomposizione della luce bianca nei colori dello spettro", "La riflessione", "L'assorbimento", "La polarizzazione"],
+      "spiegazione": "La dispersione separa i colori perché hanno indici di rifrazione diversi.",
+      "livello": "intermedio",
+      "argomento": "Ottica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'equazione dei gas perfetti è:",
+      "rispostaCorretta": "PV = nRT",
+      "opzioni": ["PV = nRT", "PV = costante", "P = ρgh", "F = ma"],
+      "spiegazione": "L'equazione di stato dei gas perfetti: PV = nRT.",
+      "livello": "avanzato",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una trasformazione isoterma avviene a:",
+      "rispostaCorretta": "Temperatura costante",
+      "opzioni": ["Temperatura costante", "Pressione costante", "Volume costante", "Entropia costante"],
+      "spiegazione": "Isoterma: temperatura costante. In un gas ideale: PV = costante.",
+      "livello": "intermedio",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una trasformazione isobara avviene a:",
+      "rispostaCorretta": "Pressione costante",
+      "opzioni": ["Pressione costante", "Temperatura costante", "Volume costante", "Entropia costante"],
+      "spiegazione": "Isobara: pressione costante. V/T = costante (legge di Gay-Lussac).",
+      "livello": "intermedio",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una trasformazione isocora avviene a:",
+      "rispostaCorretta": "Volume costante",
+      "opzioni": ["Volume costante", "Pressione costante", "Temperatura costante", "Entropia costante"],
+      "spiegazione": "Isocora: volume costante. P/T = costante.",
+      "livello": "intermedio",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il rendimento di una macchina termica è:",
+      "rispostaCorretta": "η = L/Q (lavoro utile / calore assorbito)",
+      "opzioni": ["η = L/Q (lavoro utile / calore assorbito)", "η = Q/L", "η = 1 sempre", "η = 0 sempre"],
+      "spiegazione": "Il rendimento è il rapporto tra lavoro utile e calore assorbito, sempre < 1.",
+      "livello": "avanzato",
+      "argomento": "Termodinamica",
+      "materia": "fisica"
+    }
+  ]
+}

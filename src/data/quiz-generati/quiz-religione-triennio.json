@@ -1,0 +1,477 @@
+{
+  "materia": "religione",
+  "descrizione": "Quiz Religione triennio - Bibbia, Gesù, Chiesa, Etica, Religioni",
+  "totale": 50,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "La Bibbia è divisa in:",
+      "rispostaCorretta": "Antico e Nuovo Testamento",
+      "opzioni": ["Antico e Nuovo Testamento", "Tre parti", "Quattro Vangeli", "Dieci libri"],
+      "spiegazione": "La Bibbia cristiana comprende l'Antico Testamento (ebraico) e il Nuovo Testamento.",
+      "livello": "base",
+      "argomento": "La Bibbia e la Rivelazione",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Vangeli canonici sono:",
+      "rispostaCorretta": "Quattro (Matteo, Marco, Luca, Giovanni)",
+      "opzioni": ["Quattro (Matteo, Marco, Luca, Giovanni)", "Tre", "Dodici", "Due"],
+      "spiegazione": "I quattro Vangeli canonici narrano la vita e l'insegnamento di Gesù.",
+      "livello": "base",
+      "argomento": "La Bibbia e la Rivelazione",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Vangeli sinottici sono:",
+      "rispostaCorretta": "Matteo, Marco e Luca",
+      "opzioni": ["Matteo, Marco e Luca", "Matteo, Marco e Giovanni", "Solo Marco", "Tutti e quattro"],
+      "spiegazione": "I sinottici (Matteo, Marco, Luca) hanno struttura simile; Giovanni è diverso.",
+      "livello": "intermedio",
+      "argomento": "La Bibbia e la Rivelazione",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Pentateuco comprende:",
+      "rispostaCorretta": "I primi cinque libri della Bibbia",
+      "opzioni": ["I primi cinque libri della Bibbia", "I quattro Vangeli", "Le lettere di Paolo", "I Salmi"],
+      "spiegazione": "Il Pentateuco (Torah) comprende Genesi, Esodo, Levitico, Numeri, Deuteronomio.",
+      "livello": "intermedio",
+      "argomento": "La Bibbia e la Rivelazione",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gesù nacque a:",
+      "rispostaCorretta": "Betlemme",
+      "opzioni": ["Betlemme", "Nazaret", "Gerusalemme", "Cafarnao"],
+      "spiegazione": "Secondo i Vangeli, Gesù nacque a Betlemme di Giudea.",
+      "livello": "base",
+      "argomento": "Gesù Cristo: vita e messaggio",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gesù crebbe a:",
+      "rispostaCorretta": "Nazaret",
+      "opzioni": ["Nazaret", "Betlemme", "Gerusalemme", "Cafarnao"],
+      "spiegazione": "Gesù crebbe a Nazaret in Galilea, per questo è detto 'il Nazareno'.",
+      "livello": "base",
+      "argomento": "Gesù Cristo: vita e messaggio",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Battesimo di Gesù avvenne nel:",
+      "rispostaCorretta": "Fiume Giordano",
+      "opzioni": ["Fiume Giordano", "Mar di Galilea", "Mar Morto", "Fiume Nilo"],
+      "spiegazione": "Gesù fu battezzato da Giovanni Battista nel fiume Giordano.",
+      "livello": "base",
+      "argomento": "Gesù Cristo: vita e messaggio",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Beatitudini si trovano nel:",
+      "rispostaCorretta": "Discorso della Montagna",
+      "opzioni": ["Discorso della Montagna", "Ultima Cena", "Apocalisse", "Genesi"],
+      "spiegazione": "Le Beatitudini aprono il Discorso della Montagna (Matteo 5-7).",
+      "livello": "intermedio",
+      "argomento": "Gesù Cristo: vita e messaggio",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La parabola del Figliol Prodigo insegna:",
+      "rispostaCorretta": "La misericordia di Dio che perdona",
+      "opzioni": ["La misericordia di Dio che perdona", "La giustizia divina", "La punizione del peccato", "L'importanza del lavoro"],
+      "spiegazione": "La parabola mostra l'amore misericordioso del Padre che accoglie il figlio pentito.",
+      "livello": "base",
+      "argomento": "Gesù Cristo: vita e messaggio",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La parabola del Buon Samaritano insegna:",
+      "rispostaCorretta": "L'amore per il prossimo senza distinzioni",
+      "opzioni": ["L'amore per il prossimo senza distinzioni", "L'importanza della preghiera", "Il rispetto del sabato", "La fedeltà alla legge"],
+      "spiegazione": "Il Buon Samaritano aiuta lo straniero: il prossimo è chiunque abbia bisogno.",
+      "livello": "base",
+      "argomento": "Gesù Cristo: vita e messaggio",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Ultima Cena avvenne durante:",
+      "rispostaCorretta": "La Pasqua ebraica",
+      "opzioni": ["La Pasqua ebraica", "Il Natale", "La Pentecoste", "Lo Yom Kippur"],
+      "spiegazione": "L'Ultima Cena fu un pasto pasquale ebraico, in cui Gesù istituì l'Eucaristia.",
+      "livello": "intermedio",
+      "argomento": "Gesù Cristo: vita e messaggio",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Risurrezione di Gesù è celebrata a:",
+      "rispostaCorretta": "Pasqua",
+      "opzioni": ["Pasqua", "Natale", "Pentecoste", "Epifania"],
+      "spiegazione": "La Pasqua cristiana celebra la Risurrezione di Gesù.",
+      "livello": "base",
+      "argomento": "Gesù Cristo: vita e messaggio",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Pentecoste celebra:",
+      "rispostaCorretta": "La discesa dello Spirito Santo sugli Apostoli",
+      "opzioni": ["La discesa dello Spirito Santo sugli Apostoli", "La nascita di Gesù", "La Risurrezione", "L'Ascensione"],
+      "spiegazione": "A Pentecoste lo Spirito Santo scese sugli Apostoli, nascita della Chiesa.",
+      "livello": "base",
+      "argomento": "La Chiesa: storia e struttura",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il primo Papa fu:",
+      "rispostaCorretta": "San Pietro",
+      "opzioni": ["San Pietro", "San Paolo", "San Giovanni", "Sant'Andrea"],
+      "spiegazione": "Pietro fu il primo capo della Chiesa, secondo la tradizione cattolica.",
+      "livello": "base",
+      "argomento": "La Chiesa: storia e struttura",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I sacramenti nella Chiesa cattolica sono:",
+      "rispostaCorretta": "Sette",
+      "opzioni": ["Sette", "Cinque", "Tre", "Dieci"],
+      "spiegazione": "I sette sacramenti: Battesimo, Cresima, Eucaristia, Penitenza, Unzione, Ordine, Matrimonio.",
+      "livello": "base",
+      "argomento": "La Chiesa: storia e struttura",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Concilio Vaticano II si svolse tra:",
+      "rispostaCorretta": "1962 e 1965",
+      "opzioni": ["1962 e 1965", "1870 e 1871", "1545 e 1563", "1990 e 1995"],
+      "spiegazione": "Il Concilio Vaticano II (1962-1965) rinnovò profondamente la Chiesa.",
+      "livello": "intermedio",
+      "argomento": "La Chiesa: storia e struttura",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo scisma d'Oriente avvenne nel:",
+      "rispostaCorretta": "1054",
+      "opzioni": ["1054", "1517", "325", "1962"],
+      "spiegazione": "Nel 1054 la Chiesa si divise in cattolica (Roma) e ortodossa (Costantinopoli).",
+      "livello": "intermedio",
+      "argomento": "La Chiesa: storia e struttura",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Riforma protestante iniziò nel:",
+      "rispostaCorretta": "1517",
+      "opzioni": ["1517", "1054", "1545", "1870"],
+      "spiegazione": "Nel 1517 Lutero affisse le 95 tesi, iniziando la Riforma protestante.",
+      "livello": "base",
+      "argomento": "La Chiesa: storia e struttura",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Martin Lutero criticava principalmente:",
+      "rispostaCorretta": "La vendita delle indulgenze",
+      "opzioni": ["La vendita delle indulgenze", "Il celibato dei preti", "La Bibbia", "I sacramenti"],
+      "spiegazione": "Lutero criticò la vendita delle indulgenze e affermò la salvezza per sola fede.",
+      "livello": "intermedio",
+      "argomento": "La Chiesa: storia e struttura",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il principio 'sola fide' significa:",
+      "rispostaCorretta": "Salvezza per sola fede",
+      "opzioni": ["Salvezza per sola fede", "Solo la Bibbia", "Solo Cristo", "Solo la grazia"],
+      "spiegazione": "Sola fide: la salvezza viene dalla fede, non dalle opere (dottrina protestante).",
+      "livello": "avanzato",
+      "argomento": "La Chiesa: storia e struttura",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Decalogo è:",
+      "rispostaCorretta": "I Dieci Comandamenti",
+      "opzioni": ["I Dieci Comandamenti", "Le Beatitudini", "I sette sacramenti", "I quattro Vangeli"],
+      "spiegazione": "Il Decalogo sono i Dieci Comandamenti dati da Dio a Mosè sul Sinai.",
+      "livello": "base",
+      "argomento": "Etica e morale cristiana",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il comandamento 'Ama il prossimo tuo come te stesso' riassume:",
+      "rispostaCorretta": "I comandamenti verso il prossimo",
+      "opzioni": ["I comandamenti verso il prossimo", "I comandamenti verso Dio", "Tutti i comandamenti", "Le Beatitudini"],
+      "spiegazione": "Gesù riassume la Legge in due comandamenti: amare Dio e amare il prossimo.",
+      "livello": "intermedio",
+      "argomento": "Etica e morale cristiana",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Dottrina Sociale della Chiesa riguarda:",
+      "rispostaCorretta": "I principi cristiani applicati alla società",
+      "opzioni": ["I principi cristiani applicati alla società", "Solo la liturgia", "Solo la preghiera", "Solo i sacramenti"],
+      "spiegazione": "La Dottrina Sociale applica il Vangelo ai problemi sociali, economici, politici.",
+      "livello": "intermedio",
+      "argomento": "Etica e morale cristiana",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il principio di sussidiarietà afferma che:",
+      "rispostaCorretta": "Le decisioni vanno prese al livello più vicino ai cittadini",
+      "opzioni": ["Le decisioni vanno prese al livello più vicino ai cittadini", "Lo Stato decide tutto", "La Chiesa decide tutto", "L'individuo decide tutto"],
+      "spiegazione": "La sussidiarietà valorizza le comunità intermedie tra individuo e Stato.",
+      "livello": "avanzato",
+      "argomento": "Etica e morale cristiana",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Ebraismo, il Cristianesimo e l'Islam sono religioni:",
+      "rispostaCorretta": "Monoteiste abramitiche",
+      "opzioni": ["Monoteiste abramitiche", "Politeiste", "Orientali", "Animiste"],
+      "spiegazione": "Sono religioni monoteiste che riconoscono Abramo come padre nella fede.",
+      "livello": "base",
+      "argomento": "Le grandi religioni",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il libro sacro dell'Islam è:",
+      "rispostaCorretta": "Il Corano",
+      "opzioni": ["Il Corano", "La Bibbia", "I Veda", "Il Talmud"],
+      "spiegazione": "Il Corano è il libro sacro dell'Islam, rivelato a Maometto.",
+      "livello": "base",
+      "argomento": "Le grandi religioni",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I cinque pilastri dell'Islam sono:",
+      "rispostaCorretta": "Professione di fede, preghiera, elemosina, digiuno, pellegrinaggio",
+      "opzioni": ["Professione di fede, preghiera, elemosina, digiuno, pellegrinaggio", "I Dieci Comandamenti", "Le Beatitudini", "I sacramenti"],
+      "spiegazione": "I cinque pilastri sono i doveri fondamentali di ogni musulmano.",
+      "livello": "intermedio",
+      "argomento": "Le grandi religioni",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Ramadan è:",
+      "rispostaCorretta": "Il mese di digiuno islamico",
+      "opzioni": ["Il mese di digiuno islamico", "Il pellegrinaggio alla Mecca", "La preghiera quotidiana", "L'elemosina"],
+      "spiegazione": "Durante il Ramadan i musulmani digiunano dall'alba al tramonto.",
+      "livello": "base",
+      "argomento": "Le grandi religioni",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Induismo è una religione:",
+      "rispostaCorretta": "Politeista con molte divinità",
+      "opzioni": ["Politeista con molte divinità", "Monoteista", "Atea", "Animista"],
+      "spiegazione": "L'Induismo venera molte divinità (Brahma, Vishnu, Shiva) come aspetti dell'Assoluto.",
+      "livello": "base",
+      "argomento": "Le grandi religioni",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il karma nell'Induismo e nel Buddhismo indica:",
+      "rispostaCorretta": "La legge di causa-effetto delle azioni",
+      "opzioni": ["La legge di causa-effetto delle azioni", "Il destino immutabile", "La volontà divina", "Il caso"],
+      "spiegazione": "Il karma è la legge per cui le azioni determinano le rinascite future.",
+      "livello": "intermedio",
+      "argomento": "Le grandi religioni",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Buddhismo fu fondato da:",
+      "rispostaCorretta": "Siddhartha Gautama (Buddha)",
+      "opzioni": ["Siddhartha Gautama (Buddha)", "Maometto", "Confucio", "Lao Tzu"],
+      "spiegazione": "Il Buddha (l'Illuminato) fondò il Buddhismo in India nel VI secolo a.C.",
+      "livello": "base",
+      "argomento": "Le grandi religioni",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Quattro Nobili Verità del Buddhismo riguardano:",
+      "rispostaCorretta": "La sofferenza e la via per superarla",
+      "opzioni": ["La sofferenza e la via per superarla", "I comandamenti", "La creazione", "Il giudizio finale"],
+      "spiegazione": "Le Quattro Nobili Verità: la sofferenza esiste, ha una causa, può cessare, c'è una via.",
+      "livello": "intermedio",
+      "argomento": "Le grandi religioni",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Nirvana nel Buddhismo è:",
+      "rispostaCorretta": "La liberazione dal ciclo delle rinascite",
+      "opzioni": ["La liberazione dal ciclo delle rinascite", "Il paradiso", "La morte", "Una divinità"],
+      "spiegazione": "Il Nirvana è lo stato di liberazione dalla sofferenza e dal ciclo delle rinascite.",
+      "livello": "intermedio",
+      "argomento": "Le grandi religioni",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo Shabbat ebraico è:",
+      "rispostaCorretta": "Il giorno di riposo settimanale (sabato)",
+      "opzioni": ["Il giorno di riposo settimanale (sabato)", "La Pasqua", "Il capodanno", "Un digiuno"],
+      "spiegazione": "Lo Shabbat è il sabato, giorno di riposo e preghiera nell'Ebraismo.",
+      "livello": "base",
+      "argomento": "Le grandi religioni",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Torah è:",
+      "rispostaCorretta": "I primi cinque libri della Bibbia ebraica",
+      "opzioni": ["I primi cinque libri della Bibbia ebraica", "Il Corano", "I Vangeli", "I Salmi"],
+      "spiegazione": "La Torah (Pentateuco) è il cuore della Bibbia ebraica.",
+      "livello": "base",
+      "argomento": "Le grandi religioni",
+      "materia": "religione"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Gesù era ebreo.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Gesù nacque e visse come ebreo osservante.",
+      "livello": "base",
+      "argomento": "Gesù Cristo: vita e messaggio",
+      "materia": "religione"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il Buddhismo crede in un Dio creatore.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Il Buddhismo non si pronuncia su un Dio creatore; è una via di liberazione.",
+      "livello": "intermedio",
+      "argomento": "Le grandi religioni",
+      "materia": "religione"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'Islam riconosce Gesù come profeta.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "L'Islam riconosce Gesù (Isa) come grande profeta, ma non come Figlio di Dio.",
+      "livello": "intermedio",
+      "argomento": "Le grandi religioni",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ecumenismo è:",
+      "rispostaCorretta": "Il movimento per l'unità dei cristiani",
+      "opzioni": ["Il movimento per l'unità dei cristiani", "La conversione dei non cristiani", "La separazione delle Chiese", "Una dottrina"],
+      "spiegazione": "L'ecumenismo cerca di ricomporre l'unità tra le diverse confessioni cristiane.",
+      "livello": "intermedio",
+      "argomento": "La Chiesa: storia e struttura",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il dialogo interreligioso è:",
+      "rispostaCorretta": "L'incontro e il confronto tra religioni diverse",
+      "opzioni": ["L'incontro e il confronto tra religioni diverse", "La conversione forzata", "La guerra santa", "L'isolamento"],
+      "spiegazione": "Il dialogo interreligioso promuove la conoscenza e il rispetto reciproco.",
+      "livello": "intermedio",
+      "argomento": "Le grandi religioni",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La bioetica cristiana si occupa di:",
+      "rispostaCorretta": "Questioni etiche legate alla vita (nascita, morte, salute)",
+      "opzioni": ["Questioni etiche legate alla vita (nascita, morte, salute)", "Solo economia", "Solo politica", "Solo ambiente"],
+      "spiegazione": "La bioetica affronta temi come aborto, eutanasia, fecondazione assistita.",
+      "livello": "avanzato",
+      "argomento": "Etica e morale cristiana",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il principio della dignità della persona afferma che:",
+      "rispostaCorretta": "Ogni essere umano ha valore in sé",
+      "opzioni": ["Ogni essere umano ha valore in sé", "Solo i credenti hanno dignità", "La dignità dipende dal successo", "La dignità è relativa"],
+      "spiegazione": "La dignità umana è inviolabile: ogni persona è creata a immagine di Dio.",
+      "livello": "intermedio",
+      "argomento": "Etica e morale cristiana",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'enciclica 'Laudato si'' di Papa Francesco tratta:",
+      "rispostaCorretta": "La cura dell'ambiente e della 'casa comune'",
+      "opzioni": ["La cura dell'ambiente e della 'casa comune'", "La liturgia", "I sacramenti", "La storia della Chiesa"],
+      "spiegazione": "Laudato si' (2015) affronta la crisi ecologica e la responsabilità verso il creato.",
+      "livello": "avanzato",
+      "argomento": "Etica e morale cristiana",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Credo cristiano riassume:",
+      "rispostaCorretta": "Le verità fondamentali della fede",
+      "opzioni": ["Le verità fondamentali della fede", "I comandamenti", "Le preghiere", "I sacramenti"],
+      "spiegazione": "Il Credo (Simbolo degli Apostoli o Niceno) riassume le verità di fede.",
+      "livello": "base",
+      "argomento": "La Bibbia e la Rivelazione",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Trinità cristiana è:",
+      "rispostaCorretta": "Un solo Dio in tre Persone (Padre, Figlio, Spirito Santo)",
+      "opzioni": ["Un solo Dio in tre Persone (Padre, Figlio, Spirito Santo)", "Tre dèi", "Un Dio con tre nomi", "Una dottrina ebraica"],
+      "spiegazione": "La Trinità: un solo Dio in tre Persone distinte ma consustanziali.",
+      "livello": "intermedio",
+      "argomento": "La Bibbia e la Rivelazione",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Incarnazione significa che:",
+      "rispostaCorretta": "Dio si è fatto uomo in Gesù Cristo",
+      "opzioni": ["Dio si è fatto uomo in Gesù Cristo", "L'uomo diventa Dio", "Dio è solo spirito", "Gesù era solo uomo"],
+      "spiegazione": "L'Incarnazione: il Verbo si fece carne (Giovanni 1,14).",
+      "livello": "intermedio",
+      "argomento": "Gesù Cristo: vita e messaggio",
+      "materia": "religione"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Redenzione cristiana significa:",
+      "rispostaCorretta": "La salvezza dell'umanità attraverso Cristo",
+      "opzioni": ["La salvezza dell'umanità attraverso Cristo", "La punizione dei peccatori", "La fine del mondo", "La creazione"],
+      "spiegazione": "La Redenzione: Cristo ha salvato l'umanità dal peccato con la sua morte e risurrezione.",
+      "livello": "intermedio",
+      "argomento": "Gesù Cristo: vita e messaggio",
+      "materia": "religione"
+    }
+  ]
+}

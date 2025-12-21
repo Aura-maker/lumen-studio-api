@@ -1,0 +1,677 @@
+{
+  "materia": "storia",
+  "descrizione": "Quiz Storia triennio - Preistoria, Civiltà antiche, Grecia, Roma, Medioevo",
+  "totale": 75,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "L'Homo sapiens comparve in Africa circa:",
+      "rispostaCorretta": "300.000 anni fa",
+      "opzioni": ["300.000 anni fa", "1 milione di anni fa", "50.000 anni fa", "10.000 anni fa"],
+      "spiegazione": "L'Homo sapiens, la nostra specie, comparve in Africa circa 300.000 anni fa.",
+      "livello": "intermedio",
+      "argomento": "La Preistoria",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Homo erectus scoprì:",
+      "rispostaCorretta": "Il fuoco",
+      "opzioni": ["Il fuoco", "La scrittura", "L'agricoltura", "La ruota"],
+      "spiegazione": "L'Homo erectus scoprì il fuoco circa 400.000 anni fa, rivoluzionando la vita umana.",
+      "livello": "base",
+      "argomento": "La Preistoria",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Paleolitico è caratterizzato da:",
+      "rispostaCorretta": "Economia di caccia e raccolta",
+      "opzioni": ["Economia di caccia e raccolta", "Agricoltura", "Commercio", "Industria"],
+      "spiegazione": "Nel Paleolitico gli uomini erano nomadi e vivevano di caccia, pesca e raccolta.",
+      "livello": "base",
+      "argomento": "La Preistoria",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le pitture rupestri di Lascaux si trovano in:",
+      "rispostaCorretta": "Francia",
+      "opzioni": ["Francia", "Spagna", "Italia", "Germania"],
+      "spiegazione": "Le pitture delle grotte di Lascaux in Francia raffigurano animali con straordinario realismo.",
+      "livello": "intermedio",
+      "argomento": "La Preistoria",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La rivoluzione neolitica iniziò intorno al:",
+      "rispostaCorretta": "10.000 a.C.",
+      "opzioni": ["10.000 a.C.", "50.000 a.C.", "5.000 a.C.", "1.000 a.C."],
+      "spiegazione": "Il Neolitico inizia intorno al 10.000 a.C. nel Vicino Oriente.",
+      "livello": "intermedio",
+      "argomento": "La Preistoria",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Mezzaluna Fertile comprende:",
+      "rispostaCorretta": "Mesopotamia, Palestina, Egitto",
+      "opzioni": ["Mesopotamia, Palestina, Egitto", "Grecia e Italia", "India e Cina", "Europa settentrionale"],
+      "spiegazione": "La Mezzaluna Fertile è la regione dove nacque l'agricoltura, tra Mesopotamia, Palestina ed Egitto.",
+      "livello": "intermedio",
+      "argomento": "La Preistoria",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I primi cereali coltivati furono:",
+      "rispostaCorretta": "Grano e orzo",
+      "opzioni": ["Grano e orzo", "Riso e mais", "Patate e pomodori", "Olive e uva"],
+      "spiegazione": "I primi cereali coltivati nella Mezzaluna Fertile furono grano e orzo.",
+      "livello": "base",
+      "argomento": "La Preistoria",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La scrittura fu inventata in Mesopotamia intorno al:",
+      "rispostaCorretta": "3500 a.C.",
+      "opzioni": ["3500 a.C.", "5000 a.C.", "1000 a.C.", "500 a.C."],
+      "spiegazione": "La scrittura fu inventata intorno al 3500 a.C. in Mesopotamia, segnando la fine della preistoria.",
+      "livello": "intermedio",
+      "argomento": "Le civiltà della Mesopotamia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Sumeri inventarono:",
+      "rispostaCorretta": "La scrittura cuneiforme",
+      "opzioni": ["La scrittura cuneiforme", "L'alfabeto", "I geroglifici", "La stampa"],
+      "spiegazione": "I Sumeri inventarono la scrittura cuneiforme, incisa su tavolette d'argilla.",
+      "livello": "base",
+      "argomento": "Le civiltà della Mesopotamia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Codice di Hammurabi è:",
+      "rispostaCorretta": "La prima raccolta di leggi scritte",
+      "opzioni": ["La prima raccolta di leggi scritte", "Un testo religioso", "Un poema epico", "Un trattato commerciale"],
+      "spiegazione": "Il Codice di Hammurabi (XVIII sec. a.C.) è la prima raccolta organica di leggi scritte.",
+      "livello": "base",
+      "argomento": "Le civiltà della Mesopotamia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Babilonia raggiunse il massimo splendore sotto:",
+      "rispostaCorretta": "Hammurabi",
+      "opzioni": ["Hammurabi", "Sargon", "Nabucodonosor", "Ciro"],
+      "spiegazione": "Babilonia raggiunse il massimo splendore sotto Hammurabi (1792-1750 a.C.).",
+      "livello": "intermedio",
+      "argomento": "Le civiltà della Mesopotamia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli Assiri erano famosi per:",
+      "rispostaCorretta": "La potenza militare",
+      "opzioni": ["La potenza militare", "Il commercio marittimo", "La filosofia", "L'arte pacifica"],
+      "spiegazione": "Gli Assiri crearono un impero basato sulla potenza militare e la crudeltà verso i vinti.",
+      "livello": "base",
+      "argomento": "Le civiltà della Mesopotamia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le piramidi di Giza furono costruite durante:",
+      "rispostaCorretta": "L'Antico Regno",
+      "opzioni": ["L'Antico Regno", "Il Medio Regno", "Il Nuovo Regno", "L'epoca tolemaica"],
+      "spiegazione": "Le piramidi di Giza furono costruite durante l'Antico Regno (2700-2200 a.C.).",
+      "livello": "intermedio",
+      "argomento": "L'antico Egitto",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il faraone era considerato:",
+      "rispostaCorretta": "Un dio vivente",
+      "opzioni": ["Un dio vivente", "Un semplice re", "Un sacerdote", "Un generale"],
+      "spiegazione": "Il faraone era considerato un dio vivente, incarnazione di Horus.",
+      "livello": "base",
+      "argomento": "L'antico Egitto",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La scrittura egizia si chiama:",
+      "rispostaCorretta": "Geroglifica",
+      "opzioni": ["Geroglifica", "Cuneiforme", "Alfabetica", "Ideografica"],
+      "spiegazione": "Gli Egizi usavano la scrittura geroglifica, decifrata da Champollion nel 1822.",
+      "livello": "base",
+      "argomento": "L'antico Egitto",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La mummificazione serviva a:",
+      "rispostaCorretta": "Conservare il corpo per la vita ultraterrena",
+      "opzioni": ["Conservare il corpo per la vita ultraterrena", "Scopi medici", "Motivi igienici", "Ragioni estetiche"],
+      "spiegazione": "Gli Egizi mummificavano i corpi perché credevano nella vita dopo la morte.",
+      "livello": "base",
+      "argomento": "L'antico Egitto",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La polis greca era:",
+      "rispostaCorretta": "Una città-stato indipendente",
+      "opzioni": ["Una città-stato indipendente", "Una provincia dell'impero", "Un villaggio", "Una colonia"],
+      "spiegazione": "La polis era una città-stato indipendente con proprio governo, leggi e territorio.",
+      "livello": "base",
+      "argomento": "La civiltà greca",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La democrazia ateniese fu introdotta da:",
+      "rispostaCorretta": "Clistene",
+      "opzioni": ["Clistene", "Pericle", "Solone", "Pisistrato"],
+      "spiegazione": "Clistene introdusse la democrazia ad Atene nel 508 a.C. con le sue riforme.",
+      "livello": "intermedio",
+      "argomento": "La civiltà greca",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Sparta era famosa per:",
+      "rispostaCorretta": "L'educazione militare",
+      "opzioni": ["L'educazione militare", "La democrazia", "Il commercio", "La filosofia"],
+      "spiegazione": "Sparta era una società militarizzata dove i cittadini erano educati alla guerra.",
+      "livello": "base",
+      "argomento": "La civiltà greca",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le guerre persiane si svolsero tra:",
+      "rispostaCorretta": "Greci e Persiani",
+      "opzioni": ["Greci e Persiani", "Greci e Romani", "Atene e Sparta", "Greci e Macedoni"],
+      "spiegazione": "Le guerre persiane (490-479 a.C.) videro i Greci respingere l'invasione persiana.",
+      "livello": "base",
+      "argomento": "La civiltà greca",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La battaglia di Maratona fu vinta dai:",
+      "rispostaCorretta": "Greci",
+      "opzioni": ["Greci", "Persiani", "Macedoni", "Romani"],
+      "spiegazione": "La battaglia di Maratona (490 a.C.) fu vinta dagli Ateniesi contro i Persiani.",
+      "livello": "base",
+      "argomento": "La civiltà greca",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La battaglia delle Termopili vide protagonisti:",
+      "rispostaCorretta": "I 300 Spartani di Leonida",
+      "opzioni": ["I 300 Spartani di Leonida", "Gli Ateniesi", "I Macedoni", "I Tebani"],
+      "spiegazione": "Alle Termopili (480 a.C.) 300 Spartani guidati da Leonida resistettero ai Persiani.",
+      "livello": "base",
+      "argomento": "La civiltà greca",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Alessandro Magno era re di:",
+      "rispostaCorretta": "Macedonia",
+      "opzioni": ["Macedonia", "Atene", "Sparta", "Tebe"],
+      "spiegazione": "Alessandro Magno (356-323 a.C.) era re di Macedonia e conquistò un vasto impero.",
+      "livello": "base",
+      "argomento": "La civiltà greca",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Roma fu fondata secondo la tradizione nel:",
+      "rispostaCorretta": "753 a.C.",
+      "opzioni": ["753 a.C.", "509 a.C.", "264 a.C.", "27 a.C."],
+      "spiegazione": "Secondo la tradizione, Roma fu fondata da Romolo nel 753 a.C.",
+      "livello": "base",
+      "argomento": "Roma: dalle origini alla Repubblica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Repubblica romana fu istituita nel:",
+      "rispostaCorretta": "509 a.C.",
+      "opzioni": ["509 a.C.", "753 a.C.", "264 a.C.", "27 a.C."],
+      "spiegazione": "La Repubblica fu istituita nel 509 a.C. con la cacciata dell'ultimo re Tarquinio il Superbo.",
+      "livello": "base",
+      "argomento": "Roma: dalle origini alla Repubblica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I patrizi erano:",
+      "rispostaCorretta": "L'aristocrazia romana",
+      "opzioni": ["L'aristocrazia romana", "I plebei", "Gli schiavi", "Gli stranieri"],
+      "spiegazione": "I patrizi erano l'aristocrazia romana, discendenti dalle famiglie originarie.",
+      "livello": "base",
+      "argomento": "Roma: dalle origini alla Repubblica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le guerre puniche furono combattute contro:",
+      "rispostaCorretta": "Cartagine",
+      "opzioni": ["Cartagine", "La Grecia", "La Gallia", "L'Egitto"],
+      "spiegazione": "Le tre guerre puniche (264-146 a.C.) furono combattute contro Cartagine.",
+      "livello": "base",
+      "argomento": "Roma: dalle origini alla Repubblica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Annibale attraversò le Alpi con:",
+      "rispostaCorretta": "Gli elefanti",
+      "opzioni": ["Gli elefanti", "I carri", "Le navi", "I cammelli"],
+      "spiegazione": "Annibale attraversò le Alpi con gli elefanti durante la seconda guerra punica.",
+      "livello": "base",
+      "argomento": "Roma: dalle origini alla Repubblica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giulio Cesare fu assassinato nel:",
+      "rispostaCorretta": "44 a.C.",
+      "opzioni": ["44 a.C.", "27 a.C.", "31 a.C.", "14 d.C."],
+      "spiegazione": "Giulio Cesare fu assassinato alle Idi di marzo del 44 a.C.",
+      "livello": "base",
+      "argomento": "Roma: dalle origini alla Repubblica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il primo imperatore romano fu:",
+      "rispostaCorretta": "Augusto",
+      "opzioni": ["Augusto", "Cesare", "Nerone", "Traiano"],
+      "spiegazione": "Augusto (Ottaviano) fu il primo imperatore romano dal 27 a.C.",
+      "livello": "base",
+      "argomento": "L'Impero romano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Pax Romana indica:",
+      "rispostaCorretta": "Un lungo periodo di pace e prosperità",
+      "opzioni": ["Un lungo periodo di pace e prosperità", "Un trattato di pace", "Una guerra civile", "Una rivolta"],
+      "spiegazione": "La Pax Romana fu il lungo periodo di pace e prosperità sotto l'Impero (27 a.C.-180 d.C.).",
+      "livello": "intermedio",
+      "argomento": "L'Impero romano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Impero Romano d'Occidente cadde nel:",
+      "rispostaCorretta": "476 d.C.",
+      "opzioni": ["476 d.C.", "410 d.C.", "395 d.C.", "1453 d.C."],
+      "spiegazione": "L'Impero Romano d'Occidente cadde nel 476 d.C. con la deposizione di Romolo Augustolo.",
+      "livello": "base",
+      "argomento": "L'Impero romano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Costantino emanò l'Editto di Milano nel:",
+      "rispostaCorretta": "313 d.C.",
+      "opzioni": ["313 d.C.", "380 d.C.", "476 d.C.", "284 d.C."],
+      "spiegazione": "L'Editto di Milano (313 d.C.) concesse libertà di culto ai cristiani.",
+      "livello": "intermedio",
+      "argomento": "L'Impero romano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il cristianesimo divenne religione di Stato con:",
+      "rispostaCorretta": "Teodosio",
+      "opzioni": ["Teodosio", "Costantino", "Diocleziano", "Augusto"],
+      "spiegazione": "Teodosio rese il cristianesimo religione di Stato nel 380 d.C. con l'Editto di Tessalonica.",
+      "livello": "intermedio",
+      "argomento": "L'Impero romano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il feudalesimo si basa su:",
+      "rispostaCorretta": "Il rapporto vassallo-signore",
+      "opzioni": ["Il rapporto vassallo-signore", "Il commercio", "La democrazia", "L'industria"],
+      "spiegazione": "Il feudalesimo si basa sul rapporto di fedeltà tra vassallo e signore in cambio di terre.",
+      "livello": "base",
+      "argomento": "L'Alto Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Carlo Magno fu incoronato imperatore nel:",
+      "rispostaCorretta": "800 d.C.",
+      "opzioni": ["800 d.C.", "476 d.C.", "1000 d.C.", "962 d.C."],
+      "spiegazione": "Carlo Magno fu incoronato imperatore da papa Leone III nella notte di Natale dell'800.",
+      "livello": "base",
+      "argomento": "L'Alto Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I monasteri medievali erano centri di:",
+      "rispostaCorretta": "Cultura e conservazione del sapere",
+      "opzioni": ["Cultura e conservazione del sapere", "Commercio", "Potere militare", "Intrattenimento"],
+      "spiegazione": "I monasteri furono centri di cultura dove i monaci copiavano e conservavano i testi antichi.",
+      "livello": "base",
+      "argomento": "L'Alto Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Crociate furono spedizioni militari per:",
+      "rispostaCorretta": "Liberare la Terra Santa",
+      "opzioni": ["Liberare la Terra Santa", "Conquistare Costantinopoli", "Combattere i Vichinghi", "Unificare l'Europa"],
+      "spiegazione": "Le Crociate (1096-1291) furono spedizioni per liberare Gerusalemme dai musulmani.",
+      "livello": "base",
+      "argomento": "Il Basso Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Comuni medievali erano:",
+      "rispostaCorretta": "Città autonome governate dai cittadini",
+      "opzioni": ["Città autonome governate dai cittadini", "Feudi", "Monasteri", "Regni"],
+      "spiegazione": "I Comuni erano città che si governavano autonomamente con propri magistrati.",
+      "livello": "base",
+      "argomento": "Il Basso Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La peste nera devastò l'Europa nel:",
+      "rispostaCorretta": "1348",
+      "opzioni": ["1348", "1200", "1453", "1492"],
+      "spiegazione": "La peste nera del 1348 uccise circa un terzo della popolazione europea.",
+      "livello": "base",
+      "argomento": "Il Basso Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'Homo habilis fu il primo a produrre strumenti di pietra.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "L'Homo habilis, comparso circa 2,5 milioni di anni fa, fu il primo a produrre strumenti.",
+      "livello": "intermedio",
+      "argomento": "La Preistoria",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La democrazia ateniese permetteva il voto alle donne.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "La democrazia ateniese escludeva donne, stranieri e schiavi dal voto.",
+      "livello": "intermedio",
+      "argomento": "La civiltà greca",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Giulio Cesare fu il primo imperatore romano.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Cesare fu dittatore, non imperatore. Il primo imperatore fu Augusto.",
+      "livello": "intermedio",
+      "argomento": "Roma: dalle origini alla Repubblica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Nilo era fondamentale per l'Egitto perché:",
+      "rispostaCorretta": "Le sue piene fertilizzavano i campi",
+      "opzioni": ["Le sue piene fertilizzavano i campi", "Era navigabile tutto l'anno", "Forniva oro", "Proteggeva dai nemici"],
+      "spiegazione": "Le piene annuali del Nilo depositavano limo fertile, permettendo l'agricoltura.",
+      "livello": "base",
+      "argomento": "L'antico Egitto",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La ziggurat mesopotamica era:",
+      "rispostaCorretta": "Un tempio a gradoni",
+      "opzioni": ["Un tempio a gradoni", "Una tomba", "Un palazzo reale", "Un mercato"],
+      "spiegazione": "La ziggurat era un tempio a gradoni, simbolo del legame tra cielo e terra.",
+      "livello": "intermedio",
+      "argomento": "Le civiltà della Mesopotamia",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'agorà greca era:",
+      "rispostaCorretta": "La piazza pubblica",
+      "opzioni": ["La piazza pubblica", "Il tempio", "Il teatro", "Il porto"],
+      "spiegazione": "L'agorà era la piazza pubblica, centro della vita politica e commerciale della polis.",
+      "livello": "base",
+      "argomento": "La civiltà greca",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ostracismo ateniese serviva a:",
+      "rispostaCorretta": "Esiliare cittadini pericolosi per la democrazia",
+      "opzioni": ["Esiliare cittadini pericolosi per la democrazia", "Eleggere i magistrati", "Punire i criminali", "Dichiarare guerra"],
+      "spiegazione": "L'ostracismo permetteva di esiliare per 10 anni chi minacciava la democrazia.",
+      "livello": "avanzato",
+      "argomento": "La civiltà greca",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Senato romano era composto da:",
+      "rispostaCorretta": "Ex magistrati",
+      "opzioni": ["Ex magistrati", "Soldati", "Plebei", "Schiavi liberati"],
+      "spiegazione": "Il Senato era composto da ex magistrati ed era l'organo più importante della Repubblica.",
+      "livello": "intermedio",
+      "argomento": "Roma: dalle origini alla Repubblica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I tribuni della plebe potevano:",
+      "rispostaCorretta": "Porre il veto alle decisioni dei magistrati",
+      "opzioni": ["Porre il veto alle decisioni dei magistrati", "Comandare l'esercito", "Amministrare la giustizia", "Riscuotere le tasse"],
+      "spiegazione": "I tribuni della plebe avevano il potere di veto per proteggere i plebei.",
+      "livello": "avanzato",
+      "argomento": "Roma: dalle origini alla Repubblica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La battaglia di Azio (31 a.C.) vide la vittoria di:",
+      "rispostaCorretta": "Ottaviano su Antonio e Cleopatra",
+      "opzioni": ["Ottaviano su Antonio e Cleopatra", "Cesare su Pompeo", "Antonio su Ottaviano", "Bruto su Cesare"],
+      "spiegazione": "Ad Azio Ottaviano sconfisse Antonio e Cleopatra, diventando padrone di Roma.",
+      "livello": "intermedio",
+      "argomento": "L'Impero romano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il limes romano era:",
+      "rispostaCorretta": "Il confine fortificato dell'Impero",
+      "opzioni": ["Il confine fortificato dell'Impero", "Una strada", "Un acquedotto", "Un tempio"],
+      "spiegazione": "Il limes era il sistema di fortificazioni che proteggeva i confini dell'Impero.",
+      "livello": "intermedio",
+      "argomento": "L'Impero romano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Diocleziano introdusse:",
+      "rispostaCorretta": "La tetrarchia",
+      "opzioni": ["La tetrarchia", "Il cristianesimo", "La democrazia", "La moneta unica"],
+      "spiegazione": "Diocleziano introdusse la tetrarchia, dividendo l'Impero tra quattro governanti.",
+      "livello": "avanzato",
+      "argomento": "L'Impero romano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I barbari che deposero l'ultimo imperatore d'Occidente erano:",
+      "rispostaCorretta": "Gli Eruli di Odoacre",
+      "opzioni": ["Gli Eruli di Odoacre", "I Visigoti di Alarico", "Gli Unni di Attila", "I Vandali di Genserico"],
+      "spiegazione": "Odoacre, capo degli Eruli, depose Romolo Augustolo nel 476 d.C.",
+      "livello": "avanzato",
+      "argomento": "L'Impero romano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Longobardi invasero l'Italia nel:",
+      "rispostaCorretta": "568 d.C.",
+      "opzioni": ["568 d.C.", "476 d.C.", "800 d.C.", "1000 d.C."],
+      "spiegazione": "I Longobardi invasero l'Italia nel 568 d.C., fondando un regno durato due secoli.",
+      "livello": "intermedio",
+      "argomento": "L'Alto Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Sacro Romano Impero fu fondato nel:",
+      "rispostaCorretta": "962 d.C.",
+      "opzioni": ["962 d.C.", "800 d.C.", "476 d.C.", "1000 d.C."],
+      "spiegazione": "Il Sacro Romano Impero fu fondato nel 962 d.C. con l'incoronazione di Ottone I.",
+      "livello": "intermedio",
+      "argomento": "L'Alto Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La lotta per le investiture oppose:",
+      "rispostaCorretta": "Papato e Impero",
+      "opzioni": ["Papato e Impero", "Francia e Inghilterra", "Comuni e feudatari", "Cristiani e musulmani"],
+      "spiegazione": "La lotta per le investiture (XI-XII sec.) oppose papa e imperatore per la nomina dei vescovi.",
+      "livello": "avanzato",
+      "argomento": "Il Basso Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Magna Carta fu firmata in:",
+      "rispostaCorretta": "Inghilterra nel 1215",
+      "opzioni": ["Inghilterra nel 1215", "Francia nel 1300", "Germania nel 1100", "Italia nel 1250"],
+      "spiegazione": "La Magna Carta (1215) limitò il potere del re d'Inghilterra Giovanni Senza Terra.",
+      "livello": "avanzato",
+      "argomento": "Il Basso Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le università medievali nacquero nel:",
+      "rispostaCorretta": "XII secolo",
+      "opzioni": ["XII secolo", "VIII secolo", "XV secolo", "V secolo"],
+      "spiegazione": "Le prime università (Bologna, Parigi, Oxford) nacquero nel XII secolo.",
+      "livello": "intermedio",
+      "argomento": "Il Basso Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Guerra dei Cent'anni fu combattuta tra:",
+      "rispostaCorretta": "Francia e Inghilterra",
+      "opzioni": ["Francia e Inghilterra", "Francia e Germania", "Inghilterra e Spagna", "Italia e Francia"],
+      "spiegazione": "La Guerra dei Cent'anni (1337-1453) fu combattuta tra Francia e Inghilterra.",
+      "livello": "base",
+      "argomento": "Il Basso Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giovanna d'Arco fu:",
+      "rispostaCorretta": "Un'eroina francese della Guerra dei Cent'anni",
+      "opzioni": ["Un'eroina francese della Guerra dei Cent'anni", "Una regina inglese", "Una santa italiana", "Una filosofa greca"],
+      "spiegazione": "Giovanna d'Arco guidò i Francesi contro gli Inglesi e fu bruciata come eretica nel 1431.",
+      "livello": "base",
+      "argomento": "Il Basso Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Costantinopoli cadde in mano ai Turchi nel:",
+      "rispostaCorretta": "1453",
+      "opzioni": ["1453", "1492", "1348", "1215"],
+      "spiegazione": "Costantinopoli cadde nel 1453, segnando la fine dell'Impero Romano d'Oriente.",
+      "livello": "base",
+      "argomento": "Il Basso Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Impero Romano d'Oriente durò fino al:",
+      "rispostaCorretta": "1453",
+      "opzioni": ["1453", "476", "800", "1000"],
+      "spiegazione": "L'Impero Romano d'Oriente (Bizantino) durò fino alla caduta di Costantinopoli nel 1453.",
+      "livello": "intermedio",
+      "argomento": "Il Basso Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il sistema curtense medievale si basava su:",
+      "rispostaCorretta": "L'autosufficienza economica del feudo",
+      "opzioni": ["L'autosufficienza economica del feudo", "Il commercio internazionale", "L'industria", "La moneta"],
+      "spiegazione": "Il sistema curtense prevedeva che ogni feudo producesse tutto il necessario.",
+      "livello": "avanzato",
+      "argomento": "L'Alto Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Vichinghi provenivano dalla:",
+      "rispostaCorretta": "Scandinavia",
+      "opzioni": ["Scandinavia", "Germania", "Britannia", "Russia"],
+      "spiegazione": "I Vichinghi provenivano dalla Scandinavia e compirono razzie in tutta Europa.",
+      "livello": "base",
+      "argomento": "L'Alto Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La prima crociata fu bandita nel:",
+      "rispostaCorretta": "1095",
+      "opzioni": ["1095", "1000", "1200", "1291"],
+      "spiegazione": "La prima crociata fu bandita da papa Urbano II nel 1095 al Concilio di Clermont.",
+      "livello": "intermedio",
+      "argomento": "Il Basso Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Federico Barbarossa fu imperatore del:",
+      "rispostaCorretta": "Sacro Romano Impero",
+      "opzioni": ["Sacro Romano Impero", "Impero Bizantino", "Impero Romano", "Regno di Francia"],
+      "spiegazione": "Federico Barbarossa fu imperatore del Sacro Romano Impero e lottò contro i Comuni italiani.",
+      "livello": "intermedio",
+      "argomento": "Il Basso Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Lega Lombarda sconfisse Federico Barbarossa a:",
+      "rispostaCorretta": "Legnano (1176)",
+      "opzioni": ["Legnano (1176)", "Milano (1162)", "Roma (1167)", "Venezia (1177)"],
+      "spiegazione": "La Lega Lombarda sconfisse Federico Barbarossa a Legnano nel 1176.",
+      "livello": "avanzato",
+      "argomento": "Il Basso Medioevo",
+      "materia": "storia"
+    }
+  ]
+}

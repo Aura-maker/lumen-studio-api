@@ -1,0 +1,487 @@
+{
+  "materia": "italiano",
+  "descrizione": "Quiz Italiano triennio - Parte 2: Promessi Sposi e Origini",
+  "totale": 50,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "I Promessi Sposi attraversarono quante fasi di composizione?",
+      "rispostaCorretta": "Tre",
+      "opzioni": ["Tre", "Due", "Quattro", "Una"],
+      "spiegazione": "La composizione attraversò tre fasi: il Fermo e Lucia (1821-1823), la ventisettana (1825-1827), la quarantana (1840-1842).",
+      "livello": "intermedio",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Manzoni 'sciacquò i panni in Arno' per:",
+      "rispostaCorretta": "Creare una lingua nazionale basata sul fiorentino",
+      "opzioni": ["Creare una lingua nazionale basata sul fiorentino", "Ambientare il romanzo a Firenze", "Studiare i dialetti", "Incontrare altri scrittori"],
+      "spiegazione": "La revisione linguistica mirava a creare una lingua nazionale basata sul fiorentino colto.",
+      "livello": "avanzato",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La vicenda dei Promessi Sposi si svolge tra quali anni?",
+      "rispostaCorretta": "1628 e 1630",
+      "opzioni": ["1628 e 1630", "1600 e 1610", "1700 e 1720", "1500 e 1520"],
+      "spiegazione": "La vicenda si svolge in Lombardia tra il 1628 e il 1630, durante la dominazione spagnola.",
+      "livello": "base",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Don Rodrigo ordina a Don Abbondio di non celebrare il matrimonio perché vuole:",
+      "rispostaCorretta": "Lucia",
+      "opzioni": ["Lucia", "Renzo", "Le terre di Renzo", "Vendetta"],
+      "spiegazione": "Don Rodrigo vuole Lucia per sé e ordina a Don Abbondio di non celebrare il matrimonio.",
+      "livello": "base",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Innominato si converte dopo aver incontrato:",
+      "rispostaCorretta": "Il Cardinale Borromeo",
+      "opzioni": ["Il Cardinale Borromeo", "Fra Cristoforo", "Don Abbondio", "Lucia"],
+      "spiegazione": "L'Innominato si converte dopo una crisi di coscienza e l'incontro con il Cardinale Borromeo.",
+      "livello": "intermedio",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La frase 'il coraggio, uno non se lo può dare' è pronunciata da:",
+      "rispostaCorretta": "Don Abbondio",
+      "opzioni": ["Don Abbondio", "Fra Cristoforo", "L'Innominato", "Renzo"],
+      "spiegazione": "Don Abbondio è il prete pavido che usa questa frase per giustificare la propria viltà.",
+      "livello": "base",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gertrude, la Monaca di Monza, è vittima di:",
+      "rispostaCorretta": "Violenza familiare che l'ha costretta alla monacazione",
+      "opzioni": ["Violenza familiare che l'ha costretta alla monacazione", "Un amore non corrisposto", "Una malattia", "Un voto della madre"],
+      "spiegazione": "Gertrude è vittima della violenza familiare che l'ha costretta alla monacazione.",
+      "livello": "avanzato",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Fra Cristoforo ha espiato quale peccato dedicandosi ai poveri?",
+      "rispostaCorretta": "Un omicidio",
+      "opzioni": ["Un omicidio", "Un furto", "Una bestemmia", "Un tradimento"],
+      "spiegazione": "Fra Cristoforo ha espiato un omicidio dedicandosi ai poveri; incarna il cristianesimo attivo.",
+      "livello": "intermedio",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lucia fa voto di castità dopo essere stata liberata da:",
+      "rispostaCorretta": "L'Innominato",
+      "opzioni": ["L'Innominato", "Don Rodrigo", "I bravi", "Fra Cristoforo"],
+      "spiegazione": "Lucia fa voto di castità dopo essere stata rapita e poi liberata dall'Innominato convertito.",
+      "livello": "intermedio",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Chi scioglie il voto di castità di Lucia?",
+      "rispostaCorretta": "Fra Cristoforo",
+      "opzioni": ["Fra Cristoforo", "Il Cardinale Borromeo", "Don Abbondio", "L'Innominato"],
+      "spiegazione": "Fra Cristoforo scioglie il voto di Lucia nel lazzaretto durante la peste.",
+      "livello": "intermedio",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Don Rodrigo muore a causa di:",
+      "rispostaCorretta": "La peste",
+      "opzioni": ["La peste", "Un duello", "Un assassinio", "Vecchiaia"],
+      "spiegazione": "Don Rodrigo muore durante la peste del 1630, che diventa strumento di giustizia nel romanzo.",
+      "livello": "base",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Renzo viene coinvolto nei tumulti di Milano per:",
+      "rispostaCorretta": "Il pane",
+      "opzioni": ["Il pane", "La guerra", "Le tasse", "La religione"],
+      "spiegazione": "Renzo viene coinvolto nei tumulti per il pane a Milano e rischia l'arresto.",
+      "livello": "base",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il 'sugo della storia' dei Promessi Sposi afferma che:",
+      "rispostaCorretta": "I guai vengono spesso per colpa propria, ma la fiducia in Dio li rende utili",
+      "opzioni": ["I guai vengono spesso per colpa propria, ma la fiducia in Dio li rende utili", "La vita è solo sofferenza", "Il destino è immutabile", "La fortuna aiuta gli audaci"],
+      "spiegazione": "Il romanzo si chiude con il 'sugo della storia': i guai vengono spesso per colpa propria, ma la fiducia in Dio li rende utili.",
+      "livello": "avanzato",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "I Promessi Sposi sono ambientati durante la dominazione francese.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "I Promessi Sposi sono ambientati durante la dominazione spagnola in Lombardia.",
+      "livello": "base",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Manzoni scelse il romanzo storico ispirandosi a:",
+      "rispostaCorretta": "Walter Scott",
+      "opzioni": ["Walter Scott", "Voltaire", "Rousseau", "Goethe"],
+      "spiegazione": "Manzoni scelse il romanzo storico sulla scia di Walter Scott, ma lo rinnovò profondamente.",
+      "livello": "intermedio",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il primo documento in volgare italiano è considerato:",
+      "rispostaCorretta": "Il Placito capuano (960)",
+      "opzioni": ["Il Placito capuano (960)", "L'Indovinello veronese", "Il Cantico delle creature", "La Divina Commedia"],
+      "spiegazione": "Il Placito capuano (960) è un documento giudiziario considerato il primo documento ufficiale in italiano.",
+      "livello": "intermedio",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le lingue romanze derivano dal:",
+      "rispostaCorretta": "Latino volgare",
+      "opzioni": ["Latino volgare", "Latino classico", "Greco antico", "Etrusco"],
+      "spiegazione": "Le lingue romanze (italiano, francese, spagnolo, portoghese, rumeno) derivano dal latino volgare.",
+      "livello": "base",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "San Francesco d'Assisi compose il Cantico delle creature nel:",
+      "rispostaCorretta": "1224",
+      "opzioni": ["1224", "1200", "1250", "1182"],
+      "spiegazione": "San Francesco compose il Cantico delle creature probabilmente nel 1224.",
+      "livello": "intermedio",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La lauda 'Donna de Paradiso' fu composta da:",
+      "rispostaCorretta": "Jacopone da Todi",
+      "opzioni": ["Jacopone da Todi", "San Francesco", "Dante", "Guido Cavalcanti"],
+      "spiegazione": "Jacopone da Todi compose Donna de Paradiso, dialogo tra Maria e Cristo durante la Passione.",
+      "livello": "intermedio",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Scuola siciliana fiorì alla corte di:",
+      "rispostaCorretta": "Federico II di Svevia",
+      "opzioni": ["Federico II di Svevia", "Carlo Magno", "Federico Barbarossa", "Ruggero II"],
+      "spiegazione": "La Scuola siciliana fiorì alla corte di Federico II di Svevia tra il 1230 e il 1266.",
+      "livello": "base",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'inventore del sonetto fu:",
+      "rispostaCorretta": "Giacomo da Lentini",
+      "opzioni": ["Giacomo da Lentini", "Dante", "Petrarca", "Guido Cavalcanti"],
+      "spiegazione": "Giacomo da Lentini, caposcuola della Scuola siciliana, inventò il sonetto.",
+      "livello": "intermedio",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il sonetto è composto da:",
+      "rispostaCorretta": "14 endecasillabi",
+      "opzioni": ["14 endecasillabi", "11 versi", "8 strofe", "100 versi"],
+      "spiegazione": "Il sonetto è composto da 14 endecasillabi in due quartine e due terzine.",
+      "livello": "base",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il tema esclusivo della Scuola siciliana era:",
+      "rispostaCorretta": "L'amore cortese",
+      "opzioni": ["L'amore cortese", "La guerra", "La religione", "La politica"],
+      "spiegazione": "Il tema esclusivo era l'amore cortese: servizio feudale alla donna, sofferenza dell'amante.",
+      "livello": "intermedio",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Dolce Stil Novo nacque a:",
+      "rispostaCorretta": "Bologna",
+      "opzioni": ["Bologna", "Firenze", "Palermo", "Roma"],
+      "spiegazione": "Il Dolce Stil Novo nacque a Bologna con Guido Guinizzelli e si sviluppò a Firenze.",
+      "livello": "intermedio",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La donna-angelo dello Stilnovo ha la funzione di:",
+      "rispostaCorretta": "Elevare l'anima dell'amante verso Dio",
+      "opzioni": ["Elevare l'anima dell'amante verso Dio", "Ispirare imprese cavalleresche", "Causare sofferenza", "Rappresentare la bellezza terrena"],
+      "spiegazione": "La donna-angelo eleva l'anima dell'amante verso Dio, operando la salvezza spirituale.",
+      "livello": "avanzato",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Guido Guinizzelli è considerato il padre del:",
+      "rispostaCorretta": "Dolce Stil Novo",
+      "opzioni": ["Dolce Stil Novo", "Petrarchismo", "Romanticismo", "Realismo"],
+      "spiegazione": "Guido Guinizzelli (1230-1276) è considerato il padre del Dolce Stil Novo.",
+      "livello": "intermedio",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La canzone manifesto dello Stilnovo è:",
+      "rispostaCorretta": "Al cor gentil rempaira sempre amore",
+      "opzioni": ["Al cor gentil rempaira sempre amore", "Tanto gentile e tanto onesta pare", "Voi ch'ascoltate", "Chiare fresche e dolci acque"],
+      "spiegazione": "La canzone 'Al cor gentil rempaira sempre amore' di Guinizzelli è il manifesto del movimento.",
+      "livello": "avanzato",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il Cantico delle creature è scritto in latino.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Il Cantico delle creature è scritto in volgare umbro, non in latino.",
+      "livello": "base",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La caduta dell'Impero Romano d'Occidente avvenne nel:",
+      "rispostaCorretta": "476 d.C.",
+      "opzioni": ["476 d.C.", "410 d.C.", "500 d.C.", "395 d.C."],
+      "spiegazione": "Con la caduta dell'Impero Romano (476 d.C.) il latino volgare si frammentò nelle lingue romanze.",
+      "livello": "base",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Indovinello veronese risale al:",
+      "rispostaCorretta": "VIII-IX secolo",
+      "opzioni": ["VIII-IX secolo", "X secolo", "VI secolo", "XII secolo"],
+      "spiegazione": "L'Indovinello veronese (VIII-IX secolo) è uno dei primi documenti in volgare italiano.",
+      "livello": "avanzato",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La poesia religiosa umbra del XIII secolo è rappresentata principalmente da:",
+      "rispostaCorretta": "San Francesco e Jacopone da Todi",
+      "opzioni": ["San Francesco e Jacopone da Todi", "Dante e Petrarca", "Guinizzelli e Cavalcanti", "Boccaccio e Manzoni"],
+      "spiegazione": "La prima grande stagione è la poesia religiosa umbra con San Francesco e Jacopone da Todi.",
+      "livello": "intermedio",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Cantico delle creature loda Dio attraverso:",
+      "rispostaCorretta": "Le creature (sole, luna, stelle, vento, acqua, fuoco, terra)",
+      "opzioni": ["Le creature (sole, luna, stelle, vento, acqua, fuoco, terra)", "I santi", "Gli angeli", "I miracoli"],
+      "spiegazione": "Il Cantico loda Dio attraverso le creature: sole, luna, stelle, vento, acqua, fuoco, terra.",
+      "livello": "base",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La spiritualità francescana si caratterizza per:",
+      "rispostaCorretta": "Amore per la natura e fraternità universale",
+      "opzioni": ["Amore per la natura e fraternità universale", "Ascetismo estremo", "Ricchezza della Chiesa", "Potere temporale"],
+      "spiegazione": "Il Cantico esprime la spiritualità francescana: amore per la natura, fraternità universale, accettazione della morte.",
+      "livello": "intermedio",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La poesia di Jacopone da Todi si caratterizza per:",
+      "rispostaCorretta": "Intensità mistica e drammatica",
+      "opzioni": ["Intensità mistica e drammatica", "Leggerezza e ironia", "Descrizioni naturalistiche", "Temi politici"],
+      "spiegazione": "Jacopone compose laude di intensità mistica e drammatica: desiderio di annullamento in Dio.",
+      "livello": "avanzato",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I poeti della Scuola siciliana erano:",
+      "rispostaCorretta": "Funzionari della corte",
+      "opzioni": ["Funzionari della corte", "Monaci", "Contadini", "Mercanti"],
+      "spiegazione": "I poeti erano funzionari della corte di Federico II: Giacomo da Lentini, Pier della Vigna, Guido delle Colonne.",
+      "livello": "intermedio",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Scuola siciliana si ispirava alla lirica dei:",
+      "rispostaCorretta": "Trovatori provenzali",
+      "opzioni": ["Trovatori provenzali", "Poeti latini", "Aedi greci", "Minnesänger tedeschi"],
+      "spiegazione": "La poesia si ispirava alla lirica provenzale dei trovatori, adattandola al volgare siciliano.",
+      "livello": "avanzato",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Dopo la morte di Federico II, la tradizione siciliana fu raccolta dai poeti toscani.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Dopo la morte di Federico II, la tradizione fu raccolta dai poeti toscani che toscanizzarono la lingua.",
+      "livello": "intermedio",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo Stilnovo teorizza che l'amore può nascere solo in un cuore:",
+      "rispostaCorretta": "Gentile (nobile d'animo)",
+      "opzioni": ["Gentile (nobile d'animo)", "Ricco", "Giovane", "Forte"],
+      "spiegazione": "Lo Stilnovo teorizza che amore e cuor gentile sono una cosa sola: l'amore nasce solo in chi ha nobiltà d'animo.",
+      "livello": "avanzato",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Guido Cavalcanti fu amico di:",
+      "rispostaCorretta": "Dante Alighieri",
+      "opzioni": ["Dante Alighieri", "Petrarca", "Boccaccio", "Manzoni"],
+      "spiegazione": "Guido Cavalcanti fu il 'primo amico' di Dante, come ricordato nella Vita Nuova.",
+      "livello": "intermedio",
+      "argomento": "Le origini della letteratura italiana",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Alessandro Manzoni nacque nel:",
+      "rispostaCorretta": "1785",
+      "opzioni": ["1785", "1800", "1770", "1820"],
+      "spiegazione": "Alessandro Manzoni nacque a Milano nel 1785 e morì nel 1873.",
+      "livello": "base",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La prima stesura dei Promessi Sposi si intitolava:",
+      "rispostaCorretta": "Fermo e Lucia",
+      "opzioni": ["Fermo e Lucia", "Renzo e Lucia", "I fidanzati", "Storia milanese"],
+      "spiegazione": "La prima stesura (1821-1823) si intitolava Fermo e Lucia e rimase inedita.",
+      "livello": "intermedio",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La 'quarantana' dei Promessi Sposi è:",
+      "rispostaCorretta": "L'edizione definitiva del 1840-1842",
+      "opzioni": ["L'edizione definitiva del 1840-1842", "La prima edizione", "Una versione abbreviata", "Una traduzione"],
+      "spiegazione": "La quarantana (1840-1842) è l'edizione definitiva con revisione linguistica.",
+      "livello": "avanzato",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Renzo e Lucia sono:",
+      "rispostaCorretta": "Contadini del territorio di Lecco",
+      "opzioni": ["Contadini del territorio di Lecco", "Nobili milanesi", "Mercanti fiorentini", "Artigiani veneziani"],
+      "spiegazione": "Renzo e Lucia sono contadini del territorio di Lecco. La scelta di protagonisti umili era rivoluzionaria.",
+      "livello": "base",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Cardinale Federigo Borromeo rappresenta:",
+      "rispostaCorretta": "La Chiesa nella sua forma più alta",
+      "opzioni": ["La Chiesa nella sua forma più alta", "Il clero corrotto", "Il potere politico", "La nobiltà"],
+      "spiegazione": "Il Cardinale Federigo Borromeo rappresenta la Chiesa nella sua forma più alta, contrapposto a Don Abbondio.",
+      "livello": "intermedio",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Innominato è un personaggio:",
+      "rispostaCorretta": "Storico, realmente esistito",
+      "opzioni": ["Storico, realmente esistito", "Completamente inventato", "Mitologico", "Allegorico"],
+      "spiegazione": "L'Innominato è ispirato a Francesco Bernardino Visconti, signorotto realmente esistito.",
+      "livello": "avanzato",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Renzo fugge da Milano verso:",
+      "rispostaCorretta": "Il bergamasco",
+      "opzioni": ["Il bergamasco", "Venezia", "Roma", "Firenze"],
+      "spiegazione": "Coinvolto nei tumulti, Renzo rischia l'arresto e fugge nel bergamasco, territorio veneziano.",
+      "livello": "intermedio",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lucia si rifugia nel convento di:",
+      "rispostaCorretta": "Monza",
+      "opzioni": ["Monza", "Milano", "Lecco", "Bergamo"],
+      "spiegazione": "Lucia si rifugia nel convento di Monza sotto la protezione della Monaca Gertrude.",
+      "livello": "base",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "I Promessi Sposi sono il primo grande romanzo della letteratura italiana moderna.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "I Promessi Sposi sono considerati il primo grande romanzo della letteratura italiana moderna.",
+      "livello": "base",
+      "argomento": "I Promessi Sposi",
+      "materia": "italiano"
+    }
+  ]
+}

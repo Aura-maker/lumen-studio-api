@@ -1,0 +1,517 @@
+{
+  "materia": "italiano",
+  "descrizione": "Quiz Italiano - Parte 7: Rinascimento, Machiavelli, Ariosto, Tasso",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Niccolò Machiavelli nacque a Firenze nel:",
+      "rispostaCorretta": "1469",
+      "opzioni": ["1469", "1450", "1500", "1527"],
+      "spiegazione": "Machiavelli (1469-1527) fu politico, scrittore e filosofo fiorentino.",
+      "livello": "intermedio",
+      "argomento": "Niccolò Machiavelli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Principe di Machiavelli fu scritto nel:",
+      "rispostaCorretta": "1513",
+      "opzioni": ["1513", "1469", "1527", "1550"],
+      "spiegazione": "Il Principe fu scritto nel 1513 e pubblicato postumo nel 1532.",
+      "livello": "intermedio",
+      "argomento": "Niccolò Machiavelli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Principe è dedicato a:",
+      "rispostaCorretta": "Lorenzo de' Medici",
+      "opzioni": ["Lorenzo de' Medici", "Cesare Borgia", "Papa Leone X", "Francesco I"],
+      "spiegazione": "Machiavelli dedicò l'opera a Lorenzo de' Medici duca di Urbino.",
+      "livello": "avanzato",
+      "argomento": "Niccolò Machiavelli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Per Machiavelli il fine del principe è:",
+      "rispostaCorretta": "Mantenere lo Stato",
+      "opzioni": ["Mantenere lo Stato", "La gloria personale", "La ricchezza", "La salvezza dell'anima"],
+      "spiegazione": "Il principe deve conservare il potere con ogni mezzo necessario.",
+      "livello": "intermedio",
+      "argomento": "Niccolò Machiavelli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La 'virtù' in Machiavelli indica:",
+      "rispostaCorretta": "La capacità politica di dominare la fortuna",
+      "opzioni": ["La capacità politica di dominare la fortuna", "La bontà morale", "La fede religiosa", "La ricchezza"],
+      "spiegazione": "La virtù machiavelliana è energia, astuzia, capacità di adattamento.",
+      "livello": "avanzato",
+      "argomento": "Niccolò Machiavelli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La 'fortuna' in Machiavelli rappresenta:",
+      "rispostaCorretta": "Le circostanze imprevedibili",
+      "opzioni": ["Le circostanze imprevedibili", "La ricchezza", "La provvidenza divina", "Il destino fisso"],
+      "spiegazione": "La fortuna governa metà delle azioni umane; la virtù può contrastarla.",
+      "livello": "avanzato",
+      "argomento": "Niccolò Machiavelli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Machiavelli paragona il principe a:",
+      "rispostaCorretta": "Il leone e la volpe",
+      "opzioni": ["Il leone e la volpe", "L'aquila e il serpente", "Il lupo e l'agnello", "Il toro e l'orso"],
+      "spiegazione": "Il principe deve essere forte come il leone e astuto come la volpe.",
+      "livello": "intermedio",
+      "argomento": "Niccolò Machiavelli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Discorsi sopra la prima deca di Tito Livio di Machiavelli trattano:",
+      "rispostaCorretta": "La repubblica romana come modello politico",
+      "opzioni": ["La repubblica romana come modello politico", "La monarchia", "La Chiesa", "L'economia"],
+      "spiegazione": "Nei Discorsi Machiavelli analizza la repubblica come forma di governo.",
+      "livello": "avanzato",
+      "argomento": "Niccolò Machiavelli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Mandragola di Machiavelli è:",
+      "rispostaCorretta": "Una commedia",
+      "opzioni": ["Una commedia", "Una tragedia", "Un trattato politico", "Un poema"],
+      "spiegazione": "La Mandragola è la più importante commedia del Cinquecento italiano.",
+      "livello": "intermedio",
+      "argomento": "Niccolò Machiavelli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Ludovico Ariosto nacque a Reggio Emilia nel:",
+      "rispostaCorretta": "1474",
+      "opzioni": ["1474", "1450", "1500", "1533"],
+      "spiegazione": "Ariosto (1474-1533) fu poeta e commediografo ferrarese.",
+      "livello": "intermedio",
+      "argomento": "Ludovico Ariosto",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Orlando furioso fu pubblicato nella versione definitiva nel:",
+      "rispostaCorretta": "1532",
+      "opzioni": ["1532", "1516", "1474", "1550"],
+      "spiegazione": "L'Orlando furioso ebbe tre edizioni: 1516, 1521, 1532 (definitiva).",
+      "livello": "avanzato",
+      "argomento": "Ludovico Ariosto",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Orlando furioso è scritto in:",
+      "rispostaCorretta": "Ottave",
+      "opzioni": ["Ottave", "Terzine", "Sonetti", "Versi sciolti"],
+      "spiegazione": "L'ottava rima (ABABABCC) è il metro del poema cavalleresco.",
+      "livello": "intermedio",
+      "argomento": "Ludovico Ariosto",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Orlando furioso continua la storia dell':",
+      "rispostaCorretta": "Orlando innamorato di Boiardo",
+      "opzioni": ["Orlando innamorato di Boiardo", "Eneide di Virgilio", "Divina Commedia di Dante", "Decameron di Boccaccio"],
+      "spiegazione": "Ariosto riprende e conclude la storia iniziata da Boiardo.",
+      "livello": "avanzato",
+      "argomento": "Ludovico Ariosto",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Orlando impazzisce per amore di:",
+      "rispostaCorretta": "Angelica",
+      "opzioni": ["Angelica", "Bradamante", "Isabella", "Olimpia"],
+      "spiegazione": "Orlando perde il senno quando scopre che Angelica ama Medoro.",
+      "livello": "base",
+      "argomento": "Ludovico Ariosto",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il senno di Orlando viene recuperato da:",
+      "rispostaCorretta": "Astolfo sulla Luna",
+      "opzioni": ["Astolfo sulla Luna", "Carlo Magno", "Angelica", "Rinaldo"],
+      "spiegazione": "Astolfo vola sulla Luna con l'ippogrifo per recuperare il senno.",
+      "livello": "intermedio",
+      "argomento": "Ludovico Ariosto",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'incipit dell'Orlando furioso recita:",
+      "rispostaCorretta": "Le donne, i cavallier, l'arme, gli amori",
+      "opzioni": ["Le donne, i cavallier, l'arme, gli amori", "Nel mezzo del cammin di nostra vita", "Chiare, fresche et dolci acque", "Voi ch'ascoltate in rime sparse il suono"],
+      "spiegazione": "L'incipit annuncia i temi del poema: amore, guerra, avventura.",
+      "livello": "base",
+      "argomento": "Ludovico Ariosto",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La struttura narrativa dell'Orlando furioso è:",
+      "rispostaCorretta": "Entrelacement (intreccio di storie)",
+      "opzioni": ["Entrelacement (intreccio di storie)", "Lineare", "Circolare", "A cornice"],
+      "spiegazione": "Ariosto intreccia molteplici storie che si interrompono e riprendono.",
+      "livello": "avanzato",
+      "argomento": "Ludovico Ariosto",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Torquato Tasso nacque a Sorrento nel:",
+      "rispostaCorretta": "1544",
+      "opzioni": ["1544", "1500", "1575", "1595"],
+      "spiegazione": "Tasso (1544-1595) fu il maggiore poeta del tardo Rinascimento.",
+      "livello": "intermedio",
+      "argomento": "Torquato Tasso",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Gerusalemme liberata fu pubblicata nel:",
+      "rispostaCorretta": "1581",
+      "opzioni": ["1581", "1544", "1595", "1550"],
+      "spiegazione": "La Gerusalemme liberata fu pubblicata (senza il consenso di Tasso) nel 1581.",
+      "livello": "avanzato",
+      "argomento": "Torquato Tasso",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Gerusalemme liberata narra:",
+      "rispostaCorretta": "La prima Crociata e la conquista di Gerusalemme",
+      "opzioni": ["La prima Crociata e la conquista di Gerusalemme", "La guerra di Troia", "La fondazione di Roma", "Le guerre persiane"],
+      "spiegazione": "Il poema narra la conquista di Gerusalemme guidata da Goffredo di Buglione.",
+      "livello": "base",
+      "argomento": "Torquato Tasso",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il protagonista della Gerusalemme liberata è:",
+      "rispostaCorretta": "Goffredo di Buglione",
+      "opzioni": ["Goffredo di Buglione", "Rinaldo", "Tancredi", "Orlando"],
+      "spiegazione": "Goffredo guida i crociati alla conquista di Gerusalemme.",
+      "livello": "intermedio",
+      "argomento": "Torquato Tasso",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Tancredi e Clorinda sono:",
+      "rispostaCorretta": "Due amanti nemici nella Gerusalemme liberata",
+      "opzioni": ["Due amanti nemici nella Gerusalemme liberata", "Due fratelli", "Due amici", "Due re"],
+      "spiegazione": "Tancredi uccide inconsapevolmente Clorinda, la donna che ama.",
+      "livello": "intermedio",
+      "argomento": "Torquato Tasso",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Armida nella Gerusalemme liberata è:",
+      "rispostaCorretta": "Una maga saracena che seduce i crociati",
+      "opzioni": ["Una maga saracena che seduce i crociati", "Una principessa cristiana", "Una guerriera", "Una santa"],
+      "spiegazione": "Armida rappresenta la tentazione e la seduzione.",
+      "livello": "avanzato",
+      "argomento": "Torquato Tasso",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Tasso fu rinchiuso nell'ospedale di Sant'Anna per:",
+      "rispostaCorretta": "Presunta follia",
+      "opzioni": ["Presunta follia", "Debiti", "Eresia", "Tradimento"],
+      "spiegazione": "Tasso fu rinchiuso a Sant'Anna dal 1579 al 1586.",
+      "livello": "avanzato",
+      "argomento": "Torquato Tasso",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Aminta di Tasso è:",
+      "rispostaCorretta": "Un dramma pastorale",
+      "opzioni": ["Un dramma pastorale", "Un poema epico", "Una tragedia", "Una commedia"],
+      "spiegazione": "L'Aminta (1573) è un dramma pastorale sull'amore.",
+      "livello": "avanzato",
+      "argomento": "Torquato Tasso",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Francesco Guicciardini scrisse:",
+      "rispostaCorretta": "La Storia d'Italia e i Ricordi",
+      "opzioni": ["La Storia d'Italia e i Ricordi", "Il Principe", "L'Orlando furioso", "Il Cortegiano"],
+      "spiegazione": "Guicciardini fu storico e politico fiorentino.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Cortegiano di Baldassarre Castiglione descrive:",
+      "rispostaCorretta": "L'ideale del perfetto uomo di corte",
+      "opzioni": ["L'ideale del perfetto uomo di corte", "La politica", "La guerra", "La religione"],
+      "spiegazione": "Il Cortegiano (1528) è un trattato sulla vita di corte.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La 'sprezzatura' nel Cortegiano indica:",
+      "rispostaCorretta": "La naturalezza che nasconde lo sforzo",
+      "opzioni": ["La naturalezza che nasconde lo sforzo", "Il disprezzo", "La superbia", "L'ignoranza"],
+      "spiegazione": "La sprezzatura è l'arte di far sembrare facile ciò che è difficile.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Pietro Bembo fu importante per:",
+      "rispostaCorretta": "La codificazione della lingua italiana sul modello trecentesco",
+      "opzioni": ["La codificazione della lingua italiana sul modello trecentesco", "La politica", "La scienza", "La musica"],
+      "spiegazione": "Bembo propose Petrarca e Boccaccio come modelli linguistici.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Prose della volgar lingua di Bembo (1525) trattano:",
+      "rispostaCorretta": "La questione della lingua",
+      "opzioni": ["La questione della lingua", "La politica", "La religione", "La scienza"],
+      "spiegazione": "Bembo propose il toscano letterario del Trecento come lingua nazionale.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Machiavelli scrisse Il Principe.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Il Principe è l'opera più famosa di Machiavelli.",
+      "livello": "base",
+      "argomento": "Niccolò Machiavelli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'Orlando furioso è un poema epico-cavalleresco.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "L'Orlando furioso è il capolavoro del poema cavalleresco italiano.",
+      "livello": "base",
+      "argomento": "Ludovico Ariosto",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La Gerusalemme liberata narra la seconda Crociata.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "La Gerusalemme liberata narra la prima Crociata (1096-1099).",
+      "livello": "intermedio",
+      "argomento": "Torquato Tasso",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Umanesimo si sviluppa nel:",
+      "rispostaCorretta": "XV secolo",
+      "opzioni": ["XV secolo", "XIII secolo", "XVII secolo", "XIX secolo"],
+      "spiegazione": "L'Umanesimo fiorì nel Quattrocento con la riscoperta dei classici.",
+      "livello": "base",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Rinascimento si sviluppa nel:",
+      "rispostaCorretta": "XV-XVI secolo",
+      "opzioni": ["XV-XVI secolo", "XIII-XIV secolo", "XVII-XVIII secolo", "XIX-XX secolo"],
+      "spiegazione": "Il Rinascimento è il periodo di massimo splendore della cultura italiana.",
+      "livello": "base",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lorenzo de' Medici detto il Magnifico fu:",
+      "rispostaCorretta": "Signore di Firenze e poeta",
+      "opzioni": ["Signore di Firenze e poeta", "Papa", "Re di Napoli", "Doge di Venezia"],
+      "spiegazione": "Lorenzo il Magnifico (1449-1492) fu mecenate e poeta.",
+      "livello": "intermedio",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La canzone 'Quant'è bella giovinezza' di Lorenzo de' Medici esprime:",
+      "rispostaCorretta": "L'invito a godere della giovinezza",
+      "opzioni": ["L'invito a godere della giovinezza", "La tristezza", "La fede religiosa", "La guerra"],
+      "spiegazione": "'Chi vuol esser lieto, sia: / di doman non c'è certezza.'",
+      "livello": "intermedio",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Angelo Poliziano fu:",
+      "rispostaCorretta": "Poeta e umanista alla corte di Lorenzo",
+      "opzioni": ["Poeta e umanista alla corte di Lorenzo", "Un pittore", "Un architetto", "Un musicista"],
+      "spiegazione": "Poliziano scrisse le Stanze per la giostra e l'Orfeo.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Stanze per la giostra di Poliziano celebrano:",
+      "rispostaCorretta": "Giuliano de' Medici",
+      "opzioni": ["Giuliano de' Medici", "Lorenzo de' Medici", "Cosimo de' Medici", "Papa Leone X"],
+      "spiegazione": "Le Stanze celebrano la vittoria di Giuliano in una giostra.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Pico della Mirandola scrisse:",
+      "rispostaCorretta": "L'Orazione sulla dignità dell'uomo",
+      "opzioni": ["L'Orazione sulla dignità dell'uomo", "Il Principe", "Il Cortegiano", "L'Orlando furioso"],
+      "spiegazione": "L'Orazione esalta la libertà e la dignità dell'uomo.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Marsilio Ficino fu importante per:",
+      "rispostaCorretta": "La traduzione di Platone e il neoplatonismo",
+      "opzioni": ["La traduzione di Platone e il neoplatonismo", "La politica", "La scienza", "La musica"],
+      "spiegazione": "Ficino fondò l'Accademia platonica fiorentina.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Arcadia di Jacopo Sannazaro è:",
+      "rispostaCorretta": "Un romanzo pastorale",
+      "opzioni": ["Un romanzo pastorale", "Un poema epico", "Una tragedia", "Un trattato politico"],
+      "spiegazione": "L'Arcadia (1504) mescola prosa e versi in un mondo pastorale idealizzato.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La novellistica del Cinquecento comprende:",
+      "rispostaCorretta": "Le novelle di Bandello e Giraldi Cinzio",
+      "opzioni": ["Le novelle di Bandello e Giraldi Cinzio", "Solo il Decameron", "Solo i Promessi Sposi", "Solo le Confessioni"],
+      "spiegazione": "Bandello e Giraldi Cinzio continuarono la tradizione novellistica.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La commedia del Cinquecento comprende:",
+      "rispostaCorretta": "La Mandragola di Machiavelli e La Calandria di Bibbiena",
+      "opzioni": ["La Mandragola di Machiavelli e La Calandria di Bibbiena", "Solo tragedie", "Solo drammi pastorali", "Solo poemi"],
+      "spiegazione": "La commedia rinascimentale si ispira ai modelli latini.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La tragedia del Cinquecento comprende:",
+      "rispostaCorretta": "La Sofonisba di Trissino e l'Orbecche di Giraldi Cinzio",
+      "opzioni": ["La Sofonisba di Trissino e l'Orbecche di Giraldi Cinzio", "Solo commedie", "Solo drammi pastorali", "Solo poemi"],
+      "spiegazione": "La tragedia rinascimentale si ispira ai modelli greci.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il poema eroicomico del Cinquecento comprende:",
+      "rispostaCorretta": "La Secchia rapita di Tassoni",
+      "opzioni": ["La Secchia rapita di Tassoni", "L'Orlando furioso", "La Gerusalemme liberata", "L'Eneide"],
+      "spiegazione": "Il poema eroicomico parodia l'epica con toni comici.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giordano Bruno fu:",
+      "rispostaCorretta": "Filosofo bruciato sul rogo per eresia",
+      "opzioni": ["Filosofo bruciato sul rogo per eresia", "Un poeta", "Un pittore", "Un musicista"],
+      "spiegazione": "Bruno fu arso vivo a Roma nel 1600 per le sue idee.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Galileo Galilei scrisse:",
+      "rispostaCorretta": "Il Dialogo sopra i due massimi sistemi del mondo",
+      "opzioni": ["Il Dialogo sopra i due massimi sistemi del mondo", "Il Principe", "L'Orlando furioso", "La Gerusalemme liberata"],
+      "spiegazione": "Galileo fu anche un grande prosatore scientifico.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Barocco letterario italiano si sviluppa nel:",
+      "rispostaCorretta": "XVII secolo",
+      "opzioni": ["XVII secolo", "XV secolo", "XVI secolo", "XVIII secolo"],
+      "spiegazione": "Il Barocco è caratterizzato da virtuosismo e meraviglia.",
+      "livello": "intermedio",
+      "argomento": "Barocco",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giambattista Marino fu il maggiore poeta del:",
+      "rispostaCorretta": "Barocco",
+      "opzioni": ["Barocco", "Rinascimento", "Romanticismo", "Decadentismo"],
+      "spiegazione": "Marino (1569-1625) fu il caposcuola della poesia barocca.",
+      "livello": "avanzato",
+      "argomento": "Barocco",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Adone di Marino è:",
+      "rispostaCorretta": "Un lungo poema mitologico",
+      "opzioni": ["Un lungo poema mitologico", "Un trattato politico", "Una commedia", "Un romanzo"],
+      "spiegazione": "L'Adone (1623) narra l'amore di Venere e Adone.",
+      "livello": "avanzato",
+      "argomento": "Barocco",
+      "materia": "italiano"
+    }
+  ]
+}

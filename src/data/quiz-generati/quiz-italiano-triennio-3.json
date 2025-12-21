@@ -1,0 +1,577 @@
+{
+  "materia": "italiano",
+  "descrizione": "Quiz Italiano triennio - Parte 3: Dante, Petrarca, Boccaccio, Umanesimo",
+  "totale": 60,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Dante Alighieri nacque a Firenze nel:",
+      "rispostaCorretta": "1265",
+      "opzioni": ["1265", "1250", "1280", "1300"],
+      "spiegazione": "Dante Alighieri nacque a Firenze nel 1265 e morì in esilio a Ravenna nel 1321.",
+      "livello": "base",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Vita Nuova di Dante è dedicata a:",
+      "rispostaCorretta": "Beatrice",
+      "opzioni": ["Beatrice", "Gemma Donati", "Laura", "Fiammetta"],
+      "spiegazione": "La Vita Nuova è un prosimetro che narra l'amore per Beatrice.",
+      "livello": "base",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il De vulgari eloquentia di Dante è scritto in:",
+      "rispostaCorretta": "Latino",
+      "opzioni": ["Latino", "Volgare fiorentino", "Volgare siciliano", "Francese"],
+      "spiegazione": "Il De vulgari eloquentia è un trattato in latino sulla lingua e la poesia volgare.",
+      "livello": "intermedio",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Divina Commedia è composta da quante cantiche?",
+      "rispostaCorretta": "Tre",
+      "opzioni": ["Tre", "Due", "Quattro", "Cinque"],
+      "spiegazione": "La Divina Commedia è composta da tre cantiche: Inferno, Purgatorio, Paradiso.",
+      "livello": "base",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il viaggio di Dante nella Commedia si svolge nella:",
+      "rispostaCorretta": "Pasqua del 1300",
+      "opzioni": ["Pasqua del 1300", "Natale del 1300", "Estate del 1321", "Primavera del 1265"],
+      "spiegazione": "Il viaggio dura una settimana nella Pasqua del 1300, anno del primo Giubileo.",
+      "livello": "intermedio",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Virgilio guida Dante attraverso:",
+      "rispostaCorretta": "Inferno e Purgatorio",
+      "opzioni": ["Inferno e Purgatorio", "Solo l'Inferno", "Tutto il viaggio", "Solo il Paradiso"],
+      "spiegazione": "Virgilio, simbolo della ragione umana, guida Dante attraverso Inferno e Purgatorio.",
+      "livello": "base",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Beatrice guida Dante attraverso:",
+      "rispostaCorretta": "Il Paradiso",
+      "opzioni": ["Il Paradiso", "L'Inferno", "Il Purgatorio", "Tutto il viaggio"],
+      "spiegazione": "Beatrice, simbolo della teologia e della grazia divina, guida Dante nel Paradiso.",
+      "livello": "base",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Inferno dantesco è strutturato in quanti cerchi?",
+      "rispostaCorretta": "Nove",
+      "opzioni": ["Nove", "Sette", "Dieci", "Dodici"],
+      "spiegazione": "L'Inferno è una voragine divisa in nove cerchi concentrici.",
+      "livello": "base",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il contrappasso dantesco consiste in:",
+      "rispostaCorretta": "Una pena che rispecchia il peccato",
+      "opzioni": ["Una pena che rispecchia il peccato", "Una pena uguale per tutti", "Un perdono", "Una punizione temporanea"],
+      "spiegazione": "Il contrappasso è il principio per cui la pena rispecchia il peccato per analogia o contrasto.",
+      "livello": "avanzato",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Nel canto V dell'Inferno, Dante incontra:",
+      "rispostaCorretta": "Paolo e Francesca",
+      "opzioni": ["Paolo e Francesca", "Ulisse", "Il conte Ugolino", "Farinata"],
+      "spiegazione": "Nel canto V, nel cerchio dei lussuriosi, Dante incontra Paolo e Francesca.",
+      "livello": "base",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Purgatorio dantesco è strutturato come:",
+      "rispostaCorretta": "Una montagna con sette cornici",
+      "opzioni": ["Una montagna con sette cornici", "Una voragine con nove cerchi", "Un cielo con nove sfere", "Una pianura"],
+      "spiegazione": "Il Purgatorio è una montagna con sette cornici dove si espiano i sette peccati capitali.",
+      "livello": "intermedio",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Paradiso dantesco è strutturato in:",
+      "rispostaCorretta": "Nove cieli più l'Empireo",
+      "opzioni": ["Nove cieli più l'Empireo", "Sette sfere", "Dodici cerchi", "Tre regni"],
+      "spiegazione": "Il Paradiso è strutturato in nove cieli concentrici più l'Empireo, sede di Dio.",
+      "livello": "intermedio",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Dante morì in esilio a:",
+      "rispostaCorretta": "Ravenna",
+      "opzioni": ["Ravenna", "Firenze", "Roma", "Verona"],
+      "spiegazione": "Dante morì in esilio a Ravenna nel 1321, ospite di Guido Novello da Polenta.",
+      "livello": "base",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Dante fu esiliato da Firenze nel:",
+      "rispostaCorretta": "1302",
+      "opzioni": ["1302", "1300", "1310", "1321"],
+      "spiegazione": "Dante fu esiliato da Firenze nel 1302 con l'accusa di baratteria.",
+      "livello": "intermedio",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La terzina dantesca è composta da:",
+      "rispostaCorretta": "Tre endecasillabi a rima incatenata (ABA BCB CDC)",
+      "opzioni": ["Tre endecasillabi a rima incatenata (ABA BCB CDC)", "Due quartine e due terzine", "Otto versi", "Versi liberi"],
+      "spiegazione": "La terzina dantesca è composta da tre endecasillabi a rima incatenata (ABA BCB CDC).",
+      "livello": "avanzato",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Dante è considerato il padre della lingua italiana.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Dante è considerato il padre della lingua italiana per aver elevato il volgare a lingua letteraria.",
+      "livello": "base",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Francesco Petrarca nacque ad Arezzo nel:",
+      "rispostaCorretta": "1304",
+      "opzioni": ["1304", "1265", "1313", "1350"],
+      "spiegazione": "Francesco Petrarca nacque ad Arezzo nel 1304 e morì ad Arquà nel 1374.",
+      "livello": "base",
+      "argomento": "Francesco Petrarca",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Petrarca fu incoronato poeta laureato nel 1341 a:",
+      "rispostaCorretta": "Roma, in Campidoglio",
+      "opzioni": ["Roma, in Campidoglio", "Firenze", "Avignone", "Parigi"],
+      "spiegazione": "Nel 1341 Petrarca fu incoronato poeta laureato in Campidoglio a Roma.",
+      "livello": "intermedio",
+      "argomento": "Francesco Petrarca",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Canzoniere di Petrarca è dedicato a:",
+      "rispostaCorretta": "Laura",
+      "opzioni": ["Laura", "Beatrice", "Fiammetta", "Selvaggia"],
+      "spiegazione": "Il Canzoniere raccoglie componimenti dedicati a Laura, incontrata ad Avignone.",
+      "livello": "base",
+      "argomento": "Francesco Petrarca",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Canzoniere di Petrarca contiene quanti componimenti?",
+      "rispostaCorretta": "366",
+      "opzioni": ["366", "100", "300", "500"],
+      "spiegazione": "Il Canzoniere contiene 366 componimenti, numero simbolico dei giorni dell'anno.",
+      "livello": "intermedio",
+      "argomento": "Francesco Petrarca",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Petrarca incontrò Laura ad Avignone il:",
+      "rispostaCorretta": "6 aprile 1327",
+      "opzioni": ["6 aprile 1327", "25 dicembre 1300", "1 gennaio 1350", "15 agosto 1304"],
+      "spiegazione": "Petrarca incontrò Laura ad Avignone il 6 aprile 1327, Venerdì Santo.",
+      "livello": "intermedio",
+      "argomento": "Francesco Petrarca",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Canzoniere di Petrarca è diviso in:",
+      "rispostaCorretta": "Rime in vita e rime in morte di Laura",
+      "opzioni": ["Rime in vita e rime in morte di Laura", "Tre parti", "Dieci sezioni", "Cento capitoli"],
+      "spiegazione": "Il Canzoniere è diviso in rime in vita (1-263) e rime in morte di Laura (264-366).",
+      "livello": "intermedio",
+      "argomento": "Francesco Petrarca",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il sonetto proemiale del Canzoniere inizia con:",
+      "rispostaCorretta": "Voi ch'ascoltate in rime sparse il suono",
+      "opzioni": ["Voi ch'ascoltate in rime sparse il suono", "Chiare fresche e dolci acque", "Solo et pensoso", "Era il giorno"],
+      "spiegazione": "Il sonetto 'Voi ch'ascoltate in rime sparse il suono' è il proemio del Canzoniere.",
+      "livello": "avanzato",
+      "argomento": "Francesco Petrarca",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'accidia di Petrarca indica:",
+      "rispostaCorretta": "Un tormento interiore tra desiderio terreno e aspirazione spirituale",
+      "opzioni": ["Un tormento interiore tra desiderio terreno e aspirazione spirituale", "Pigrizia fisica", "Odio verso gli altri", "Amore per il denaro"],
+      "spiegazione": "L'accidia petrarchesca è il tormento tra l'amore terreno per Laura e l'aspirazione alla salvezza.",
+      "livello": "avanzato",
+      "argomento": "Francesco Petrarca",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Petrarca scrisse principalmente in latino.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Petrarca considerava le opere latine più importanti, ma la fama gli venne dal Canzoniere in volgare.",
+      "livello": "intermedio",
+      "argomento": "Francesco Petrarca",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giovanni Boccaccio nacque nel:",
+      "rispostaCorretta": "1313",
+      "opzioni": ["1313", "1265", "1304", "1350"],
+      "spiegazione": "Giovanni Boccaccio nacque nel 1313 e morì nel 1375.",
+      "livello": "base",
+      "argomento": "Giovanni Boccaccio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Decameron è ambientato durante:",
+      "rispostaCorretta": "La peste del 1348",
+      "opzioni": ["La peste del 1348", "La peste del 1630", "Una guerra", "Una carestia"],
+      "spiegazione": "Il Decameron è ambientato durante la peste nera del 1348 che devastò Firenze.",
+      "livello": "base",
+      "argomento": "Giovanni Boccaccio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Decameron contiene quante novelle?",
+      "rispostaCorretta": "100",
+      "opzioni": ["100", "50", "150", "366"],
+      "spiegazione": "Il Decameron contiene 100 novelle narrate in dieci giornate.",
+      "livello": "base",
+      "argomento": "Giovanni Boccaccio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il termine 'Decameron' significa:",
+      "rispostaCorretta": "Dieci giornate",
+      "opzioni": ["Dieci giornate", "Cento novelle", "Dieci narratori", "Dieci temi"],
+      "spiegazione": "Decameron deriva dal greco e significa 'dieci giornate'.",
+      "livello": "base",
+      "argomento": "Giovanni Boccaccio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I narratori del Decameron sono:",
+      "rispostaCorretta": "Sette donne e tre uomini",
+      "opzioni": ["Sette donne e tre uomini", "Cinque donne e cinque uomini", "Dieci uomini", "Dieci donne"],
+      "spiegazione": "Le novelle sono narrate da dieci giovani: sette donne e tre uomini.",
+      "livello": "intermedio",
+      "argomento": "Giovanni Boccaccio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La novella di Ser Ciappelletto tratta di:",
+      "rispostaCorretta": "Un peccatore che muore in odore di santità",
+      "opzioni": ["Un peccatore che muore in odore di santità", "Un mercante onesto", "Un frate virtuoso", "Un re giusto"],
+      "spiegazione": "Ser Ciappelletto, con una falsa confessione, muore venerato come santo.",
+      "livello": "avanzato",
+      "argomento": "Giovanni Boccaccio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La novella di Federigo degli Alberighi celebra:",
+      "rispostaCorretta": "L'amore cortese e la generosità",
+      "opzioni": ["L'amore cortese e la generosità", "L'astuzia mercantile", "La beffa", "La fortuna"],
+      "spiegazione": "Federigo sacrifica il suo falcone per amore di monna Giovanna.",
+      "livello": "intermedio",
+      "argomento": "Giovanni Boccaccio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Boccaccio si formò culturalmente a:",
+      "rispostaCorretta": "Napoli",
+      "opzioni": ["Napoli", "Firenze", "Roma", "Milano"],
+      "spiegazione": "Boccaccio trascorse la giovinezza a Napoli, dove si formò culturalmente alla corte angioina.",
+      "livello": "intermedio",
+      "argomento": "Giovanni Boccaccio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Nel Decameron ogni giornata ha un tema fisso.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Ogni giornata ha un tema, tranne la prima e la nona che sono a tema libero.",
+      "livello": "avanzato",
+      "argomento": "Giovanni Boccaccio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Umanesimo si sviluppa principalmente nel:",
+      "rispostaCorretta": "XV secolo",
+      "opzioni": ["XV secolo", "XIII secolo", "XVII secolo", "XII secolo"],
+      "spiegazione": "L'Umanesimo è il movimento culturale del XV secolo che pone l'uomo al centro.",
+      "livello": "base",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La 'dignitas hominis' umanistica indica:",
+      "rispostaCorretta": "La centralità e il valore dell'uomo",
+      "opzioni": ["La centralità e il valore dell'uomo", "La superiorità della nobiltà", "Il primato della Chiesa", "L'importanza della ricchezza"],
+      "spiegazione": "La dignitas hominis è il concetto centrale: l'uomo è artefice del proprio destino.",
+      "livello": "intermedio",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lorenzo de' Medici, detto il Magnifico, fu signore di:",
+      "rispostaCorretta": "Firenze",
+      "opzioni": ["Firenze", "Milano", "Venezia", "Roma"],
+      "spiegazione": "Lorenzo de' Medici (1449-1492) fu signore di Firenze e grande mecenate.",
+      "livello": "base",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'invenzione della stampa a caratteri mobili avvenne nel:",
+      "rispostaCorretta": "1455 circa",
+      "opzioni": ["1455 circa", "1400", "1500", "1550"],
+      "spiegazione": "L'invenzione della stampa da parte di Gutenberg (1455 circa) rivoluzionò la diffusione della cultura.",
+      "livello": "intermedio",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il 'Principe' di Machiavelli fu scritto nel:",
+      "rispostaCorretta": "1513",
+      "opzioni": ["1513", "1500", "1532", "1550"],
+      "spiegazione": "Il Principe fu scritto nel 1513, ma pubblicato postumo nel 1532.",
+      "livello": "intermedio",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Orlando Furioso di Ariosto fu pubblicato nella versione definitiva nel:",
+      "rispostaCorretta": "1532",
+      "opzioni": ["1532", "1500", "1550", "1480"],
+      "spiegazione": "L'Orlando Furioso fu pubblicato nella versione definitiva in 46 canti nel 1532.",
+      "livello": "intermedio",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'Orlando Furioso di Ariosto è un poema cavalleresco in ottave.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "L'Orlando Furioso è un poema cavalleresco in ottave che narra le avventure dei paladini.",
+      "livello": "base",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Gerusalemme Liberata di Torquato Tasso narra:",
+      "rispostaCorretta": "La prima crociata",
+      "opzioni": ["La prima crociata", "La guerra di Troia", "Le avventure di Orlando", "La fondazione di Roma"],
+      "spiegazione": "La Gerusalemme Liberata narra la prima crociata e la conquista di Gerusalemme.",
+      "livello": "intermedio",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli umanisti riscoprirono i classici:",
+      "rispostaCorretta": "Greco-latini",
+      "opzioni": ["Greco-latini", "Egizi", "Arabi", "Cinesi"],
+      "spiegazione": "L'Umanesimo si caratterizza per la riscoperta dei classici greco-latini.",
+      "livello": "base",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il metodo filologico umanistico consiste in:",
+      "rispostaCorretta": "Lo studio critico dei testi antichi",
+      "opzioni": ["Lo studio critico dei testi antichi", "La traduzione letterale", "La memorizzazione", "La copiatura"],
+      "spiegazione": "Gli umanisti svilupparono il metodo filologico per lo studio critico dei testi antichi.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Pico della Mirandola scrisse:",
+      "rispostaCorretta": "L'Orazione sulla dignità dell'uomo",
+      "opzioni": ["L'Orazione sulla dignità dell'uomo", "Il Principe", "Il Cortegiano", "L'Orlando Furioso"],
+      "spiegazione": "Pico della Mirandola scrisse l'Orazione sulla dignità dell'uomo, manifesto dell'Umanesimo.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Cortegiano di Baldassarre Castiglione descrive:",
+      "rispostaCorretta": "L'ideale dell'uomo di corte",
+      "opzioni": ["L'ideale dell'uomo di corte", "La vita dei contadini", "Le guerre italiane", "La storia di Firenze"],
+      "spiegazione": "Il Cortegiano (1528) descrive l'ideale dell'uomo di corte rinascimentale.",
+      "livello": "intermedio",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La 'sprezzatura' nel Cortegiano indica:",
+      "rispostaCorretta": "La naturalezza che nasconde lo sforzo",
+      "opzioni": ["La naturalezza che nasconde lo sforzo", "Il disprezzo per gli altri", "La pigrizia", "L'arroganza"],
+      "spiegazione": "La sprezzatura è la naturalezza che nasconde lo sforzo, virtù del perfetto cortigiano.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Machiavelli teorizza la separazione tra:",
+      "rispostaCorretta": "Politica e morale",
+      "opzioni": ["Politica e morale", "Chiesa e Stato", "Nobiltà e popolo", "Arte e scienza"],
+      "spiegazione": "Machiavelli teorizza la separazione tra politica e morale: il fine giustifica i mezzi.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ottava rima è composta da:",
+      "rispostaCorretta": "Otto endecasillabi con schema ABABABCC",
+      "opzioni": ["Otto endecasillabi con schema ABABABCC", "Sei versi", "Quattordici versi", "Versi liberi"],
+      "spiegazione": "L'ottava rima è composta da otto endecasillabi con schema ABABABCC.",
+      "livello": "avanzato",
+      "argomento": "Umanesimo e Rinascimento",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Convivio di Dante è:",
+      "rispostaCorretta": "Un trattato enciclopedico in volgare",
+      "opzioni": ["Un trattato enciclopedico in volgare", "Un poema epico", "Una raccolta di novelle", "Un'opera teatrale"],
+      "spiegazione": "Il Convivio è un trattato enciclopedico in volgare, rimasto incompiuto.",
+      "livello": "avanzato",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Monarchia di Dante sostiene:",
+      "rispostaCorretta": "L'autonomia dell'Impero dalla Chiesa",
+      "opzioni": ["L'autonomia dell'Impero dalla Chiesa", "Il primato del Papa", "La repubblica", "L'anarchia"],
+      "spiegazione": "La Monarchia sostiene l'autonomia dell'Impero dalla Chiesa, entrambi voluti da Dio.",
+      "livello": "avanzato",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Nel canto XXVI dell'Inferno, Dante incontra:",
+      "rispostaCorretta": "Ulisse",
+      "opzioni": ["Ulisse", "Paolo e Francesca", "Il conte Ugolino", "Farinata"],
+      "spiegazione": "Nel canto XXVI Dante incontra Ulisse, punito tra i consiglieri fraudolenti.",
+      "livello": "intermedio",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Nel canto XXXIII dell'Inferno, Dante incontra:",
+      "rispostaCorretta": "Il conte Ugolino",
+      "opzioni": ["Il conte Ugolino", "Ulisse", "Paolo e Francesca", "Farinata"],
+      "spiegazione": "Nel canto XXXIII Dante incontra il conte Ugolino che rode il cranio dell'arcivescovo Ruggieri.",
+      "livello": "intermedio",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Farinata degli Uberti era:",
+      "rispostaCorretta": "Un capo ghibellino",
+      "opzioni": ["Un capo ghibellino", "Un papa", "Un poeta", "Un mercante"],
+      "spiegazione": "Farinata degli Uberti era un capo ghibellino fiorentino, punito tra gli eretici.",
+      "livello": "avanzato",
+      "argomento": "Dante Alighieri",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Secretum di Petrarca è un dialogo tra:",
+      "rispostaCorretta": "Petrarca e Sant'Agostino",
+      "opzioni": ["Petrarca e Sant'Agostino", "Petrarca e Laura", "Petrarca e Dante", "Petrarca e Boccaccio"],
+      "spiegazione": "Il Secretum è un dialogo immaginario tra Petrarca e Sant'Agostino sull'accidia.",
+      "livello": "avanzato",
+      "argomento": "Francesco Petrarca",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Boccaccio scrisse la prima biografia di:",
+      "rispostaCorretta": "Dante",
+      "opzioni": ["Dante", "Petrarca", "Virgilio", "Omero"],
+      "spiegazione": "Boccaccio scrisse il Trattatello in laude di Dante, prima biografia del poeta.",
+      "livello": "avanzato",
+      "argomento": "Giovanni Boccaccio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Filocolo di Boccaccio è:",
+      "rispostaCorretta": "Un romanzo in prosa",
+      "opzioni": ["Un romanzo in prosa", "Un poema epico", "Una raccolta di novelle", "Un trattato"],
+      "spiegazione": "Il Filocolo è un romanzo in prosa che narra la storia di Florio e Biancifiore.",
+      "livello": "avanzato",
+      "argomento": "Giovanni Boccaccio",
+      "materia": "italiano"
+    }
+  ]
+}

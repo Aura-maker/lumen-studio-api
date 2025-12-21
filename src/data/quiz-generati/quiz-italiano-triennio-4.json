@@ -1,0 +1,547 @@
+{
+  "materia": "italiano",
+  "descrizione": "Quiz Italiano triennio - Parte 4: Leopardi, Romanticismo, Verismo",
+  "totale": 60,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Giacomo Leopardi nacque a Recanati nel:",
+      "rispostaCorretta": "1798",
+      "opzioni": ["1798", "1785", "1810", "1827"],
+      "spiegazione": "Giacomo Leopardi nacque a Recanati nel 1798 e morì a Napoli nel 1837.",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo Zibaldone di Leopardi è:",
+      "rispostaCorretta": "Un diario di pensieri e riflessioni",
+      "opzioni": ["Un diario di pensieri e riflessioni", "Un romanzo", "Una raccolta di poesie", "Un'opera teatrale"],
+      "spiegazione": "Lo Zibaldone è un diario intellettuale con riflessioni filosofiche e letterarie.",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Canti di Leopardi comprendono:",
+      "rispostaCorretta": "Le sue poesie più importanti",
+      "opzioni": ["Le sue poesie più importanti", "Prose filosofiche", "Lettere", "Drammi"],
+      "spiegazione": "I Canti raccolgono le poesie di Leopardi, dai piccoli idilli ai grandi canti.",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Infinito di Leopardi è un:",
+      "rispostaCorretta": "Idillio",
+      "opzioni": ["Idillio", "Sonetto", "Canzone", "Ode"],
+      "spiegazione": "L'Infinito è uno dei 'piccoli idilli', componimenti brevi e contemplativi.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il pessimismo leopardiano passa attraverso tre fasi:",
+      "rispostaCorretta": "Storico, cosmico, eroico",
+      "opzioni": ["Storico, cosmico, eroico", "Giovanile, maturo, senile", "Religioso, laico, ateo", "Individuale, sociale, universale"],
+      "spiegazione": "Il pessimismo evolve: storico (colpa della ragione), cosmico (natura matrigna), eroico (solidarietà).",
+      "livello": "avanzato",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La teoria del piacere di Leopardi afferma che:",
+      "rispostaCorretta": "Il piacere è sempre attesa, mai realizzazione",
+      "opzioni": ["Il piacere è sempre attesa, mai realizzazione", "Il piacere è facilmente raggiungibile", "Il piacere non esiste", "Il piacere è solo fisico"],
+      "spiegazione": "Per Leopardi il piacere infinito desiderato non può mai essere raggiunto.",
+      "livello": "avanzato",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "A Silvia è dedicata a:",
+      "rispostaCorretta": "Teresa Fattorini, morta giovane",
+      "opzioni": ["Teresa Fattorini, morta giovane", "La sorella di Leopardi", "Una donna immaginaria", "La madre"],
+      "spiegazione": "Silvia è Teresa Fattorini, figlia del cocchiere, morta di tisi a 21 anni.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il sabato del villaggio celebra:",
+      "rispostaCorretta": "L'attesa della festa, più bella della festa stessa",
+      "opzioni": ["L'attesa della festa, più bella della festa stessa", "La domenica", "Il lavoro", "La religione"],
+      "spiegazione": "Il sabato (attesa) è più bello della domenica (realizzazione): metafora della giovinezza.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La ginestra di Leopardi è ambientata:",
+      "rispostaCorretta": "Sulle pendici del Vesuvio",
+      "opzioni": ["Sulle pendici del Vesuvio", "A Recanati", "In Toscana", "A Roma"],
+      "spiegazione": "La ginestra cresce sulle lave del Vesuvio, simbolo di resistenza alla natura ostile.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Operette morali di Leopardi sono:",
+      "rispostaCorretta": "Prose filosofiche in forma di dialogo",
+      "opzioni": ["Prose filosofiche in forma di dialogo", "Poesie", "Romanzi", "Lettere"],
+      "spiegazione": "Le Operette morali sono prose satirico-filosofiche, spesso in forma dialogica.",
+      "livello": "intermedio",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Dialogo della Natura e di un Islandese esprime:",
+      "rispostaCorretta": "L'indifferenza della Natura verso l'uomo",
+      "opzioni": ["L'indifferenza della Natura verso l'uomo", "L'amore della Natura", "La bontà del creato", "L'armonia universale"],
+      "spiegazione": "La Natura è indifferente alla sofferenza umana: pessimismo cosmico.",
+      "livello": "avanzato",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Romanticismo italiano si sviluppa principalmente nel:",
+      "rispostaCorretta": "XIX secolo",
+      "opzioni": ["XIX secolo", "XVIII secolo", "XVII secolo", "XX secolo"],
+      "spiegazione": "Il Romanticismo italiano fiorisce nell'Ottocento, con ritardo rispetto all'Europa.",
+      "livello": "base",
+      "argomento": "Il Romanticismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La polemica classico-romantica in Italia iniziò con:",
+      "rispostaCorretta": "L'articolo di Madame de Staël sulla traduzione",
+      "opzioni": ["L'articolo di Madame de Staël sulla traduzione", "I Promessi Sposi", "Le poesie di Leopardi", "Le tragedie di Alfieri"],
+      "spiegazione": "L'articolo di Madame de Staël (1816) invitava gli italiani a conoscere le letterature straniere.",
+      "livello": "avanzato",
+      "argomento": "Il Romanticismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Conciliatore era:",
+      "rispostaCorretta": "Una rivista romantica milanese",
+      "opzioni": ["Una rivista romantica milanese", "Un romanzo", "Un'opera teatrale", "Un giornale politico"],
+      "spiegazione": "Il Conciliatore (1818-1819) fu la rivista del Romanticismo lombardo.",
+      "livello": "avanzato",
+      "argomento": "Il Romanticismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giovanni Berchet scrisse la Lettera semiseria di Grisostomo per:",
+      "rispostaCorretta": "Difendere il Romanticismo",
+      "opzioni": ["Difendere il Romanticismo", "Attaccare Manzoni", "Lodare il Classicismo", "Criticare Leopardi"],
+      "spiegazione": "La Lettera semiseria (1816) è il manifesto del Romanticismo italiano.",
+      "livello": "avanzato",
+      "argomento": "Il Romanticismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Ugo Foscolo scrisse:",
+      "rispostaCorretta": "I Sepolcri e Le ultime lettere di Jacopo Ortis",
+      "opzioni": ["I Sepolcri e Le ultime lettere di Jacopo Ortis", "I Promessi Sposi", "I Canti", "Il Decameron"],
+      "spiegazione": "Foscolo scrisse I Sepolcri (1807) e il romanzo epistolare Jacopo Ortis.",
+      "livello": "base",
+      "argomento": "Il Romanticismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Sepolcri di Foscolo sono:",
+      "rispostaCorretta": "Un carme in endecasillabi sciolti",
+      "opzioni": ["Un carme in endecasillabi sciolti", "Un romanzo", "Una tragedia", "Una raccolta di sonetti"],
+      "spiegazione": "I Sepolcri sono un carme di 295 endecasillabi sciolti sul valore delle tombe.",
+      "livello": "intermedio",
+      "argomento": "Il Romanticismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Verismo italiano si ispira al:",
+      "rispostaCorretta": "Naturalismo francese",
+      "opzioni": ["Naturalismo francese", "Romanticismo tedesco", "Classicismo greco", "Barocco spagnolo"],
+      "spiegazione": "Il Verismo si ispira al Naturalismo di Zola, ma con caratteri originali.",
+      "livello": "intermedio",
+      "argomento": "Il Verismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giovanni Verga nacque a:",
+      "rispostaCorretta": "Catania",
+      "opzioni": ["Catania", "Palermo", "Milano", "Roma"],
+      "spiegazione": "Giovanni Verga nacque a Catania nel 1840 e morì nel 1922.",
+      "livello": "base",
+      "argomento": "Il Verismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Malavoglia di Verga narrano:",
+      "rispostaCorretta": "La storia di una famiglia di pescatori siciliani",
+      "opzioni": ["La storia di una famiglia di pescatori siciliani", "La vita di un nobile", "Una storia d'amore", "Un'avventura"],
+      "spiegazione": "I Malavoglia (1881) narrano la rovina della famiglia Toscano ad Aci Trezza.",
+      "livello": "base",
+      "argomento": "Il Verismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La tecnica dell'impersonalità verghiana consiste nel:",
+      "rispostaCorretta": "Far sparire l'autore dalla narrazione",
+      "opzioni": ["Far sparire l'autore dalla narrazione", "Usare la prima persona", "Commentare i fatti", "Giudicare i personaggi"],
+      "spiegazione": "L'impersonalità: l'autore non commenta, lascia parlare i fatti.",
+      "livello": "avanzato",
+      "argomento": "Il Verismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La regressione verghiana significa che:",
+      "rispostaCorretta": "Il narratore adotta il punto di vista dei personaggi",
+      "opzioni": ["Il narratore adotta il punto di vista dei personaggi", "La storia va indietro nel tempo", "I personaggi regrediscono", "Lo stile diventa semplice"],
+      "spiegazione": "Il narratore regredisce al livello culturale dei personaggi popolari.",
+      "livello": "avanzato",
+      "argomento": "Il Verismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Mastro-don Gesualdo di Verga narra:",
+      "rispostaCorretta": "L'ascesa e la caduta di un muratore arricchito",
+      "opzioni": ["L'ascesa e la caduta di un muratore arricchito", "La vita di un pescatore", "Una storia d'amore", "La vita di un nobile"],
+      "spiegazione": "Mastro-don Gesualdo (1889) narra la parabola di Gesualdo Motta.",
+      "livello": "intermedio",
+      "argomento": "Il Verismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il ciclo dei Vinti di Verga doveva comprendere:",
+      "rispostaCorretta": "Cinque romanzi",
+      "opzioni": ["Cinque romanzi", "Tre romanzi", "Dieci romanzi", "Due romanzi"],
+      "spiegazione": "Il ciclo dei Vinti prevedeva 5 romanzi; Verga ne completò solo 2.",
+      "livello": "avanzato",
+      "argomento": "Il Verismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La novella Rosso Malpelo di Verga è ambientata:",
+      "rispostaCorretta": "In una cava di rena siciliana",
+      "opzioni": ["In una cava di rena siciliana", "In un villaggio di pescatori", "In una città", "In campagna"],
+      "spiegazione": "Rosso Malpelo lavora in una cava di rena, sfruttato e disprezzato.",
+      "livello": "intermedio",
+      "argomento": "Il Verismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Luigi Capuana fu:",
+      "rispostaCorretta": "Teorico del Verismo e scrittore",
+      "opzioni": ["Teorico del Verismo e scrittore", "Solo poeta", "Solo critico", "Pittore"],
+      "spiegazione": "Capuana fu il teorico del Verismo italiano e autore di romanzi.",
+      "livello": "intermedio",
+      "argomento": "Il Verismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ideale dell'ostrica in Verga significa:",
+      "rispostaCorretta": "Chi si stacca dal proprio ambiente è destinato a perire",
+      "opzioni": ["Chi si stacca dal proprio ambiente è destinato a perire", "Bisogna viaggiare", "Il progresso è positivo", "La mobilità sociale è facile"],
+      "spiegazione": "Come l'ostrica attaccata allo scoglio, chi lascia il suo mondo è perduto.",
+      "livello": "avanzato",
+      "argomento": "Il Verismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giosuè Carducci vinse il Premio Nobel per la Letteratura nel:",
+      "rispostaCorretta": "1906",
+      "opzioni": ["1906", "1900", "1890", "1920"],
+      "spiegazione": "Carducci fu il primo italiano a vincere il Nobel per la Letteratura (1906).",
+      "livello": "intermedio",
+      "argomento": "Il Romanticismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Odi barbare di Carducci sono caratterizzate da:",
+      "rispostaCorretta": "Metri classici adattati all'italiano",
+      "opzioni": ["Metri classici adattati all'italiano", "Versi liberi", "Rime tradizionali", "Prosa poetica"],
+      "spiegazione": "Le Odi barbare ripropongono i metri classici senza rima.",
+      "livello": "avanzato",
+      "argomento": "Il Romanticismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giovanni Pascoli nacque nel:",
+      "rispostaCorretta": "1855",
+      "opzioni": ["1855", "1840", "1870", "1900"],
+      "spiegazione": "Giovanni Pascoli nacque a San Mauro di Romagna nel 1855, morì nel 1912.",
+      "livello": "base",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La poetica del fanciullino di Pascoli afferma che:",
+      "rispostaCorretta": "In ogni uomo c'è un fanciullo che vede le cose con meraviglia",
+      "opzioni": ["In ogni uomo c'è un fanciullo che vede le cose con meraviglia", "La poesia è per i bambini", "I poeti sono infantili", "La poesia deve essere semplice"],
+      "spiegazione": "Il fanciullino è la capacità di vedere il mondo con stupore e meraviglia.",
+      "livello": "intermedio",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Myricae di Pascoli prende il titolo da:",
+      "rispostaCorretta": "Un verso di Virgilio",
+      "opzioni": ["Un verso di Virgilio", "Un verso di Dante", "Un verso di Petrarca", "Un verso di Leopardi"],
+      "spiegazione": "Myricae (tamerici) viene dalle Bucoliche di Virgilio: poesia delle piccole cose.",
+      "livello": "avanzato",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "X Agosto di Pascoli ricorda:",
+      "rispostaCorretta": "L'assassinio del padre",
+      "opzioni": ["L'assassinio del padre", "La morte della madre", "Un amore perduto", "Un viaggio"],
+      "spiegazione": "X Agosto commemora l'uccisione del padre Ruggero il 10 agosto 1867.",
+      "livello": "intermedio",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il tema del 'nido' in Pascoli rappresenta:",
+      "rispostaCorretta": "La famiglia come rifugio dal mondo ostile",
+      "opzioni": ["La famiglia come rifugio dal mondo ostile", "La natura", "L'avventura", "Il viaggio"],
+      "spiegazione": "Il nido familiare è il rifugio contro il male del mondo.",
+      "livello": "intermedio",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gabriele D'Annunzio nacque a:",
+      "rispostaCorretta": "Pescara",
+      "opzioni": ["Pescara", "Roma", "Firenze", "Milano"],
+      "spiegazione": "D'Annunzio nacque a Pescara nel 1863 e morì nel 1938.",
+      "livello": "base",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'estetismo dannunziano afferma che:",
+      "rispostaCorretta": "La vita deve essere un'opera d'arte",
+      "opzioni": ["La vita deve essere un'opera d'arte", "L'arte deve essere utile", "La bellezza non conta", "L'arte deve essere morale"],
+      "spiegazione": "Per D'Annunzio la vita stessa deve essere vissuta come opera d'arte.",
+      "livello": "intermedio",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Piacere di D'Annunzio è:",
+      "rispostaCorretta": "Un romanzo",
+      "opzioni": ["Un romanzo", "Una raccolta di poesie", "Un'opera teatrale", "Un saggio"],
+      "spiegazione": "Il Piacere (1889) è il romanzo dell'esteta Andrea Sperelli.",
+      "livello": "base",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Alcyone di D'Annunzio fa parte delle:",
+      "rispostaCorretta": "Laudi del cielo del mare della terra e degli eroi",
+      "opzioni": ["Laudi del cielo del mare della terra e degli eroi", "Poema paradisiaco", "Canto novo", "Primo vere"],
+      "spiegazione": "Alcyone è il terzo libro delle Laudi, il più lirico e celebre.",
+      "livello": "avanzato",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La pioggia nel pineto è una poesia di:",
+      "rispostaCorretta": "D'Annunzio",
+      "opzioni": ["D'Annunzio", "Pascoli", "Carducci", "Leopardi"],
+      "spiegazione": "La pioggia nel pineto è in Alcyone: fusione panica con la natura.",
+      "livello": "base",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il superomismo dannunziano si ispira a:",
+      "rispostaCorretta": "Nietzsche",
+      "opzioni": ["Nietzsche", "Marx", "Freud", "Darwin"],
+      "spiegazione": "D'Annunzio interpreta il superuomo nietzschiano in chiave estetizzante.",
+      "livello": "avanzato",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Leopardi fu un poeta ottimista.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Leopardi è il poeta del pessimismo: la natura è indifferente, il piacere irraggiungibile.",
+      "livello": "base",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Verga ambientò i suoi romanzi veristi principalmente in Sicilia.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "I Malavoglia e Mastro-don Gesualdo sono ambientati in Sicilia.",
+      "livello": "base",
+      "argomento": "Il Verismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Pascoli visse un'infanzia serena.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "L'infanzia di Pascoli fu segnata da lutti: l'assassinio del padre, la morte della madre e di fratelli.",
+      "livello": "base",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il canto notturno di un pastore errante dell'Asia di Leopardi è:",
+      "rispostaCorretta": "Una riflessione sul senso della vita",
+      "opzioni": ["Una riflessione sul senso della vita", "Una poesia d'amore", "Un inno patriottico", "Una satira"],
+      "spiegazione": "Il pastore interroga la luna sul senso dell'esistenza: pessimismo cosmico.",
+      "livello": "avanzato",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La quiete dopo la tempesta di Leopardi esprime:",
+      "rispostaCorretta": "Il piacere come cessazione del dolore",
+      "opzioni": ["Il piacere come cessazione del dolore", "La gioia della vita", "L'amore per la natura", "La fede religiosa"],
+      "spiegazione": "Il piacere è solo negativo: cessazione del dolore, non godimento positivo.",
+      "livello": "avanzato",
+      "argomento": "Giacomo Leopardi",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le ultime lettere di Jacopo Ortis di Foscolo è ispirato a:",
+      "rispostaCorretta": "I dolori del giovane Werther di Goethe",
+      "opzioni": ["I dolori del giovane Werther di Goethe", "I Promessi Sposi", "La Divina Commedia", "Il Decameron"],
+      "spiegazione": "L'Ortis è un romanzo epistolare ispirato al Werther di Goethe.",
+      "livello": "intermedio",
+      "argomento": "Il Romanticismo italiano",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Vita dei campi di Verga è:",
+      "rispostaCorretta": "Una raccolta di novelle",
+      "opzioni": ["Una raccolta di novelle", "Un romanzo", "Una poesia", "Un saggio"],
+      "spiegazione": "Vita dei campi (1880) raccoglie novelle veriste come Rosso Malpelo.",
+      "livello": "intermedio",
+      "argomento": "Il Verismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La lupa di Verga è:",
+      "rispostaCorretta": "Una novella",
+      "opzioni": ["Una novella", "Un romanzo", "Una poesia", "Un dramma"],
+      "spiegazione": "La lupa è una novella di Vita dei campi sulla passione distruttiva.",
+      "livello": "intermedio",
+      "argomento": "Il Verismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Novelle rusticane di Verga comprende:",
+      "rispostaCorretta": "Novelle sulla vita contadina siciliana",
+      "opzioni": ["Novelle sulla vita contadina siciliana", "Romanzi", "Poesie", "Saggi"],
+      "spiegazione": "Novelle rusticane (1883) descrive la dura vita dei contadini siciliani.",
+      "livello": "intermedio",
+      "argomento": "Il Verismo",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Canti di Castelvecchio di Pascoli sono:",
+      "rispostaCorretta": "Una raccolta di poesie",
+      "opzioni": ["Una raccolta di poesie", "Un romanzo", "Un saggio", "Un dramma"],
+      "spiegazione": "I Canti di Castelvecchio (1903) continuano i temi di Myricae.",
+      "livello": "intermedio",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il gelsomino notturno di Pascoli allude a:",
+      "rispostaCorretta": "La notte di nozze",
+      "opzioni": ["La notte di nozze", "La morte", "Un viaggio", "La primavera"],
+      "spiegazione": "Il gelsomino notturno allude alla notte di nozze con simbolismo floreale.",
+      "livello": "avanzato",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il fonosimbolismo pascoliano consiste in:",
+      "rispostaCorretta": "L'uso evocativo dei suoni delle parole",
+      "opzioni": ["L'uso evocativo dei suoni delle parole", "L'uso di simboli grafici", "La musica", "Il silenzio"],
+      "spiegazione": "Pascoli usa onomatopee e suoni per evocare sensazioni (scilp, videvitt).",
+      "livello": "avanzato",
+      "argomento": "Giovanni Pascoli",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Notturno di D'Annunzio fu scritto:",
+      "rispostaCorretta": "Durante una convalescenza per un incidente aereo",
+      "opzioni": ["Durante una convalescenza per un incidente aereo", "In gioventù", "In esilio", "Durante la guerra"],
+      "spiegazione": "Il Notturno fu scritto al buio durante la convalescenza per la perdita di un occhio.",
+      "livello": "avanzato",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il panismo dannunziano indica:",
+      "rispostaCorretta": "La fusione dell'io con la natura",
+      "opzioni": ["La fusione dell'io con la natura", "Il culto del dio Pan", "L'amore per gli animali", "Il vegetarianismo"],
+      "spiegazione": "Il panismo è la fusione estatica dell'io con la natura (La pioggia nel pineto).",
+      "livello": "avanzato",
+      "argomento": "Gabriele D'Annunzio",
+      "materia": "italiano"
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "materia": "storia",
+  "descrizione": "Quiz Storia triennio - Parte 2: Età Moderna, Rivoluzioni, Ottocento",
+  "totale": 65,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Cristoforo Colombo raggiunse le Americhe nel:",
+      "rispostaCorretta": "1492",
+      "opzioni": ["1492", "1500", "1450", "1520"],
+      "spiegazione": "Colombo raggiunse le Americhe il 12 ottobre 1492, credendo di essere in Asia.",
+      "livello": "base",
+      "argomento": "Le scoperte geografiche",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Riforma protestante iniziò nel:",
+      "rispostaCorretta": "1517",
+      "opzioni": ["1517", "1492", "1545", "1600"],
+      "spiegazione": "Nel 1517 Lutero affisse le 95 tesi contro le indulgenze.",
+      "livello": "base",
+      "argomento": "Riforma e Controriforma",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Concilio di Trento (1545-1563) fu la risposta cattolica a:",
+      "rispostaCorretta": "La Riforma protestante",
+      "opzioni": ["La Riforma protestante", "Le Crociate", "Lo scisma d'Oriente", "L'Illuminismo"],
+      "spiegazione": "Il Concilio di Trento avviò la Controriforma cattolica.",
+      "livello": "intermedio",
+      "argomento": "Riforma e Controriforma",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Guerra dei Trent'anni (1618-1648) terminò con:",
+      "rispostaCorretta": "La Pace di Westfalia",
+      "opzioni": ["La Pace di Westfalia", "La Pace di Parigi", "Il Trattato di Vienna", "La Pace di Utrecht"],
+      "spiegazione": "La Pace di Westfalia (1648) ridisegnò l'Europa e sancì la libertà religiosa.",
+      "livello": "intermedio",
+      "argomento": "L'Europa del Seicento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Luigi XIV di Francia è noto come:",
+      "rispostaCorretta": "Il Re Sole",
+      "opzioni": ["Il Re Sole", "Il Re Filosofo", "Il Grande", "Il Pio"],
+      "spiegazione": "Luigi XIV, il Re Sole, regnò dal 1643 al 1715 con potere assoluto.",
+      "livello": "base",
+      "argomento": "L'Europa del Seicento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'assolutismo è un sistema politico in cui:",
+      "rispostaCorretta": "Il re ha potere illimitato",
+      "opzioni": ["Il re ha potere illimitato", "Il popolo governa", "Il parlamento decide", "La Chiesa comanda"],
+      "spiegazione": "Nell'assolutismo il sovrano concentra tutti i poteri senza limiti.",
+      "livello": "base",
+      "argomento": "L'Europa del Seicento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Gloriosa Rivoluzione inglese avvenne nel:",
+      "rispostaCorretta": "1688",
+      "opzioni": ["1688", "1649", "1789", "1776"],
+      "spiegazione": "La Gloriosa Rivoluzione (1688) instaurò la monarchia parlamentare in Inghilterra.",
+      "livello": "intermedio",
+      "argomento": "L'Europa del Seicento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Illuminismo si sviluppò principalmente nel:",
+      "rispostaCorretta": "XVIII secolo",
+      "opzioni": ["XVIII secolo", "XVII secolo", "XIX secolo", "XVI secolo"],
+      "spiegazione": "L'Illuminismo è il movimento culturale del Settecento basato sulla ragione.",
+      "livello": "base",
+      "argomento": "L'Illuminismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Enciclopedia fu diretta da:",
+      "rispostaCorretta": "Diderot e d'Alembert",
+      "opzioni": ["Diderot e d'Alembert", "Voltaire e Rousseau", "Montesquieu e Locke", "Kant e Hegel"],
+      "spiegazione": "L'Enciclopedia (1751-1772) fu diretta da Diderot e d'Alembert.",
+      "livello": "intermedio",
+      "argomento": "L'Illuminismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Montesquieu teorizzò:",
+      "rispostaCorretta": "La separazione dei poteri",
+      "opzioni": ["La separazione dei poteri", "Il contratto sociale", "La volontà generale", "L'assolutismo"],
+      "spiegazione": "Montesquieu teorizzò la separazione dei poteri: legislativo, esecutivo, giudiziario.",
+      "livello": "intermedio",
+      "argomento": "L'Illuminismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Rivoluzione americana iniziò nel:",
+      "rispostaCorretta": "1775",
+      "opzioni": ["1775", "1776", "1789", "1800"],
+      "spiegazione": "La guerra d'indipendenza americana iniziò nel 1775.",
+      "livello": "base",
+      "argomento": "La Rivoluzione americana",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Dichiarazione d'Indipendenza americana fu firmata il:",
+      "rispostaCorretta": "4 luglio 1776",
+      "opzioni": ["4 luglio 1776", "14 luglio 1789", "1 gennaio 1800", "4 luglio 1789"],
+      "spiegazione": "La Dichiarazione d'Indipendenza fu firmata il 4 luglio 1776.",
+      "livello": "base",
+      "argomento": "La Rivoluzione americana",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Rivoluzione francese iniziò nel:",
+      "rispostaCorretta": "1789",
+      "opzioni": ["1789", "1776", "1799", "1815"],
+      "spiegazione": "La Rivoluzione francese iniziò con la presa della Bastiglia il 14 luglio 1789.",
+      "livello": "base",
+      "argomento": "La Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Dichiarazione dei Diritti dell'Uomo e del Cittadino fu proclamata nel:",
+      "rispostaCorretta": "1789",
+      "opzioni": ["1789", "1776", "1799", "1804"],
+      "spiegazione": "La Dichiarazione fu approvata dall'Assemblea Nazionale il 26 agosto 1789.",
+      "livello": "intermedio",
+      "argomento": "La Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Terrore giacobino fu guidato da:",
+      "rispostaCorretta": "Robespierre",
+      "opzioni": ["Robespierre", "Napoleone", "Luigi XVI", "Danton"],
+      "spiegazione": "Robespierre guidò il Terrore (1793-1794) con migliaia di esecuzioni.",
+      "livello": "intermedio",
+      "argomento": "La Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Napoleone Bonaparte divenne Primo Console nel:",
+      "rispostaCorretta": "1799",
+      "opzioni": ["1799", "1804", "1789", "1815"],
+      "spiegazione": "Con il colpo di stato del 18 brumaio (1799) Napoleone prese il potere.",
+      "livello": "base",
+      "argomento": "L'età napoleonica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Napoleone si incoronò Imperatore nel:",
+      "rispostaCorretta": "1804",
+      "opzioni": ["1804", "1799", "1815", "1789"],
+      "spiegazione": "Napoleone si incoronò Imperatore dei Francesi il 2 dicembre 1804.",
+      "livello": "base",
+      "argomento": "L'età napoleonica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La battaglia di Waterloo (1815) segnò:",
+      "rispostaCorretta": "La definitiva sconfitta di Napoleone",
+      "opzioni": ["La definitiva sconfitta di Napoleone", "La vittoria di Napoleone", "L'inizio dell'Impero", "La Rivoluzione"],
+      "spiegazione": "A Waterloo Napoleone fu sconfitto definitivamente e esiliato a Sant'Elena.",
+      "livello": "base",
+      "argomento": "L'età napoleonica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Congresso di Vienna (1814-1815) mirò a:",
+      "rispostaCorretta": "Restaurare l'ordine pre-rivoluzionario",
+      "opzioni": ["Restaurare l'ordine pre-rivoluzionario", "Diffondere le idee liberali", "Unificare l'Europa", "Abolire le monarchie"],
+      "spiegazione": "Il Congresso di Vienna restaurò le monarchie e ridisegnò i confini europei.",
+      "livello": "intermedio",
+      "argomento": "La Restaurazione",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I moti del 1848 sono chiamati:",
+      "rispostaCorretta": "La Primavera dei Popoli",
+      "opzioni": ["La Primavera dei Popoli", "La Rivoluzione Industriale", "Il Risorgimento", "La Restaurazione"],
+      "spiegazione": "I moti del 1848 furono rivoluzioni liberali e nazionali in tutta Europa.",
+      "livello": "intermedio",
+      "argomento": "I moti rivoluzionari",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'unità d'Italia fu proclamata nel:",
+      "rispostaCorretta": "1861",
+      "opzioni": ["1861", "1848", "1870", "1859"],
+      "spiegazione": "Il Regno d'Italia fu proclamato il 17 marzo 1861 con Vittorio Emanuele II re.",
+      "livello": "base",
+      "argomento": "Il Risorgimento italiano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Cavour fu primo ministro del:",
+      "rispostaCorretta": "Regno di Sardegna",
+      "opzioni": ["Regno di Sardegna", "Regno delle Due Sicilie", "Stato Pontificio", "Granducato di Toscana"],
+      "spiegazione": "Cavour fu primo ministro del Regno di Sardegna e artefice dell'unità.",
+      "livello": "base",
+      "argomento": "Il Risorgimento italiano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La spedizione dei Mille partì da:",
+      "rispostaCorretta": "Quarto (Genova)",
+      "opzioni": ["Quarto (Genova)", "Napoli", "Palermo", "Roma"],
+      "spiegazione": "I Mille di Garibaldi partirono da Quarto il 5 maggio 1860.",
+      "livello": "intermedio",
+      "argomento": "Il Risorgimento italiano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Roma fu annessa all'Italia nel:",
+      "rispostaCorretta": "1870",
+      "opzioni": ["1870", "1861", "1866", "1859"],
+      "spiegazione": "Roma fu conquistata il 20 settembre 1870 con la breccia di Porta Pia.",
+      "livello": "base",
+      "argomento": "Il Risorgimento italiano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'unificazione tedesca fu completata nel:",
+      "rispostaCorretta": "1871",
+      "opzioni": ["1871", "1861", "1848", "1890"],
+      "spiegazione": "L'Impero tedesco fu proclamato a Versailles nel 1871 dopo la vittoria sulla Francia.",
+      "livello": "intermedio",
+      "argomento": "L'unificazione tedesca",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Bismarck fu il cancelliere che unificò:",
+      "rispostaCorretta": "La Germania",
+      "opzioni": ["La Germania", "L'Italia", "L'Austria", "La Francia"],
+      "spiegazione": "Otto von Bismarck fu l'artefice dell'unificazione tedesca.",
+      "livello": "base",
+      "argomento": "L'unificazione tedesca",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Rivoluzione Industriale iniziò in:",
+      "rispostaCorretta": "Inghilterra",
+      "opzioni": ["Inghilterra", "Francia", "Germania", "Italia"],
+      "spiegazione": "La Rivoluzione Industriale iniziò in Inghilterra nella seconda metà del Settecento.",
+      "livello": "base",
+      "argomento": "La Rivoluzione Industriale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La macchina a vapore fu perfezionata da:",
+      "rispostaCorretta": "James Watt",
+      "opzioni": ["James Watt", "Thomas Edison", "Henry Ford", "George Stephenson"],
+      "spiegazione": "James Watt perfezionò la macchina a vapore nel 1769.",
+      "livello": "intermedio",
+      "argomento": "La Rivoluzione Industriale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il colonialismo europeo raggiunse l'apice nel:",
+      "rispostaCorretta": "XIX secolo",
+      "opzioni": ["XIX secolo", "XVII secolo", "XV secolo", "XX secolo"],
+      "spiegazione": "L'imperialismo coloniale europeo raggiunse l'apice nell'Ottocento.",
+      "livello": "intermedio",
+      "argomento": "L'imperialismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Conferenza di Berlino (1884-1885) spartì:",
+      "rispostaCorretta": "L'Africa tra le potenze europee",
+      "opzioni": ["L'Africa tra le potenze europee", "L'Asia", "L'America", "L'Oceania"],
+      "spiegazione": "La Conferenza di Berlino regolò la spartizione coloniale dell'Africa.",
+      "livello": "avanzato",
+      "argomento": "L'imperialismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La Rivoluzione francese abolì i privilegi feudali.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "La notte del 4 agosto 1789 l'Assemblea abolì i privilegi feudali.",
+      "livello": "base",
+      "argomento": "La Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Napoleone fu esiliato prima all'Elba, poi a Sant'Elena.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Napoleone fu esiliato all'Elba (1814), fuggì, e dopo Waterloo a Sant'Elena (1815).",
+      "livello": "intermedio",
+      "argomento": "L'età napoleonica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Garibaldi guidò la spedizione dei Mille.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Giuseppe Garibaldi guidò i Mille alla conquista del Regno delle Due Sicilie.",
+      "livello": "base",
+      "argomento": "Il Risorgimento italiano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Codice Napoleonico fu promulgato nel:",
+      "rispostaCorretta": "1804",
+      "opzioni": ["1804", "1789", "1815", "1799"],
+      "spiegazione": "Il Codice Civile napoleonico (1804) influenzò il diritto di molti paesi.",
+      "livello": "intermedio",
+      "argomento": "L'età napoleonica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Santa Alleanza fu formata da:",
+      "rispostaCorretta": "Russia, Austria e Prussia",
+      "opzioni": ["Russia, Austria e Prussia", "Francia, Inghilterra e Spagna", "Italia, Germania e Austria", "USA, Francia e Inghilterra"],
+      "spiegazione": "La Santa Alleanza (1815) unì le potenze conservatrici contro le rivoluzioni.",
+      "livello": "avanzato",
+      "argomento": "La Restaurazione",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Mazzini fondò:",
+      "rispostaCorretta": "La Giovine Italia",
+      "opzioni": ["La Giovine Italia", "La Carboneria", "Il Partito d'Azione", "I Fasci"],
+      "spiegazione": "Mazzini fondò la Giovine Italia nel 1831 per l'unità repubblicana.",
+      "livello": "base",
+      "argomento": "Il Risorgimento italiano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Seconda Guerra d'Indipendenza italiana (1859) fu combattuta contro:",
+      "rispostaCorretta": "L'Austria",
+      "opzioni": ["L'Austria", "La Francia", "La Prussia", "La Spagna"],
+      "spiegazione": "La Seconda Guerra d'Indipendenza vide Piemonte e Francia contro l'Austria.",
+      "livello": "intermedio",
+      "argomento": "Il Risorgimento italiano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'armistizio di Villafranca (1859) fu firmato tra:",
+      "rispostaCorretta": "Francia e Austria",
+      "opzioni": ["Francia e Austria", "Piemonte e Austria", "Italia e Francia", "Prussia e Austria"],
+      "spiegazione": "Napoleone III firmò l'armistizio con l'Austria senza consultare Cavour.",
+      "livello": "avanzato",
+      "argomento": "Il Risorgimento italiano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Veneto fu annesso all'Italia nel:",
+      "rispostaCorretta": "1866",
+      "opzioni": ["1866", "1861", "1870", "1859"],
+      "spiegazione": "Il Veneto fu annesso dopo la Terza Guerra d'Indipendenza (1866).",
+      "livello": "intermedio",
+      "argomento": "Il Risorgimento italiano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La questione romana riguardava:",
+      "rispostaCorretta": "I rapporti tra Stato italiano e Chiesa",
+      "opzioni": ["I rapporti tra Stato italiano e Chiesa", "La capitale d'Italia", "Le guerre d'indipendenza", "Il brigantaggio"],
+      "spiegazione": "La questione romana fu risolta solo con i Patti Lateranensi (1929).",
+      "livello": "avanzato",
+      "argomento": "Il Risorgimento italiano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Comune di Parigi fu un'esperienza rivoluzionaria del:",
+      "rispostaCorretta": "1871",
+      "opzioni": ["1871", "1848", "1789", "1917"],
+      "spiegazione": "La Comune di Parigi (marzo-maggio 1871) fu un governo rivoluzionario.",
+      "livello": "avanzato",
+      "argomento": "L'Europa dell'Ottocento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Karl Marx scrisse:",
+      "rispostaCorretta": "Il Capitale e il Manifesto del Partito Comunista",
+      "opzioni": ["Il Capitale e il Manifesto del Partito Comunista", "Il Principe", "Il Contratto Sociale", "Lo Spirito delle Leggi"],
+      "spiegazione": "Marx teorizzò il socialismo scientifico e la lotta di classe.",
+      "livello": "intermedio",
+      "argomento": "L'Europa dell'Ottocento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Prima Internazionale fu fondata nel:",
+      "rispostaCorretta": "1864",
+      "opzioni": ["1864", "1848", "1871", "1917"],
+      "spiegazione": "La Prima Internazionale (1864) riunì i movimenti operai europei.",
+      "livello": "avanzato",
+      "argomento": "L'Europa dell'Ottocento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Belle Époque indica il periodo:",
+      "rispostaCorretta": "1871-1914",
+      "opzioni": ["1871-1914", "1789-1815", "1914-1918", "1848-1870"],
+      "spiegazione": "La Belle Époque fu un periodo di pace, progresso e ottimismo prima della Grande Guerra.",
+      "livello": "intermedio",
+      "argomento": "L'Europa dell'Ottocento",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Triplice Alleanza (1882) univa:",
+      "rispostaCorretta": "Germania, Austria-Ungheria e Italia",
+      "opzioni": ["Germania, Austria-Ungheria e Italia", "Francia, Russia e Inghilterra", "USA, Francia e Inghilterra", "Germania, Russia e Austria"],
+      "spiegazione": "La Triplice Alleanza fu un patto difensivo tra Germania, Austria e Italia.",
+      "livello": "intermedio",
+      "argomento": "Verso la Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Triplice Intesa univa:",
+      "rispostaCorretta": "Francia, Russia e Gran Bretagna",
+      "opzioni": ["Francia, Russia e Gran Bretagna", "Germania, Austria e Italia", "USA, Giappone e Cina", "Spagna, Portogallo e Italia"],
+      "spiegazione": "La Triplice Intesa (1907) contrapponeva Francia, Russia e Gran Bretagna alla Triplice Alleanza.",
+      "livello": "intermedio",
+      "argomento": "Verso la Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'attentato di Sarajevo (1914) uccise:",
+      "rispostaCorretta": "L'arciduca Francesco Ferdinando d'Austria",
+      "opzioni": ["L'arciduca Francesco Ferdinando d'Austria", "Il Kaiser Guglielmo II", "Lo zar Nicola II", "Il re d'Italia"],
+      "spiegazione": "L'assassinio dell'arciduca a Sarajevo il 28 giugno 1914 scatenò la Grande Guerra.",
+      "livello": "base",
+      "argomento": "Verso la Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Voltaire fu un filosofo:",
+      "rispostaCorretta": "Illuminista francese",
+      "opzioni": ["Illuminista francese", "Romantico tedesco", "Rinascimentale italiano", "Medievale inglese"],
+      "spiegazione": "Voltaire fu uno dei maggiori filosofi dell'Illuminismo francese.",
+      "livello": "base",
+      "argomento": "L'Illuminismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Rousseau teorizzò:",
+      "rispostaCorretta": "Il contratto sociale e la volontà generale",
+      "opzioni": ["Il contratto sociale e la volontà generale", "La separazione dei poteri", "L'assolutismo", "Il liberismo economico"],
+      "spiegazione": "Rousseau teorizzò che la sovranità appartiene al popolo (volontà generale).",
+      "livello": "intermedio",
+      "argomento": "L'Illuminismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Adam Smith è considerato il padre del:",
+      "rispostaCorretta": "Liberismo economico",
+      "opzioni": ["Liberismo economico", "Socialismo", "Comunismo", "Mercantilismo"],
+      "spiegazione": "Adam Smith teorizzò il libero mercato nella 'Ricchezza delle Nazioni' (1776).",
+      "livello": "intermedio",
+      "argomento": "L'Illuminismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Giacobini erano:",
+      "rispostaCorretta": "I rivoluzionari più radicali",
+      "opzioni": ["I rivoluzionari più radicali", "I monarchici", "I moderati", "I controrivoluzionari"],
+      "spiegazione": "I Giacobini, guidati da Robespierre, furono l'ala radicale della Rivoluzione.",
+      "livello": "intermedio",
+      "argomento": "La Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Girondini erano:",
+      "rispostaCorretta": "I rivoluzionari moderati",
+      "opzioni": ["I rivoluzionari moderati", "I monarchici", "I radicali", "I controrivoluzionari"],
+      "spiegazione": "I Girondini rappresentavano la borghesia moderata nella Rivoluzione.",
+      "livello": "avanzato",
+      "argomento": "La Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Luigi XVI fu ghigliottinato nel:",
+      "rispostaCorretta": "1793",
+      "opzioni": ["1793", "1789", "1799", "1804"],
+      "spiegazione": "Luigi XVI fu ghigliottinato il 21 gennaio 1793.",
+      "livello": "intermedio",
+      "argomento": "La Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Direttorio governò la Francia dal:",
+      "rispostaCorretta": "1795 al 1799",
+      "opzioni": ["1795 al 1799", "1789 al 1793", "1799 al 1804", "1804 al 1815"],
+      "spiegazione": "Il Direttorio fu il governo moderato tra il Terrore e Napoleone.",
+      "livello": "avanzato",
+      "argomento": "La Rivoluzione francese",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La campagna di Russia di Napoleone (1812) fu:",
+      "rispostaCorretta": "Un disastro militare",
+      "opzioni": ["Un disastro militare", "Una grande vittoria", "Una conquista duratura", "Un trattato di pace"],
+      "spiegazione": "La campagna di Russia fu disastrosa: la Grande Armata fu decimata.",
+      "livello": "intermedio",
+      "argomento": "L'età napoleonica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il principio di legittimità al Congresso di Vienna significava:",
+      "rispostaCorretta": "Restaurare i sovrani legittimi sui loro troni",
+      "opzioni": ["Restaurare i sovrani legittimi sui loro troni", "Eleggere nuovi re", "Creare repubbliche", "Unificare l'Europa"],
+      "spiegazione": "Il principio di legittimità riportò al potere le dinastie spodestate da Napoleone.",
+      "livello": "avanzato",
+      "argomento": "La Restaurazione",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I moti del 1820-21 in Italia furono promossi dalla:",
+      "rispostaCorretta": "Carboneria",
+      "opzioni": ["Carboneria", "Giovine Italia", "Massoneria", "Chiesa"],
+      "spiegazione": "La Carboneria fu una società segreta che promosse i moti del 1820-21.",
+      "livello": "intermedio",
+      "argomento": "I moti rivoluzionari",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Cinque Giornate di Milano avvennero nel:",
+      "rispostaCorretta": "1848",
+      "opzioni": ["1848", "1821", "1831", "1859"],
+      "spiegazione": "Le Cinque Giornate (18-22 marzo 1848) cacciarono gli Austriaci da Milano.",
+      "livello": "intermedio",
+      "argomento": "Il Risorgimento italiano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Prima Guerra d'Indipendenza italiana (1848-49) fu combattuta da:",
+      "rispostaCorretta": "Carlo Alberto di Savoia",
+      "opzioni": ["Carlo Alberto di Savoia", "Vittorio Emanuele II", "Garibaldi", "Mazzini"],
+      "spiegazione": "Carlo Alberto guidò il Piemonte contro l'Austria, ma fu sconfitto.",
+      "livello": "intermedio",
+      "argomento": "Il Risorgimento italiano",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La battaglia di Solferino e San Martino (1859) portò alla:",
+      "rispostaCorretta": "Annessione della Lombardia al Piemonte",
+      "opzioni": ["Annessione della Lombardia al Piemonte", "Unità d'Italia", "Conquista di Roma", "Annessione del Veneto"],
+      "spiegazione": "Dopo Solferino e San Martino, la Lombardia passò al Piemonte.",
+      "livello": "avanzato",
+      "argomento": "Il Risorgimento italiano",
+      "materia": "storia"
+    }
+  ]
+}

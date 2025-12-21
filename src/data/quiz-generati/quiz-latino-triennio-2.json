@@ -1,0 +1,517 @@
+{
+  "materia": "latino",
+  "descrizione": "Quiz Latino - Parte 2: Ovidio, Seneca, Tacito, Letteratura imperiale",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Ovidio nacque a Sulmona nel:",
+      "rispostaCorretta": "43 a.C.",
+      "opzioni": ["43 a.C.", "70 a.C.", "8 d.C.", "20 a.C."],
+      "spiegazione": "Publio Ovidio Nasone nacque a Sulmona nel 43 a.C. e morì in esilio nel 17/18 d.C.",
+      "livello": "intermedio",
+      "argomento": "Ovidio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Metamorfosi di Ovidio narrano:",
+      "rispostaCorretta": "Miti di trasformazione dalla creazione a Cesare",
+      "opzioni": ["Miti di trasformazione dalla creazione a Cesare", "La guerra di Troia", "La fondazione di Roma", "La vita di Augusto"],
+      "spiegazione": "Le Metamorfosi sono un poema epico-mitologico in 15 libri.",
+      "livello": "base",
+      "argomento": "Ovidio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Ars amatoria di Ovidio è:",
+      "rispostaCorretta": "Un poema didascalico sull'arte di amare",
+      "opzioni": ["Un poema didascalico sull'arte di amare", "Un'epica", "Una tragedia", "Un trattato filosofico"],
+      "spiegazione": "L'Ars amatoria insegna le tecniche della seduzione.",
+      "livello": "intermedio",
+      "argomento": "Ovidio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Ovidio fu esiliato da Augusto a:",
+      "rispostaCorretta": "Tomi (sul Mar Nero)",
+      "opzioni": ["Tomi (sul Mar Nero)", "Atene", "Alessandria", "Cartagine"],
+      "spiegazione": "Ovidio fu esiliato a Tomi nell'8 d.C. per un 'carmen et error'.",
+      "livello": "intermedio",
+      "argomento": "Ovidio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Tristia di Ovidio sono:",
+      "rispostaCorretta": "Elegie scritte in esilio",
+      "opzioni": ["Elegie scritte in esilio", "Poesie d'amore", "Miti", "Satire"],
+      "spiegazione": "I Tristia esprimono il dolore dell'esilio e la nostalgia di Roma.",
+      "livello": "intermedio",
+      "argomento": "Ovidio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Seneca fu precettore di:",
+      "rispostaCorretta": "Nerone",
+      "opzioni": ["Nerone", "Augusto", "Tiberio", "Caligola"],
+      "spiegazione": "Seneca fu precettore e consigliere di Nerone.",
+      "livello": "base",
+      "argomento": "Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Seneca fu un filosofo:",
+      "rispostaCorretta": "Stoico",
+      "opzioni": ["Stoico", "Epicureo", "Scettico", "Platonico"],
+      "spiegazione": "Seneca fu il maggiore rappresentante dello Stoicismo romano.",
+      "livello": "base",
+      "argomento": "Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Epistulae morales ad Lucilium di Seneca sono:",
+      "rispostaCorretta": "124 lettere filosofiche",
+      "opzioni": ["124 lettere filosofiche", "Tragedie", "Poesie", "Discorsi politici"],
+      "spiegazione": "Le Epistole a Lucilio sono lettere di filosofia morale stoica.",
+      "livello": "intermedio",
+      "argomento": "Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il De brevitate vitae di Seneca tratta:",
+      "rispostaCorretta": "L'uso del tempo e la brevità della vita",
+      "opzioni": ["L'uso del tempo e la brevità della vita", "La politica", "La guerra", "L'amore"],
+      "spiegazione": "Seneca riflette su come la vita sia breve solo per chi la spreca.",
+      "livello": "intermedio",
+      "argomento": "Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Seneca morì:",
+      "rispostaCorretta": "Suicida per ordine di Nerone",
+      "opzioni": ["Suicida per ordine di Nerone", "Di vecchiaia", "In battaglia", "Di malattia"],
+      "spiegazione": "Seneca fu costretto al suicidio nel 65 d.C. dopo la congiura di Pisone.",
+      "livello": "intermedio",
+      "argomento": "Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Tacito scrisse:",
+      "rispostaCorretta": "Annales e Historiae",
+      "opzioni": ["Annales e Historiae", "De bello Gallico", "Metamorfosi", "Eneide"],
+      "spiegazione": "Tacito fu il maggiore storico latino dell'età imperiale.",
+      "livello": "base",
+      "argomento": "Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli Annales di Tacito narrano:",
+      "rispostaCorretta": "La storia di Roma da Tiberio a Nerone",
+      "opzioni": ["La storia di Roma da Tiberio a Nerone", "La guerra gallica", "La fondazione di Roma", "Le guerre puniche"],
+      "spiegazione": "Gli Annales coprono il periodo dalla morte di Augusto a Nerone.",
+      "livello": "intermedio",
+      "argomento": "Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Germania di Tacito descrive:",
+      "rispostaCorretta": "I costumi dei popoli germanici",
+      "opzioni": ["I costumi dei popoli germanici", "La conquista della Germania", "Le guerre civili", "La vita di Cesare"],
+      "spiegazione": "La Germania è un'opera etnografica sui popoli oltre il Reno.",
+      "livello": "intermedio",
+      "argomento": "Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo stile di Tacito è caratterizzato da:",
+      "rispostaCorretta": "Brevitas e inconcinnitas",
+      "opzioni": ["Brevitas e inconcinnitas", "Ampiezza e simmetria", "Semplicità", "Ripetizioni"],
+      "spiegazione": "Tacito usa uno stile conciso, asimmetrico e denso di significato.",
+      "livello": "avanzato",
+      "argomento": "Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Petronio scrisse:",
+      "rispostaCorretta": "Il Satyricon",
+      "opzioni": ["Il Satyricon", "Le Metamorfosi", "L'Eneide", "Le Satire"],
+      "spiegazione": "Il Satyricon è un romanzo satirico dell'età neroniana.",
+      "livello": "intermedio",
+      "argomento": "Letteratura imperiale",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Cena Trimalchionis è un episodio del:",
+      "rispostaCorretta": "Satyricon",
+      "opzioni": ["Satyricon", "Decameron", "Metamorfosi", "Eneide"],
+      "spiegazione": "La Cena di Trimalchione descrive il banchetto di un liberto arricchito.",
+      "livello": "avanzato",
+      "argomento": "Letteratura imperiale",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Apuleio scrisse:",
+      "rispostaCorretta": "Le Metamorfosi (L'asino d'oro)",
+      "opzioni": ["Le Metamorfosi (L'asino d'oro)", "Il Satyricon", "L'Eneide", "Le Bucoliche"],
+      "spiegazione": "Le Metamorfosi di Apuleio narrano la trasformazione di Lucio in asino.",
+      "livello": "intermedio",
+      "argomento": "Letteratura imperiale",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La favola di Amore e Psiche si trova nelle:",
+      "rispostaCorretta": "Metamorfosi di Apuleio",
+      "opzioni": ["Metamorfosi di Apuleio", "Metamorfosi di Ovidio", "Eneide", "Satyricon"],
+      "spiegazione": "La favola di Amore e Psiche è inserita nel romanzo di Apuleio.",
+      "livello": "avanzato",
+      "argomento": "Letteratura imperiale",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Marziale scrisse:",
+      "rispostaCorretta": "Epigrammi",
+      "opzioni": ["Epigrammi", "Satire", "Elegie", "Odi"],
+      "spiegazione": "Marziale fu il maestro dell'epigramma latino.",
+      "livello": "base",
+      "argomento": "Letteratura imperiale",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giovenale scrisse:",
+      "rispostaCorretta": "Satire",
+      "opzioni": ["Satire", "Epigrammi", "Elegie", "Odi"],
+      "spiegazione": "Giovenale fu l'ultimo grande satirico latino.",
+      "livello": "base",
+      "argomento": "Letteratura imperiale",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La satira di Giovenale è caratterizzata da:",
+      "rispostaCorretta": "Indignatio (sdegno morale)",
+      "opzioni": ["Indignatio (sdegno morale)", "Ironia leggera", "Comicità", "Ottimismo"],
+      "spiegazione": "Giovenale attacca i vizi con sdegno: 'difficile est saturam non scribere'.",
+      "livello": "avanzato",
+      "argomento": "Letteratura imperiale",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Plinio il Vecchio scrisse:",
+      "rispostaCorretta": "La Naturalis Historia",
+      "opzioni": ["La Naturalis Historia", "Le Epistole", "Gli Annales", "Le Satire"],
+      "spiegazione": "La Naturalis Historia è un'enciclopedia in 37 libri.",
+      "livello": "intermedio",
+      "argomento": "Letteratura imperiale",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Plinio il Vecchio morì durante:",
+      "rispostaCorretta": "L'eruzione del Vesuvio (79 d.C.)",
+      "opzioni": ["L'eruzione del Vesuvio (79 d.C.)", "Una battaglia", "Di vecchiaia", "Per malattia"],
+      "spiegazione": "Plinio morì a Stabia durante l'eruzione che distrusse Pompei.",
+      "livello": "intermedio",
+      "argomento": "Letteratura imperiale",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Plinio il Giovane scrisse:",
+      "rispostaCorretta": "Epistole",
+      "opzioni": ["Epistole", "Satire", "Epigrammi", "Storie"],
+      "spiegazione": "Le Epistole di Plinio il Giovane sono documenti preziosi dell'età traianea.",
+      "livello": "intermedio",
+      "argomento": "Letteratura imperiale",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Quintiliano scrisse:",
+      "rispostaCorretta": "L'Institutio oratoria",
+      "opzioni": ["L'Institutio oratoria", "Il De oratore", "Le Satire", "Le Epistole"],
+      "spiegazione": "L'Institutio oratoria è un trattato sulla formazione dell'oratore.",
+      "livello": "intermedio",
+      "argomento": "Letteratura imperiale",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lucano scrisse:",
+      "rispostaCorretta": "La Pharsalia (Bellum civile)",
+      "opzioni": ["La Pharsalia (Bellum civile)", "L'Eneide", "Le Metamorfosi", "Le Georgiche"],
+      "spiegazione": "La Pharsalia narra la guerra civile tra Cesare e Pompeo.",
+      "livello": "avanzato",
+      "argomento": "Letteratura imperiale",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lucano era nipote di:",
+      "rispostaCorretta": "Seneca",
+      "opzioni": ["Seneca", "Tacito", "Plinio", "Quintiliano"],
+      "spiegazione": "Lucano era nipote di Seneca e morì nella congiura di Pisone.",
+      "livello": "avanzato",
+      "argomento": "Letteratura imperiale",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Fedro scrisse:",
+      "rispostaCorretta": "Favole in versi",
+      "opzioni": ["Favole in versi", "Satire", "Elegie", "Tragedie"],
+      "spiegazione": "Fedro portò a Roma la favola esopica in versi latini.",
+      "livello": "intermedio",
+      "argomento": "Letteratura imperiale",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Ovidio fu esiliato per motivi politici e morali.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Ovidio fu esiliato per un 'carmen et error' (un carme e un errore).",
+      "livello": "intermedio",
+      "argomento": "Ovidio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Seneca scrisse anche tragedie.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Seneca scrisse 9 tragedie (Medea, Fedra, Tieste, ecc.).",
+      "livello": "intermedio",
+      "argomento": "Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Tacito ammirava il principato.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Tacito era critico verso il principato e rimpiangeva la libertà repubblicana.",
+      "livello": "avanzato",
+      "argomento": "Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il De clementia di Seneca è dedicato a:",
+      "rispostaCorretta": "Nerone",
+      "opzioni": ["Nerone", "Augusto", "Tiberio", "Claudio"],
+      "spiegazione": "Il De clementia esorta il giovane Nerone alla clemenza.",
+      "livello": "avanzato",
+      "argomento": "Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Agricola di Tacito è:",
+      "rispostaCorretta": "Una biografia del suocero",
+      "opzioni": ["Una biografia del suocero", "Un trattato di agricoltura", "Una storia di Roma", "Un'opera filosofica"],
+      "spiegazione": "L'Agricola è la biografia di Gneo Giulio Agricola, suocero di Tacito.",
+      "livello": "avanzato",
+      "argomento": "Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Historiae di Tacito coprono il periodo:",
+      "rispostaCorretta": "Dai Flavi a Nerva (69-96 d.C.)",
+      "opzioni": ["Dai Flavi a Nerva (69-96 d.C.)", "Da Augusto a Tiberio", "Da Cesare ad Augusto", "Da Nerone a Domiziano"],
+      "spiegazione": "Le Historiae narrano il periodo dall'anno dei quattro imperatori a Nerva.",
+      "livello": "avanzato",
+      "argomento": "Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli Amores di Ovidio sono:",
+      "rispostaCorretta": "Elegie d'amore",
+      "opzioni": ["Elegie d'amore", "Miti", "Satire", "Lettere"],
+      "spiegazione": "Gli Amores sono elegie dedicate alla donna amata Corinna.",
+      "livello": "intermedio",
+      "argomento": "Ovidio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Heroides di Ovidio sono:",
+      "rispostaCorretta": "Lettere di eroine mitologiche ai loro amanti",
+      "opzioni": ["Lettere di eroine mitologiche ai loro amanti", "Miti di trasformazione", "Poesie d'amore", "Satire"],
+      "spiegazione": "Le Heroides sono lettere fittizie di eroine come Penelope, Didone, Medea.",
+      "livello": "avanzato",
+      "argomento": "Ovidio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Fasti di Ovidio trattano:",
+      "rispostaCorretta": "Il calendario romano e le sue feste",
+      "opzioni": ["Il calendario romano e le sue feste", "Miti di trasformazione", "L'arte di amare", "L'esilio"],
+      "spiegazione": "I Fasti descrivono le feste romane mese per mese (rimasti incompiuti).",
+      "livello": "avanzato",
+      "argomento": "Ovidio",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Naturales quaestiones di Seneca trattano:",
+      "rispostaCorretta": "Fenomeni naturali",
+      "opzioni": ["Fenomeni naturali", "Etica", "Politica", "Retorica"],
+      "spiegazione": "Le Naturales quaestiones sono un'opera di filosofia naturale.",
+      "livello": "avanzato",
+      "argomento": "Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Apokolokyntosis di Seneca è:",
+      "rispostaCorretta": "Una satira menippea contro Claudio",
+      "opzioni": ["Una satira menippea contro Claudio", "Un trattato filosofico", "Una tragedia", "Un'elegia"],
+      "spiegazione": "L'Apokolokyntosis ('zucchificazione') deride l'imperatore Claudio.",
+      "livello": "avanzato",
+      "argomento": "Seneca",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Dialogus de oratoribus è attribuito a:",
+      "rispostaCorretta": "Tacito",
+      "opzioni": ["Tacito", "Quintiliano", "Seneca", "Cicerone"],
+      "spiegazione": "Il Dialogus discute le cause della decadenza dell'oratoria.",
+      "livello": "avanzato",
+      "argomento": "Tacito",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La proposizione finale latina si esprime con:",
+      "rispostaCorretta": "Ut + congiuntivo",
+      "opzioni": ["Ut + congiuntivo", "Cum + indicativo", "Quod + indicativo", "Si + congiuntivo"],
+      "spiegazione": "La finale si esprime con ut + congiuntivo (negativo: ne).",
+      "livello": "intermedio",
+      "argomento": "Sintassi latina avanzata",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La proposizione consecutiva latina si esprime con:",
+      "rispostaCorretta": "Ut + congiuntivo (preceduto da ita, tam, sic)",
+      "opzioni": ["Ut + congiuntivo (preceduto da ita, tam, sic)", "Cum + indicativo", "Quod + indicativo", "Si + indicativo"],
+      "spiegazione": "La consecutiva esprime la conseguenza: 'tam... ut' (così... che).",
+      "livello": "avanzato",
+      "argomento": "Sintassi latina avanzata",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La proposizione causale latina si esprime con:",
+      "rispostaCorretta": "Quod, quia, quoniam + indicativo/congiuntivo",
+      "opzioni": ["Quod, quia, quoniam + indicativo/congiuntivo", "Ut + congiuntivo", "Si + indicativo", "Cum + indicativo"],
+      "spiegazione": "La causale esprime la causa: indicativo (causa reale), congiuntivo (causa soggettiva).",
+      "livello": "avanzato",
+      "argomento": "Sintassi latina avanzata",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il periodo ipotetico dell'irrealtà nel presente ha:",
+      "rispostaCorretta": "Congiuntivo imperfetto in protasi e apodosi",
+      "opzioni": ["Congiuntivo imperfetto in protasi e apodosi", "Indicativo presente", "Congiuntivo presente", "Indicativo futuro"],
+      "spiegazione": "Irrealtà presente: si + cong. impf., cong. impf. (se facessi, farei).",
+      "livello": "avanzato",
+      "argomento": "Sintassi latina avanzata",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il periodo ipotetico dell'irrealtà nel passato ha:",
+      "rispostaCorretta": "Congiuntivo piuccheperfetto in protasi e apodosi",
+      "opzioni": ["Congiuntivo piuccheperfetto in protasi e apodosi", "Indicativo perfetto", "Congiuntivo perfetto", "Indicativo imperfetto"],
+      "spiegazione": "Irrealtà passata: si + cong. piucchepf., cong. piucchepf. (se avessi fatto, avrei fatto).",
+      "livello": "avanzato",
+      "argomento": "Sintassi latina avanzata",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'infinitiva latina ha il soggetto in:",
+      "rispostaCorretta": "Accusativo",
+      "opzioni": ["Accusativo", "Nominativo", "Genitivo", "Dativo"],
+      "spiegazione": "Nell'infinitiva il soggetto va in accusativo: 'Dico te venire' (dico che tu vieni).",
+      "livello": "intermedio",
+      "argomento": "Sintassi latina avanzata",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'infinito futuro latino si forma con:",
+      "rispostaCorretta": "Participio futuro + esse",
+      "opzioni": ["Participio futuro + esse", "Infinito presente + -urus", "Participio perfetto + esse", "Supino + iri"],
+      "spiegazione": "Infinito futuro attivo: amaturum esse (stare per amare).",
+      "livello": "avanzato",
+      "argomento": "Sintassi latina avanzata",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La consecutio temporum regola:",
+      "rispostaCorretta": "Il tempo del congiuntivo nelle subordinate",
+      "opzioni": ["Il tempo del congiuntivo nelle subordinate", "L'uso dell'indicativo", "La concordanza del participio", "L'ordine delle parole"],
+      "spiegazione": "La consecutio temporum stabilisce quale tempo del congiuntivo usare in base alla reggente.",
+      "livello": "avanzato",
+      "argomento": "Sintassi latina avanzata",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il verbo videor con l'infinito significa:",
+      "rispostaCorretta": "Sembrare",
+      "opzioni": ["Sembrare", "Vedere", "Essere visto", "Guardare"],
+      "spiegazione": "Videor + infinito = sembrare: 'Videtur venire' (sembra venire).",
+      "livello": "intermedio",
+      "argomento": "Sintassi latina avanzata",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I verba timendi reggono:",
+      "rispostaCorretta": "Ne + congiuntivo (se si teme che accada)",
+      "opzioni": ["Ne + congiuntivo (se si teme che accada)", "Ut + congiuntivo", "Quod + indicativo", "Si + congiuntivo"],
+      "spiegazione": "Timeo ne veniat = temo che venga. Timeo ut veniat = temo che non venga.",
+      "livello": "avanzato",
+      "argomento": "Sintassi latina avanzata",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I verba impediendi reggono:",
+      "rispostaCorretta": "Quominus o ne + congiuntivo",
+      "opzioni": ["Quominus o ne + congiuntivo", "Ut + congiuntivo", "Quod + indicativo", "Si + indicativo"],
+      "spiegazione": "Impedio quominus/ne venias = ti impedisco di venire.",
+      "livello": "avanzato",
+      "argomento": "Sintassi latina avanzata",
+      "materia": "latino"
+    }
+  ]
+}

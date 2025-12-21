@@ -1,0 +1,527 @@
+{
+  "materia": "inglese",
+  "descrizione": "Quiz Inglese - Parte 2: Romanticism, Victorian Age, Modern Literature",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "The Romantic Age in English literature spans approximately:",
+      "rispostaCorretta": "1789-1837",
+      "opzioni": ["1789-1837", "1700-1750", "1850-1900", "1900-1950"],
+      "spiegazione": "English Romanticism spans from the French Revolution to Queen Victoria's accession.",
+      "livello": "intermedio",
+      "argomento": "Romantic Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "William Wordsworth and Samuel Taylor Coleridge published:",
+      "rispostaCorretta": "Lyrical Ballads (1798)",
+      "opzioni": ["Lyrical Ballads (1798)", "Songs of Innocence", "Don Juan", "Frankenstein"],
+      "spiegazione": "Lyrical Ballads (1798) is considered the manifesto of English Romanticism.",
+      "livello": "base",
+      "argomento": "Romantic Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Rime of the Ancient Mariner was written by:",
+      "rispostaCorretta": "Coleridge",
+      "opzioni": ["Coleridge", "Wordsworth", "Byron", "Shelley"],
+      "spiegazione": "Coleridge wrote The Rime of the Ancient Mariner, a supernatural ballad.",
+      "livello": "base",
+      "argomento": "Romantic Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Wordsworth's poetry celebrates:",
+      "rispostaCorretta": "Nature and common people",
+      "opzioni": ["Nature and common people", "Urban life", "War and heroism", "Science and progress"],
+      "spiegazione": "Wordsworth celebrated nature and the language of ordinary people.",
+      "livello": "intermedio",
+      "argomento": "Romantic Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lord Byron was famous for:",
+      "rispostaCorretta": "The Byronic hero and scandalous life",
+      "opzioni": ["The Byronic hero and scandalous life", "Nature poetry", "Gothic novels", "Political essays"],
+      "spiegazione": "Byron created the Byronic hero: proud, rebellious, and mysterious.",
+      "livello": "intermedio",
+      "argomento": "Romantic Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Percy Bysshe Shelley wrote:",
+      "rispostaCorretta": "Prometheus Unbound and Ode to the West Wind",
+      "opzioni": ["Prometheus Unbound and Ode to the West Wind", "Don Juan", "Kubla Khan", "Pride and Prejudice"],
+      "spiegazione": "Shelley was a radical poet who celebrated freedom and imagination.",
+      "livello": "intermedio",
+      "argomento": "Romantic Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "John Keats is famous for:",
+      "rispostaCorretta": "His Odes (Ode on a Grecian Urn, Ode to a Nightingale)",
+      "opzioni": ["His Odes (Ode on a Grecian Urn, Ode to a Nightingale)", "Epic poems", "Novels", "Plays"],
+      "spiegazione": "Keats wrote beautiful odes celebrating beauty and art.",
+      "livello": "intermedio",
+      "argomento": "Romantic Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Frankenstein was written by:",
+      "rispostaCorretta": "Mary Shelley",
+      "opzioni": ["Mary Shelley", "Percy Shelley", "Byron", "Coleridge"],
+      "spiegazione": "Mary Shelley wrote Frankenstein (1818), a Gothic and science fiction novel.",
+      "livello": "base",
+      "argomento": "Romantic Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Frankenstein's subtitle is:",
+      "rispostaCorretta": "The Modern Prometheus",
+      "opzioni": ["The Modern Prometheus", "The Monster", "The Creation", "The Scientist"],
+      "spiegazione": "The subtitle refers to the myth of Prometheus who stole fire from the gods.",
+      "livello": "avanzato",
+      "argomento": "Romantic Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Victorian Age spans:",
+      "rispostaCorretta": "1837-1901",
+      "opzioni": ["1837-1901", "1800-1850", "1900-1950", "1750-1800"],
+      "spiegazione": "The Victorian Age corresponds to Queen Victoria's reign (1837-1901).",
+      "livello": "base",
+      "argomento": "Victorian Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Charles Dickens wrote:",
+      "rispostaCorretta": "Oliver Twist, David Copperfield, Great Expectations",
+      "opzioni": ["Oliver Twist, David Copperfield, Great Expectations", "Wuthering Heights", "Jane Eyre", "Middlemarch"],
+      "spiegazione": "Dickens was the most popular Victorian novelist, depicting social issues.",
+      "livello": "base",
+      "argomento": "Victorian Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Dickens's novels often criticize:",
+      "rispostaCorretta": "Social injustice and poverty",
+      "opzioni": ["Social injustice and poverty", "The monarchy", "Religion", "Science"],
+      "spiegazione": "Dickens exposed the harsh conditions of the poor and working class.",
+      "livello": "intermedio",
+      "argomento": "Victorian Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Wuthering Heights was written by:",
+      "rispostaCorretta": "Emily Brontë",
+      "opzioni": ["Emily Brontë", "Charlotte Brontë", "Anne Brontë", "Jane Austen"],
+      "spiegazione": "Emily Brontë wrote Wuthering Heights (1847), a passionate Gothic novel.",
+      "livello": "base",
+      "argomento": "Victorian Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Jane Eyre was written by:",
+      "rispostaCorretta": "Charlotte Brontë",
+      "opzioni": ["Charlotte Brontë", "Emily Brontë", "Anne Brontë", "George Eliot"],
+      "spiegazione": "Charlotte Brontë wrote Jane Eyre (1847), a novel of female independence.",
+      "livello": "base",
+      "argomento": "Victorian Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The protagonist of Wuthering Heights is:",
+      "rispostaCorretta": "Heathcliff",
+      "opzioni": ["Heathcliff", "Rochester", "Pip", "David Copperfield"],
+      "spiegazione": "Heathcliff is the dark, passionate protagonist of Wuthering Heights.",
+      "livello": "intermedio",
+      "argomento": "Victorian Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "George Eliot was the pen name of:",
+      "rispostaCorretta": "Mary Ann Evans",
+      "opzioni": ["Mary Ann Evans", "Charlotte Brontë", "Jane Austen", "Virginia Woolf"],
+      "spiegazione": "Mary Ann Evans used a male pen name to be taken seriously as a writer.",
+      "livello": "avanzato",
+      "argomento": "Victorian Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Oscar Wilde wrote:",
+      "rispostaCorretta": "The Picture of Dorian Gray and The Importance of Being Earnest",
+      "opzioni": ["The Picture of Dorian Gray and The Importance of Being Earnest", "Dracula", "Frankenstein", "Jane Eyre"],
+      "spiegazione": "Wilde was a master of wit, writing novels, plays, and essays.",
+      "livello": "base",
+      "argomento": "Victorian Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Picture of Dorian Gray explores:",
+      "rispostaCorretta": "Aestheticism and moral corruption",
+      "opzioni": ["Aestheticism and moral corruption", "Social reform", "War", "Religion"],
+      "spiegazione": "The novel explores the relationship between beauty, art, and morality.",
+      "livello": "intermedio",
+      "argomento": "Victorian Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Robert Louis Stevenson wrote:",
+      "rispostaCorretta": "The Strange Case of Dr Jekyll and Mr Hyde",
+      "opzioni": ["The Strange Case of Dr Jekyll and Mr Hyde", "Dracula", "Frankenstein", "The Picture of Dorian Gray"],
+      "spiegazione": "Stevenson explored the duality of human nature in this Gothic novella.",
+      "livello": "base",
+      "argomento": "Victorian Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Dracula was written by:",
+      "rispostaCorretta": "Bram Stoker",
+      "opzioni": ["Bram Stoker", "Mary Shelley", "Oscar Wilde", "Stevenson"],
+      "spiegazione": "Bram Stoker wrote Dracula (1897), the most famous vampire novel.",
+      "livello": "base",
+      "argomento": "Victorian Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Thomas Hardy's novels are set in:",
+      "rispostaCorretta": "Wessex (rural England)",
+      "opzioni": ["Wessex (rural England)", "London", "Scotland", "Ireland"],
+      "spiegazione": "Hardy set his novels in the fictional Wessex, based on rural Dorset.",
+      "livello": "intermedio",
+      "argomento": "Victorian Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Tess of the d'Urbervilles was written by:",
+      "rispostaCorretta": "Thomas Hardy",
+      "opzioni": ["Thomas Hardy", "Charles Dickens", "George Eliot", "Oscar Wilde"],
+      "spiegazione": "Hardy wrote Tess (1891), a tragic novel about a 'pure woman'.",
+      "livello": "intermedio",
+      "argomento": "Victorian Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Modernism in literature developed in the:",
+      "rispostaCorretta": "Early 20th century",
+      "opzioni": ["Early 20th century", "18th century", "Late 19th century", "Mid-20th century"],
+      "spiegazione": "Modernism emerged in the early 1900s, breaking with traditional forms.",
+      "livello": "base",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "James Joyce wrote:",
+      "rispostaCorretta": "Ulysses and Dubliners",
+      "opzioni": ["Ulysses and Dubliners", "Mrs Dalloway", "To the Lighthouse", "Heart of Darkness"],
+      "spiegazione": "Joyce was an Irish modernist famous for stream of consciousness.",
+      "livello": "intermedio",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Stream of consciousness is a technique that:",
+      "rispostaCorretta": "Represents the flow of thoughts in a character's mind",
+      "opzioni": ["Represents the flow of thoughts in a character's mind", "Uses only dialogue", "Describes external events", "Follows chronological order"],
+      "spiegazione": "Stream of consciousness captures the continuous flow of thoughts and feelings.",
+      "livello": "intermedio",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Virginia Woolf wrote:",
+      "rispostaCorretta": "Mrs Dalloway and To the Lighthouse",
+      "opzioni": ["Mrs Dalloway and To the Lighthouse", "Ulysses", "Heart of Darkness", "1984"],
+      "spiegazione": "Woolf was a key modernist, exploring consciousness and gender.",
+      "livello": "intermedio",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Joseph Conrad wrote:",
+      "rispostaCorretta": "Heart of Darkness",
+      "opzioni": ["Heart of Darkness", "Ulysses", "Mrs Dalloway", "1984"],
+      "spiegazione": "Conrad's Heart of Darkness (1899) explores colonialism in Africa.",
+      "livello": "intermedio",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "George Orwell wrote:",
+      "rispostaCorretta": "1984 and Animal Farm",
+      "opzioni": ["1984 and Animal Farm", "Brave New World", "Lord of the Flies", "Ulysses"],
+      "spiegazione": "Orwell wrote dystopian novels criticizing totalitarianism.",
+      "livello": "base",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "1984 by Orwell depicts:",
+      "rispostaCorretta": "A totalitarian dystopia",
+      "opzioni": ["A totalitarian dystopia", "A utopia", "Victorian England", "World War I"],
+      "spiegazione": "1984 portrays a society under total surveillance and thought control.",
+      "livello": "base",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Big Brother is a character from:",
+      "rispostaCorretta": "1984",
+      "opzioni": ["1984", "Animal Farm", "Brave New World", "Lord of the Flies"],
+      "spiegazione": "Big Brother is the omnipresent leader in Orwell's 1984.",
+      "livello": "base",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Aldous Huxley wrote:",
+      "rispostaCorretta": "Brave New World",
+      "opzioni": ["Brave New World", "1984", "Animal Farm", "Lord of the Flies"],
+      "spiegazione": "Huxley's Brave New World (1932) depicts a dystopia of pleasure and control.",
+      "livello": "intermedio",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The War Poets wrote about:",
+      "rispostaCorretta": "World War I",
+      "opzioni": ["World War I", "World War II", "The Napoleonic Wars", "The American Civil War"],
+      "spiegazione": "The War Poets (Owen, Sassoon, Brooke) wrote about WWI experiences.",
+      "livello": "intermedio",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Wilfred Owen's poetry is characterized by:",
+      "rispostaCorretta": "Anti-war sentiment and realistic depictions of trench warfare",
+      "opzioni": ["Anti-war sentiment and realistic depictions of trench warfare", "Patriotic enthusiasm", "Romantic idealism", "Nature descriptions"],
+      "spiegazione": "Owen exposed the horrors of war, dying just before the Armistice.",
+      "livello": "avanzato",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "T.S. Eliot wrote:",
+      "rispostaCorretta": "The Waste Land",
+      "opzioni": ["The Waste Land", "Ulysses", "Mrs Dalloway", "Heart of Darkness"],
+      "spiegazione": "The Waste Land (1922) is a landmark modernist poem.",
+      "livello": "avanzato",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "The Romantic poets valued reason over emotion.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Romantics valued emotion, imagination, and nature over reason.",
+      "livello": "base",
+      "argomento": "Romantic Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Charles Dickens published his novels in serial form.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Dickens published his novels in weekly or monthly installments.",
+      "livello": "intermedio",
+      "argomento": "Victorian Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Modernist literature typically follows a linear narrative.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Modernist literature often breaks with linear narrative and traditional forms.",
+      "livello": "intermedio",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Pride and Prejudice was written by:",
+      "rispostaCorretta": "Jane Austen",
+      "opzioni": ["Jane Austen", "Charlotte Brontë", "Emily Brontë", "George Eliot"],
+      "spiegazione": "Jane Austen wrote Pride and Prejudice (1813), a classic of English literature.",
+      "livello": "base",
+      "argomento": "Romantic Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Jane Austen's novels focus on:",
+      "rispostaCorretta": "Marriage and social class in Regency England",
+      "opzioni": ["Marriage and social class in Regency England", "Gothic horror", "War", "Industrial revolution"],
+      "spiegazione": "Austen wrote witty novels about love and society in the gentry class.",
+      "livello": "intermedio",
+      "argomento": "Romantic Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The protagonist of Pride and Prejudice is:",
+      "rispostaCorretta": "Elizabeth Bennet",
+      "opzioni": ["Elizabeth Bennet", "Jane Eyre", "Catherine Earnshaw", "Tess"],
+      "spiegazione": "Elizabeth Bennet is the witty, independent heroine of Pride and Prejudice.",
+      "livello": "base",
+      "argomento": "Romantic Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "A Christmas Carol was written by:",
+      "rispostaCorretta": "Charles Dickens",
+      "opzioni": ["Charles Dickens", "Oscar Wilde", "Thomas Hardy", "George Eliot"],
+      "spiegazione": "Dickens wrote A Christmas Carol (1843), featuring Ebenezer Scrooge.",
+      "livello": "base",
+      "argomento": "Victorian Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Importance of Being Earnest is:",
+      "rispostaCorretta": "A comedy of manners",
+      "opzioni": ["A comedy of manners", "A tragedy", "A Gothic novel", "An epic poem"],
+      "spiegazione": "Wilde's play satirizes Victorian society with wit and paradox.",
+      "livello": "intermedio",
+      "argomento": "Victorian Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lord of the Flies was written by:",
+      "rispostaCorretta": "William Golding",
+      "opzioni": ["William Golding", "George Orwell", "Aldous Huxley", "Joseph Conrad"],
+      "spiegazione": "Golding wrote Lord of the Flies (1954) about boys stranded on an island.",
+      "livello": "intermedio",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lord of the Flies explores:",
+      "rispostaCorretta": "The darkness of human nature",
+      "opzioni": ["The darkness of human nature", "Romantic love", "Social reform", "Scientific progress"],
+      "spiegazione": "The novel shows how civilization can break down and savagery emerge.",
+      "livello": "intermedio",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Samuel Beckett wrote:",
+      "rispostaCorretta": "Waiting for Godot",
+      "opzioni": ["Waiting for Godot", "Death of a Salesman", "A Streetcar Named Desire", "The Glass Menagerie"],
+      "spiegazione": "Beckett's Waiting for Godot (1953) is a masterpiece of absurdist theatre.",
+      "livello": "avanzato",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Theatre of the Absurd is characterized by:",
+      "rispostaCorretta": "Meaninglessness and lack of traditional plot",
+      "opzioni": ["Meaninglessness and lack of traditional plot", "Realistic dialogue", "Historical accuracy", "Happy endings"],
+      "spiegazione": "Absurdist theatre explores the futility and meaninglessness of existence.",
+      "livello": "avanzato",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Bloomsbury Group included:",
+      "rispostaCorretta": "Virginia Woolf and E.M. Forster",
+      "opzioni": ["Virginia Woolf and E.M. Forster", "Dickens and Thackeray", "Byron and Shelley", "Orwell and Huxley"],
+      "spiegazione": "The Bloomsbury Group was an influential circle of modernist writers and artists.",
+      "livello": "avanzato",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "E.M. Forster wrote:",
+      "rispostaCorretta": "A Passage to India and A Room with a View",
+      "opzioni": ["A Passage to India and A Room with a View", "Mrs Dalloway", "Ulysses", "Heart of Darkness"],
+      "spiegazione": "Forster explored class, culture, and colonialism in his novels.",
+      "livello": "avanzato",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "D.H. Lawrence wrote:",
+      "rispostaCorretta": "Sons and Lovers and Lady Chatterley's Lover",
+      "opzioni": ["Sons and Lovers and Lady Chatterley's Lover", "Ulysses", "1984", "Brave New World"],
+      "spiegazione": "Lawrence explored sexuality and class in his controversial novels.",
+      "livello": "avanzato",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The epiphany in Joyce's stories is:",
+      "rispostaCorretta": "A moment of sudden revelation or insight",
+      "opzioni": ["A moment of sudden revelation or insight", "A religious ceremony", "A plot twist", "A happy ending"],
+      "spiegazione": "Joyce used epiphanies as moments of profound realization in Dubliners.",
+      "livello": "avanzato",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The setting of Ulysses is:",
+      "rispostaCorretta": "Dublin on June 16, 1904",
+      "opzioni": ["Dublin on June 16, 1904", "London in 1900", "Paris in 1920", "New York in 1910"],
+      "spiegazione": "Ulysses takes place in Dublin on a single day, now celebrated as Bloomsday.",
+      "livello": "avanzato",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Animal Farm is an allegory of:",
+      "rispostaCorretta": "The Russian Revolution and Stalinism",
+      "opzioni": ["The Russian Revolution and Stalinism", "World War I", "The French Revolution", "The Industrial Revolution"],
+      "spiegazione": "Orwell's fable satirizes the corruption of revolutionary ideals in Soviet Russia.",
+      "livello": "intermedio",
+      "argomento": "Modern Literature",
+      "materia": "inglese"
+    }
+  ]
+}

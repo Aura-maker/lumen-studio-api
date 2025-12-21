@@ -1,0 +1,517 @@
+{
+  "materia": "storia",
+  "descrizione": "Quiz Storia - Parte 5: Civiltà antiche approfondimento, Medioevo avanzato",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "La civiltà sumera si sviluppò in:",
+      "rispostaCorretta": "Mesopotamia (attuale Iraq)",
+      "opzioni": ["Mesopotamia (attuale Iraq)", "Egitto", "India", "Cina"],
+      "spiegazione": "I Sumeri fondarono le prime città-stato tra Tigri ed Eufrate.",
+      "livello": "base",
+      "argomento": "Civiltà antiche",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La scrittura cuneiforme fu inventata dai:",
+      "rispostaCorretta": "Sumeri",
+      "opzioni": ["Sumeri", "Egizi", "Fenici", "Greci"],
+      "spiegazione": "La scrittura cuneiforme usava segni a forma di cuneo su tavolette d'argilla.",
+      "livello": "intermedio",
+      "argomento": "Civiltà antiche",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Hammurabi fu re di:",
+      "rispostaCorretta": "Babilonia",
+      "opzioni": ["Babilonia", "Assiria", "Egitto", "Persia"],
+      "spiegazione": "Hammurabi (XVIII sec. a.C.) è famoso per il suo codice di leggi.",
+      "livello": "intermedio",
+      "argomento": "Civiltà antiche",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Codice di Hammurabi è:",
+      "rispostaCorretta": "Una delle prime raccolte di leggi scritte",
+      "opzioni": ["Una delle prime raccolte di leggi scritte", "Un testo religioso", "Un poema epico", "Un trattato scientifico"],
+      "spiegazione": "Il Codice contiene 282 leggi basate sulla legge del taglione.",
+      "livello": "intermedio",
+      "argomento": "Civiltà antiche",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Impero persiano fu fondato da:",
+      "rispostaCorretta": "Ciro il Grande",
+      "opzioni": ["Ciro il Grande", "Dario I", "Serse", "Alessandro Magno"],
+      "spiegazione": "Ciro il Grande fondò l'Impero achemenide nel VI secolo a.C.",
+      "livello": "intermedio",
+      "argomento": "Civiltà antiche",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Fenici sono famosi per:",
+      "rispostaCorretta": "L'invenzione dell'alfabeto e il commercio marittimo",
+      "opzioni": ["L'invenzione dell'alfabeto e il commercio marittimo", "Le piramidi", "La filosofia", "La democrazia"],
+      "spiegazione": "L'alfabeto fenicio è alla base di quello greco e latino.",
+      "livello": "intermedio",
+      "argomento": "Civiltà antiche",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli Ebrei si distinguevano per:",
+      "rispostaCorretta": "Il monoteismo",
+      "opzioni": ["Il monoteismo", "Il politeismo", "L'ateismo", "L'animismo"],
+      "spiegazione": "Gli Ebrei furono il primo popolo monoteista.",
+      "livello": "base",
+      "argomento": "Civiltà antiche",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Esodo biblico narra:",
+      "rispostaCorretta": "La fuga degli Ebrei dall'Egitto guidati da Mosè",
+      "opzioni": ["La fuga degli Ebrei dall'Egitto guidati da Mosè", "La fondazione di Roma", "La guerra di Troia", "La conquista della Gallia"],
+      "spiegazione": "L'Esodo è un evento fondamentale della storia ebraica.",
+      "livello": "base",
+      "argomento": "Civiltà antiche",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le piramidi egizie erano:",
+      "rispostaCorretta": "Tombe monumentali per i faraoni",
+      "opzioni": ["Tombe monumentali per i faraoni", "Templi", "Palazzi", "Fortezze"],
+      "spiegazione": "Le piramidi di Giza sono le più famose, costruite per Cheope, Chefren e Micerino.",
+      "livello": "base",
+      "argomento": "Civiltà antiche",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Stele di Rosetta permise di:",
+      "rispostaCorretta": "Decifrare i geroglifici egizi",
+      "opzioni": ["Decifrare i geroglifici egizi", "Scoprire le piramidi", "Trovare la tomba di Tutankhamon", "Costruire il canale di Suez"],
+      "spiegazione": "Champollion decifrò i geroglifici grazie alla Stele di Rosetta (1822).",
+      "livello": "avanzato",
+      "argomento": "Civiltà antiche",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La polis greca era:",
+      "rispostaCorretta": "Una città-stato indipendente",
+      "opzioni": ["Una città-stato indipendente", "Un impero", "Una provincia", "Una colonia"],
+      "spiegazione": "Le poleis (Atene, Sparta, ecc.) erano autonome politicamente.",
+      "livello": "base",
+      "argomento": "Grecia antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La democrazia ateniese fu introdotta da:",
+      "rispostaCorretta": "Clistene",
+      "opzioni": ["Clistene", "Pericle", "Solone", "Pisistrato"],
+      "spiegazione": "Clistene riformò la costituzione ateniese nel 508/507 a.C.",
+      "livello": "avanzato",
+      "argomento": "Grecia antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'età di Pericle (V sec. a.C.) fu caratterizzata da:",
+      "rispostaCorretta": "L'apogeo della democrazia e della cultura ateniese",
+      "opzioni": ["L'apogeo della democrazia e della cultura ateniese", "La decadenza di Atene", "La conquista persiana", "La monarchia"],
+      "spiegazione": "Pericle promosse la costruzione del Partenone e la cultura.",
+      "livello": "intermedio",
+      "argomento": "Grecia antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le guerre persiane (490-479 a.C.) videro:",
+      "rispostaCorretta": "La vittoria dei Greci sui Persiani",
+      "opzioni": ["La vittoria dei Greci sui Persiani", "La vittoria dei Persiani", "Un pareggio", "L'alleanza greco-persiana"],
+      "spiegazione": "Maratona, Termopili, Salamina, Platea furono le battaglie decisive.",
+      "livello": "intermedio",
+      "argomento": "Grecia antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La battaglia di Maratona (490 a.C.) fu vinta da:",
+      "rispostaCorretta": "Gli Ateniesi",
+      "opzioni": ["Gli Ateniesi", "I Persiani", "Gli Spartani", "I Macedoni"],
+      "spiegazione": "Maratona fu la prima grande vittoria greca sui Persiani.",
+      "livello": "intermedio",
+      "argomento": "Grecia antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La battaglia delle Termopili (480 a.C.) vide:",
+      "rispostaCorretta": "Il sacrificio di Leonida e i 300 Spartani",
+      "opzioni": ["Il sacrificio di Leonida e i 300 Spartani", "La vittoria greca", "La resa persiana", "L'alleanza greco-persiana"],
+      "spiegazione": "Leonida e i suoi uomini morirono per rallentare l'avanzata persiana.",
+      "livello": "base",
+      "argomento": "Grecia antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La guerra del Peloponneso (431-404 a.C.) oppose:",
+      "rispostaCorretta": "Atene e Sparta",
+      "opzioni": ["Atene e Sparta", "Grecia e Persia", "Roma e Cartagine", "Macedonia e Persia"],
+      "spiegazione": "La guerra del Peloponneso indebolì le poleis greche.",
+      "livello": "intermedio",
+      "argomento": "Grecia antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Alessandro Magno conquistò:",
+      "rispostaCorretta": "L'Impero persiano fino all'India",
+      "opzioni": ["L'Impero persiano fino all'India", "Solo la Grecia", "Solo l'Egitto", "Roma"],
+      "spiegazione": "Alessandro creò un impero vastissimo in soli 13 anni.",
+      "livello": "base",
+      "argomento": "Grecia antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Ellenismo è il periodo:",
+      "rispostaCorretta": "Dalla morte di Alessandro alla conquista romana",
+      "opzioni": ["Dalla morte di Alessandro alla conquista romana", "Dell'età classica greca", "Dell'Impero romano", "Del Medioevo"],
+      "spiegazione": "L'Ellenismo (323-31 a.C.) diffuse la cultura greca nel Mediterraneo.",
+      "livello": "avanzato",
+      "argomento": "Grecia antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Roma fu fondata secondo la tradizione nel:",
+      "rispostaCorretta": "753 a.C.",
+      "opzioni": ["753 a.C.", "509 a.C.", "27 a.C.", "476 d.C."],
+      "spiegazione": "La data tradizionale della fondazione di Roma è il 21 aprile 753 a.C.",
+      "livello": "base",
+      "argomento": "Roma antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Repubblica romana fu istituita nel:",
+      "rispostaCorretta": "509 a.C.",
+      "opzioni": ["509 a.C.", "753 a.C.", "27 a.C.", "476 d.C."],
+      "spiegazione": "La Repubblica iniziò con la cacciata dell'ultimo re, Tarquinio il Superbo.",
+      "livello": "intermedio",
+      "argomento": "Roma antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le guerre puniche opposero Roma a:",
+      "rispostaCorretta": "Cartagine",
+      "opzioni": ["Cartagine", "Grecia", "Gallia", "Persia"],
+      "spiegazione": "Le tre guerre puniche (264-146 a.C.) portarono alla distruzione di Cartagine.",
+      "livello": "base",
+      "argomento": "Roma antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Annibale attraversò le Alpi con:",
+      "rispostaCorretta": "Gli elefanti da guerra",
+      "opzioni": ["Gli elefanti da guerra", "La flotta", "I carri", "La cavalleria leggera"],
+      "spiegazione": "Annibale sorprese i Romani attraversando le Alpi nel 218 a.C.",
+      "livello": "base",
+      "argomento": "Roma antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giulio Cesare conquistò:",
+      "rispostaCorretta": "La Gallia",
+      "opzioni": ["La Gallia", "L'Egitto", "La Britannia", "La Germania"],
+      "spiegazione": "Cesare conquistò la Gallia tra il 58 e il 50 a.C.",
+      "livello": "base",
+      "argomento": "Roma antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giulio Cesare fu assassinato nel:",
+      "rispostaCorretta": "44 a.C. (Idi di marzo)",
+      "opzioni": ["44 a.C. (Idi di marzo)", "27 a.C.", "31 a.C.", "14 d.C."],
+      "spiegazione": "Cesare fu ucciso da un gruppo di senatori guidati da Bruto e Cassio.",
+      "livello": "intermedio",
+      "argomento": "Roma antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Impero romano iniziò con:",
+      "rispostaCorretta": "Augusto (27 a.C.)",
+      "opzioni": ["Augusto (27 a.C.)", "Cesare (44 a.C.)", "Nerone (54 d.C.)", "Costantino (306 d.C.)"],
+      "spiegazione": "Ottaviano ricevette il titolo di Augusto nel 27 a.C.",
+      "livello": "intermedio",
+      "argomento": "Roma antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Pax Romana fu un periodo di:",
+      "rispostaCorretta": "Pace e prosperità (I-II sec. d.C.)",
+      "opzioni": ["Pace e prosperità (I-II sec. d.C.)", "Guerre continue", "Decadenza", "Invasioni barbariche"],
+      "spiegazione": "La Pax Romana durò circa due secoli sotto i primi imperatori.",
+      "livello": "intermedio",
+      "argomento": "Roma antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Editto di Milano (313 d.C.) concesse:",
+      "rispostaCorretta": "La libertà di culto ai cristiani",
+      "opzioni": ["La libertà di culto ai cristiani", "La persecuzione dei cristiani", "La divisione dell'Impero", "La caduta di Roma"],
+      "spiegazione": "Costantino e Licinio emanarono l'Editto di tolleranza.",
+      "livello": "intermedio",
+      "argomento": "Roma antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Impero romano d'Occidente cadde nel:",
+      "rispostaCorretta": "476 d.C.",
+      "opzioni": ["476 d.C.", "410 d.C.", "395 d.C.", "1453 d.C."],
+      "spiegazione": "Odoacre depose l'ultimo imperatore Romolo Augustolo nel 476.",
+      "livello": "base",
+      "argomento": "Roma antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Carlo Magno fu incoronato imperatore nel:",
+      "rispostaCorretta": "800 d.C.",
+      "opzioni": ["800 d.C.", "768 d.C.", "814 d.C.", "843 d.C."],
+      "spiegazione": "Papa Leone III incoronò Carlo Magno la notte di Natale dell'800.",
+      "livello": "base",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Sacro Romano Impero fu fondato da:",
+      "rispostaCorretta": "Carlo Magno",
+      "opzioni": ["Carlo Magno", "Ottone I", "Federico Barbarossa", "Carlo V"],
+      "spiegazione": "Carlo Magno ricostituì l'Impero in Occidente.",
+      "livello": "intermedio",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il feudalesimo si basava su:",
+      "rispostaCorretta": "Rapporti di vassallaggio e concessione di feudi",
+      "opzioni": ["Rapporti di vassallaggio e concessione di feudi", "La democrazia", "Il commercio", "L'industria"],
+      "spiegazione": "Il feudalesimo era un sistema politico-sociale basato sulla terra.",
+      "livello": "base",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La lotta per le investiture oppose:",
+      "rispostaCorretta": "Papato e Impero",
+      "opzioni": ["Papato e Impero", "Francia e Inghilterra", "Comuni e feudatari", "Guelfi e Ghibellini"],
+      "spiegazione": "La lotta riguardava il diritto di nominare i vescovi.",
+      "livello": "avanzato",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Concordato di Worms (1122) risolse:",
+      "rispostaCorretta": "La lotta per le investiture",
+      "opzioni": ["La lotta per le investiture", "Le Crociate", "Lo Scisma d'Oriente", "La Guerra dei Cent'anni"],
+      "spiegazione": "Il Concordato distinse investitura spirituale e temporale.",
+      "livello": "avanzato",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Crociate furono spedizioni per:",
+      "rispostaCorretta": "Liberare la Terra Santa dai musulmani",
+      "opzioni": ["Liberare la Terra Santa dai musulmani", "Conquistare Costantinopoli", "Combattere i Normanni", "Colonizzare l'America"],
+      "spiegazione": "Le Crociate (1096-1291) furono guerre religiose verso Gerusalemme.",
+      "livello": "base",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La prima Crociata fu bandita da:",
+      "rispostaCorretta": "Papa Urbano II (1095)",
+      "opzioni": ["Papa Urbano II (1095)", "Papa Innocenzo III", "Papa Gregorio VII", "Papa Leone X"],
+      "spiegazione": "Urbano II bandì la Crociata al Concilio di Clermont.",
+      "livello": "avanzato",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Comuni italiani si svilupparono nel:",
+      "rispostaCorretta": "XI-XII secolo",
+      "opzioni": ["XI-XII secolo", "VIII-IX secolo", "XIV-XV secolo", "XVI-XVII secolo"],
+      "spiegazione": "I Comuni furono città autonome governate dai cittadini.",
+      "livello": "intermedio",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Federico Barbarossa combatté contro:",
+      "rispostaCorretta": "I Comuni italiani della Lega Lombarda",
+      "opzioni": ["I Comuni italiani della Lega Lombarda", "I Normanni", "I Saraceni", "I Bizantini"],
+      "spiegazione": "Barbarossa fu sconfitto a Legnano (1176) dalla Lega Lombarda.",
+      "livello": "avanzato",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Le piramidi egizie erano templi religiosi.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Le piramidi erano tombe monumentali per i faraoni.",
+      "livello": "base",
+      "argomento": "Civiltà antiche",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La democrazia nacque ad Atene.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Atene fu la prima democrazia della storia (V sec. a.C.).",
+      "livello": "base",
+      "argomento": "Grecia antica",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Carlo Magno fu incoronato imperatore dal Papa.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Papa Leone III incoronò Carlo Magno nell'800 d.C.",
+      "livello": "base",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Magna Carta (1215) fu firmata da:",
+      "rispostaCorretta": "Giovanni Senza Terra",
+      "opzioni": ["Giovanni Senza Terra", "Riccardo Cuor di Leone", "Enrico VIII", "Guglielmo il Conquistatore"],
+      "spiegazione": "La Magna Carta limitò il potere del re d'Inghilterra.",
+      "livello": "avanzato",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Guerra dei Cent'anni (1337-1453) oppose:",
+      "rispostaCorretta": "Francia e Inghilterra",
+      "opzioni": ["Francia e Inghilterra", "Francia e Spagna", "Inghilterra e Spagna", "Francia e Germania"],
+      "spiegazione": "La guerra fu causata da dispute dinastiche e territoriali.",
+      "livello": "intermedio",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giovanna d'Arco combatté nella:",
+      "rispostaCorretta": "Guerra dei Cent'anni",
+      "opzioni": ["Guerra dei Cent'anni", "Guerra delle Due Rose", "Crociate", "Riconquista spagnola"],
+      "spiegazione": "Giovanna d'Arco guidò i Francesi contro gli Inglesi.",
+      "livello": "intermedio",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La peste nera (1347-1351) uccise circa:",
+      "rispostaCorretta": "Un terzo della popolazione europea",
+      "opzioni": ["Un terzo della popolazione europea", "Poche migliaia di persone", "Solo i poveri", "Solo gli anziani"],
+      "spiegazione": "La peste nera fu una delle peggiori pandemie della storia.",
+      "livello": "intermedio",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo Scisma d'Oriente (1054) separò:",
+      "rispostaCorretta": "Chiesa cattolica e Chiesa ortodossa",
+      "opzioni": ["Chiesa cattolica e Chiesa ortodossa", "Cattolici e protestanti", "Cristiani e musulmani", "Ebrei e cristiani"],
+      "spiegazione": "Lo Scisma divise definitivamente Roma e Costantinopoli.",
+      "livello": "avanzato",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Costantinopoli cadde in mano ai Turchi nel:",
+      "rispostaCorretta": "1453",
+      "opzioni": ["1453", "1204", "1492", "1517"],
+      "spiegazione": "La caduta di Costantinopoli segnò la fine dell'Impero bizantino.",
+      "livello": "intermedio",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Reconquista spagnola terminò nel:",
+      "rispostaCorretta": "1492 con la conquista di Granada",
+      "opzioni": ["1492 con la conquista di Granada", "1453", "1517", "1588"],
+      "spiegazione": "I Re Cattolici completarono la Reconquista nel 1492.",
+      "livello": "avanzato",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Inquisizione spagnola fu istituita nel:",
+      "rispostaCorretta": "1478",
+      "opzioni": ["1478", "1492", "1517", "1545"],
+      "spiegazione": "L'Inquisizione spagnola perseguì ebrei, musulmani ed eretici.",
+      "livello": "avanzato",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Marco Polo viaggiò fino a:",
+      "rispostaCorretta": "La Cina",
+      "opzioni": ["La Cina", "L'India", "Il Giappone", "L'Africa"],
+      "spiegazione": "Marco Polo raggiunse la corte di Kublai Khan nel XIII secolo.",
+      "livello": "base",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Milione di Marco Polo descrive:",
+      "rispostaCorretta": "I suoi viaggi in Asia",
+      "opzioni": ["I suoi viaggi in Asia", "La storia di Roma", "Le Crociate", "La peste nera"],
+      "spiegazione": "Il Milione ispirò esploratori come Colombo.",
+      "livello": "intermedio",
+      "argomento": "Medioevo",
+      "materia": "storia"
+    }
+  ]
+}

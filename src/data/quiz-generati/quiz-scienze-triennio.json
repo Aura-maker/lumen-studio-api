@@ -1,0 +1,567 @@
+{
+  "materia": "scienze",
+  "descrizione": "Quiz Scienze triennio - Materia, Cellula, Genetica, DNA, Evoluzione",
+  "totale": 60,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "L'atomo è composto da:",
+      "rispostaCorretta": "Protoni, neutroni ed elettroni",
+      "opzioni": ["Protoni, neutroni ed elettroni", "Solo protoni", "Solo elettroni", "Molecole"],
+      "spiegazione": "L'atomo ha un nucleo con protoni e neutroni, e elettroni orbitanti.",
+      "livello": "base",
+      "argomento": "La materia e le misure",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I protoni hanno carica:",
+      "rispostaCorretta": "Positiva",
+      "opzioni": ["Positiva", "Negativa", "Neutra", "Variabile"],
+      "spiegazione": "I protoni hanno carica positiva, gli elettroni negativa, i neutroni neutra.",
+      "livello": "base",
+      "argomento": "La materia e le misure",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il numero atomico indica:",
+      "rispostaCorretta": "Il numero di protoni",
+      "opzioni": ["Il numero di protoni", "Il numero di neutroni", "La massa atomica", "Il numero di elettroni esterni"],
+      "spiegazione": "Il numero atomico Z indica il numero di protoni nel nucleo.",
+      "livello": "base",
+      "argomento": "La materia e le misure",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli isotopi sono atomi con stesso numero atomico ma diverso:",
+      "rispostaCorretta": "Numero di neutroni",
+      "opzioni": ["Numero di neutroni", "Numero di protoni", "Numero di elettroni", "Carica"],
+      "spiegazione": "Gli isotopi hanno lo stesso numero di protoni ma diverso numero di neutroni.",
+      "livello": "intermedio",
+      "argomento": "La materia e le misure",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La cellula è l'unità fondamentale:",
+      "rispostaCorretta": "Di tutti gli esseri viventi",
+      "opzioni": ["Di tutti gli esseri viventi", "Solo degli animali", "Solo delle piante", "Solo dei batteri"],
+      "spiegazione": "La cellula è l'unità strutturale e funzionale di tutti gli organismi viventi.",
+      "livello": "base",
+      "argomento": "La cellula",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le cellule procariote si distinguono per:",
+      "rispostaCorretta": "L'assenza di nucleo delimitato da membrana",
+      "opzioni": ["L'assenza di nucleo delimitato da membrana", "La presenza di mitocondri", "Le grandi dimensioni", "La presenza di cloroplasti"],
+      "spiegazione": "I procarioti (batteri) non hanno nucleo delimitato da membrana.",
+      "livello": "base",
+      "argomento": "La cellula",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le cellule eucariote hanno:",
+      "rispostaCorretta": "Nucleo delimitato da membrana e organuli",
+      "opzioni": ["Nucleo delimitato da membrana e organuli", "DNA libero nel citoplasma", "Assenza di ribosomi", "Parete cellulare sempre presente"],
+      "spiegazione": "Gli eucarioti hanno nucleo con membrana e organuli specializzati.",
+      "livello": "base",
+      "argomento": "La cellula",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I mitocondri sono responsabili della:",
+      "rispostaCorretta": "Respirazione cellulare e produzione di ATP",
+      "opzioni": ["Respirazione cellulare e produzione di ATP", "Fotosintesi", "Sintesi proteica", "Digestione cellulare"],
+      "spiegazione": "I mitocondri sono le 'centrali energetiche' che producono ATP.",
+      "livello": "base",
+      "argomento": "La cellula",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I cloroplasti sono presenti nelle cellule:",
+      "rispostaCorretta": "Vegetali",
+      "opzioni": ["Vegetali", "Animali", "Batteriche", "Fungine"],
+      "spiegazione": "I cloroplasti, sede della fotosintesi, sono presenti nelle cellule vegetali.",
+      "livello": "base",
+      "argomento": "La cellula",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il reticolo endoplasmatico rugoso è sede della:",
+      "rispostaCorretta": "Sintesi proteica",
+      "opzioni": ["Sintesi proteica", "Sintesi lipidica", "Respirazione", "Fotosintesi"],
+      "spiegazione": "Il RER ha ribosomi e sintetizza proteine destinate alla secrezione.",
+      "livello": "intermedio",
+      "argomento": "La cellula",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'apparato di Golgi ha la funzione di:",
+      "rispostaCorretta": "Modificare, impacchettare e smistare le proteine",
+      "opzioni": ["Modificare, impacchettare e smistare le proteine", "Produrre energia", "Sintetizzare DNA", "Digerire sostanze"],
+      "spiegazione": "L'apparato di Golgi modifica e smista le proteine verso le destinazioni.",
+      "livello": "intermedio",
+      "argomento": "La cellula",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La glicolisi avviene:",
+      "rispostaCorretta": "Nel citoplasma",
+      "opzioni": ["Nel citoplasma", "Nei mitocondri", "Nel nucleo", "Nei cloroplasti"],
+      "spiegazione": "La glicolisi è la prima fase della respirazione e avviene nel citoplasma.",
+      "livello": "intermedio",
+      "argomento": "Metabolismo cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il ciclo di Krebs avviene:",
+      "rispostaCorretta": "Nella matrice mitocondriale",
+      "opzioni": ["Nella matrice mitocondriale", "Nel citoplasma", "Nel nucleo", "Sulla membrana cellulare"],
+      "spiegazione": "Il ciclo di Krebs avviene nella matrice dei mitocondri.",
+      "livello": "intermedio",
+      "argomento": "Metabolismo cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ATP è:",
+      "rispostaCorretta": "La principale molecola energetica della cellula",
+      "opzioni": ["La principale molecola energetica della cellula", "Un acido nucleico", "Una proteina", "Un lipide"],
+      "spiegazione": "L'ATP (adenosina trifosfato) è la 'moneta energetica' della cellula.",
+      "livello": "base",
+      "argomento": "Metabolismo cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La fotosintesi produce:",
+      "rispostaCorretta": "Glucosio e ossigeno",
+      "opzioni": ["Glucosio e ossigeno", "Anidride carbonica e acqua", "ATP e ADP", "Proteine"],
+      "spiegazione": "La fotosintesi: CO₂ + H₂O + luce → glucosio + O₂.",
+      "livello": "base",
+      "argomento": "Metabolismo cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La mitosi produce:",
+      "rispostaCorretta": "Due cellule figlie identiche alla madre",
+      "opzioni": ["Due cellule figlie identiche alla madre", "Quattro cellule diverse", "Una cellula più grande", "Gameti"],
+      "spiegazione": "La mitosi produce due cellule diploidi geneticamente identiche.",
+      "livello": "base",
+      "argomento": "Divisione cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La meiosi produce:",
+      "rispostaCorretta": "Quattro cellule aploidi (gameti)",
+      "opzioni": ["Quattro cellule aploidi (gameti)", "Due cellule diploidi", "Una cellula tetraploide", "Otto cellule"],
+      "spiegazione": "La meiosi produce 4 cellule aploidi (n) per la riproduzione sessuale.",
+      "livello": "base",
+      "argomento": "Divisione cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il crossing-over avviene durante:",
+      "rispostaCorretta": "La meiosi I",
+      "opzioni": ["La meiosi I", "La mitosi", "La meiosi II", "L'interfase"],
+      "spiegazione": "Il crossing-over avviene nella profase I della meiosi, aumentando la variabilità.",
+      "livello": "intermedio",
+      "argomento": "Divisione cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Mendel è considerato il padre della:",
+      "rispostaCorretta": "Genetica",
+      "opzioni": ["Genetica", "Evoluzione", "Citologia", "Ecologia"],
+      "spiegazione": "Gregor Mendel (1822-1884) scoprì le leggi dell'ereditarietà.",
+      "livello": "base",
+      "argomento": "Genetica mendeliana",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La prima legge di Mendel afferma che:",
+      "rispostaCorretta": "Gli alleli si separano durante la formazione dei gameti",
+      "opzioni": ["Gli alleli si separano durante la formazione dei gameti", "I caratteri si mescolano", "Tutti i figli sono uguali ai genitori", "I geni sono legati"],
+      "spiegazione": "Legge della segregazione: gli alleli si separano nella meiosi.",
+      "livello": "intermedio",
+      "argomento": "Genetica mendeliana",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un individuo eterozigote ha:",
+      "rispostaCorretta": "Due alleli diversi per un gene",
+      "opzioni": ["Due alleli diversi per un gene", "Due alleli uguali", "Un solo allele", "Tre alleli"],
+      "spiegazione": "Eterozigote: Aa (due alleli diversi). Omozigote: AA o aa (uguali).",
+      "livello": "base",
+      "argomento": "Genetica mendeliana",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il fenotipo è:",
+      "rispostaCorretta": "L'aspetto visibile di un carattere",
+      "opzioni": ["L'aspetto visibile di un carattere", "La composizione genetica", "Il numero di cromosomi", "La sequenza del DNA"],
+      "spiegazione": "Il fenotipo è la manifestazione visibile; il genotipo è la costituzione genetica.",
+      "livello": "base",
+      "argomento": "Genetica mendeliana",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il DNA è composto da:",
+      "rispostaCorretta": "Due filamenti a doppia elica",
+      "opzioni": ["Due filamenti a doppia elica", "Un singolo filamento", "Tre filamenti", "Proteine"],
+      "spiegazione": "Il DNA ha struttura a doppia elica, scoperta da Watson e Crick nel 1953.",
+      "livello": "base",
+      "argomento": "DNA e sintesi proteica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le basi azotate del DNA sono:",
+      "rispostaCorretta": "Adenina, Timina, Citosina, Guanina",
+      "opzioni": ["Adenina, Timina, Citosina, Guanina", "Adenina, Uracile, Citosina, Guanina", "Solo Adenina e Timina", "Aminoacidi"],
+      "spiegazione": "Il DNA ha A, T, C, G. L'RNA ha Uracile al posto della Timina.",
+      "livello": "base",
+      "argomento": "DNA e sintesi proteica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'appaiamento delle basi nel DNA segue la regola:",
+      "rispostaCorretta": "A-T e C-G",
+      "opzioni": ["A-T e C-G", "A-C e T-G", "A-G e T-C", "Casuale"],
+      "spiegazione": "Adenina si appaia con Timina, Citosina con Guanina.",
+      "livello": "base",
+      "argomento": "DNA e sintesi proteica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La trascrizione produce:",
+      "rispostaCorretta": "mRNA dal DNA",
+      "opzioni": ["mRNA dal DNA", "DNA dall'RNA", "Proteine dal DNA", "DNA dal DNA"],
+      "spiegazione": "La trascrizione copia l'informazione dal DNA all'mRNA.",
+      "livello": "intermedio",
+      "argomento": "DNA e sintesi proteica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La traduzione avviene:",
+      "rispostaCorretta": "Nei ribosomi",
+      "opzioni": ["Nei ribosomi", "Nel nucleo", "Nei mitocondri", "Nell'apparato di Golgi"],
+      "spiegazione": "La traduzione (sintesi proteica) avviene nei ribosomi.",
+      "livello": "intermedio",
+      "argomento": "DNA e sintesi proteica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un codone è formato da:",
+      "rispostaCorretta": "Tre nucleotidi",
+      "opzioni": ["Tre nucleotidi", "Un nucleotide", "Due nucleotidi", "Quattro nucleotidi"],
+      "spiegazione": "Un codone è una tripletta di nucleotidi che codifica un aminoacido.",
+      "livello": "intermedio",
+      "argomento": "DNA e sintesi proteica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Darwin pubblicò 'L'origine delle specie' nel:",
+      "rispostaCorretta": "1859",
+      "opzioni": ["1859", "1809", "1900", "1953"],
+      "spiegazione": "Darwin pubblicò 'L'origine delle specie' nel 1859.",
+      "livello": "base",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La selezione naturale favorisce:",
+      "rispostaCorretta": "Gli individui più adatti all'ambiente",
+      "opzioni": ["Gli individui più adatti all'ambiente", "I più forti", "I più grandi", "I più veloci"],
+      "spiegazione": "La selezione naturale favorisce chi ha caratteristiche vantaggiose per l'ambiente.",
+      "livello": "base",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le mutazioni sono:",
+      "rispostaCorretta": "Cambiamenti nel DNA",
+      "opzioni": ["Cambiamenti nel DNA", "Cambiamenti nell'ambiente", "Adattamenti", "Selezioni"],
+      "spiegazione": "Le mutazioni sono modifiche casuali del DNA, fonte di variabilità.",
+      "livello": "base",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La speciazione è:",
+      "rispostaCorretta": "La formazione di nuove specie",
+      "opzioni": ["La formazione di nuove specie", "L'estinzione", "La mutazione", "L'adattamento"],
+      "spiegazione": "La speciazione è il processo evolutivo che porta a nuove specie.",
+      "livello": "intermedio",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Le cellule vegetali hanno la parete cellulare, quelle animali no.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Le cellule vegetali hanno parete cellulare di cellulosa; le animali solo membrana.",
+      "livello": "base",
+      "argomento": "La cellula",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "I batteri sono organismi eucarioti.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "I batteri sono procarioti: non hanno nucleo delimitato da membrana.",
+      "livello": "base",
+      "argomento": "La cellula",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La respirazione cellulare produce CO₂ come prodotto di scarto.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "La respirazione: glucosio + O₂ → CO₂ + H₂O + ATP.",
+      "livello": "base",
+      "argomento": "Metabolismo cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il DNA si trova solo nel nucleo.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Il DNA si trova anche nei mitocondri e nei cloroplasti.",
+      "livello": "intermedio",
+      "argomento": "DNA e sintesi proteica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I lisosomi contengono:",
+      "rispostaCorretta": "Enzimi digestivi",
+      "opzioni": ["Enzimi digestivi", "DNA", "Clorofilla", "ATP"],
+      "spiegazione": "I lisosomi contengono enzimi per la digestione intracellulare.",
+      "livello": "intermedio",
+      "argomento": "La cellula",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La membrana cellulare è composta principalmente da:",
+      "rispostaCorretta": "Fosfolipidi e proteine",
+      "opzioni": ["Fosfolipidi e proteine", "Solo proteine", "Solo lipidi", "Carboidrati"],
+      "spiegazione": "La membrana ha un doppio strato fosfolipidico con proteine.",
+      "livello": "intermedio",
+      "argomento": "La cellula",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'osmosi è:",
+      "rispostaCorretta": "Il passaggio di acqua attraverso una membrana semipermeabile",
+      "opzioni": ["Il passaggio di acqua attraverso una membrana semipermeabile", "Il trasporto di proteine", "La divisione cellulare", "La sintesi di ATP"],
+      "spiegazione": "L'osmosi è la diffusione dell'acqua da soluzioni diluite a concentrate.",
+      "livello": "intermedio",
+      "argomento": "La cellula",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La fermentazione alcolica produce:",
+      "rispostaCorretta": "Etanolo e CO₂",
+      "opzioni": ["Etanolo e CO₂", "Acido lattico", "Glucosio", "Ossigeno"],
+      "spiegazione": "La fermentazione alcolica (lieviti) produce etanolo e anidride carbonica.",
+      "livello": "intermedio",
+      "argomento": "Metabolismo cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La fermentazione lattica produce:",
+      "rispostaCorretta": "Acido lattico",
+      "opzioni": ["Acido lattico", "Etanolo", "Glucosio", "Ossigeno"],
+      "spiegazione": "La fermentazione lattica (muscoli, batteri) produce acido lattico.",
+      "livello": "intermedio",
+      "argomento": "Metabolismo cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le fasi della mitosi sono:",
+      "rispostaCorretta": "Profase, metafase, anafase, telofase",
+      "opzioni": ["Profase, metafase, anafase, telofase", "Solo due fasi", "Tre fasi", "Cinque fasi"],
+      "spiegazione": "La mitosi ha 4 fasi: profase, metafase, anafase, telofase.",
+      "livello": "intermedio",
+      "argomento": "Divisione cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I cromosomi omologhi si separano durante:",
+      "rispostaCorretta": "La meiosi I",
+      "opzioni": ["La meiosi I", "La meiosi II", "La mitosi", "L'interfase"],
+      "spiegazione": "Nella meiosi I si separano i cromosomi omologhi (riduzione da 2n a n).",
+      "livello": "avanzato",
+      "argomento": "Divisione cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il quadrato di Punnett serve a:",
+      "rispostaCorretta": "Prevedere le proporzioni genotipiche della prole",
+      "opzioni": ["Prevedere le proporzioni genotipiche della prole", "Calcolare il numero di cromosomi", "Misurare il DNA", "Contare le cellule"],
+      "spiegazione": "Il quadrato di Punnett è uno schema per prevedere i genotipi della prole.",
+      "livello": "intermedio",
+      "argomento": "Genetica mendeliana",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La dominanza incompleta si verifica quando:",
+      "rispostaCorretta": "L'eterozigote ha fenotipo intermedio",
+      "opzioni": ["L'eterozigote ha fenotipo intermedio", "Un allele domina completamente", "Entrambi gli alleli si esprimono", "Non c'è espressione"],
+      "spiegazione": "Nella dominanza incompleta l'eterozigote ha fenotipo intermedio (es. fiore rosa).",
+      "livello": "avanzato",
+      "argomento": "Genetica mendeliana",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La codominanza si verifica quando:",
+      "rispostaCorretta": "Entrambi gli alleli si esprimono completamente",
+      "opzioni": ["Entrambi gli alleli si esprimono completamente", "Un allele domina", "Nessun allele si esprime", "Il fenotipo è intermedio"],
+      "spiegazione": "Nella codominanza entrambi gli alleli si esprimono (es. gruppo AB).",
+      "livello": "avanzato",
+      "argomento": "Genetica mendeliana",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il tRNA ha la funzione di:",
+      "rispostaCorretta": "Trasportare gli aminoacidi ai ribosomi",
+      "opzioni": ["Trasportare gli aminoacidi ai ribosomi", "Copiare il DNA", "Formare i ribosomi", "Replicare il DNA"],
+      "spiegazione": "Il tRNA trasporta gli aminoacidi ai ribosomi durante la traduzione.",
+      "livello": "intermedio",
+      "argomento": "DNA e sintesi proteica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'rRNA si trova:",
+      "rispostaCorretta": "Nei ribosomi",
+      "opzioni": ["Nei ribosomi", "Nel nucleo", "Nei mitocondri", "Nella membrana"],
+      "spiegazione": "L'rRNA è componente strutturale dei ribosomi.",
+      "livello": "intermedio",
+      "argomento": "DNA e sintesi proteica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La PCR (reazione a catena della polimerasi) serve a:",
+      "rispostaCorretta": "Amplificare frammenti di DNA",
+      "opzioni": ["Amplificare frammenti di DNA", "Sintetizzare proteine", "Produrre ATP", "Dividere le cellule"],
+      "spiegazione": "La PCR permette di ottenere milioni di copie di un frammento di DNA.",
+      "livello": "avanzato",
+      "argomento": "DNA e sintesi proteica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli organi omologhi indicano:",
+      "rispostaCorretta": "Origine comune evolutiva",
+      "opzioni": ["Origine comune evolutiva", "Stessa funzione", "Stessa forma", "Nessuna relazione"],
+      "spiegazione": "Gli organi omologhi hanno struttura simile per origine comune (es. arto dei vertebrati).",
+      "livello": "intermedio",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli organi analoghi hanno:",
+      "rispostaCorretta": "Stessa funzione ma origine diversa",
+      "opzioni": ["Stessa funzione ma origine diversa", "Stessa origine", "Stessa struttura", "Nessuna funzione"],
+      "spiegazione": "Gli organi analoghi hanno funzione simile ma origine diversa (es. ali di insetti e uccelli).",
+      "livello": "intermedio",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I fossili sono:",
+      "rispostaCorretta": "Resti o tracce di organismi del passato",
+      "opzioni": ["Resti o tracce di organismi del passato", "Rocce particolari", "Minerali", "Cristalli"],
+      "spiegazione": "I fossili sono prove dell'evoluzione: resti conservati di organismi antichi.",
+      "livello": "base",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La deriva genetica è più importante in popolazioni:",
+      "rispostaCorretta": "Piccole",
+      "opzioni": ["Piccole", "Grandi", "Medie", "Isolate geograficamente"],
+      "spiegazione": "La deriva genetica ha effetti maggiori in popolazioni piccole.",
+      "livello": "avanzato",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'equilibrio di Hardy-Weinberg descrive:",
+      "rispostaCorretta": "Una popolazione che non evolve",
+      "opzioni": ["Una popolazione che non evolve", "L'evoluzione rapida", "La selezione naturale", "Le mutazioni"],
+      "spiegazione": "L'equilibrio H-W descrive le condizioni teoriche in cui le frequenze alleliche non cambiano.",
+      "livello": "avanzato",
+      "argomento": "Evoluzione",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il numero diploide nell'uomo è:",
+      "rispostaCorretta": "46 cromosomi",
+      "opzioni": ["46 cromosomi", "23 cromosomi", "48 cromosomi", "44 cromosomi"],
+      "spiegazione": "L'uomo ha 46 cromosomi (2n = 46), 23 coppie.",
+      "livello": "base",
+      "argomento": "Divisione cellulare",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I gameti umani hanno:",
+      "rispostaCorretta": "23 cromosomi",
+      "opzioni": ["23 cromosomi", "46 cromosomi", "22 cromosomi", "24 cromosomi"],
+      "spiegazione": "I gameti sono aploidi (n = 23 cromosomi).",
+      "livello": "base",
+      "argomento": "Divisione cellulare",
+      "materia": "scienze"
+    }
+  ]
+}

@@ -1,0 +1,497 @@
+{
+  "materia": "fisica",
+  "descrizione": "Quiz Fisica - Parte 2: Elettromagnetismo, Relatività, Fisica moderna",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "La carica elettrica si misura in:",
+      "rispostaCorretta": "Coulomb (C)",
+      "opzioni": ["Coulomb (C)", "Ampere (A)", "Volt (V)", "Ohm (Ω)"],
+      "spiegazione": "Il Coulomb è l'unità di misura della carica elettrica nel SI.",
+      "livello": "base",
+      "argomento": "Elettrostatica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La legge di Coulomb afferma che la forza tra due cariche è:",
+      "rispostaCorretta": "Proporzionale al prodotto delle cariche e inversamente proporzionale al quadrato della distanza",
+      "opzioni": ["Proporzionale al prodotto delle cariche e inversamente proporzionale al quadrato della distanza", "Proporzionale alla distanza", "Inversamente proporzionale alle cariche", "Costante"],
+      "spiegazione": "F = k·q₁·q₂/r² è la legge di Coulomb.",
+      "livello": "intermedio",
+      "argomento": "Elettrostatica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il campo elettrico si misura in:",
+      "rispostaCorretta": "Newton/Coulomb (N/C) o Volt/metro (V/m)",
+      "opzioni": ["Newton/Coulomb (N/C) o Volt/metro (V/m)", "Coulomb (C)", "Ampere (A)", "Watt (W)"],
+      "spiegazione": "Il campo elettrico E = F/q si misura in N/C o V/m.",
+      "livello": "intermedio",
+      "argomento": "Elettrostatica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il potenziale elettrico si misura in:",
+      "rispostaCorretta": "Volt (V)",
+      "opzioni": ["Volt (V)", "Ampere (A)", "Ohm (Ω)", "Watt (W)"],
+      "spiegazione": "Il Volt è l'unità di misura del potenziale elettrico: V = J/C.",
+      "livello": "base",
+      "argomento": "Elettrostatica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un condensatore accumula:",
+      "rispostaCorretta": "Carica elettrica",
+      "opzioni": ["Carica elettrica", "Corrente", "Resistenza", "Induttanza"],
+      "spiegazione": "Il condensatore accumula carica sulle armature: Q = C·V.",
+      "livello": "base",
+      "argomento": "Elettrostatica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La capacità di un condensatore si misura in:",
+      "rispostaCorretta": "Farad (F)",
+      "opzioni": ["Farad (F)", "Henry (H)", "Ohm (Ω)", "Volt (V)"],
+      "spiegazione": "Il Farad è l'unità di misura della capacità: C = Q/V.",
+      "livello": "intermedio",
+      "argomento": "Elettrostatica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La corrente elettrica si misura in:",
+      "rispostaCorretta": "Ampere (A)",
+      "opzioni": ["Ampere (A)", "Volt (V)", "Ohm (Ω)", "Watt (W)"],
+      "spiegazione": "L'Ampere è l'unità di misura della corrente: I = Q/t.",
+      "livello": "base",
+      "argomento": "Corrente elettrica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La prima legge di Ohm afferma che:",
+      "rispostaCorretta": "V = R·I",
+      "opzioni": ["V = R·I", "P = V·I", "Q = C·V", "F = m·a"],
+      "spiegazione": "La legge di Ohm lega tensione, resistenza e corrente: V = R·I.",
+      "livello": "base",
+      "argomento": "Corrente elettrica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La resistenza elettrica si misura in:",
+      "rispostaCorretta": "Ohm (Ω)",
+      "opzioni": ["Ohm (Ω)", "Ampere (A)", "Volt (V)", "Watt (W)"],
+      "spiegazione": "L'Ohm è l'unità di misura della resistenza: R = V/I.",
+      "livello": "base",
+      "argomento": "Corrente elettrica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La potenza elettrica si calcola con:",
+      "rispostaCorretta": "P = V·I",
+      "opzioni": ["P = V·I", "P = m·g·h", "P = F·v", "P = Q/t"],
+      "spiegazione": "La potenza elettrica è P = V·I = R·I² = V²/R.",
+      "livello": "intermedio",
+      "argomento": "Corrente elettrica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "In un circuito in serie, la corrente è:",
+      "rispostaCorretta": "Uguale in tutti gli elementi",
+      "opzioni": ["Uguale in tutti gli elementi", "Diversa in ogni elemento", "Nulla", "Massima nel primo elemento"],
+      "spiegazione": "In serie la corrente è la stessa; le tensioni si sommano.",
+      "livello": "intermedio",
+      "argomento": "Corrente elettrica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "In un circuito in parallelo, la tensione è:",
+      "rispostaCorretta": "Uguale ai capi di tutti gli elementi",
+      "opzioni": ["Uguale ai capi di tutti gli elementi", "Diversa per ogni elemento", "Nulla", "Massima nel primo elemento"],
+      "spiegazione": "In parallelo la tensione è la stessa; le correnti si sommano.",
+      "livello": "intermedio",
+      "argomento": "Corrente elettrica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il campo magnetico si misura in:",
+      "rispostaCorretta": "Tesla (T)",
+      "opzioni": ["Tesla (T)", "Volt (V)", "Ampere (A)", "Ohm (Ω)"],
+      "spiegazione": "Il Tesla è l'unità di misura del campo magnetico B.",
+      "livello": "base",
+      "argomento": "Magnetismo",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La forza di Lorentz agisce su:",
+      "rispostaCorretta": "Una carica in movimento in un campo magnetico",
+      "opzioni": ["Una carica in movimento in un campo magnetico", "Una carica ferma", "Un magnete", "Un conduttore"],
+      "spiegazione": "F = q·v×B è la forza di Lorentz su una carica in movimento.",
+      "livello": "intermedio",
+      "argomento": "Magnetismo",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La legge di Ampère descrive:",
+      "rispostaCorretta": "Il campo magnetico generato da una corrente",
+      "opzioni": ["Il campo magnetico generato da una corrente", "La forza tra cariche", "L'induzione elettromagnetica", "La rifrazione"],
+      "spiegazione": "Una corrente genera un campo magnetico circolare attorno al filo.",
+      "livello": "avanzato",
+      "argomento": "Magnetismo",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La legge di Faraday-Neumann descrive:",
+      "rispostaCorretta": "L'induzione elettromagnetica",
+      "opzioni": ["L'induzione elettromagnetica", "La forza tra cariche", "Il campo magnetico", "La rifrazione"],
+      "spiegazione": "Una variazione di flusso magnetico induce una forza elettromotrice.",
+      "livello": "avanzato",
+      "argomento": "Induzione elettromagnetica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La legge di Lenz afferma che:",
+      "rispostaCorretta": "La corrente indotta si oppone alla variazione che l'ha generata",
+      "opzioni": ["La corrente indotta si oppone alla variazione che l'ha generata", "La corrente indotta è sempre nulla", "La corrente indotta è sempre massima", "La corrente indotta è costante"],
+      "spiegazione": "Lenz: la corrente indotta crea un campo che si oppone alla variazione di flusso.",
+      "livello": "avanzato",
+      "argomento": "Induzione elettromagnetica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le onde elettromagnetiche si propagano nel vuoto a:",
+      "rispostaCorretta": "Circa 3×10⁸ m/s",
+      "opzioni": ["Circa 3×10⁸ m/s", "340 m/s", "1500 m/s", "Velocità infinita"],
+      "spiegazione": "La velocità della luce nel vuoto è c ≈ 3×10⁸ m/s.",
+      "livello": "base",
+      "argomento": "Onde elettromagnetiche",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo spettro elettromagnetico comprende, in ordine di frequenza crescente:",
+      "rispostaCorretta": "Onde radio, microonde, infrarosso, visibile, UV, raggi X, raggi gamma",
+      "opzioni": ["Onde radio, microonde, infrarosso, visibile, UV, raggi X, raggi gamma", "Raggi gamma, raggi X, UV, visibile, infrarosso, microonde, onde radio", "Visibile, UV, infrarosso, onde radio", "Solo luce visibile"],
+      "spiegazione": "Lo spettro va dalle onde radio (bassa frequenza) ai raggi gamma (alta frequenza).",
+      "livello": "intermedio",
+      "argomento": "Onde elettromagnetiche",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Maxwell unificò:",
+      "rispostaCorretta": "Elettricità e magnetismo",
+      "opzioni": ["Elettricità e magnetismo", "Meccanica e termodinamica", "Ottica e acustica", "Gravità e elettromagnetismo"],
+      "spiegazione": "Le equazioni di Maxwell descrivono l'elettromagnetismo in modo unificato.",
+      "livello": "intermedio",
+      "argomento": "Onde elettromagnetiche",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La teoria della relatività ristretta fu formulata da Einstein nel:",
+      "rispostaCorretta": "1905",
+      "opzioni": ["1905", "1915", "1900", "1920"],
+      "spiegazione": "Einstein pubblicò la relatività ristretta nel 1905.",
+      "livello": "base",
+      "argomento": "Relatività",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il primo postulato della relatività ristretta afferma che:",
+      "rispostaCorretta": "Le leggi della fisica sono le stesse in tutti i sistemi inerziali",
+      "opzioni": ["Le leggi della fisica sono le stesse in tutti i sistemi inerziali", "La velocità della luce dipende dall'osservatore", "Il tempo è assoluto", "Lo spazio è assoluto"],
+      "spiegazione": "Principio di relatività: le leggi fisiche sono invarianti nei sistemi inerziali.",
+      "livello": "intermedio",
+      "argomento": "Relatività",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il secondo postulato della relatività ristretta afferma che:",
+      "rispostaCorretta": "La velocità della luce è costante in tutti i sistemi inerziali",
+      "opzioni": ["La velocità della luce è costante in tutti i sistemi inerziali", "La velocità della luce dipende dalla sorgente", "La velocità della luce è infinita", "La velocità della luce dipende dall'osservatore"],
+      "spiegazione": "La velocità della luce c è la stessa per tutti gli osservatori inerziali.",
+      "livello": "intermedio",
+      "argomento": "Relatività",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La dilatazione del tempo significa che:",
+      "rispostaCorretta": "Un orologio in movimento segna un tempo più lento",
+      "opzioni": ["Un orologio in movimento segna un tempo più lento", "Il tempo è assoluto", "Gli orologi sono sempre sincronizzati", "Il tempo scorre più veloce in movimento"],
+      "spiegazione": "Per un osservatore fermo, un orologio in movimento rallenta.",
+      "livello": "avanzato",
+      "argomento": "Relatività",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La contrazione delle lunghezze significa che:",
+      "rispostaCorretta": "Un oggetto in movimento appare più corto nella direzione del moto",
+      "opzioni": ["Un oggetto in movimento appare più corto nella direzione del moto", "Gli oggetti si allungano", "Le lunghezze sono assolute", "Gli oggetti non cambiano"],
+      "spiegazione": "Un oggetto in movimento si contrae nella direzione del moto.",
+      "livello": "avanzato",
+      "argomento": "Relatività",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'equazione E = mc² esprime:",
+      "rispostaCorretta": "L'equivalenza tra massa ed energia",
+      "opzioni": ["L'equivalenza tra massa ed energia", "La forza gravitazionale", "La legge di Ohm", "La legge di Coulomb"],
+      "spiegazione": "E = mc² mostra che massa ed energia sono equivalenti.",
+      "livello": "base",
+      "argomento": "Relatività",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'effetto fotoelettrico fu spiegato da Einstein usando:",
+      "rispostaCorretta": "I quanti di luce (fotoni)",
+      "opzioni": ["I quanti di luce (fotoni)", "Le onde elettromagnetiche", "Gli elettroni", "I protoni"],
+      "spiegazione": "Einstein spiegò l'effetto fotoelettrico con i fotoni (Nobel 1921).",
+      "livello": "intermedio",
+      "argomento": "Fisica quantistica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'energia di un fotone è data da:",
+      "rispostaCorretta": "E = h·f (h costante di Planck, f frequenza)",
+      "opzioni": ["E = h·f (h costante di Planck, f frequenza)", "E = mc²", "E = ½mv²", "E = mgh"],
+      "spiegazione": "L'energia del fotone è proporzionale alla frequenza: E = hf.",
+      "livello": "intermedio",
+      "argomento": "Fisica quantistica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il principio di indeterminazione di Heisenberg afferma che:",
+      "rispostaCorretta": "Non si possono conoscere con precisione arbitraria posizione e quantità di moto",
+      "opzioni": ["Non si possono conoscere con precisione arbitraria posizione e quantità di moto", "Tutto è determinato", "La posizione è sempre nota", "La velocità è sempre nota"],
+      "spiegazione": "Δx·Δp ≥ ℏ/2: c'è un limite alla precisione simultanea di posizione e momento.",
+      "livello": "avanzato",
+      "argomento": "Fisica quantistica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il dualismo onda-particella afferma che:",
+      "rispostaCorretta": "La materia e la luce hanno sia proprietà ondulatorie che corpuscolari",
+      "opzioni": ["La materia e la luce hanno sia proprietà ondulatorie che corpuscolari", "La luce è solo un'onda", "La materia è solo corpuscolare", "Non esiste dualismo"],
+      "spiegazione": "Elettroni e fotoni mostrano comportamento sia ondulatorio che corpuscolare.",
+      "livello": "avanzato",
+      "argomento": "Fisica quantistica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il modello atomico di Bohr prevede:",
+      "rispostaCorretta": "Orbite quantizzate per gli elettroni",
+      "opzioni": ["Orbite quantizzate per gli elettroni", "Elettroni fermi", "Orbite continue", "Nessun nucleo"],
+      "spiegazione": "Bohr propose orbite discrete con energia quantizzata.",
+      "livello": "intermedio",
+      "argomento": "Fisica quantistica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La radioattività fu scoperta da:",
+      "rispostaCorretta": "Becquerel",
+      "opzioni": ["Becquerel", "Curie", "Rutherford", "Einstein"],
+      "spiegazione": "Becquerel scoprì la radioattività nel 1896.",
+      "livello": "intermedio",
+      "argomento": "Fisica nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il decadimento alfa emette:",
+      "rispostaCorretta": "Nuclei di elio (2 protoni + 2 neutroni)",
+      "opzioni": ["Nuclei di elio (2 protoni + 2 neutroni)", "Elettroni", "Fotoni", "Neutrini"],
+      "spiegazione": "Le particelle alfa sono nuclei di elio-4.",
+      "livello": "intermedio",
+      "argomento": "Fisica nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il decadimento beta emette:",
+      "rispostaCorretta": "Elettroni o positroni",
+      "opzioni": ["Elettroni o positroni", "Nuclei di elio", "Fotoni gamma", "Protoni"],
+      "spiegazione": "Il decadimento β⁻ emette elettroni, il β⁺ emette positroni.",
+      "livello": "intermedio",
+      "argomento": "Fisica nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il tempo di dimezzamento è:",
+      "rispostaCorretta": "Il tempo in cui decade metà dei nuclei radioattivi",
+      "opzioni": ["Il tempo in cui decade metà dei nuclei radioattivi", "Il tempo di vita del nucleo", "Il tempo di emissione", "Il tempo di assorbimento"],
+      "spiegazione": "Il tempo di dimezzamento T½ è caratteristico di ogni isotopo.",
+      "livello": "intermedio",
+      "argomento": "Fisica nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La fissione nucleare è:",
+      "rispostaCorretta": "La rottura di un nucleo pesante in nuclei più leggeri",
+      "opzioni": ["La rottura di un nucleo pesante in nuclei più leggeri", "L'unione di nuclei leggeri", "L'emissione di elettroni", "L'assorbimento di fotoni"],
+      "spiegazione": "La fissione divide nuclei pesanti (es. uranio) liberando energia.",
+      "livello": "base",
+      "argomento": "Fisica nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La fusione nucleare è:",
+      "rispostaCorretta": "L'unione di nuclei leggeri in nuclei più pesanti",
+      "opzioni": ["L'unione di nuclei leggeri in nuclei più pesanti", "La rottura di nuclei pesanti", "L'emissione di elettroni", "L'assorbimento di fotoni"],
+      "spiegazione": "La fusione unisce nuclei leggeri (es. idrogeno) liberando energia (come nel Sole).",
+      "livello": "base",
+      "argomento": "Fisica nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La luce è un'onda elettromagnetica.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "La luce visibile è una porzione dello spettro elettromagnetico.",
+      "livello": "base",
+      "argomento": "Onde elettromagnetiche",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Nulla può viaggiare più veloce della luce nel vuoto.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "La velocità della luce c è il limite massimo secondo la relatività.",
+      "livello": "intermedio",
+      "argomento": "Relatività",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'energia nucleare può essere ottenuta sia dalla fissione che dalla fusione.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Sia fissione che fusione liberano energia secondo E = mc².",
+      "livello": "intermedio",
+      "argomento": "Fisica nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'induttanza si misura in:",
+      "rispostaCorretta": "Henry (H)",
+      "opzioni": ["Henry (H)", "Farad (F)", "Ohm (Ω)", "Tesla (T)"],
+      "spiegazione": "L'Henry è l'unità di misura dell'induttanza.",
+      "livello": "avanzato",
+      "argomento": "Induzione elettromagnetica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un trasformatore funziona grazie a:",
+      "rispostaCorretta": "L'induzione elettromagnetica",
+      "opzioni": ["L'induzione elettromagnetica", "L'effetto Joule", "L'effetto fotoelettrico", "La radioattività"],
+      "spiegazione": "Il trasformatore usa l'induzione per cambiare la tensione alternata.",
+      "livello": "intermedio",
+      "argomento": "Induzione elettromagnetica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La corrente alternata (AC) è caratterizzata da:",
+      "rispostaCorretta": "Inversione periodica del verso della corrente",
+      "opzioni": ["Inversione periodica del verso della corrente", "Corrente costante", "Tensione costante", "Resistenza variabile"],
+      "spiegazione": "La corrente alternata cambia verso periodicamente (50 Hz in Europa).",
+      "livello": "base",
+      "argomento": "Corrente elettrica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La frequenza della corrente alternata in Europa è:",
+      "rispostaCorretta": "50 Hz",
+      "opzioni": ["50 Hz", "60 Hz", "100 Hz", "220 Hz"],
+      "spiegazione": "In Europa la frequenza di rete è 50 Hz (60 Hz in USA).",
+      "livello": "base",
+      "argomento": "Corrente elettrica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'effetto Joule descrive:",
+      "rispostaCorretta": "La produzione di calore in un conduttore percorso da corrente",
+      "opzioni": ["La produzione di calore in un conduttore percorso da corrente", "L'induzione magnetica", "L'effetto fotoelettrico", "La radioattività"],
+      "spiegazione": "L'effetto Joule: P = R·I² trasforma energia elettrica in calore.",
+      "livello": "intermedio",
+      "argomento": "Corrente elettrica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un semiconduttore ha una resistività:",
+      "rispostaCorretta": "Intermedia tra conduttori e isolanti",
+      "opzioni": ["Intermedia tra conduttori e isolanti", "Uguale ai metalli", "Uguale agli isolanti", "Nulla"],
+      "spiegazione": "I semiconduttori (silicio, germanio) hanno proprietà intermedie.",
+      "livello": "avanzato",
+      "argomento": "Corrente elettrica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il laser produce luce:",
+      "rispostaCorretta": "Coerente e monocromatica",
+      "opzioni": ["Coerente e monocromatica", "Incoerente e policromatica", "Solo infrarossa", "Solo ultravioletta"],
+      "spiegazione": "Il laser emette luce coerente (stessa fase) e monocromatica (stessa frequenza).",
+      "livello": "avanzato",
+      "argomento": "Fisica quantistica",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'antimateria è composta da:",
+      "rispostaCorretta": "Antiparticelle con carica opposta",
+      "opzioni": ["Antiparticelle con carica opposta", "Particelle normali", "Fotoni", "Neutroni"],
+      "spiegazione": "L'antimateria ha antiparticelle (positrone, antiprotone) con carica opposta.",
+      "livello": "avanzato",
+      "argomento": "Fisica nucleare",
+      "materia": "fisica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il bosone di Higgs è associato a:",
+      "rispostaCorretta": "L'origine della massa delle particelle",
+      "opzioni": ["L'origine della massa delle particelle", "La forza elettromagnetica", "La forza gravitazionale", "La forza nucleare forte"],
+      "spiegazione": "Il bosone di Higgs, scoperto nel 2012, spiega l'origine della massa.",
+      "livello": "avanzato",
+      "argomento": "Fisica nucleare",
+      "materia": "fisica"
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "materia": "matematica",
+  "descrizione": "Quiz Matematica triennio - Insiemi, Algebra, Geometria, Trigonometria, Esponenziali",
+  "totale": 70,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "L'insieme vuoto è indicato con il simbolo:",
+      "rispostaCorretta": "∅",
+      "opzioni": ["∅", "∞", "∈", "⊂"],
+      "spiegazione": "L'insieme vuoto, che non contiene elementi, è indicato con ∅ o {}.",
+      "livello": "base",
+      "argomento": "Insiemi e logica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'intersezione di due insiemi A e B contiene:",
+      "rispostaCorretta": "Gli elementi comuni ad A e B",
+      "opzioni": ["Gli elementi comuni ad A e B", "Tutti gli elementi di A e B", "Gli elementi solo di A", "Gli elementi solo di B"],
+      "spiegazione": "L'intersezione A ∩ B contiene solo gli elementi che appartengono sia ad A che a B.",
+      "livello": "base",
+      "argomento": "Insiemi e logica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'unione di due insiemi A e B contiene:",
+      "rispostaCorretta": "Tutti gli elementi di A e di B",
+      "opzioni": ["Tutti gli elementi di A e di B", "Solo gli elementi comuni", "Gli elementi di A meno quelli di B", "L'insieme vuoto"],
+      "spiegazione": "L'unione A ∪ B contiene tutti gli elementi che appartengono ad A o a B o a entrambi.",
+      "livello": "base",
+      "argomento": "Insiemi e logica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I numeri naturali N includono:",
+      "rispostaCorretta": "0, 1, 2, 3, ...",
+      "opzioni": ["0, 1, 2, 3, ...", "..., -2, -1, 0, 1, 2, ...", "Le frazioni", "I numeri con la virgola"],
+      "spiegazione": "I numeri naturali N sono 0, 1, 2, 3, ... (numeri interi non negativi).",
+      "livello": "base",
+      "argomento": "I numeri",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I numeri interi Z includono:",
+      "rispostaCorretta": "Numeri positivi, negativi e zero",
+      "opzioni": ["Numeri positivi, negativi e zero", "Solo numeri positivi", "Solo frazioni", "Solo numeri decimali"],
+      "spiegazione": "I numeri interi Z sono ..., -3, -2, -1, 0, 1, 2, 3, ...",
+      "livello": "base",
+      "argomento": "I numeri",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "√2 è un numero:",
+      "rispostaCorretta": "Irrazionale",
+      "opzioni": ["Irrazionale", "Razionale", "Intero", "Naturale"],
+      "spiegazione": "√2 è irrazionale: non può essere espresso come frazione di interi.",
+      "livello": "intermedio",
+      "argomento": "I numeri",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il prodotto di due monomi si ottiene:",
+      "rispostaCorretta": "Moltiplicando i coefficienti e sommando gli esponenti delle stesse basi",
+      "opzioni": ["Moltiplicando i coefficienti e sommando gli esponenti delle stesse basi", "Sommando i coefficienti", "Moltiplicando gli esponenti", "Dividendo i coefficienti"],
+      "spiegazione": "Nel prodotto di monomi si moltiplicano i coefficienti e si sommano gli esponenti delle stesse variabili.",
+      "livello": "base",
+      "argomento": "Algebra: monomi e polinomi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "(a + b)² è uguale a:",
+      "rispostaCorretta": "a² + 2ab + b²",
+      "opzioni": ["a² + 2ab + b²", "a² + b²", "a² - b²", "2a + 2b"],
+      "spiegazione": "Il quadrato di un binomio è: (a + b)² = a² + 2ab + b².",
+      "livello": "base",
+      "argomento": "Algebra: monomi e polinomi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "(a - b)(a + b) è uguale a:",
+      "rispostaCorretta": "a² - b²",
+      "opzioni": ["a² - b²", "a² + b²", "a² + 2ab + b²", "a² - 2ab + b²"],
+      "spiegazione": "Il prodotto della somma per la differenza è: (a - b)(a + b) = a² - b².",
+      "livello": "base",
+      "argomento": "Algebra: monomi e polinomi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La formula risolutiva dell'equazione ax² + bx + c = 0 è:",
+      "rispostaCorretta": "x = (-b ± √(b² - 4ac)) / 2a",
+      "opzioni": ["x = (-b ± √(b² - 4ac)) / 2a", "x = -b / 2a", "x = b² - 4ac", "x = a + b + c"],
+      "spiegazione": "La formula risolutiva delle equazioni di secondo grado è x = (-b ± √Δ) / 2a.",
+      "livello": "intermedio",
+      "argomento": "Algebra: monomi e polinomi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il discriminante Δ di un'equazione di secondo grado è:",
+      "rispostaCorretta": "b² - 4ac",
+      "opzioni": ["b² - 4ac", "b² + 4ac", "a² - b²", "2ab"],
+      "spiegazione": "Il discriminante Δ = b² - 4ac determina il numero di soluzioni reali.",
+      "livello": "intermedio",
+      "argomento": "Algebra: monomi e polinomi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Se Δ > 0, l'equazione di secondo grado ha:",
+      "rispostaCorretta": "Due soluzioni reali distinte",
+      "opzioni": ["Due soluzioni reali distinte", "Una soluzione reale", "Nessuna soluzione reale", "Infinite soluzioni"],
+      "spiegazione": "Se Δ > 0, l'equazione ha due soluzioni reali distinte.",
+      "livello": "intermedio",
+      "argomento": "Algebra: monomi e polinomi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La somma degli angoli interni di un triangolo è:",
+      "rispostaCorretta": "180°",
+      "opzioni": ["180°", "360°", "90°", "270°"],
+      "spiegazione": "La somma degli angoli interni di un triangolo è sempre 180°.",
+      "livello": "base",
+      "argomento": "Geometria euclidea",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il teorema di Pitagora afferma che in un triangolo rettangolo:",
+      "rispostaCorretta": "Il quadrato dell'ipotenusa è uguale alla somma dei quadrati dei cateti",
+      "opzioni": ["Il quadrato dell'ipotenusa è uguale alla somma dei quadrati dei cateti", "L'ipotenusa è uguale alla somma dei cateti", "I cateti sono uguali", "Gli angoli sono tutti uguali"],
+      "spiegazione": "Teorema di Pitagora: c² = a² + b², dove c è l'ipotenusa.",
+      "livello": "base",
+      "argomento": "Geometria euclidea",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'area di un triangolo è:",
+      "rispostaCorretta": "(base × altezza) / 2",
+      "opzioni": ["(base × altezza) / 2", "base × altezza", "base + altezza", "base² + altezza²"],
+      "spiegazione": "L'area del triangolo è A = (b × h) / 2.",
+      "livello": "base",
+      "argomento": "Geometria euclidea",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Due triangoli sono simili se:",
+      "rispostaCorretta": "Hanno gli angoli congruenti",
+      "opzioni": ["Hanno gli angoli congruenti", "Hanno i lati uguali", "Hanno la stessa area", "Hanno lo stesso perimetro"],
+      "spiegazione": "Due triangoli sono simili se hanno gli angoli congruenti (e i lati proporzionali).",
+      "livello": "intermedio",
+      "argomento": "Geometria euclidea",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La disequazione x² - 4 > 0 ha soluzione:",
+      "rispostaCorretta": "x < -2 oppure x > 2",
+      "opzioni": ["x < -2 oppure x > 2", "-2 < x < 2", "x > 4", "x < 4"],
+      "spiegazione": "x² - 4 > 0 significa (x-2)(x+2) > 0, quindi x < -2 o x > 2.",
+      "livello": "intermedio",
+      "argomento": "Disequazioni",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La disequazione |x| < 3 ha soluzione:",
+      "rispostaCorretta": "-3 < x < 3",
+      "opzioni": ["-3 < x < 3", "x < 3", "x > -3", "x < -3 o x > 3"],
+      "spiegazione": "|x| < 3 significa che x è compreso tra -3 e 3.",
+      "livello": "intermedio",
+      "argomento": "Disequazioni",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'equazione della retta passante per l'origine è:",
+      "rispostaCorretta": "y = mx",
+      "opzioni": ["y = mx", "y = mx + q", "x = k", "y = k"],
+      "spiegazione": "La retta passante per l'origine ha equazione y = mx (q = 0).",
+      "livello": "base",
+      "argomento": "Geometria analitica: la retta",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il coefficiente angolare m di una retta indica:",
+      "rispostaCorretta": "La pendenza della retta",
+      "opzioni": ["La pendenza della retta", "L'intercetta sull'asse y", "La lunghezza della retta", "L'area sotto la retta"],
+      "spiegazione": "Il coefficiente angolare m indica la pendenza: m = tan(α).",
+      "livello": "base",
+      "argomento": "Geometria analitica: la retta",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Due rette sono parallele se:",
+      "rispostaCorretta": "Hanno lo stesso coefficiente angolare",
+      "opzioni": ["Hanno lo stesso coefficiente angolare", "Si intersecano", "Sono perpendicolari", "Hanno intercette uguali"],
+      "spiegazione": "Due rette sono parallele se hanno lo stesso coefficiente angolare m.",
+      "livello": "base",
+      "argomento": "Geometria analitica: la retta",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Due rette sono perpendicolari se il prodotto dei loro coefficienti angolari è:",
+      "rispostaCorretta": "-1",
+      "opzioni": ["-1", "0", "1", "2"],
+      "spiegazione": "Due rette sono perpendicolari se m₁ × m₂ = -1.",
+      "livello": "intermedio",
+      "argomento": "Geometria analitica: la retta",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'equazione della circonferenza con centro nell'origine e raggio r è:",
+      "rispostaCorretta": "x² + y² = r²",
+      "opzioni": ["x² + y² = r²", "x + y = r", "x² - y² = r²", "xy = r"],
+      "spiegazione": "La circonferenza con centro O(0,0) e raggio r ha equazione x² + y² = r².",
+      "livello": "base",
+      "argomento": "Geometria analitica: la retta",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'equazione della parabola con asse parallelo all'asse y è:",
+      "rispostaCorretta": "y = ax² + bx + c",
+      "opzioni": ["y = ax² + bx + c", "x² + y² = r²", "xy = k", "y = mx + q"],
+      "spiegazione": "La parabola con asse verticale ha equazione y = ax² + bx + c.",
+      "livello": "base",
+      "argomento": "Geometria analitica: la retta",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il seno di un angolo in un triangolo rettangolo è:",
+      "rispostaCorretta": "Cateto opposto / ipotenusa",
+      "opzioni": ["Cateto opposto / ipotenusa", "Cateto adiacente / ipotenusa", "Cateto opposto / cateto adiacente", "Ipotenusa / cateto"],
+      "spiegazione": "sin(α) = cateto opposto / ipotenusa.",
+      "livello": "base",
+      "argomento": "Trigonometria",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il coseno di un angolo in un triangolo rettangolo è:",
+      "rispostaCorretta": "Cateto adiacente / ipotenusa",
+      "opzioni": ["Cateto adiacente / ipotenusa", "Cateto opposto / ipotenusa", "Cateto opposto / cateto adiacente", "Ipotenusa / cateto"],
+      "spiegazione": "cos(α) = cateto adiacente / ipotenusa.",
+      "livello": "base",
+      "argomento": "Trigonometria",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La tangente di un angolo è:",
+      "rispostaCorretta": "sin(α) / cos(α)",
+      "opzioni": ["sin(α) / cos(α)", "cos(α) / sin(α)", "sin(α) × cos(α)", "sin(α) + cos(α)"],
+      "spiegazione": "tan(α) = sin(α) / cos(α) = cateto opposto / cateto adiacente.",
+      "livello": "intermedio",
+      "argomento": "Trigonometria",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "sin²(α) + cos²(α) è uguale a:",
+      "rispostaCorretta": "1",
+      "opzioni": ["1", "0", "2", "sin(2α)"],
+      "spiegazione": "L'identità fondamentale della trigonometria: sin²(α) + cos²(α) = 1.",
+      "livello": "intermedio",
+      "argomento": "Trigonometria",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "sin(30°) è uguale a:",
+      "rispostaCorretta": "1/2",
+      "opzioni": ["1/2", "√2/2", "√3/2", "1"],
+      "spiegazione": "sin(30°) = 1/2 è un valore notevole da ricordare.",
+      "livello": "base",
+      "argomento": "Trigonometria",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "cos(60°) è uguale a:",
+      "rispostaCorretta": "1/2",
+      "opzioni": ["1/2", "√2/2", "√3/2", "0"],
+      "spiegazione": "cos(60°) = 1/2 (complementare a sin(30°)).",
+      "livello": "base",
+      "argomento": "Trigonometria",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "sin(45°) è uguale a:",
+      "rispostaCorretta": "√2/2",
+      "opzioni": ["√2/2", "1/2", "√3/2", "1"],
+      "spiegazione": "sin(45°) = cos(45°) = √2/2.",
+      "livello": "base",
+      "argomento": "Trigonometria",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il teorema dei seni afferma che:",
+      "rispostaCorretta": "a/sin(A) = b/sin(B) = c/sin(C)",
+      "opzioni": ["a/sin(A) = b/sin(B) = c/sin(C)", "a² = b² + c²", "sin²(A) + cos²(A) = 1", "a + b > c"],
+      "spiegazione": "Il teorema dei seni: i lati sono proporzionali ai seni degli angoli opposti.",
+      "livello": "avanzato",
+      "argomento": "Trigonometria",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "a^m × a^n è uguale a:",
+      "rispostaCorretta": "a^(m+n)",
+      "opzioni": ["a^(m+n)", "a^(m×n)", "a^(m-n)", "(a×a)^(m+n)"],
+      "spiegazione": "Nel prodotto di potenze con la stessa base si sommano gli esponenti.",
+      "livello": "base",
+      "argomento": "Esponenziali e logaritmi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "a^m / a^n è uguale a:",
+      "rispostaCorretta": "a^(m-n)",
+      "opzioni": ["a^(m-n)", "a^(m+n)", "a^(m×n)", "a^(m/n)"],
+      "spiegazione": "Nel quoziente di potenze con la stessa base si sottraggono gli esponenti.",
+      "livello": "base",
+      "argomento": "Esponenziali e logaritmi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "(a^m)^n è uguale a:",
+      "rispostaCorretta": "a^(m×n)",
+      "opzioni": ["a^(m×n)", "a^(m+n)", "a^(m-n)", "a^(m/n)"],
+      "spiegazione": "Nella potenza di potenza si moltiplicano gli esponenti.",
+      "livello": "base",
+      "argomento": "Esponenziali e logaritmi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "log_a(x×y) è uguale a:",
+      "rispostaCorretta": "log_a(x) + log_a(y)",
+      "opzioni": ["log_a(x) + log_a(y)", "log_a(x) × log_a(y)", "log_a(x) - log_a(y)", "log_a(x) / log_a(y)"],
+      "spiegazione": "Il logaritmo di un prodotto è la somma dei logaritmi.",
+      "livello": "intermedio",
+      "argomento": "Esponenziali e logaritmi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "log_a(x/y) è uguale a:",
+      "rispostaCorretta": "log_a(x) - log_a(y)",
+      "opzioni": ["log_a(x) - log_a(y)", "log_a(x) + log_a(y)", "log_a(x) × log_a(y)", "log_a(x) / log_a(y)"],
+      "spiegazione": "Il logaritmo di un quoziente è la differenza dei logaritmi.",
+      "livello": "intermedio",
+      "argomento": "Esponenziali e logaritmi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "log_a(x^n) è uguale a:",
+      "rispostaCorretta": "n × log_a(x)",
+      "opzioni": ["n × log_a(x)", "log_a(x) + n", "log_a(x) / n", "(log_a(x))^n"],
+      "spiegazione": "Il logaritmo di una potenza: l'esponente diventa coefficiente.",
+      "livello": "intermedio",
+      "argomento": "Esponenziali e logaritmi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "log_a(1) è uguale a:",
+      "rispostaCorretta": "0",
+      "opzioni": ["0", "1", "a", "Indefinito"],
+      "spiegazione": "log_a(1) = 0 perché a^0 = 1 per ogni a > 0.",
+      "livello": "base",
+      "argomento": "Esponenziali e logaritmi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "log_a(a) è uguale a:",
+      "rispostaCorretta": "1",
+      "opzioni": ["1", "0", "a", "Indefinito"],
+      "spiegazione": "log_a(a) = 1 perché a^1 = a.",
+      "livello": "base",
+      "argomento": "Esponenziali e logaritmi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il logaritmo naturale ha base:",
+      "rispostaCorretta": "e ≈ 2,718",
+      "opzioni": ["e ≈ 2,718", "10", "2", "π"],
+      "spiegazione": "Il logaritmo naturale (ln) ha base e, il numero di Nepero.",
+      "livello": "intermedio",
+      "argomento": "Esponenziali e logaritmi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La funzione esponenziale y = a^x con a > 1 è:",
+      "rispostaCorretta": "Crescente",
+      "opzioni": ["Crescente", "Decrescente", "Costante", "Periodica"],
+      "spiegazione": "Se a > 1, la funzione esponenziale è crescente.",
+      "livello": "intermedio",
+      "argomento": "Esponenziali e logaritmi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La funzione logaritmica y = log_a(x) con a > 1 è:",
+      "rispostaCorretta": "Crescente",
+      "opzioni": ["Crescente", "Decrescente", "Costante", "Periodica"],
+      "spiegazione": "Se a > 1, la funzione logaritmica è crescente.",
+      "livello": "intermedio",
+      "argomento": "Esponenziali e logaritmi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il numero π è un numero razionale.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "π è un numero irrazionale: non può essere espresso come frazione.",
+      "livello": "base",
+      "argomento": "I numeri",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La radice quadrata di un numero negativo è un numero reale.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "La radice quadrata di un numero negativo non è reale, ma immaginaria.",
+      "livello": "intermedio",
+      "argomento": "I numeri",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Due rette parallele hanno lo stesso coefficiente angolare.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Due rette sono parallele se e solo se hanno lo stesso coefficiente angolare.",
+      "livello": "base",
+      "argomento": "Geometria analitica: la retta",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il vertice della parabola y = ax² + bx + c ha ascissa:",
+      "rispostaCorretta": "x = -b/(2a)",
+      "opzioni": ["x = -b/(2a)", "x = b/(2a)", "x = -b/a", "x = c/a"],
+      "spiegazione": "L'ascissa del vertice della parabola è x_v = -b/(2a).",
+      "livello": "intermedio",
+      "argomento": "Geometria analitica: la retta",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La distanza tra due punti A(x₁,y₁) e B(x₂,y₂) è:",
+      "rispostaCorretta": "√[(x₂-x₁)² + (y₂-y₁)²]",
+      "opzioni": ["√[(x₂-x₁)² + (y₂-y₁)²]", "(x₂-x₁) + (y₂-y₁)", "|x₂-x₁| + |y₂-y₁|", "(x₂-x₁)(y₂-y₁)"],
+      "spiegazione": "La distanza tra due punti si calcola con il teorema di Pitagora.",
+      "livello": "intermedio",
+      "argomento": "Geometria analitica: la retta",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il punto medio del segmento AB con A(x₁,y₁) e B(x₂,y₂) ha coordinate:",
+      "rispostaCorretta": "((x₁+x₂)/2, (y₁+y₂)/2)",
+      "opzioni": ["((x₁+x₂)/2, (y₁+y₂)/2)", "(x₁-x₂, y₁-y₂)", "(x₁×x₂, y₁×y₂)", "(x₂-x₁, y₂-y₁)"],
+      "spiegazione": "Il punto medio ha coordinate medie: M = ((x₁+x₂)/2, (y₁+y₂)/2).",
+      "livello": "base",
+      "argomento": "Geometria analitica: la retta",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un angolo di 180° corrisponde a:",
+      "rispostaCorretta": "π radianti",
+      "opzioni": ["π radianti", "2π radianti", "π/2 radianti", "π/4 radianti"],
+      "spiegazione": "180° = π radianti. La conversione è: gradi × π/180 = radianti.",
+      "livello": "intermedio",
+      "argomento": "Trigonometria",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un angolo di 90° corrisponde a:",
+      "rispostaCorretta": "π/2 radianti",
+      "opzioni": ["π/2 radianti", "π radianti", "2π radianti", "π/4 radianti"],
+      "spiegazione": "90° = π/2 radianti.",
+      "livello": "base",
+      "argomento": "Trigonometria",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La funzione seno ha periodo:",
+      "rispostaCorretta": "2π",
+      "opzioni": ["2π", "π", "π/2", "4π"],
+      "spiegazione": "Le funzioni seno e coseno hanno periodo 2π.",
+      "livello": "intermedio",
+      "argomento": "Trigonometria",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "cos(0°) è uguale a:",
+      "rispostaCorretta": "1",
+      "opzioni": ["1", "0", "-1", "1/2"],
+      "spiegazione": "cos(0°) = 1 è un valore notevole fondamentale.",
+      "livello": "base",
+      "argomento": "Trigonometria",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "sin(90°) è uguale a:",
+      "rispostaCorretta": "1",
+      "opzioni": ["1", "0", "-1", "1/2"],
+      "spiegazione": "sin(90°) = 1 è un valore notevole fondamentale.",
+      "livello": "base",
+      "argomento": "Trigonometria",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'equazione 2^x = 8 ha soluzione:",
+      "rispostaCorretta": "x = 3",
+      "opzioni": ["x = 3", "x = 4", "x = 2", "x = 8"],
+      "spiegazione": "2^x = 8 = 2³, quindi x = 3.",
+      "livello": "base",
+      "argomento": "Esponenziali e logaritmi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "log₂(8) è uguale a:",
+      "rispostaCorretta": "3",
+      "opzioni": ["3", "2", "4", "8"],
+      "spiegazione": "log₂(8) = 3 perché 2³ = 8.",
+      "livello": "base",
+      "argomento": "Esponenziali e logaritmi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "log₁₀(100) è uguale a:",
+      "rispostaCorretta": "2",
+      "opzioni": ["2", "10", "100", "1"],
+      "spiegazione": "log₁₀(100) = 2 perché 10² = 100.",
+      "livello": "base",
+      "argomento": "Esponenziali e logaritmi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "a^0 è uguale a (per a ≠ 0):",
+      "rispostaCorretta": "1",
+      "opzioni": ["1", "0", "a", "Indefinito"],
+      "spiegazione": "Qualsiasi numero diverso da zero elevato a 0 dà 1.",
+      "livello": "base",
+      "argomento": "Esponenziali e logaritmi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "a^(-n) è uguale a:",
+      "rispostaCorretta": "1/a^n",
+      "opzioni": ["1/a^n", "-a^n", "a^n", "n/a"],
+      "spiegazione": "L'esponente negativo indica il reciproco: a^(-n) = 1/a^n.",
+      "livello": "base",
+      "argomento": "Esponenziali e logaritmi",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il complementare di un insieme A rispetto all'insieme universo U contiene:",
+      "rispostaCorretta": "Gli elementi di U che non appartengono ad A",
+      "opzioni": ["Gli elementi di U che non appartengono ad A", "Gli elementi comuni", "L'insieme vuoto", "Tutti gli elementi"],
+      "spiegazione": "Il complementare A' contiene tutti gli elementi di U che non sono in A.",
+      "livello": "intermedio",
+      "argomento": "Insiemi e logica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il simbolo ⊂ indica:",
+      "rispostaCorretta": "Sottoinsieme proprio",
+      "opzioni": ["Sottoinsieme proprio", "Appartenenza", "Unione", "Intersezione"],
+      "spiegazione": "A ⊂ B significa che A è sottoinsieme proprio di B (A contenuto in B ma A ≠ B).",
+      "livello": "intermedio",
+      "argomento": "Insiemi e logica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il simbolo ∈ indica:",
+      "rispostaCorretta": "Appartenenza",
+      "opzioni": ["Appartenenza", "Sottoinsieme", "Unione", "Intersezione"],
+      "spiegazione": "x ∈ A significa che x appartiene all'insieme A.",
+      "livello": "base",
+      "argomento": "Insiemi e logica",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'area del cerchio è:",
+      "rispostaCorretta": "πr²",
+      "opzioni": ["πr²", "2πr", "πd", "r²"],
+      "spiegazione": "L'area del cerchio è A = πr², dove r è il raggio.",
+      "livello": "base",
+      "argomento": "Geometria euclidea",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La circonferenza (perimetro del cerchio) è:",
+      "rispostaCorretta": "2πr",
+      "opzioni": ["2πr", "πr²", "πr", "4πr"],
+      "spiegazione": "La circonferenza è C = 2πr = πd, dove r è il raggio e d il diametro.",
+      "livello": "base",
+      "argomento": "Geometria euclidea",
+      "materia": "matematica"
+    }
+  ]
+}

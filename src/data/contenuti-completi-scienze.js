@@ -8,11 +8,182 @@ module.exports = {
     "colore": "#27AE60",
     "icona": "microscope",
     "annoScolastico": [
+      "1.",
+      "2.",
+      "3.",
       "4.",
       "5."
     ]
   },
   "argomenti": [
+    {
+      "id": "sci-materia-misure",
+      "titolo": "La materia e le misure",
+      "annoRiferimento": "1.",
+      "descrizione": "Proprietà della materia e metodo scientifico",
+      "sottoargomenti": [
+        {
+          "titolo": "Stati della materia e trasformazioni",
+          "riassunto": "La materia è tutto ciò che ha massa e occupa spazio. Esiste in tre stati di aggregazione: solido (forma e volume propri, particelle vicine e ordinate), liquido (volume proprio ma forma del contenitore, particelle vicine ma disordinate), gassoso (né forma né volume propri, particelle lontane e in movimento casuale). Il plasma è il quarto stato, presente nelle stelle. I passaggi di stato sono: fusione (solido→liquido), solidificazione (liquido→solido), evaporazione/ebollizione (liquido→gas), condensazione (gas→liquido), sublimazione (solido→gas), brinamento (gas→solido). Durante i passaggi di stato la temperatura rimane costante (calore latente). Le proprietà della materia si dividono in: fisiche (misurabili senza alterare la composizione: massa, volume, densità, punto di fusione) e chimiche (descrivono la capacità di trasformarsi: infiammabilità, reattività). Le proprietà intensive non dipendono dalla quantità (densità, temperatura); le estensive dipendono dalla quantità (massa, volume). La densità d = m/V è caratteristica di ogni sostanza. Le trasformazioni fisiche non alterano la composizione (passaggi di stato, dissoluzione); le trasformazioni chimiche producono nuove sostanze (combustione, ossidazione).",
+          "livelloDifficolta": "base",
+          "tempoLettura": 6,
+          "tags": ["materia", "stati", "passaggi di stato", "proprietà"],
+          "collegamenti": ["densità", "trasformazioni", "temperatura"]
+        },
+        {
+          "titolo": "Miscugli e sostanze pure",
+          "riassunto": "La materia si classifica in sostanze pure e miscugli. Le sostanze pure hanno composizione definita e costante: elementi (non scomponibili, es. oro, ossigeno) e composti (scomponibili in elementi, es. acqua H₂O). I miscugli sono combinazioni di sostanze in proporzioni variabili. I miscugli omogenei (soluzioni) hanno composizione uniforme: il soluto è disperso nel solvente (es. acqua salata, aria). I miscugli eterogenei hanno composizione non uniforme e fasi distinguibili (es. granito, latte). Le tecniche di separazione sfruttano le diverse proprietà fisiche: filtrazione (separa solidi da liquidi), decantazione (separa liquidi immiscibili per densità), centrifugazione (accelera la sedimentazione), distillazione (separa liquidi con diverso punto di ebollizione), cromatografia (separa per diversa affinità con un supporto), estrazione (usa un solvente selettivo). La concentrazione di una soluzione indica la quantità di soluto: percentuale in massa (g soluto/100g soluzione), molarità M (mol/L), molalità m (mol/kg solvente). La solubilità è la massima quantità di soluto dissolvibile; dipende dalla temperatura e dalla natura delle sostanze.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 6,
+          "tags": ["miscugli", "soluzioni", "separazione", "concentrazione"],
+          "collegamenti": ["filtrazione", "distillazione", "solubilità"]
+        }
+      ]
+    },
+    {
+      "id": "sci-cellula",
+      "titolo": "La cellula",
+      "annoRiferimento": "1.",
+      "descrizione": "L'unità fondamentale della vita",
+      "sottoargomenti": [
+        {
+          "titolo": "Teoria cellulare e tipi di cellule",
+          "riassunto": "La teoria cellulare (Schleiden, Schwann, Virchow, XIX secolo) afferma che: tutti gli esseri viventi sono formati da cellule, la cellula è l'unità strutturale e funzionale della vita, ogni cellula deriva da una cellula preesistente. Le cellule si dividono in procariote ed eucariote. Le cellule procariote (batteri e archei) sono più piccole (1-10 μm), prive di nucleo (DNA nel nucleoide), con ribosomi 70S, parete cellulare, possono avere flagelli e pili. Le cellule eucariote (protisti, funghi, piante, animali) sono più grandi (10-100 μm), hanno nucleo delimitato da membrana, organelli specializzati, ribosomi 80S. La cellula animale ha: membrana plasmatica, nucleo con nucleolo, reticolo endoplasmatico (liscio e rugoso), apparato di Golgi, mitocondri, lisosomi, citoscheletro, centrioli. La cellula vegetale ha in più: parete cellulare di cellulosa, vacuolo centrale, cloroplasti. I virus non sono cellule: sono parassiti obbligati con acido nucleico (DNA o RNA) e capside proteico.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["cellula", "procariote", "eucariote", "teoria cellulare"],
+          "collegamenti": ["nucleo", "organelli", "membrana"]
+        },
+        {
+          "titolo": "Organelli e funzioni cellulari",
+          "riassunto": "La membrana plasmatica è un doppio strato fosfolipidico con proteine (modello a mosaico fluido). Regola gli scambi: diffusione semplice (molecole piccole e apolari), diffusione facilitata (con proteine canale o carrier), trasporto attivo (contro gradiente, richiede ATP), endocitosi e esocitosi (per macromolecole). Il nucleo contiene il DNA organizzato in cromatina/cromosomi; il nucleolo produce rRNA. Il reticolo endoplasmatico rugoso (con ribosomi) sintetizza proteine; il liscio sintetizza lipidi e detossifica. L'apparato di Golgi modifica, smista e impacchetta le proteine in vescicole. I mitocondri (doppia membrana, DNA proprio) producono ATP con la respirazione cellulare. I cloroplasti (nelle piante) svolgono la fotosintesi. I lisosomi contengono enzimi digestivi. I ribosomi sintetizzano proteine. Il citoscheletro (microfilamenti, filamenti intermedi, microtubuli) dà forma, permette il movimento e il trasporto intracellulare. I centrioli organizzano il fuso mitotico.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["organelli", "membrana", "nucleo", "mitocondri"],
+          "collegamenti": ["trasporto", "sintesi proteica", "metabolismo"]
+        }
+      ]
+    },
+    {
+      "id": "sci-metabolismo",
+      "titolo": "Metabolismo cellulare",
+      "annoRiferimento": "2.",
+      "descrizione": "Energia e reazioni nelle cellule",
+      "sottoargomenti": [
+        {
+          "titolo": "ATP e respirazione cellulare",
+          "riassunto": "Il metabolismo è l'insieme delle reazioni chimiche cellulari: anabolismo (sintesi, consuma energia) e catabolismo (degradazione, libera energia). L'ATP (adenosina trifosfato) è la moneta energetica: l'idrolisi ATP→ADP+Pi libera energia per le reazioni cellulari. La respirazione cellulare ossida il glucosio per produrre ATP: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + 36-38 ATP. Le fasi sono: glicolisi (nel citoplasma, glucosio→2 piruvato, produce 2 ATP e 2 NADH), ciclo di Krebs (nella matrice mitocondriale, piruvato→CO₂, produce NADH, FADH₂, GTP), fosforilazione ossidativa (sulla membrana mitocondriale interna, la catena di trasporto degli elettroni crea un gradiente protonico; l'ATP sintasi produce ATP). In assenza di ossigeno avviene la fermentazione: lattica (nei muscoli, produce acido lattico) o alcolica (nei lieviti, produce etanolo e CO₂). La fermentazione produce solo 2 ATP per glucosio. Gli enzimi sono catalizzatori biologici che abbassano l'energia di attivazione; sono specifici (modello chiave-serratura o adattamento indotto).",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["ATP", "respirazione", "glicolisi", "Krebs"],
+          "collegamenti": ["mitocondri", "energia", "fermentazione"]
+        },
+        {
+          "titolo": "Fotosintesi clorofilliana",
+          "riassunto": "La fotosintesi converte energia luminosa in energia chimica: 6CO₂ + 6H₂O + luce → C₆H₁₂O₆ + 6O₂. Avviene nei cloroplasti, che hanno membrane tilacoidali (grana) e stroma. La fase luminosa (nei tilacoidi) cattura la luce con i pigmenti (clorofilla a e b, carotenoidi). I fotosistemi II e I assorbono fotoni; l'acqua viene scissa (fotolisi) liberando O₂. Gli elettroni passano attraverso la catena di trasporto, creando un gradiente protonico che produce ATP (fotofosforilazione). Il NADP⁺ viene ridotto a NADPH. La fase oscura o ciclo di Calvin (nello stroma) fissa la CO₂: la RuBisCO catalizza la reazione CO₂ + RuBP → 2 molecole a 3 carboni. Attraverso riduzioni (usando ATP e NADPH) si forma G3P, da cui glucosio. Per ogni glucosio servono 6 CO₂, 18 ATP, 12 NADPH. I fattori che influenzano la fotosintesi sono: intensità luminosa, concentrazione di CO₂, temperatura. Le piante C4 e CAM hanno adattamenti per climi caldi e aridi che riducono la fotorespirazione.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["fotosintesi", "cloroplasti", "Calvin", "clorofilla"],
+          "collegamenti": ["luce", "glucosio", "ossigeno"]
+        }
+      ]
+    },
+    {
+      "id": "sci-divisione-cellulare",
+      "titolo": "Divisione cellulare",
+      "annoRiferimento": "2.",
+      "descrizione": "Mitosi, meiosi e ciclo cellulare",
+      "sottoargomenti": [
+        {
+          "titolo": "Ciclo cellulare e mitosi",
+          "riassunto": "Il ciclo cellulare comprende interfase e divisione. L'interfase si divide in: G1 (crescita, sintesi proteica), S (replicazione del DNA), G2 (preparazione alla divisione). La mitosi produce due cellule figlie geneticamente identiche alla madre; serve per crescita, riparazione, riproduzione asessuata. Le fasi della mitosi sono: profase (condensazione dei cromosomi, scomparsa del nucleolo, formazione del fuso), metafase (cromosomi allineati sulla piastra equatoriale, attaccati al fuso dai cinetocori), anafase (separazione dei cromatidi fratelli verso i poli opposti), telofase (decondensazione dei cromosomi, riforma dell'involucro nucleare). La citodieresi divide il citoplasma: nelle cellule animali per strozzamento, nelle vegetali per formazione della piastra cellulare. Il controllo del ciclo avviene nei checkpoint (G1, G2, M) tramite cicline e chinasi ciclina-dipendenti (CDK). La perdita di controllo causa il cancro: le cellule tumorali si dividono senza controllo, sono immortali, possono metastatizzare.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["mitosi", "ciclo cellulare", "cromosomi", "divisione"],
+          "collegamenti": ["DNA", "cancro", "crescita"]
+        },
+        {
+          "titolo": "Meiosi e riproduzione sessuata",
+          "riassunto": "La meiosi produce quattro cellule aploidi (n) da una diploide (2n); serve per la riproduzione sessuata. Comprende due divisioni successive. Meiosi I (riduzionale): profase I (appaiamento degli omologhi in bivalenti, crossing-over con scambio di segmenti tra cromatidi non fratelli), metafase I (bivalenti sulla piastra), anafase I (separazione degli omologhi), telofase I (due cellule aploidi). Meiosi II (equazionale, simile alla mitosi): separazione dei cromatidi fratelli, risultato finale quattro cellule aploidi. La variabilità genetica deriva da: crossing-over (ricombinazione), assortimento indipendente degli omologhi (2²³ combinazioni nell'uomo), fecondazione casuale. La gametogenesi produce gameti: spermatogenesi (4 spermatozoi da ogni spermatocita), oogenesi (1 ovulo + 3 globuli polari da ogni ovocita). Errori nella meiosi causano aneuploidie: non-disgiunzione produce gameti con cromosomi in più o in meno (es. trisomia 21 = sindrome di Down).",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["meiosi", "gameti", "crossing-over", "variabilità"],
+          "collegamenti": ["riproduzione", "cromosomi", "genetica"]
+        }
+      ]
+    },
+    {
+      "id": "sci-genetica-mendel",
+      "titolo": "Genetica mendeliana",
+      "annoRiferimento": "2.",
+      "descrizione": "Le leggi dell'ereditarietà",
+      "sottoargomenti": [
+        {
+          "titolo": "Le leggi di Mendel",
+          "riassunto": "Gregor Mendel (1822-1884) studiò l'ereditarietà nei piselli, scegliendo caratteri con due forme alternative nette. Terminologia: gene (unità ereditaria), allele (variante di un gene), omozigote (due alleli uguali), eterozigote (due alleli diversi), genotipo (costituzione genetica), fenotipo (carattere osservabile), dominante (si esprime nell'eterozigote), recessivo (mascherato dal dominante). Prima legge (dominanza): incrociando due linee pure per un carattere, la F1 mostra solo il fenotipo dominante. Seconda legge (segregazione): i due alleli di un gene si separano durante la formazione dei gameti; in F2 ricompare il recessivo con rapporto 3:1. Terza legge (assortimento indipendente): geni su cromosomi diversi si distribuiscono indipendentemente; in un diibrido F2 si ha rapporto 9:3:3:1. Il quadrato di Punnett permette di prevedere i rapporti genotipici e fenotipici. Il test-cross (incrocio con omozigote recessivo) rivela il genotipo di un individuo con fenotipo dominante.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Mendel", "ereditarietà", "dominanza", "segregazione"],
+          "collegamenti": ["alleli", "genotipo", "fenotipo"]
+        },
+        {
+          "titolo": "Estensioni della genetica mendeliana",
+          "riassunto": "La genetica reale è più complessa delle leggi di Mendel. La dominanza incompleta: l'eterozigote ha fenotipo intermedio (es. fiori rosa da rosso × bianco). La codominanza: entrambi gli alleli si esprimono (es. gruppi sanguigni AB). Gli alleli multipli: più di due alleli nella popolazione (es. gruppi ABO: IA, IB, i). L'epistasi: un gene maschera l'espressione di un altro. La pleiotropia: un gene influenza più caratteri. I caratteri poligenici sono controllati da più geni con effetto additivo (es. colore della pelle, altezza); mostrano variazione continua. L'eredità legata al sesso riguarda geni sui cromosomi sessuali. Nell'uomo XX = femmina, XY = maschio. I geni sul cromosoma X si esprimono diversamente nei due sessi: i maschi sono emizigoti (un solo allele). Esempi: daltonismo, emofilia (recessivi legati all'X, più frequenti nei maschi). L'ambiente influenza l'espressione genica: penetranza (% di individui con genotipo che mostrano il fenotipo) ed espressività (grado di manifestazione).",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["codominanza", "epistasi", "poligenici", "sesso"],
+          "collegamenti": ["alleli", "cromosomi", "ereditarietà"]
+        }
+      ]
+    },
+    {
+      "id": "sci-dna-sintesi",
+      "titolo": "DNA e sintesi proteica",
+      "annoRiferimento": "3.",
+      "descrizione": "Il codice genetico e l'espressione genica",
+      "sottoargomenti": [
+        {
+          "titolo": "Struttura e replicazione del DNA",
+          "riassunto": "Il DNA (acido desossiribonucleico) è il materiale genetico. La struttura a doppia elica fu scoperta da Watson e Crick (1953) grazie ai dati di Rosalind Franklin. Ogni filamento è un polimero di nucleotidi: zucchero desossiribosio + gruppo fosfato + base azotata (adenina, guanina, citosina, timina). I filamenti sono antiparalleli (5'→3' e 3'→5') e complementari: A si appaia con T (2 legami H), G con C (3 legami H). La replicazione è semiconservativa (Meselson-Stahl): ogni filamento funge da stampo. L'elicasi apre la doppia elica; le topoisomerasi riducono la tensione; le proteine SSB stabilizzano i filamenti singoli. La DNA polimerasi III sintetizza in direzione 5'→3': il filamento leading è continuo, il lagging è sintetizzato in frammenti di Okazaki. I primer di RNA sono rimossi e sostituiti dalla DNA polimerasi I; la ligasi unisce i frammenti. La replicazione è accurata (errore 1/10⁹) grazie alla correzione di bozze (proofreading). I telomeri proteggono le estremità dei cromosomi.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["DNA", "replicazione", "Watson Crick", "nucleotidi"],
+          "collegamenti": ["doppia elica", "complementarietà", "polimerasi"]
+        },
+        {
+          "titolo": "Trascrizione e traduzione",
+          "riassunto": "L'espressione genica segue il dogma centrale: DNA → RNA → proteine. La trascrizione produce mRNA dal DNA stampo. L'RNA polimerasi riconosce il promotore, apre la doppia elica, sintetizza RNA in direzione 5'→3' usando ribonucleotidi (U invece di T). Negli eucarioti l'mRNA subisce maturazione: capping al 5', poliadenilazione al 3', splicing (rimozione degli introni, giunzione degli esoni). Il codice genetico è la corrispondenza tra triplette di nucleotidi (codoni) e amminoacidi. È universale, degenerato (più codoni per lo stesso aa), non ambiguo, con codoni di start (AUG = metionina) e stop (UAA, UAG, UGA). La traduzione avviene sui ribosomi. L'inizio: la subunità minore si lega all'mRNA, il tRNA iniziatore (anticodone UAC) porta la metionina. L'allungamento: i tRNA portano gli amminoacidi; nel sito A entra il nuovo tRNA, nel sito P si forma il legame peptidico, nel sito E esce il tRNA scarico. La terminazione: un fattore di rilascio riconosce il codone di stop. I ribosomi possono formare poliribosomi per tradurre più copie contemporaneamente.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["trascrizione", "traduzione", "codice genetico", "mRNA"],
+          "collegamenti": ["ribosomi", "tRNA", "proteine"]
+        }
+      ]
+    },
+    {
+      "id": "sci-evoluzione",
+      "titolo": "Evoluzione",
+      "annoRiferimento": "3.",
+      "descrizione": "Teoria evolutiva e meccanismi",
+      "sottoargomenti": [
+        {
+          "titolo": "Darwin e la selezione naturale",
+          "riassunto": "Charles Darwin (1809-1882) elaborò la teoria dell'evoluzione per selezione naturale dopo il viaggio sul Beagle (1831-1836). Osservazioni chiave: variabilità tra individui, adattamenti alle condizioni locali (fringuelli delle Galápagos), somiglianze tra specie (discendenza comune). L'Origine delle specie (1859) presenta la teoria: gli organismi producono più discendenti di quanti possano sopravvivere; esiste variabilità ereditabile; gli individui più adatti all'ambiente sopravvivono e si riproducono di più (fitness); nel tempo le popolazioni cambiano (evoluzione). Le prove dell'evoluzione includono: fossili (forme di transizione, es. Archaeopteryx), anatomia comparata (strutture omologhe, organi vestigiali), embriologia (somiglianze embrionali), biogeografia (distribuzione delle specie), biologia molecolare (somiglianze nel DNA). La selezione naturale può essere stabilizzante (favorisce la media), direzionale (favorisce un estremo) o divergente (favorisce gli estremi). La selezione sessuale favorisce caratteri per l'accoppiamento.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Darwin", "evoluzione", "selezione naturale", "adattamento"],
+          "collegamenti": ["fitness", "fossili", "speciazione"]
+        },
+        {
+          "titolo": "Genetica di popolazione e speciazione",
+          "riassunto": "La genetica di popolazione studia le frequenze alleliche nelle popolazioni. L'equilibrio di Hardy-Weinberg descrive una popolazione che non evolve: p² + 2pq + q² = 1 (dove p e q sono le frequenze alleliche). Le condizioni sono: popolazione grande, accoppiamento casuale, no mutazioni, no migrazione, no selezione. I fattori evolutivi alterano le frequenze: mutazione (fonte di variabilità), selezione naturale (favorisce alleli vantaggiosi), deriva genetica (fluttuazioni casuali, importante in popolazioni piccole: effetto fondatore, collo di bottiglia), flusso genico (migrazione tra popolazioni), accoppiamento non casuale. La speciazione è la formazione di nuove specie. La speciazione allopatrica avviene per isolamento geografico: le popolazioni separate accumulano differenze fino all'isolamento riproduttivo. La speciazione simpatrica avviene senza isolamento geografico, per isolamento ecologico o comportamentale. L'isolamento riproduttivo può essere prezigotico (habitat, temporale, comportamentale, meccanico, gametico) o postzigotico (ibridi sterili o inviabili).",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Hardy-Weinberg", "speciazione", "deriva genetica"],
+          "collegamenti": ["popolazione", "isolamento", "evoluzione"]
+        }
+      ]
+    },
     {
       "id": "sci-chimica-generale",
       "titolo": "Chimica generale",

@@ -1,0 +1,557 @@
+{
+  "materia": "scienze",
+  "descrizione": "Quiz Scienze - Parte 2: Chimica, Ecologia, Corpo umano",
+  "totale": 60,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "La tavola periodica fu ideata da:",
+      "rispostaCorretta": "Mendeleev",
+      "opzioni": ["Mendeleev", "Dalton", "Lavoisier", "Bohr"],
+      "spiegazione": "Dmitrij Mendeleev organizzò gli elementi per peso atomico nel 1869.",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli elementi della stessa colonna della tavola periodica hanno:",
+      "rispostaCorretta": "Proprietà chimiche simili",
+      "opzioni": ["Proprietà chimiche simili", "Lo stesso numero di protoni", "La stessa massa", "Lo stesso colore"],
+      "spiegazione": "Gli elementi dello stesso gruppo hanno configurazione elettronica esterna simile.",
+      "livello": "intermedio",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il legame covalente si forma quando:",
+      "rispostaCorretta": "Due atomi condividono elettroni",
+      "opzioni": ["Due atomi condividono elettroni", "Un atomo cede elettroni", "Gli atomi si respingono", "I protoni si uniscono"],
+      "spiegazione": "Nel legame covalente gli atomi mettono in comune elettroni.",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il legame ionico si forma quando:",
+      "rispostaCorretta": "Un atomo cede elettroni a un altro",
+      "opzioni": ["Un atomo cede elettroni a un altro", "Gli atomi condividono elettroni", "I nuclei si fondono", "Gli elettroni si annullano"],
+      "spiegazione": "Nel legame ionico un atomo cede elettroni (catione) e uno li acquista (anione).",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il pH neutro è:",
+      "rispostaCorretta": "7",
+      "opzioni": ["7", "0", "14", "1"],
+      "spiegazione": "pH 7 è neutro; < 7 acido; > 7 basico.",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un acido è una sostanza che:",
+      "rispostaCorretta": "Rilascia ioni H+ in soluzione",
+      "opzioni": ["Rilascia ioni H+ in soluzione", "Rilascia ioni OH-", "È sempre corrosiva", "Ha pH > 7"],
+      "spiegazione": "Gli acidi rilasciano protoni (H+) in soluzione acquosa.",
+      "livello": "intermedio",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una base è una sostanza che:",
+      "rispostaCorretta": "Rilascia ioni OH- in soluzione",
+      "opzioni": ["Rilascia ioni OH- in soluzione", "Rilascia ioni H+", "Ha pH < 7", "È sempre solida"],
+      "spiegazione": "Le basi rilasciano ioni idrossido (OH-) in soluzione acquosa.",
+      "livello": "intermedio",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La formula dell'acqua è:",
+      "rispostaCorretta": "H₂O",
+      "opzioni": ["H₂O", "H₂O₂", "HO", "H₃O"],
+      "spiegazione": "L'acqua è composta da 2 atomi di idrogeno e 1 di ossigeno.",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La formula del cloruro di sodio (sale da cucina) è:",
+      "rispostaCorretta": "NaCl",
+      "opzioni": ["NaCl", "NaOH", "HCl", "Na₂O"],
+      "spiegazione": "Il sale da cucina è cloruro di sodio: NaCl.",
+      "livello": "base",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una reazione esotermica:",
+      "rispostaCorretta": "Rilascia calore",
+      "opzioni": ["Rilascia calore", "Assorbe calore", "Non scambia energia", "Produce luce"],
+      "spiegazione": "Le reazioni esotermiche rilasciano energia sotto forma di calore.",
+      "livello": "intermedio",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una reazione endotermica:",
+      "rispostaCorretta": "Assorbe calore",
+      "opzioni": ["Assorbe calore", "Rilascia calore", "Non scambia energia", "È sempre veloce"],
+      "spiegazione": "Le reazioni endotermiche assorbono energia dall'ambiente.",
+      "livello": "intermedio",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il sistema nervoso centrale è composto da:",
+      "rispostaCorretta": "Encefalo e midollo spinale",
+      "opzioni": ["Encefalo e midollo spinale", "Nervi periferici", "Solo il cervello", "Muscoli e ossa"],
+      "spiegazione": "Il SNC comprende encefalo (cervello, cervelletto, tronco) e midollo spinale.",
+      "livello": "base",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I neuroni sono:",
+      "rispostaCorretta": "Le cellule del sistema nervoso",
+      "opzioni": ["Le cellule del sistema nervoso", "Le cellule muscolari", "Le cellule del sangue", "Le cellule ossee"],
+      "spiegazione": "I neuroni trasmettono impulsi nervosi attraverso sinapsi.",
+      "livello": "base",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il cuore umano ha:",
+      "rispostaCorretta": "Quattro cavità",
+      "opzioni": ["Quattro cavità", "Due cavità", "Tre cavità", "Una cavità"],
+      "spiegazione": "Il cuore ha 4 cavità: 2 atri e 2 ventricoli.",
+      "livello": "base",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La circolazione polmonare porta il sangue:",
+      "rispostaCorretta": "Dal cuore ai polmoni e ritorno",
+      "opzioni": ["Dal cuore ai polmoni e ritorno", "Dal cuore a tutto il corpo", "Solo al cervello", "Solo ai reni"],
+      "spiegazione": "La piccola circolazione ossigena il sangue nei polmoni.",
+      "livello": "intermedio",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I globuli rossi (eritrociti) trasportano:",
+      "rispostaCorretta": "Ossigeno",
+      "opzioni": ["Ossigeno", "Anticorpi", "Ormoni", "Nutrienti"],
+      "spiegazione": "I globuli rossi contengono emoglobina che lega l'ossigeno.",
+      "livello": "base",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I globuli bianchi (leucociti) hanno funzione:",
+      "rispostaCorretta": "Immunitaria",
+      "opzioni": ["Immunitaria", "Di trasporto ossigeno", "Di coagulazione", "Digestiva"],
+      "spiegazione": "I globuli bianchi difendono l'organismo da patogeni.",
+      "livello": "base",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le piastrine (trombociti) sono coinvolte nella:",
+      "rispostaCorretta": "Coagulazione del sangue",
+      "opzioni": ["Coagulazione del sangue", "Difesa immunitaria", "Trasporto ossigeno", "Digestione"],
+      "spiegazione": "Le piastrine formano il coagulo per fermare le emorragie.",
+      "livello": "base",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'apparato digerente inizia con:",
+      "rispostaCorretta": "La bocca",
+      "opzioni": ["La bocca", "Lo stomaco", "L'intestino", "L'esofago"],
+      "spiegazione": "La digestione inizia in bocca con la masticazione e la saliva.",
+      "livello": "base",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'assorbimento dei nutrienti avviene principalmente:",
+      "rispostaCorretta": "Nell'intestino tenue",
+      "opzioni": ["Nell'intestino tenue", "Nello stomaco", "Nell'intestino crasso", "Nell'esofago"],
+      "spiegazione": "I villi intestinali dell'intestino tenue assorbono i nutrienti.",
+      "livello": "intermedio",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il fegato produce:",
+      "rispostaCorretta": "La bile",
+      "opzioni": ["La bile", "L'insulina", "Gli enzimi digestivi", "L'acido cloridrico"],
+      "spiegazione": "Il fegato produce la bile che emulsiona i grassi.",
+      "livello": "intermedio",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il pancreas produce:",
+      "rispostaCorretta": "Insulina e enzimi digestivi",
+      "opzioni": ["Insulina e enzimi digestivi", "Solo bile", "Solo acido", "Solo muco"],
+      "spiegazione": "Il pancreas ha funzione endocrina (insulina) ed esocrina (enzimi).",
+      "livello": "intermedio",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I reni hanno la funzione di:",
+      "rispostaCorretta": "Filtrare il sangue e produrre urina",
+      "opzioni": ["Filtrare il sangue e produrre urina", "Produrre bile", "Digerire i grassi", "Produrre ormoni sessuali"],
+      "spiegazione": "I reni filtrano il sangue eliminando le scorie con l'urina.",
+      "livello": "base",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo scambio gassoso nei polmoni avviene negli:",
+      "rispostaCorretta": "Alveoli",
+      "opzioni": ["Alveoli", "Bronchi", "Trachea", "Laringe"],
+      "spiegazione": "Negli alveoli l'ossigeno passa nel sangue e la CO₂ viene espulsa.",
+      "livello": "intermedio",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ecosistema è formato da:",
+      "rispostaCorretta": "Comunità biologica e ambiente fisico",
+      "opzioni": ["Comunità biologica e ambiente fisico", "Solo animali", "Solo piante", "Solo batteri"],
+      "spiegazione": "L'ecosistema comprende organismi viventi (biocenosi) e ambiente (biotopo).",
+      "livello": "base",
+      "argomento": "Ecologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I produttori in un ecosistema sono:",
+      "rispostaCorretta": "Gli organismi autotrofi (piante)",
+      "opzioni": ["Gli organismi autotrofi (piante)", "Gli erbivori", "I carnivori", "I decompositori"],
+      "spiegazione": "I produttori sintetizzano materia organica dalla luce (fotosintesi).",
+      "livello": "base",
+      "argomento": "Ecologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I consumatori primari sono:",
+      "rispostaCorretta": "Gli erbivori",
+      "opzioni": ["Gli erbivori", "I carnivori", "I decompositori", "Le piante"],
+      "spiegazione": "I consumatori primari si nutrono di produttori (piante).",
+      "livello": "base",
+      "argomento": "Ecologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I decompositori sono:",
+      "rispostaCorretta": "Batteri e funghi che degradano la materia organica",
+      "opzioni": ["Batteri e funghi che degradano la materia organica", "Piante", "Erbivori", "Carnivori"],
+      "spiegazione": "I decompositori riciclano la materia organica morta.",
+      "livello": "intermedio",
+      "argomento": "Ecologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La catena alimentare descrive:",
+      "rispostaCorretta": "Il flusso di energia tra organismi",
+      "opzioni": ["Il flusso di energia tra organismi", "La riproduzione", "La fotosintesi", "La respirazione"],
+      "spiegazione": "La catena alimentare mostra chi mangia chi: produttori → consumatori.",
+      "livello": "base",
+      "argomento": "Ecologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'effetto serra è causato principalmente da:",
+      "rispostaCorretta": "CO₂ e altri gas che trattengono il calore",
+      "opzioni": ["CO₂ e altri gas che trattengono il calore", "L'ossigeno", "L'azoto", "L'idrogeno"],
+      "spiegazione": "I gas serra (CO₂, metano) intrappolano il calore nell'atmosfera.",
+      "livello": "base",
+      "argomento": "Ecologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La biodiversità indica:",
+      "rispostaCorretta": "La varietà di specie in un ecosistema",
+      "opzioni": ["La varietà di specie in un ecosistema", "Il numero di individui", "La dimensione dell'habitat", "La temperatura"],
+      "spiegazione": "La biodiversità è la ricchezza di specie, geni e ecosistemi.",
+      "livello": "base",
+      "argomento": "Ecologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il ciclo dell'azoto include la fissazione da parte di:",
+      "rispostaCorretta": "Batteri azotofissatori",
+      "opzioni": ["Batteri azotofissatori", "Piante", "Animali", "Funghi"],
+      "spiegazione": "I batteri azotofissatori convertono l'azoto atmosferico in forme utilizzabili.",
+      "livello": "avanzato",
+      "argomento": "Ecologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il ciclo del carbonio include:",
+      "rispostaCorretta": "Fotosintesi, respirazione, decomposizione",
+      "opzioni": ["Fotosintesi, respirazione, decomposizione", "Solo fotosintesi", "Solo respirazione", "Solo combustione"],
+      "spiegazione": "Il carbonio cicla tra atmosfera, organismi e suolo.",
+      "livello": "intermedio",
+      "argomento": "Ecologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il sangue venoso è povero di ossigeno.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Il sangue venoso (tranne nelle vene polmonari) è povero di O₂ e ricco di CO₂.",
+      "livello": "base",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'insulina abbassa il livello di glucosio nel sangue.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "L'insulina favorisce l'ingresso del glucosio nelle cellule, abbassando la glicemia.",
+      "livello": "intermedio",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Gli enzimi sono proteine che accelerano le reazioni chimiche.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Gli enzimi sono catalizzatori biologici che accelerano le reazioni.",
+      "livello": "intermedio",
+      "argomento": "Chimica generale",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'emoglobina contiene:",
+      "rispostaCorretta": "Ferro",
+      "opzioni": ["Ferro", "Calcio", "Sodio", "Potassio"],
+      "spiegazione": "L'emoglobina contiene ferro che lega l'ossigeno.",
+      "livello": "intermedio",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il sistema linfatico ha funzione:",
+      "rispostaCorretta": "Immunitaria e di drenaggio",
+      "opzioni": ["Immunitaria e di drenaggio", "Digestiva", "Respiratoria", "Escretoria"],
+      "spiegazione": "Il sistema linfatico drena i liquidi e ospita cellule immunitarie.",
+      "livello": "intermedio",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli anticorpi sono prodotti da:",
+      "rispostaCorretta": "Linfociti B",
+      "opzioni": ["Linfociti B", "Globuli rossi", "Piastrine", "Neuroni"],
+      "spiegazione": "I linfociti B producono anticorpi contro antigeni specifici.",
+      "livello": "avanzato",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I vaccini funzionano:",
+      "rispostaCorretta": "Stimolando la produzione di anticorpi",
+      "opzioni": ["Stimolando la produzione di anticorpi", "Uccidendo i virus", "Curando le malattie", "Eliminando i batteri"],
+      "spiegazione": "I vaccini espongono il sistema immunitario a antigeni inattivati.",
+      "livello": "intermedio",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ormone della crescita è prodotto da:",
+      "rispostaCorretta": "L'ipofisi",
+      "opzioni": ["L'ipofisi", "La tiroide", "Il pancreas", "Le surrenali"],
+      "spiegazione": "L'ipofisi (ghiandola pituitaria) produce l'ormone della crescita (GH).",
+      "livello": "avanzato",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La tiroide produce ormoni che regolano:",
+      "rispostaCorretta": "Il metabolismo",
+      "opzioni": ["Il metabolismo", "La crescita ossea", "La digestione", "La vista"],
+      "spiegazione": "Gli ormoni tiroidei (T3, T4) regolano il metabolismo basale.",
+      "livello": "intermedio",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'adrenalina è prodotta dalle ghiandole:",
+      "rispostaCorretta": "Surrenali",
+      "opzioni": ["Surrenali", "Tiroide", "Ipofisi", "Pancreas"],
+      "spiegazione": "Le surrenali producono adrenalina in risposta allo stress.",
+      "livello": "intermedio",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il diabete è causato da problemi con:",
+      "rispostaCorretta": "L'insulina",
+      "opzioni": ["L'insulina", "L'adrenalina", "La tiroxina", "Il cortisolo"],
+      "spiegazione": "Il diabete è dovuto a carenza o resistenza all'insulina.",
+      "livello": "intermedio",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo scheletro umano adulto ha circa:",
+      "rispostaCorretta": "206 ossa",
+      "opzioni": ["206 ossa", "100 ossa", "300 ossa", "150 ossa"],
+      "spiegazione": "Lo scheletro adulto ha 206 ossa (i bambini ne hanno di più).",
+      "livello": "base",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I muscoli scheletrici sono:",
+      "rispostaCorretta": "Volontari e striati",
+      "opzioni": ["Volontari e striati", "Involontari e lisci", "Solo involontari", "Solo cardiaci"],
+      "spiegazione": "I muscoli scheletrici sono controllati volontariamente e hanno striature.",
+      "livello": "intermedio",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il muscolo cardiaco è:",
+      "rispostaCorretta": "Involontario e striato",
+      "opzioni": ["Involontario e striato", "Volontario e liscio", "Volontario e striato", "Involontario e liscio"],
+      "spiegazione": "Il miocardio è striato ma involontario: batte autonomamente.",
+      "livello": "avanzato",
+      "argomento": "Il corpo umano",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La nicchia ecologica indica:",
+      "rispostaCorretta": "Il ruolo di una specie nell'ecosistema",
+      "opzioni": ["Il ruolo di una specie nell'ecosistema", "Il luogo dove vive", "Il numero di individui", "La dimensione"],
+      "spiegazione": "La nicchia ecologica è il ruolo funzionale di una specie (cosa mangia, quando è attiva, ecc.).",
+      "livello": "avanzato",
+      "argomento": "Ecologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La simbiosi mutualistica è una relazione in cui:",
+      "rispostaCorretta": "Entrambe le specie traggono vantaggio",
+      "opzioni": ["Entrambe le specie traggono vantaggio", "Una specie danneggia l'altra", "Una specie è indifferente", "Entrambe sono danneggiate"],
+      "spiegazione": "Nel mutualismo entrambi gli organismi beneficiano (es. api e fiori).",
+      "livello": "intermedio",
+      "argomento": "Ecologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il parassitismo è una relazione in cui:",
+      "rispostaCorretta": "Una specie trae vantaggio danneggiando l'altra",
+      "opzioni": ["Una specie trae vantaggio danneggiando l'altra", "Entrambe beneficiano", "Entrambe sono danneggiate", "Nessuna è influenzata"],
+      "spiegazione": "Il parassita vive a spese dell'ospite danneggiandolo.",
+      "livello": "intermedio",
+      "argomento": "Ecologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La successione ecologica è:",
+      "rispostaCorretta": "Il cambiamento graduale di un ecosistema nel tempo",
+      "opzioni": ["Il cambiamento graduale di un ecosistema nel tempo", "L'estinzione di specie", "La migrazione", "La predazione"],
+      "spiegazione": "La successione porta da comunità pioniere a comunità climax.",
+      "livello": "avanzato",
+      "argomento": "Ecologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il buco dell'ozono è causato principalmente da:",
+      "rispostaCorretta": "CFC (clorofluorocarburi)",
+      "opzioni": ["CFC (clorofluorocarburi)", "CO₂", "Metano", "Ossigeno"],
+      "spiegazione": "I CFC distruggono l'ozono stratosferico che ci protegge dai raggi UV.",
+      "livello": "intermedio",
+      "argomento": "Ecologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le piogge acide sono causate da:",
+      "rispostaCorretta": "Ossidi di zolfo e azoto",
+      "opzioni": ["Ossidi di zolfo e azoto", "CO₂", "Ozono", "Ossigeno"],
+      "spiegazione": "SO₂ e NOₓ reagiscono con l'acqua formando acidi.",
+      "livello": "intermedio",
+      "argomento": "Ecologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'eutrofizzazione è causata da:",
+      "rispostaCorretta": "Eccesso di nutrienti (fosfati, nitrati) nelle acque",
+      "opzioni": ["Eccesso di nutrienti (fosfati, nitrati) nelle acque", "Mancanza di ossigeno", "Eccesso di CO₂", "Mancanza di luce"],
+      "spiegazione": "L'eutrofizzazione causa proliferazione di alghe e carenza di ossigeno.",
+      "livello": "avanzato",
+      "argomento": "Ecologia",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La piramide ecologica mostra:",
+      "rispostaCorretta": "La diminuzione di energia/biomassa ai livelli trofici superiori",
+      "opzioni": ["La diminuzione di energia/biomassa ai livelli trofici superiori", "L'aumento di energia", "La costanza di biomassa", "Il numero di specie"],
+      "spiegazione": "Ad ogni passaggio trofico si perde circa il 90% dell'energia.",
+      "livello": "avanzato",
+      "argomento": "Ecologia",
+      "materia": "scienze"
+    }
+  ]
+}

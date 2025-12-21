@@ -1,0 +1,567 @@
+{
+  "materia": "storia",
+  "descrizione": "Quiz Storia - Parte 3: Prima Guerra Mondiale, Fascismo, Nazismo, Seconda Guerra Mondiale",
+  "totale": 65,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "La Prima Guerra Mondiale durò dal:",
+      "rispostaCorretta": "1914 al 1918",
+      "opzioni": ["1914 al 1918", "1915 al 1918", "1914 al 1917", "1912 al 1918"],
+      "spiegazione": "La Grande Guerra durò dal 28 luglio 1914 all'11 novembre 1918.",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Italia entrò nella Prima Guerra Mondiale nel:",
+      "rispostaCorretta": "1915",
+      "opzioni": ["1915", "1914", "1916", "1917"],
+      "spiegazione": "L'Italia entrò in guerra il 24 maggio 1915 contro l'Austria-Ungheria.",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Italia entrò in guerra a fianco di:",
+      "rispostaCorretta": "Francia, Gran Bretagna e Russia (Intesa)",
+      "opzioni": ["Francia, Gran Bretagna e Russia (Intesa)", "Germania e Austria", "Solo la Francia", "Nessuno, rimase neutrale"],
+      "spiegazione": "L'Italia passò dalla Triplice Alleanza all'Intesa con il Patto di Londra.",
+      "livello": "intermedio",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La battaglia di Caporetto (1917) fu:",
+      "rispostaCorretta": "Una grave sconfitta italiana",
+      "opzioni": ["Una grave sconfitta italiana", "Una vittoria italiana", "Una battaglia navale", "Una battaglia aerea"],
+      "spiegazione": "A Caporetto (ottobre 1917) l'esercito italiano subì una disfatta.",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La battaglia di Vittorio Veneto (1918) segnò:",
+      "rispostaCorretta": "La vittoria finale italiana",
+      "opzioni": ["La vittoria finale italiana", "Una sconfitta", "Un armistizio", "L'inizio della guerra"],
+      "spiegazione": "Vittorio Veneto (ottobre-novembre 1918) portò alla resa dell'Austria.",
+      "livello": "intermedio",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La guerra di trincea fu caratterizzata da:",
+      "rispostaCorretta": "Stallo, logoramento e altissime perdite",
+      "opzioni": ["Stallo, logoramento e altissime perdite", "Rapidi movimenti", "Battaglie navali", "Guerra aerea"],
+      "spiegazione": "La guerra di trincea causò milioni di morti per conquistare pochi chilometri.",
+      "livello": "intermedio",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli USA entrarono nella Prima Guerra Mondiale nel:",
+      "rispostaCorretta": "1917",
+      "opzioni": ["1917", "1914", "1915", "1918"],
+      "spiegazione": "Gli USA entrarono in guerra nell'aprile 1917, decisivi per la vittoria.",
+      "livello": "intermedio",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Rivoluzione russa avvenne nel:",
+      "rispostaCorretta": "1917",
+      "opzioni": ["1917", "1914", "1918", "1920"],
+      "spiegazione": "Nel 1917 ci furono due rivoluzioni: febbraio (caduta dello zar) e ottobre (bolscevichi).",
+      "livello": "base",
+      "argomento": "Rivoluzione russa",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lenin guidò:",
+      "rispostaCorretta": "La Rivoluzione d'Ottobre e i bolscevichi",
+      "opzioni": ["La Rivoluzione d'Ottobre e i bolscevichi", "La Rivoluzione di Febbraio", "I menscevichi", "Lo zar"],
+      "spiegazione": "Lenin guidò i bolscevichi alla presa del potere nell'ottobre 1917.",
+      "livello": "base",
+      "argomento": "Rivoluzione russa",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'URSS fu fondata nel:",
+      "rispostaCorretta": "1922",
+      "opzioni": ["1922", "1917", "1924", "1930"],
+      "spiegazione": "L'Unione delle Repubbliche Socialiste Sovietiche nacque nel 1922.",
+      "livello": "intermedio",
+      "argomento": "Rivoluzione russa",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Trattato di Versailles (1919) impose alla Germania:",
+      "rispostaCorretta": "Pesanti riparazioni e perdite territoriali",
+      "opzioni": ["Pesanti riparazioni e perdite territoriali", "Nessuna sanzione", "L'annessione di territori", "L'alleanza con la Francia"],
+      "spiegazione": "Versailles umiliò la Germania, creando risentimento per il futuro.",
+      "livello": "intermedio",
+      "argomento": "Dopoguerra",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Società delle Nazioni fu fondata nel:",
+      "rispostaCorretta": "1920",
+      "opzioni": ["1920", "1918", "1919", "1925"],
+      "spiegazione": "La Società delle Nazioni nacque per mantenere la pace, ma fallì.",
+      "livello": "intermedio",
+      "argomento": "Dopoguerra",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La 'vittoria mutilata' in Italia indicava:",
+      "rispostaCorretta": "L'insoddisfazione per i territori non ottenuti",
+      "opzioni": ["L'insoddisfazione per i territori non ottenuti", "Una sconfitta militare", "La perdita di colonie", "Un trattato favorevole"],
+      "spiegazione": "L'Italia non ottenne tutti i territori promessi (Fiume, Dalmazia).",
+      "livello": "avanzato",
+      "argomento": "Dopoguerra",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il biennio rosso in Italia (1919-1920) fu caratterizzato da:",
+      "rispostaCorretta": "Scioperi, occupazioni di fabbriche e tensioni sociali",
+      "opzioni": ["Scioperi, occupazioni di fabbriche e tensioni sociali", "Pace sociale", "Crescita economica", "Stabilità politica"],
+      "spiegazione": "Il biennio rosso vide forti agitazioni operaie e contadine.",
+      "livello": "avanzato",
+      "argomento": "Fascismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Mussolini fondò i Fasci di combattimento nel:",
+      "rispostaCorretta": "1919",
+      "opzioni": ["1919", "1922", "1925", "1915"],
+      "spiegazione": "I Fasci di combattimento furono fondati a Milano il 23 marzo 1919.",
+      "livello": "intermedio",
+      "argomento": "Fascismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Marcia su Roma avvenne nel:",
+      "rispostaCorretta": "1922",
+      "opzioni": ["1922", "1919", "1925", "1924"],
+      "spiegazione": "La Marcia su Roma (28 ottobre 1922) portò Mussolini al potere.",
+      "livello": "base",
+      "argomento": "Fascismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giacomo Matteotti fu assassinato nel:",
+      "rispostaCorretta": "1924",
+      "opzioni": ["1924", "1922", "1925", "1926"],
+      "spiegazione": "Matteotti, deputato socialista, fu ucciso dopo aver denunciato i brogli elettorali.",
+      "livello": "intermedio",
+      "argomento": "Fascismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le leggi fascistissime furono emanate nel:",
+      "rispostaCorretta": "1925-1926",
+      "opzioni": ["1925-1926", "1922", "1929", "1935"],
+      "spiegazione": "Le leggi fascistissime instaurarono la dittatura abolendo le libertà.",
+      "livello": "avanzato",
+      "argomento": "Fascismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I Patti Lateranensi tra Italia e Vaticano furono firmati nel:",
+      "rispostaCorretta": "1929",
+      "opzioni": ["1929", "1922", "1935", "1940"],
+      "spiegazione": "I Patti Lateranensi risolsero la questione romana e crearono lo Stato Vaticano.",
+      "livello": "intermedio",
+      "argomento": "Fascismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La guerra d'Etiopia fu condotta dall'Italia nel:",
+      "rispostaCorretta": "1935-1936",
+      "opzioni": ["1935-1936", "1922-1923", "1940-1941", "1939-1940"],
+      "spiegazione": "L'Italia conquistò l'Etiopia e proclamò l'Impero (1936).",
+      "livello": "intermedio",
+      "argomento": "Fascismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le leggi razziali in Italia furono emanate nel:",
+      "rispostaCorretta": "1938",
+      "opzioni": ["1938", "1935", "1940", "1943"],
+      "spiegazione": "Le leggi razziali del 1938 discriminarono gli ebrei italiani.",
+      "livello": "intermedio",
+      "argomento": "Fascismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La crisi del 1929 fu:",
+      "rispostaCorretta": "Il crollo della borsa di Wall Street e la Grande Depressione",
+      "opzioni": ["Il crollo della borsa di Wall Street e la Grande Depressione", "Una guerra", "Una rivoluzione", "Un'epidemia"],
+      "spiegazione": "Il 'giovedì nero' (24 ottobre 1929) avviò la peggiore crisi economica mondiale.",
+      "livello": "base",
+      "argomento": "Crisi del 1929",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il New Deal fu la politica economica di:",
+      "rispostaCorretta": "Franklin D. Roosevelt",
+      "opzioni": ["Franklin D. Roosevelt", "Herbert Hoover", "Woodrow Wilson", "Harry Truman"],
+      "spiegazione": "Roosevelt lanciò il New Deal per combattere la Grande Depressione.",
+      "livello": "intermedio",
+      "argomento": "Crisi del 1929",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Hitler divenne cancelliere della Germania nel:",
+      "rispostaCorretta": "1933",
+      "opzioni": ["1933", "1929", "1939", "1936"],
+      "spiegazione": "Hitler fu nominato cancelliere il 30 gennaio 1933.",
+      "livello": "base",
+      "argomento": "Nazismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il partito nazista si chiamava:",
+      "rispostaCorretta": "NSDAP (Partito Nazionalsocialista Tedesco dei Lavoratori)",
+      "opzioni": ["NSDAP (Partito Nazionalsocialista Tedesco dei Lavoratori)", "SPD", "KPD", "CDU"],
+      "spiegazione": "Il NSDAP era il partito di Hitler.",
+      "livello": "intermedio",
+      "argomento": "Nazismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le leggi di Norimberga (1935) in Germania:",
+      "rispostaCorretta": "Privarono gli ebrei della cittadinanza",
+      "opzioni": ["Privarono gli ebrei della cittadinanza", "Garantirono diritti agli ebrei", "Riguardavano l'economia", "Riguardavano l'esercito"],
+      "spiegazione": "Le leggi di Norimberga furono il fondamento della persecuzione antisemita.",
+      "livello": "intermedio",
+      "argomento": "Nazismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Notte dei cristalli (Kristallnacht) avvenne nel:",
+      "rispostaCorretta": "1938",
+      "opzioni": ["1938", "1933", "1935", "1939"],
+      "spiegazione": "Nella notte tra il 9 e 10 novembre 1938 furono distrutti negozi e sinagoghe ebraiche.",
+      "livello": "intermedio",
+      "argomento": "Nazismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Seconda Guerra Mondiale iniziò il:",
+      "rispostaCorretta": "1 settembre 1939",
+      "opzioni": ["1 settembre 1939", "1 settembre 1938", "1 settembre 1940", "7 dicembre 1941"],
+      "spiegazione": "La guerra iniziò con l'invasione tedesca della Polonia.",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Italia entrò nella Seconda Guerra Mondiale il:",
+      "rispostaCorretta": "10 giugno 1940",
+      "opzioni": ["10 giugno 1940", "1 settembre 1939", "7 dicembre 1941", "8 settembre 1943"],
+      "spiegazione": "Mussolini dichiarò guerra a Francia e Gran Bretagna il 10 giugno 1940.",
+      "livello": "intermedio",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'attacco giapponese a Pearl Harbor avvenne il:",
+      "rispostaCorretta": "7 dicembre 1941",
+      "opzioni": ["7 dicembre 1941", "1 settembre 1939", "6 giugno 1944", "8 maggio 1945"],
+      "spiegazione": "L'attacco a Pearl Harbor fece entrare gli USA in guerra.",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo sbarco in Normandia (D-Day) avvenne il:",
+      "rispostaCorretta": "6 giugno 1944",
+      "opzioni": ["6 giugno 1944", "6 giugno 1943", "8 settembre 1943", "25 aprile 1945"],
+      "spiegazione": "Il D-Day aprì il secondo fronte in Europa occidentale.",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'armistizio italiano fu firmato l':",
+      "rispostaCorretta": "8 settembre 1943",
+      "opzioni": ["8 settembre 1943", "25 luglio 1943", "25 aprile 1945", "2 giugno 1946"],
+      "spiegazione": "L'8 settembre 1943 fu annunciato l'armistizio con gli Alleati.",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Resistenza italiana combatté contro:",
+      "rispostaCorretta": "I nazifascisti",
+      "opzioni": ["I nazifascisti", "Gli Alleati", "I comunisti", "I monarchici"],
+      "spiegazione": "I partigiani combatterono contro tedeschi e fascisti della RSI.",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Liberazione dell'Italia avvenne il:",
+      "rispostaCorretta": "25 aprile 1945",
+      "opzioni": ["25 aprile 1945", "8 settembre 1943", "2 giugno 1946", "1 maggio 1945"],
+      "spiegazione": "Il 25 aprile 1945 le città del Nord furono liberate.",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Shoah fu:",
+      "rispostaCorretta": "Lo sterminio di sei milioni di ebrei",
+      "opzioni": ["Lo sterminio di sei milioni di ebrei", "Una battaglia", "Un trattato", "Una conferenza"],
+      "spiegazione": "La Shoah (Olocausto) fu il genocidio degli ebrei europei.",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Auschwitz era:",
+      "rispostaCorretta": "Il più grande campo di sterminio nazista",
+      "opzioni": ["Il più grande campo di sterminio nazista", "Una città tedesca", "Un campo di prigionia alleato", "Una base militare"],
+      "spiegazione": "Ad Auschwitz-Birkenau furono uccise oltre un milione di persone.",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La bomba atomica fu sganciata su Hiroshima il:",
+      "rispostaCorretta": "6 agosto 1945",
+      "opzioni": ["6 agosto 1945", "9 agosto 1945", "15 agosto 1945", "2 settembre 1945"],
+      "spiegazione": "La prima bomba atomica fu sganciata su Hiroshima il 6 agosto 1945.",
+      "livello": "base",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Seconda Guerra Mondiale terminò in Europa l':",
+      "rispostaCorretta": "8 maggio 1945",
+      "opzioni": ["8 maggio 1945", "25 aprile 1945", "6 giugno 1944", "2 settembre 1945"],
+      "spiegazione": "L'8 maggio 1945 la Germania si arrese (V-E Day).",
+      "livello": "intermedio",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Seconda Guerra Mondiale terminò nel Pacifico il:",
+      "rispostaCorretta": "2 settembre 1945",
+      "opzioni": ["2 settembre 1945", "15 agosto 1945", "8 maggio 1945", "6 agosto 1945"],
+      "spiegazione": "Il Giappone si arrese ufficialmente il 2 settembre 1945 (V-J Day).",
+      "livello": "intermedio",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'Italia combatté nella Prima Guerra Mondiale a fianco della Germania.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "L'Italia combatté contro Germania e Austria, a fianco dell'Intesa.",
+      "livello": "base",
+      "argomento": "Prima Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Mussolini fu destituito il 25 luglio 1943.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Il Gran Consiglio del Fascismo sfiduciò Mussolini il 25 luglio 1943.",
+      "livello": "intermedio",
+      "argomento": "Fascismo",
+      "materia": "storia"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La Repubblica Sociale Italiana (RSI) fu fondata da Mussolini nel Nord Italia.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "La RSI (Repubblica di Salò) fu lo stato fantoccio di Mussolini nel Nord.",
+      "livello": "avanzato",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Patto Molotov-Ribbentrop (1939) fu un accordo tra:",
+      "rispostaCorretta": "Germania e URSS",
+      "opzioni": ["Germania e URSS", "Germania e Italia", "URSS e USA", "Germania e Giappone"],
+      "spiegazione": "Il patto di non aggressione permise a Hitler di invadere la Polonia.",
+      "livello": "avanzato",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Operazione Barbarossa (1941) fu:",
+      "rispostaCorretta": "L'invasione tedesca dell'URSS",
+      "opzioni": ["L'invasione tedesca dell'URSS", "Lo sbarco in Normandia", "L'attacco a Pearl Harbor", "La battaglia d'Inghilterra"],
+      "spiegazione": "L'Operazione Barbarossa iniziò il 22 giugno 1941.",
+      "livello": "intermedio",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La battaglia di Stalingrado (1942-1943) fu:",
+      "rispostaCorretta": "Una svolta decisiva a favore dell'URSS",
+      "opzioni": ["Una svolta decisiva a favore dell'URSS", "Una vittoria tedesca", "Una battaglia navale", "Una battaglia aerea"],
+      "spiegazione": "Stalingrado segnò l'inizio della ritirata tedesca sul fronte orientale.",
+      "livello": "intermedio",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La battaglia di El Alamein (1942) fu combattuta in:",
+      "rispostaCorretta": "Egitto",
+      "opzioni": ["Egitto", "Libia", "Tunisia", "Marocco"],
+      "spiegazione": "El Alamein segnò la sconfitta dell'Asse in Nord Africa.",
+      "livello": "avanzato",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo sbarco in Sicilia avvenne nel:",
+      "rispostaCorretta": "Luglio 1943",
+      "opzioni": ["Luglio 1943", "Settembre 1943", "Giugno 1944", "Aprile 1945"],
+      "spiegazione": "L'Operazione Husky (10 luglio 1943) portò gli Alleati in Italia.",
+      "livello": "intermedio",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Fosse Ardeatine furono:",
+      "rispostaCorretta": "Il luogo di un massacro nazista a Roma (1944)",
+      "opzioni": ["Il luogo di un massacro nazista a Roma (1944)", "Una battaglia", "Un campo di concentramento", "Una conferenza di pace"],
+      "spiegazione": "Il 24 marzo 1944 i nazisti uccisero 335 civili alle Fosse Ardeatine.",
+      "livello": "avanzato",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Marzabotto fu:",
+      "rispostaCorretta": "Il luogo di una strage nazista (1944)",
+      "opzioni": ["Il luogo di una strage nazista (1944)", "Una battaglia partigiana", "Un campo di prigionia", "Una conferenza"],
+      "spiegazione": "A Marzabotto (settembre-ottobre 1944) i nazisti uccisero circa 770 civili.",
+      "livello": "avanzato",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il CLN (Comitato di Liberazione Nazionale) coordinava:",
+      "rispostaCorretta": "La Resistenza italiana",
+      "opzioni": ["La Resistenza italiana", "L'esercito fascista", "Le forze alleate", "Il governo Badoglio"],
+      "spiegazione": "Il CLN riuniva i partiti antifascisti nella lotta di liberazione.",
+      "livello": "avanzato",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Mussolini fu giustiziato il:",
+      "rispostaCorretta": "28 aprile 1945",
+      "opzioni": ["28 aprile 1945", "25 aprile 1945", "8 settembre 1943", "25 luglio 1943"],
+      "spiegazione": "Mussolini fu catturato e fucilato dai partigiani il 28 aprile 1945.",
+      "livello": "intermedio",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Hitler morì il:",
+      "rispostaCorretta": "30 aprile 1945",
+      "opzioni": ["30 aprile 1945", "8 maggio 1945", "28 aprile 1945", "2 settembre 1945"],
+      "spiegazione": "Hitler si suicidò nel bunker di Berlino il 30 aprile 1945.",
+      "livello": "intermedio",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il processo di Norimberga (1945-1946) giudicò:",
+      "rispostaCorretta": "I criminali di guerra nazisti",
+      "opzioni": ["I criminali di guerra nazisti", "I criminali di guerra giapponesi", "I fascisti italiani", "I collaborazionisti francesi"],
+      "spiegazione": "A Norimberga furono processati i gerarchi nazisti per crimini contro l'umanità.",
+      "livello": "intermedio",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ONU fu fondata nel:",
+      "rispostaCorretta": "1945",
+      "opzioni": ["1945", "1920", "1948", "1950"],
+      "spiegazione": "L'Organizzazione delle Nazioni Unite fu fondata il 24 ottobre 1945.",
+      "livello": "base",
+      "argomento": "Dopoguerra",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Conferenza di Yalta (febbraio 1945) riunì:",
+      "rispostaCorretta": "Roosevelt, Churchill e Stalin",
+      "opzioni": ["Roosevelt, Churchill e Stalin", "Hitler, Mussolini e Hirohito", "Truman, Attlee e Stalin", "De Gaulle, Churchill e Roosevelt"],
+      "spiegazione": "A Yalta i tre leader decisero l'assetto postbellico dell'Europa.",
+      "livello": "avanzato",
+      "argomento": "Seconda Guerra Mondiale",
+      "materia": "storia"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Stalin governò l'URSS dal:",
+      "rispostaCorretta": "1924 al 1953",
+      "opzioni": ["1924 al 1953", "1917 al 1924", "1945 al 1991", "1953 al 1964"],
+      "spiegazione": "Stalin succedette a Lenin e governò con terrore fino alla morte.",
+      "livello": "intermedio",
+      "argomento": "Rivoluzione russa",
+      "materia": "storia"
+    }
+  ]
+}

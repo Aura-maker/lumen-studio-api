@@ -1,0 +1,527 @@
+{
+  "materia": "arte",
+  "descrizione": "Quiz Arte triennio - Preistoria, Grecia, Roma, Medioevo, Gotico, Rinascimento",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Le pitture rupestri di Lascaux risalgono a circa:",
+      "rispostaCorretta": "17.000 anni fa",
+      "opzioni": ["17.000 anni fa", "5.000 anni fa", "50.000 anni fa", "1.000 anni fa"],
+      "spiegazione": "Le pitture di Lascaux (Francia) risalgono al Paleolitico superiore, circa 17.000 anni fa.",
+      "livello": "intermedio",
+      "argomento": "Arte preistorica e civiltà antiche",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Veneri paleolitiche sono:",
+      "rispostaCorretta": "Statuette femminili legate alla fertilità",
+      "opzioni": ["Statuette femminili legate alla fertilità", "Dipinti rupestri", "Strumenti di caccia", "Gioielli"],
+      "spiegazione": "Le Veneri sono statuette femminili dalle forme abbondanti, simboli di fertilità.",
+      "livello": "base",
+      "argomento": "Arte preistorica e civiltà antiche",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Stonehenge si trova in:",
+      "rispostaCorretta": "Inghilterra",
+      "opzioni": ["Inghilterra", "Francia", "Irlanda", "Scozia"],
+      "spiegazione": "Stonehenge è un complesso megalitico neolitico nel sud dell'Inghilterra.",
+      "livello": "base",
+      "argomento": "Arte preistorica e civiltà antiche",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le piramidi di Giza furono costruite come:",
+      "rispostaCorretta": "Tombe per i faraoni",
+      "opzioni": ["Tombe per i faraoni", "Templi", "Palazzi", "Osservatori astronomici"],
+      "spiegazione": "Le piramidi erano monumenti funerari per i faraoni dell'Antico Regno.",
+      "livello": "base",
+      "argomento": "Arte preistorica e civiltà antiche",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La ziggurat mesopotamica era:",
+      "rispostaCorretta": "Un tempio a gradoni",
+      "opzioni": ["Un tempio a gradoni", "Una tomba", "Un palazzo", "Un mercato"],
+      "spiegazione": "La ziggurat era un tempio a gradoni, simbolo del legame tra cielo e terra.",
+      "livello": "intermedio",
+      "argomento": "Arte preistorica e civiltà antiche",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ordine dorico greco si caratterizza per:",
+      "rispostaCorretta": "Colonne senza base e capitello semplice",
+      "opzioni": ["Colonne senza base e capitello semplice", "Colonne con volute", "Colonne con foglie d'acanto", "Archi a tutto sesto"],
+      "spiegazione": "Il dorico ha colonne senza base, fusto scanalato e capitello a echino e abaco.",
+      "livello": "base",
+      "argomento": "Arte greca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ordine ionico greco si caratterizza per:",
+      "rispostaCorretta": "Capitello con volute",
+      "opzioni": ["Capitello con volute", "Capitello semplice", "Foglie d'acanto", "Assenza di colonne"],
+      "spiegazione": "Lo ionico ha colonne con base, fusto più slanciato e capitello con volute.",
+      "livello": "base",
+      "argomento": "Arte greca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ordine corinzio greco si caratterizza per:",
+      "rispostaCorretta": "Capitello con foglie d'acanto",
+      "opzioni": ["Capitello con foglie d'acanto", "Capitello con volute", "Capitello semplice", "Assenza di capitello"],
+      "spiegazione": "Il corinzio ha capitello decorato con foglie d'acanto, il più ornato.",
+      "livello": "base",
+      "argomento": "Arte greca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Partenone fu costruito ad Atene nel:",
+      "rispostaCorretta": "V secolo a.C.",
+      "opzioni": ["V secolo a.C.", "III secolo a.C.", "I secolo a.C.", "II secolo d.C."],
+      "spiegazione": "Il Partenone fu costruito tra il 447 e il 432 a.C. sull'Acropoli.",
+      "livello": "base",
+      "argomento": "Arte greca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Fidia fu il grande scultore che realizzò:",
+      "rispostaCorretta": "Le sculture del Partenone e la statua di Zeus a Olimpia",
+      "opzioni": ["Le sculture del Partenone e la statua di Zeus a Olimpia", "Il Discobolo", "Il Laocoonte", "La Venere di Milo"],
+      "spiegazione": "Fidia diresse i lavori del Partenone e creò la statua crisoelefantina di Zeus.",
+      "livello": "intermedio",
+      "argomento": "Arte greca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Discobolo è opera di:",
+      "rispostaCorretta": "Mirone",
+      "opzioni": ["Mirone", "Fidia", "Policleto", "Prassitele"],
+      "spiegazione": "Il Discobolo di Mirone (V sec. a.C.) rappresenta un atleta nel lancio del disco.",
+      "livello": "intermedio",
+      "argomento": "Arte greca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il canone di Policleto stabiliva:",
+      "rispostaCorretta": "Le proporzioni ideali del corpo umano",
+      "opzioni": ["Le proporzioni ideali del corpo umano", "Le regole dell'architettura", "I colori da usare", "Le tecniche di fusione"],
+      "spiegazione": "Il canone di Policleto fissava le proporzioni ideali: l'altezza è 7-8 volte la testa.",
+      "livello": "intermedio",
+      "argomento": "Arte greca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'arco a tutto sesto è tipico dell'architettura:",
+      "rispostaCorretta": "Romana",
+      "opzioni": ["Romana", "Greca", "Egizia", "Gotica"],
+      "spiegazione": "I Romani svilupparono l'arco a tutto sesto e la volta, superando il sistema trilitico greco.",
+      "livello": "base",
+      "argomento": "Arte romana",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Colosseo fu costruito nel:",
+      "rispostaCorretta": "I secolo d.C.",
+      "opzioni": ["I secolo d.C.", "I secolo a.C.", "III secolo d.C.", "V secolo a.C."],
+      "spiegazione": "L'Anfiteatro Flavio (Colosseo) fu costruito tra il 72 e l'80 d.C.",
+      "livello": "base",
+      "argomento": "Arte romana",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Pantheon di Roma ha una copertura a:",
+      "rispostaCorretta": "Cupola con oculo",
+      "opzioni": ["Cupola con oculo", "Tetto a capriate", "Volta a botte", "Tetto piano"],
+      "spiegazione": "Il Pantheon ha una cupola emisferica con un oculo centrale di 9 metri.",
+      "livello": "intermedio",
+      "argomento": "Arte romana",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli affreschi di Pompei testimoniano:",
+      "rispostaCorretta": "La pittura romana del I secolo d.C.",
+      "opzioni": ["La pittura romana del I secolo d.C.", "L'arte greca", "L'arte medievale", "L'arte etrusca"],
+      "spiegazione": "Pompei, sepolta nel 79 d.C., conserva straordinari affreschi romani.",
+      "livello": "intermedio",
+      "argomento": "Arte romana",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Colonna Traiana celebra:",
+      "rispostaCorretta": "Le vittorie di Traiano sui Daci",
+      "opzioni": ["Le vittorie di Traiano sui Daci", "La fondazione di Roma", "Le guerre puniche", "L'impero di Augusto"],
+      "spiegazione": "La Colonna Traiana (113 d.C.) narra con rilievi a spirale le guerre daciche.",
+      "livello": "intermedio",
+      "argomento": "Arte romana",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'arte paleocristiana si sviluppa principalmente:",
+      "rispostaCorretta": "Nelle catacombe e nelle prime basiliche",
+      "opzioni": ["Nelle catacombe e nelle prime basiliche", "Nei templi pagani", "Nei teatri", "Nelle terme"],
+      "spiegazione": "L'arte paleocristiana nasce nelle catacombe e si sviluppa nelle basiliche.",
+      "livello": "base",
+      "argomento": "Arte medievale",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La basilica paleocristiana deriva dalla:",
+      "rispostaCorretta": "Basilica civile romana",
+      "opzioni": ["Basilica civile romana", "Tempio greco", "Piramide egizia", "Ziggurat"],
+      "spiegazione": "La basilica cristiana riprende la pianta della basilica civile romana.",
+      "livello": "intermedio",
+      "argomento": "Arte medievale",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I mosaici bizantini di Ravenna risalgono al:",
+      "rispostaCorretta": "VI secolo d.C.",
+      "opzioni": ["VI secolo d.C.", "I secolo d.C.", "X secolo d.C.", "III secolo a.C."],
+      "spiegazione": "I mosaici di San Vitale e Sant'Apollinare risalgono al VI secolo.",
+      "livello": "intermedio",
+      "argomento": "Arte medievale",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'arte romanica si sviluppa tra:",
+      "rispostaCorretta": "XI e XII secolo",
+      "opzioni": ["XI e XII secolo", "V e VI secolo", "XIV e XV secolo", "I e II secolo"],
+      "spiegazione": "Il Romanico fiorisce tra XI e XII secolo in tutta Europa.",
+      "livello": "base",
+      "argomento": "Arte medievale",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le chiese romaniche si caratterizzano per:",
+      "rispostaCorretta": "Muri spessi, archi a tutto sesto, poca luce",
+      "opzioni": ["Muri spessi, archi a tutto sesto, poca luce", "Archi a sesto acuto, vetrate", "Cupole", "Colonne greche"],
+      "spiegazione": "Il Romanico ha strutture massicce, archi a tutto sesto e finestre piccole.",
+      "livello": "base",
+      "argomento": "Arte medievale",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'arco a sesto acuto è tipico dell'architettura:",
+      "rispostaCorretta": "Gotica",
+      "opzioni": ["Gotica", "Romanica", "Romana", "Greca"],
+      "spiegazione": "L'arco a sesto acuto (ogivale) è caratteristico del Gotico.",
+      "livello": "base",
+      "argomento": "Arte gotica",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le cattedrali gotiche si caratterizzano per:",
+      "rispostaCorretta": "Verticalità, grandi vetrate, archi rampanti",
+      "opzioni": ["Verticalità, grandi vetrate, archi rampanti", "Muri spessi e poca luce", "Cupole", "Colonne doriche"],
+      "spiegazione": "Il Gotico cerca la verticalità e la luce con archi ogivali e vetrate.",
+      "livello": "base",
+      "argomento": "Arte gotica",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Notre-Dame di Parigi è un esempio di:",
+      "rispostaCorretta": "Architettura gotica",
+      "opzioni": ["Architettura gotica", "Architettura romanica", "Architettura rinascimentale", "Architettura barocca"],
+      "spiegazione": "Notre-Dame (XII-XIV sec.) è un capolavoro del gotico francese.",
+      "livello": "base",
+      "argomento": "Arte gotica",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Giotto è considerato il precursore del:",
+      "rispostaCorretta": "Rinascimento",
+      "opzioni": ["Rinascimento", "Gotico", "Romanico", "Barocco"],
+      "spiegazione": "Giotto (1267-1337) rivoluzionò la pittura con volume e spazio, anticipando il Rinascimento.",
+      "livello": "base",
+      "argomento": "Arte gotica",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli affreschi di Giotto nella Cappella degli Scrovegni si trovano a:",
+      "rispostaCorretta": "Padova",
+      "opzioni": ["Padova", "Firenze", "Roma", "Assisi"],
+      "spiegazione": "La Cappella degli Scrovegni a Padova contiene il ciclo di affreschi di Giotto.",
+      "livello": "intermedio",
+      "argomento": "Arte gotica",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Rinascimento nasce a:",
+      "rispostaCorretta": "Firenze nel XV secolo",
+      "opzioni": ["Firenze nel XV secolo", "Roma nel XVI secolo", "Venezia nel XIV secolo", "Milano nel XVII secolo"],
+      "spiegazione": "Il Rinascimento nasce a Firenze nel Quattrocento.",
+      "livello": "base",
+      "argomento": "Rinascimento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Brunelleschi progettò:",
+      "rispostaCorretta": "La cupola del Duomo di Firenze",
+      "opzioni": ["La cupola del Duomo di Firenze", "Il Colosseo", "San Pietro", "Notre-Dame"],
+      "spiegazione": "Brunelleschi costruì la cupola di Santa Maria del Fiore (1420-1436).",
+      "livello": "base",
+      "argomento": "Rinascimento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Brunelleschi scoprì le regole della:",
+      "rispostaCorretta": "Prospettiva lineare",
+      "opzioni": ["Prospettiva lineare", "Scultura", "Pittura a olio", "Mosaico"],
+      "spiegazione": "Brunelleschi codificò la prospettiva lineare con punto di fuga.",
+      "livello": "intermedio",
+      "argomento": "Rinascimento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Masaccio è famoso per:",
+      "rispostaCorretta": "Gli affreschi della Cappella Brancacci",
+      "opzioni": ["Gli affreschi della Cappella Brancacci", "La Gioconda", "La Pietà", "Il David"],
+      "spiegazione": "Masaccio affrescò la Cappella Brancacci con la Cacciata dal Paradiso.",
+      "livello": "intermedio",
+      "argomento": "Rinascimento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Donatello scolpì il primo nudo a tutto tondo del Rinascimento:",
+      "rispostaCorretta": "Il David in bronzo",
+      "opzioni": ["Il David in bronzo", "La Pietà", "Il Mosè", "Il Perseo"],
+      "spiegazione": "Il David di Donatello (1440 ca.) è il primo nudo a tutto tondo dal'antichità.",
+      "livello": "intermedio",
+      "argomento": "Rinascimento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Botticelli dipinse:",
+      "rispostaCorretta": "La Nascita di Venere e La Primavera",
+      "opzioni": ["La Nascita di Venere e La Primavera", "La Gioconda", "L'Ultima Cena", "La Creazione di Adamo"],
+      "spiegazione": "Botticelli dipinse La Nascita di Venere e La Primavera per i Medici.",
+      "livello": "base",
+      "argomento": "Rinascimento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Leonardo da Vinci dipinse la Gioconda e:",
+      "rispostaCorretta": "L'Ultima Cena",
+      "opzioni": ["L'Ultima Cena", "La Creazione di Adamo", "La Scuola di Atene", "Il Giudizio Universale"],
+      "spiegazione": "Leonardo dipinse L'Ultima Cena nel refettorio di Santa Maria delle Grazie a Milano.",
+      "livello": "base",
+      "argomento": "Rinascimento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo sfumato è una tecnica inventata da:",
+      "rispostaCorretta": "Leonardo da Vinci",
+      "opzioni": ["Leonardo da Vinci", "Michelangelo", "Raffaello", "Botticelli"],
+      "spiegazione": "Lo sfumato leonardesco sfuma i contorni creando atmosfera e profondità.",
+      "livello": "intermedio",
+      "argomento": "Rinascimento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Michelangelo scolpì il David in marmo per:",
+      "rispostaCorretta": "Firenze",
+      "opzioni": ["Firenze", "Roma", "Venezia", "Milano"],
+      "spiegazione": "Il David di Michelangelo (1501-1504) fu scolpito per Piazza della Signoria.",
+      "livello": "base",
+      "argomento": "Rinascimento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Michelangelo affrescò la volta della:",
+      "rispostaCorretta": "Cappella Sistina",
+      "opzioni": ["Cappella Sistina", "Cappella Brancacci", "Cappella degli Scrovegni", "Basilica di San Pietro"],
+      "spiegazione": "Michelangelo affrescò la volta della Sistina (1508-1512) con la Creazione.",
+      "livello": "base",
+      "argomento": "Rinascimento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Raffaello dipinse La Scuola di Atene nelle:",
+      "rispostaCorretta": "Stanze Vaticane",
+      "opzioni": ["Stanze Vaticane", "Cappella Sistina", "Galleria degli Uffizi", "Palazzo Pitti"],
+      "spiegazione": "La Scuola di Atene è nelle Stanze di Raffaello in Vaticano.",
+      "livello": "intermedio",
+      "argomento": "Rinascimento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'arte greca privilegiava la rappresentazione idealizzata del corpo umano.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "L'arte greca cercava la bellezza ideale attraverso proporzioni perfette.",
+      "livello": "base",
+      "argomento": "Arte greca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "I Romani inventarono l'arco e la volta.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "L'arco era già noto, ma i Romani lo svilupparono sistematicamente.",
+      "livello": "intermedio",
+      "argomento": "Arte romana",
+      "materia": "arte"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il Gotico si chiama così perché fu creato dai Goti.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Il termine 'gotico' fu usato in senso dispregiativo nel Rinascimento per indicare arte 'barbara'.",
+      "livello": "intermedio",
+      "argomento": "Arte gotica",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il contrapposto nella scultura greca indica:",
+      "rispostaCorretta": "La posizione con peso su una gamba sola",
+      "opzioni": ["La posizione con peso su una gamba sola", "Due figure contrapposte", "Un movimento violento", "Una posa seduta"],
+      "spiegazione": "Il contrapposto dà naturalezza: il peso su una gamba, l'altra rilassata.",
+      "livello": "avanzato",
+      "argomento": "Arte greca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il Laocoonte è una scultura:",
+      "rispostaCorretta": "Ellenistica",
+      "opzioni": ["Ellenistica", "Arcaica", "Classica", "Romana"],
+      "spiegazione": "Il Laocoonte (I sec. a.C.) è un capolavoro dell'arte ellenistica.",
+      "livello": "avanzato",
+      "argomento": "Arte greca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Venere di Milo risale al:",
+      "rispostaCorretta": "II secolo a.C.",
+      "opzioni": ["II secolo a.C.", "V secolo a.C.", "I secolo d.C.", "IV secolo a.C."],
+      "spiegazione": "La Venere di Milo (130-100 a.C.) è un capolavoro ellenistico.",
+      "livello": "intermedio",
+      "argomento": "Arte greca",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'Ara Pacis fu costruita per celebrare:",
+      "rispostaCorretta": "La pace augustea",
+      "opzioni": ["La pace augustea", "Le vittorie di Cesare", "La fondazione di Roma", "Le guerre puniche"],
+      "spiegazione": "L'Ara Pacis (13-9 a.C.) celebra la pace portata da Augusto.",
+      "livello": "intermedio",
+      "argomento": "Arte romana",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Santa Sofia a Costantinopoli è un esempio di architettura:",
+      "rispostaCorretta": "Bizantina",
+      "opzioni": ["Bizantina", "Romanica", "Gotica", "Rinascimentale"],
+      "spiegazione": "Santa Sofia (532-537) è il capolavoro dell'architettura bizantina.",
+      "livello": "intermedio",
+      "argomento": "Arte medievale",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il rosone è tipico delle cattedrali:",
+      "rispostaCorretta": "Gotiche",
+      "opzioni": ["Gotiche", "Romaniche", "Paleocristiane", "Bizantine"],
+      "spiegazione": "Il rosone è una grande finestra circolare con vetrate tipica del Gotico.",
+      "livello": "base",
+      "argomento": "Arte gotica",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I contrafforti e gli archi rampanti servono a:",
+      "rispostaCorretta": "Scaricare il peso delle volte verso l'esterno",
+      "opzioni": ["Scaricare il peso delle volte verso l'esterno", "Decorare la facciata", "Illuminare l'interno", "Sostenere il tetto"],
+      "spiegazione": "Contrafforti e archi rampanti permettono muri sottili e grandi vetrate.",
+      "livello": "intermedio",
+      "argomento": "Arte gotica",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lorenzo Ghiberti realizzò:",
+      "rispostaCorretta": "Le porte del Battistero di Firenze",
+      "opzioni": ["Le porte del Battistero di Firenze", "La cupola del Duomo", "Il David", "La Primavera"],
+      "spiegazione": "Ghiberti realizzò le porte bronzee del Battistero, dette 'del Paradiso'.",
+      "livello": "intermedio",
+      "argomento": "Rinascimento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Leon Battista Alberti scrisse trattati su:",
+      "rispostaCorretta": "Architettura, pittura e scultura",
+      "opzioni": ["Architettura, pittura e scultura", "Solo architettura", "Solo pittura", "Musica"],
+      "spiegazione": "Alberti teorizzò le arti nel De pictura, De re aedificatoria, De statua.",
+      "livello": "avanzato",
+      "argomento": "Rinascimento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Piero della Francesca è famoso per:",
+      "rispostaCorretta": "L'uso rigoroso della prospettiva e della luce",
+      "opzioni": ["L'uso rigoroso della prospettiva e della luce", "Lo sfumato", "Il chiaroscuro drammatico", "I colori vivaci"],
+      "spiegazione": "Piero della Francesca usò prospettiva e luce con rigore matematico.",
+      "livello": "avanzato",
+      "argomento": "Rinascimento",
+      "materia": "arte"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Andrea Mantegna dipinse il Cristo morto con:",
+      "rispostaCorretta": "Uno scorcio prospettico ardito",
+      "opzioni": ["Uno scorcio prospettico ardito", "Colori vivaci", "Figure allungate", "Sfondo dorato"],
+      "spiegazione": "Il Cristo morto di Mantegna usa uno scorcio prospettico rivoluzionario.",
+      "livello": "avanzato",
+      "argomento": "Rinascimento",
+      "materia": "arte"
+    }
+  ]
+}

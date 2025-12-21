@@ -8,11 +8,236 @@ module.exports = {
     "colore": "#9B59B6",
     "icona": "brain",
     "annoScolastico": [
+      "3.",
       "4.",
       "5."
     ]
   },
   "argomenti": [
+    {
+      "id": "fil-presocratici",
+      "titolo": "I Presocratici",
+      "annoRiferimento": "3.",
+      "descrizione": "Le origini della filosofia greca",
+      "sottoargomenti": [
+        {
+          "titolo": "La nascita della filosofia",
+          "riassunto": "La filosofia nasce in Grecia nel VI secolo a.C. nelle colonie ioniche dell'Asia Minore, in particolare a Mileto. Il termine 'filosofia' significa 'amore per la sapienza'. La novità rispetto al mito è il passaggio dal mythos al logos: dal racconto fantastico alla spiegazione razionale. I primi filosofi cercano l'archè, il principio originario da cui tutto deriva. Non si accontentano di spiegazioni mitologiche ma cercano cause naturali. Le condizioni che favorirono la nascita della filosofia furono: la polis con il dibattito pubblico, i commerci che mettevano in contatto culture diverse, la scrittura alfabetica, l'assenza di una casta sacerdotale. La filosofia greca si distingue per il carattere teoretico (ricerca disinteressata della verità), il metodo razionale (argomentazione logica), l'universalità (verità valide per tutti). I Presocratici si occupano principalmente di cosmologia: l'origine e la struttura dell'universo. Sono chiamati anche 'fisici' perché studiano la physis, la natura.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 6,
+          "tags": ["filosofia", "Presocratici", "archè", "logos"],
+          "collegamenti": ["Mileto", "mito", "ragione"]
+        },
+        {
+          "titolo": "La scuola di Mileto",
+          "riassunto": "Talete di Mileto (624-546 a.C. circa) è considerato il primo filosofo. Identificò l'archè con l'acqua: tutto deriva dall'acqua e all'acqua ritorna. L'acqua è principio di vita, presente ovunque, può assumere stati diversi (liquido, solido, gassoso). Talete fu anche matematico e astronomo: predisse un'eclissi solare. Anassimandro (610-546 a.C. circa), allievo di Talete, identificò l'archè con l'àpeiron, l'infinito o indeterminato. L'àpeiron è illimitato, eterno, indeterminato; da esso si separano i contrari (caldo/freddo, secco/umido) che generano le cose. Anassimandro elaborò una cosmologia: la Terra è un cilindro sospeso al centro dell'universo. Formulò una teoria evoluzionistica ante litteram: gli esseri viventi nacquero dall'umido e l'uomo deriva da animali acquatici. Anassimene (586-528 a.C. circa) identificò l'archè con l'aria. L'aria è infinita e in movimento; attraverso rarefazione diventa fuoco, attraverso condensazione diventa vento, nuvole, acqua, terra, pietra. L'aria è anche soffio vitale (psychè). I tre Milesii condividono il monismo (un solo principio) e l'ilozoismo (la materia è viva).",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Talete", "Anassimandro", "Anassimene", "Mileto"],
+          "collegamenti": ["acqua", "àpeiron", "aria"]
+        },
+        {
+          "titolo": "Pitagora e i Pitagorici",
+          "riassunto": "Pitagora di Samo (570-490 a.C. circa) fondò a Crotone una scuola filosofico-religiosa. I Pitagorici vivevano in comunità con regole rigide, praticavano il vegetarianismo e credevano nella metempsicosi (trasmigrazione delle anime). L'archè per Pitagora è il numero: 'tutto è numero'. I numeri non sono astrazioni ma realtà: le cose sono numeri o imitano i numeri. I Pitagorici scoprirono i rapporti matematici nell'armonia musicale: le note dipendono dalla lunghezza delle corde in rapporti numerici semplici. L'universo è un cosmo, un ordine armonico governato da leggi matematiche. I numeri hanno significati simbolici: l'1 è l'unità, il 2 la dualità, il 3 la perfezione, il 10 (tetraktys) è il numero sacro. La distinzione tra numeri pari (illimitati, imperfetti) e dispari (limitati, perfetti) riflette l'opposizione tra principi cosmici. La scoperta dei numeri irrazionali (la diagonale del quadrato) fu uno scandalo che minacciava l'armonia universale. Il teorema di Pitagora (in un triangolo rettangolo il quadrato dell'ipotenusa è uguale alla somma dei quadrati dei cateti) è attribuito alla scuola.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Pitagora", "numero", "armonia", "metempsicosi"],
+          "collegamenti": ["matematica", "musica", "Crotone"]
+        },
+        {
+          "titolo": "Eraclito e Parmenide",
+          "riassunto": "Eraclito di Efeso (535-475 a.C. circa), detto 'l'Oscuro' per lo stile enigmatico, sostiene che tutto scorre (panta rei): 'non ci si bagna due volte nello stesso fiume'. La realtà è divenire continuo, lotta di opposti (guerra è padre di tutte le cose). Ma il divenire è governato dal Logos, legge razionale universale. L'archè è il fuoco, simbolo del mutamento. Parmenide di Elea (515-450 a.C. circa) sostiene la tesi opposta: l'essere è, il non-essere non è. L'essere è uno, eterno, immutabile, indivisibile, sferico. Il divenire e la molteplicità sono illusioni dei sensi. Solo il pensiero coglie la verità; i sensi ingannano. Il poema Sulla natura distingue la via della verità (l'essere) dalla via dell'opinione (le apparenze). Zenone di Elea, allievo di Parmenide, difese il maestro con paradossi che dimostrano l'impossibilità logica del movimento: Achille e la tartaruga, la freccia immobile, lo stadio. Eraclito e Parmenide rappresentano due visioni opposte: il divenire contro l'essere, i sensi contro la ragione. Questa opposizione attraverserà tutta la storia della filosofia.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Eraclito", "Parmenide", "divenire", "essere"],
+          "collegamenti": ["Logos", "Zenone", "paradossi"]
+        },
+        {
+          "titolo": "I fisici pluralisti e Democrito",
+          "riassunto": "I fisici pluralisti tentano di conciliare Parmenide (l'essere non nasce né perisce) con l'evidenza del mutamento. Empedocle di Agrigento (490-430 a.C.) identifica quattro radici eterne: terra, acqua, aria, fuoco. Due forze cosmiche, Amore e Odio, le uniscono e separano ciclicamente. Anassagora di Clazomene (500-428 a.C.) pone infinite 'semi' (omeomerie) qualitativamente diversi, mescolati in ogni cosa. Il Nous (Intelletto) è principio ordinatore che imprime il movimento iniziale. Democrito di Abdera (460-370 a.C.) elabora l'atomismo: la realtà è composta di atomi (indivisibili, eterni, infiniti, diversi per forma e grandezza) e vuoto. Gli atomi si muovono nel vuoto, si aggregano e disgregano formando le cose. Tutto avviene per necessità meccanica, senza finalismo né intervento divino. L'anima è fatta di atomi sottili e sferici. La conoscenza sensibile coglie le apparenze (qualità soggettive come colori, sapori); solo la ragione coglie gli atomi. L'atomismo anticipa la scienza moderna ed è ripreso da Epicuro e Lucrezio.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Empedocle", "Anassagora", "Democrito", "atomismo"],
+          "collegamenti": ["atomi", "vuoto", "materialismo"]
+        }
+      ]
+    },
+    {
+      "id": "fil-sofisti-socrate",
+      "titolo": "I Sofisti e Socrate",
+      "annoRiferimento": "3.",
+      "descrizione": "La svolta antropologica della filosofia",
+      "sottoargomenti": [
+        {
+          "titolo": "I Sofisti",
+          "riassunto": "I Sofisti sono maestri itineranti che nel V secolo a.C. insegnano a pagamento l'arte della parola (retorica) e della persuasione. Il contesto è la democrazia ateniese, dove il successo politico dipende dalla capacità di parlare in pubblico. Il termine 'sofista' significava originariamente 'sapiente', poi assunse connotazione negativa (grazie a Platone). Protagora di Abdera (490-410 a.C.) è il più importante. La sua tesi fondamentale è: 'l'uomo è misura di tutte le cose'. Questo significa relativismo: non esistono verità assolute, ogni giudizio è relativo all'individuo o alla comunità. In campo religioso è agnostico: 'degli dèi non posso sapere né che sono né che non sono'. Gorgia di Lentini (485-375 a.C.) sostiene posizioni nichiliste: nulla esiste; se esistesse non sarebbe conoscibile; se fosse conoscibile non sarebbe comunicabile. Esalta il potere della parola, capace di persuadere e manipolare. I Sofisti contribuirono alla riflessione sul linguaggio, sulla società, sulle leggi (nomos) contrapposte alla natura (physis). Furono criticati per il relativismo morale e l'uso spregiudicato della retorica.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Sofisti", "Protagora", "Gorgia", "relativismo"],
+          "collegamenti": ["retorica", "democrazia", "nomos"]
+        },
+        {
+          "titolo": "Socrate: vita e metodo",
+          "riassunto": "Socrate (470-399 a.C.) nacque ad Atene, figlio di uno scultore e di una levatrice. Non scrisse nulla; lo conosciamo attraverso i dialoghi di Platone, le opere di Senofonte e le commedie di Aristofane. Visse poveramente, dedicandosi alla filosofia come missione. Partecipò alla vita politica e militare. Fu condannato a morte con l'accusa di empietà e corruzione dei giovani; bevve la cicuta rifiutando di fuggire. Il suo metodo è il dialogo: attraverso domande e risposte cerca la definizione universale dei concetti (che cos'è la giustizia? la virtù? il coraggio?). L'ironia socratica consiste nel fingersi ignorante per smascherare la falsa sapienza dell'interlocutore. La maieutica (arte della levatrice) aiuta l'interlocutore a 'partorire' la verità che ha dentro di sé. Il 'so di non sapere' (docta ignorantia) è il punto di partenza: riconoscere la propria ignoranza è l'inizio della ricerca. Socrate si oppone ai Sofisti: cerca verità universali, non relative; non insegna a pagamento; la filosofia è ricerca, non possesso del sapere.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Socrate", "maieutica", "ironia", "dialogo"],
+          "collegamenti": ["Platone", "Atene", "cicuta"]
+        },
+        {
+          "titolo": "Socrate: etica e daimon",
+          "riassunto": "L'interesse di Socrate è etico: come si deve vivere? che cos'è il bene? La sua tesi fondamentale è l'intellettualismo etico: la virtù è conoscenza. Chi conosce il bene non può non farlo; il male deriva dall'ignoranza. Nessuno fa il male volontariamente. Questa tesi sembra paradossale: non tiene conto della debolezza della volontà. Ma per Socrate conoscere veramente il bene significa desiderarlo. La virtù è una sola (unità delle virtù): giustizia, coraggio, temperanza sono forme della sapienza. La virtù è insegnabile perché è conoscenza. Il fine della vita è la cura dell'anima: l'anima è la parte più importante dell'uomo, sede della ragione e della moralità. La felicità (eudaimonia) consiste nella virtù, non nei beni esterni. Il daimon è la voce interiore divina che dissuade Socrate dal compiere azioni sbagliate. Non è una divinità personale ma una guida morale. Socrate fu accusato di introdurre nuove divinità. La sua morte fu esemplare: accettò la condanna ingiusta per rispetto delle leggi, rifiutando la fuga proposta dagli amici.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["etica", "virtù", "daimon", "intellettualismo"],
+          "collegamenti": ["anima", "felicità", "conoscenza"]
+        }
+      ]
+    },
+    {
+      "id": "fil-platone",
+      "titolo": "Platone",
+      "annoRiferimento": "3.",
+      "descrizione": "La teoria delle Idee e lo Stato ideale",
+      "sottoargomenti": [
+        {
+          "titolo": "Vita e opere di Platone",
+          "riassunto": "Platone (428/427-348/347 a.C.) nacque ad Atene da famiglia aristocratica. Il vero nome era Aristocle; 'Platone' (largo) era un soprannome. Allievo di Socrate, fu segnato dalla sua morte. Viaggiò in Magna Grecia (contatto con i Pitagorici) e a Siracusa, dove tentò invano di realizzare il suo progetto politico. Fondò ad Atene l'Accademia (387 a.C.), scuola filosofica che durò nove secoli. Le opere sono dialoghi in cui Socrate è protagonista. Si dividono in: dialoghi giovanili (Apologia, Critone, Eutifrone), dialoghi della maturità (Fedone, Simposio, Repubblica, Fedro), dialoghi della vecchiaia (Parmenide, Teeteto, Sofista, Timeo, Leggi). Lo stile è letterario, ricco di miti (caverna, biga alata, Er). Il dialogo riflette la concezione della filosofia come ricerca comune, non dottrina fissata. Platone non espone mai direttamente le sue tesi ma le fa emergere dal confronto dialettico. Le 'dottrine non scritte', insegnate oralmente nell'Accademia, sono oggetto di dibattito tra gli studiosi.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 6,
+          "tags": ["Platone", "Accademia", "dialoghi", "Socrate"],
+          "collegamenti": ["Atene", "Siracusa", "miti"]
+        },
+        {
+          "titolo": "La teoria delle Idee",
+          "riassunto": "La teoria delle Idee è il nucleo della filosofia platonica. Le Idee (o Forme) sono realtà eterne, immutabili, perfette, separate dal mondo sensibile. Sono i modelli (paradigmi) di cui le cose sensibili sono copie imperfette. Esistono Idee di valori (Bene, Giustizia, Bellezza), di enti matematici (Uguaglianza, Triangolo), di cose naturali (Uomo, Cavallo). L'Idea del Bene è al vertice della gerarchia: è causa dell'essere e della conoscibilità delle altre Idee, come il sole è causa della visibilità delle cose. Il rapporto tra Idee e cose sensibili è descritto con tre termini: mimesi (imitazione), metessi (partecipazione), parusia (presenza). Il dualismo ontologico distingue il mondo intelligibile (Idee, vero essere, conoscibile con la ragione) dal mondo sensibile (cose, divenire, opinione). Il mito della caverna (Repubblica, libro VII) illustra questa distinzione: i prigionieri vedono solo ombre; il filosofo esce e vede la luce del sole (il Bene). La teoria delle Idee risponde al problema posto da Eraclito e Parmenide: le Idee sono l'essere immutabile, le cose sensibili il divenire.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Idee", "dualismo", "Bene", "caverna"],
+          "collegamenti": ["mondo intelligibile", "mimesi", "paradigma"]
+        },
+        {
+          "titolo": "Gnoseologia e anima",
+          "riassunto": "La gnoseologia platonica distingue gradi di conoscenza corrispondenti a gradi di realtà. La linea divisa (Repubblica) presenta: immaginazione (eikasia) delle ombre, credenza (pistis) delle cose sensibili, ragione discorsiva (dianoia) degli enti matematici, intellezione (noesis) delle Idee. Solo la noesis coglie la verità. La conoscenza è reminiscenza (anamnesi): l'anima, prima di incarnarsi, contemplava le Idee; conoscere è ricordare. Il Menone dimostra che uno schiavo ignorante può 'ricordare' verità geometriche se opportunamente interrogato. L'anima è immortale, come dimostrato nel Fedone con vari argomenti: l'argomento dei contrari, della reminiscenza, dell'affinità con le Idee, della partecipazione all'Idea di vita. Nel Fedro l'anima è paragonata a una biga alata: l'auriga (ragione) guida due cavalli, uno bianco (parte irascibile, coraggio) e uno nero (parte concupiscibile, desideri). L'anima aspira a tornare al mondo delle Idee. La Repubblica distingue tre parti dell'anima: razionale, irascibile, concupiscibile.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["conoscenza", "anima", "reminiscenza", "immortalità"],
+          "collegamenti": ["linea divisa", "Fedone", "biga alata"]
+        },
+        {
+          "titolo": "La politica: lo Stato ideale",
+          "riassunto": "La Repubblica descrive lo Stato ideale, fondato sulla giustizia. La giustizia consiste nell'armonia: ogni parte svolge la propria funzione senza interferire con le altre. Lo Stato ha tre classi corrispondenti alle tre parti dell'anima: i governanti-filosofi (razionale, saggezza), i guerrieri-custodi (irascibile, coraggio), i produttori (concupiscibile, temperanza). La giustizia è l'armonia tra le classi. L'appartenenza alle classi dipende dalle attitudini naturali, non dalla nascita. L'educazione seleziona e forma. I filosofi devono governare perché conoscono il Bene: 'finché i filosofi non governeranno o i governanti non filosoferanno, non ci sarà fine ai mali'. Per i custodi Platone prevede comunismo dei beni e delle donne, abolizione della famiglia, educazione collettiva dei figli. Le Leggi, opera della vecchiaia, presentano uno Stato più realistico, con proprietà privata e famiglia, governato da leggi più che da filosofi. Platone critica la democrazia ateniese: il governo della massa ignorante porta alla demagogia e alla tirannide.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Repubblica", "giustizia", "filosofo-re", "classi"],
+          "collegamenti": ["Stato ideale", "educazione", "Leggi"]
+        }
+      ]
+    },
+    {
+      "id": "fil-aristotele",
+      "titolo": "Aristotele",
+      "annoRiferimento": "3.",
+      "descrizione": "Il sistema del sapere",
+      "sottoargomenti": [
+        {
+          "titolo": "Vita e opere di Aristotele",
+          "riassunto": "Aristotele (384-322 a.C.) nacque a Stagira, in Macedonia. Il padre era medico alla corte macedone. A 17 anni entrò nell'Accademia di Platone, dove rimase vent'anni. Dopo la morte di Platone lasciò Atene; fu precettore di Alessandro Magno. Tornato ad Atene, fondò il Liceo (335 a.C.), detto anche Peripato (passeggiata) perché insegnava passeggiando. Dopo la morte di Alessandro, accusato di empietà, fuggì a Calcide dove morì. Le opere si dividono in: esoteriche (appunti per le lezioni, pervenute) e essoteriche (dialoghi per il pubblico, perdute). Il corpus comprende: logica (Organon), fisica, metafisica, biologia, etica (Etica Nicomachea), politica, retorica, poetica. Aristotele è il fondatore di molte discipline: logica formale, biologia, etica, politica. Il suo metodo è empirico: parte dall'osservazione dei fenomeni. Critica Platone: le Idee separate non spiegano le cose; l'universale è nelle cose, non separato. Ma conserva l'esigenza platonica di una conoscenza universale e necessaria.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 6,
+          "tags": ["Aristotele", "Liceo", "Stagira", "Alessandro"],
+          "collegamenti": ["Platone", "Accademia", "Peripato"]
+        },
+        {
+          "titolo": "La metafisica",
+          "riassunto": "La metafisica studia l'essere in quanto essere e le sue cause prime. Aristotele distingue quattro cause: materiale (di che cosa è fatto), formale (che cos'è, l'essenza), efficiente (chi l'ha prodotto), finale (a che scopo). La sostanza (ousia) è il soggetto ultimo di predicazione, ciò che esiste di per sé. Le sostanze prime sono gli individui concreti (questo uomo); le sostanze seconde sono le specie e i generi (uomo, animale). Ogni sostanza è composta di materia e forma (ilemorfismo): la materia è potenzialità indeterminata, la forma è l'atto che la determina. Il divenire è passaggio dalla potenza all'atto. Al vertice della realtà c'è il Motore Immobile: atto puro senza materia, pensiero di pensiero, causa finale che muove attraendo come oggetto d'amore. Non è creatore né provvidente; è perfezione autosufficiente. Le categorie sono i modi fondamentali dell'essere: sostanza, quantità, qualità, relazione, luogo, tempo, situazione, avere, agire, patire.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["metafisica", "sostanza", "cause", "Motore Immobile"],
+          "collegamenti": ["potenza", "atto", "ilemorfismo"]
+        },
+        {
+          "titolo": "La logica e la fisica",
+          "riassunto": "Aristotele è il fondatore della logica formale. L'Organon (strumento) comprende le opere logiche. Il sillogismo è il ragionamento deduttivo per eccellenza: da due premesse (maggiore e minore) si ricava una conclusione necessaria. Esempio: tutti gli uomini sono mortali; Socrate è un uomo; dunque Socrate è mortale. Aristotele classifica i sillogismi in figure e modi. La dimostrazione scientifica parte da premesse vere, prime, immediate. La fisica studia la natura (physis), caratterizzata dal movimento. I tipi di movimento sono: sostanziale (generazione e corruzione), qualitativo (alterazione), quantitativo (aumento e diminuzione), locale (spostamento). Il movimento richiede una causa efficiente: tutto ciò che si muove è mosso da altro. L'universo è finito, sferico, geocentrico. Si divide in mondo sublunare (quattro elementi, movimento rettilineo, corruttibile) e mondo celeste (etere, movimento circolare, incorruttibile). I corpi hanno un luogo naturale verso cui tendono: la terra verso il basso, il fuoco verso l'alto.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["logica", "sillogismo", "fisica", "movimento"],
+          "collegamenti": ["Organon", "dimostrazione", "universo"]
+        },
+        {
+          "titolo": "L'etica e la politica",
+          "riassunto": "L'Etica Nicomachea indaga il bene dell'uomo. Il fine ultimo è la felicità (eudaimonia), che consiste nell'attività dell'anima secondo virtù. La virtù etica è una disposizione abituale a scegliere il giusto mezzo tra due estremi viziosi (la medietà): il coraggio è il mezzo tra viltà e temerarietà, la generosità tra avarizia e prodigalità. La virtù si acquista con l'esercizio. La virtù dianoetiche (intellettuali) sono saggezza (phronesis, ragione pratica) e sapienza (sophia, ragione teoretica). La felicità perfetta è la vita contemplativa, attività della parte più alta dell'anima. La Politica studia la polis, comunità naturale finalizzata al bene comune. L'uomo è 'animale politico': solo nella polis realizza la sua natura. Aristotele classifica le costituzioni: monarchia, aristocrazia, politìa (forme rette); tirannide, oligarchia, democrazia (forme degenerate). La forma migliore è la politìa, governo del ceto medio. Critica lo Stato ideale di Platone: il comunismo distrugge la famiglia e la proprietà, fondamenti della società. L'economia domestica è naturale; la crematistica (arricchimento fine a se stesso) è innaturale.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["etica", "felicità", "virtù", "politica"],
+          "collegamenti": ["medietà", "polis", "costituzioni"]
+        }
+      ]
+    },
+    {
+      "id": "fil-ellenismo",
+      "titolo": "Le filosofie ellenistiche",
+      "annoRiferimento": "3.",
+      "descrizione": "Epicureismo, Stoicismo, Scetticismo",
+      "sottoargomenti": [
+        {
+          "titolo": "L'età ellenistica",
+          "riassunto": "L'età ellenistica (323-31 a.C.) inizia con la morte di Alessandro Magno e termina con la conquista romana dell'Egitto. Le conquiste di Alessandro diffondono la cultura greca nel Mediterraneo orientale e in Asia. La polis perde importanza politica; nascono i regni ellenistici (Macedonia, Egitto, Siria). L'individuo si sente spaesato in un mondo vasto e instabile. La filosofia si concentra sull'etica: come raggiungere la felicità individuale? Le grandi scuole ellenistiche (Epicureismo, Stoicismo, Scetticismo) offrono 'terapie dell'anima', vie per raggiungere la tranquillità (atarassia). La filosofia diventa arte del vivere, guida pratica. Diminuisce l'interesse per la metafisica e la politica. Il cosmopolitismo sostituisce il patriottismo della polis: il saggio è cittadino del mondo. Alessandria d'Egitto diventa il centro culturale: la Biblioteca e il Museo raccolgono il sapere antico. Fioriscono le scienze: matematica (Euclide), fisica (Archimede), astronomia (Aristarco, Ipparco), medicina (Galeno).",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 6,
+          "tags": ["ellenismo", "Alessandro", "atarassia", "cosmopolitismo"],
+          "collegamenti": ["Alessandria", "etica", "felicità"]
+        },
+        {
+          "titolo": "Epicuro e l'Epicureismo",
+          "riassunto": "Epicuro (341-270 a.C.) fondò ad Atene il Giardino, scuola aperta anche a donne e schiavi. La filosofia è medicina dell'anima: libera dalle paure che impediscono la felicità. Il 'tetrafarmaco' (quadruplice rimedio) cura le quattro paure: gli dèi non si occupano degli uomini (non c'è da temerli); la morte è nulla per noi (quando c'è lei non ci siamo noi); il bene è facile da procurarsi; il male è facile da sopportare. La fisica è atomistica (ripresa da Democrito): atomi e vuoto, nessuna provvidenza. Il clinamen (deviazione casuale degli atomi) fonda il libero arbitrio. L'etica è edonistica: il piacere è il bene, il dolore il male. Ma il piacere epicureo è catastematico (stabile), non cinetico (in movimento): è assenza di dolore (aponia) e di turbamento (atarassia). I piaceri si distinguono in naturali e necessari (cibo, riparo), naturali e non necessari (cibi raffinati), né naturali né necessari (ricchezza, potere). Il saggio si accontenta di poco, vive appartato ('vivi nascosto'), coltiva l'amicizia.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Epicuro", "piacere", "atarassia", "atomismo"],
+          "collegamenti": ["Giardino", "tetrafarmaco", "edonismo"]
+        },
+        {
+          "titolo": "Lo Stoicismo",
+          "riassunto": "Lo Stoicismo fu fondato da Zenone di Cizio (333-263 a.C.) che insegnava sotto il portico dipinto (stoà poikile) di Atene. Si distinguono tre fasi: antica (Zenone, Cleante, Crisippo), media (Panezio, Posidonio), romana (Seneca, Epitteto, Marco Aurelio). La filosofia si divide in logica, fisica, etica. La fisica è materialista e panteista: tutto è corpo; Dio è il Logos, ragione immanente che governa l'universo secondo un ordine provvidenziale e necessario (fato). L'universo è un organismo vivente; tutto è connesso (simpatia universale). Il tempo è ciclico: alla fine di ogni ciclo cosmico un'ecpirosi (conflagrazione) distrugge tutto e il ciclo ricomincia identico (eterno ritorno). L'etica stoica insegna a vivere secondo natura, cioè secondo ragione. Il bene è solo la virtù; il male solo il vizio; tutto il resto (salute, ricchezza, vita) è indifferente. Il saggio accetta il destino (amor fati), è impassibile (apatia), libero interiormente anche se schiavo. Le passioni sono errori di giudizio da estirpare. Il dovere (kathèkon) guida l'azione.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Stoicismo", "Logos", "fato", "apatia"],
+          "collegamenti": ["Zenone", "Seneca", "Marco Aurelio"]
+        }
+      ]
+    },
+    {
+      "id": "fil-medievale",
+      "titolo": "La filosofia medievale",
+      "annoRiferimento": "3.",
+      "descrizione": "Agostino, Tommaso e la Scolastica",
+      "sottoargomenti": [
+        {
+          "titolo": "Agostino d'Ippona",
+          "riassunto": "Agostino (354-430) è il più grande filosofo cristiano dell'antichità. Nato a Tagaste (Algeria), dopo una giovinezza inquieta (manicheismo, scetticismo, neoplatonismo) si convertì al cristianesimo (386) e divenne vescovo di Ippona. Le Confessioni narrano il suo percorso spirituale. La filosofia è ricerca di Dio e della felicità. Contro gli scettici: 'si fallor, sum' (se mi inganno, esisto). La verità è interiore: 'in te ipsum redi, in interiore homine habitat veritas'. Dio è verità eterna, immutabile, che illumina la mente (illuminazione). Il problema del male: il male non è sostanza ma privazione di bene; deriva dal libero arbitrio dell'uomo (peccato originale). La grazia divina è necessaria per la salvezza; l'uomo da solo non può fare il bene (contro Pelagio). La Città di Dio distingue due città: la città terrena (amore di sé) e la città di Dio (amore di Dio). La storia è provvidenziale, orientata verso il giudizio finale. Agostino influenzò profondamente il pensiero medievale e la Riforma protestante.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Agostino", "grazia", "male", "illuminazione"],
+          "collegamenti": ["Confessioni", "Città di Dio", "neoplatonismo"]
+        },
+        {
+          "titolo": "La Scolastica e il problema degli universali",
+          "riassunto": "La Scolastica è la filosofia medievale insegnata nelle scuole (scholae) cattedrali e nelle università (XII-XIV secolo). Il metodo scolastico consiste nella lectio (lettura commentata di testi autorevoli) e nella disputatio (discussione dialettica). Le auctoritates sono la Bibbia, i Padri della Chiesa, Aristotele ('il Filosofo'). Il problema centrale è il rapporto tra fede e ragione: la filosofia è ancilla theologiae (serva della teologia). Il problema degli universali riguarda lo statuto ontologico dei concetti generali (uomo, animale). I realisti (Guglielmo di Champeaux) sostengono che gli universali esistono ante rem, prima delle cose, come Idee platoniche. I nominalisti (Roscellino) sostengono che sono solo nomi, flatus vocis. Il concettualismo di Abelardo (1079-1142) è una via media: gli universali esistono post rem, come concetti della mente, ma hanno fondamento nelle cose (in re). Anselmo d'Aosta (1033-1109) formulò l'argomento ontologico per l'esistenza di Dio: Dio è 'ciò di cui non si può pensare nulla di maggiore'; se esistesse solo nel pensiero, si potrebbe pensare qualcosa di maggiore (esistente anche nella realtà); dunque Dio esiste necessariamente.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Scolastica", "universali", "Anselmo", "Abelardo"],
+          "collegamenti": ["fede e ragione", "realismo", "nominalismo"]
+        },
+        {
+          "titolo": "Tommaso d'Aquino",
+          "riassunto": "Tommaso d'Aquino (1225-1274), domenicano, è il massimo filosofo della Scolastica. Studiò a Napoli, Parigi, Colonia (con Alberto Magno). Insegnò a Parigi e in Italia. Le opere principali sono la Summa Theologiae e la Summa contra Gentiles. Tommaso opera la sintesi tra aristotelismo e cristianesimo. Fede e ragione sono distinte ma non contraddittorie: la ragione può dimostrare alcune verità (esistenza di Dio, immortalità dell'anima); altre sono accessibili solo alla fede (Trinità, Incarnazione). Le cinque vie per dimostrare l'esistenza di Dio partono dall'esperienza: dal movimento al Motore Immobile, dalle cause alla Causa prima, dal contingente al Necessario, dai gradi di perfezione al Perfettissimo, dall'ordine all'Ordinatore. Dio è l'Essere stesso sussistente (ipsum esse subsistens), atto puro. Le creature sono composte di essenza ed esistenza; solo in Dio coincidono. L'anima è forma del corpo, ma sussiste dopo la morte. L'etica riprende Aristotele: la legge naturale, partecipazione della legge eterna, è conoscibile con la ragione. Il tomismo divenne la filosofia ufficiale della Chiesa cattolica.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Tommaso", "cinque vie", "fede e ragione", "Summa"],
+          "collegamenti": ["Aristotele", "Scolastica", "legge naturale"]
+        }
+      ]
+    },
     {
       "id": "fil-illuminismo",
       "titolo": "Illuminismo",

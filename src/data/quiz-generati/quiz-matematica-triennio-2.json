@@ -1,0 +1,517 @@
+{
+  "materia": "matematica",
+  "descrizione": "Quiz Matematica - Parte 2: Funzioni, Limiti, Derivate, Integrali",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "Una funzione f è iniettiva se:",
+      "rispostaCorretta": "Ad elementi diversi del dominio corrispondono immagini diverse",
+      "opzioni": ["Ad elementi diversi del dominio corrispondono immagini diverse", "Ogni elemento del codominio ha una controimmagine", "È sempre crescente", "Passa per l'origine"],
+      "spiegazione": "Iniettiva: x₁ ≠ x₂ implica f(x₁) ≠ f(x₂).",
+      "livello": "intermedio",
+      "argomento": "Funzioni",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una funzione f è suriettiva se:",
+      "rispostaCorretta": "Ogni elemento del codominio ha almeno una controimmagine",
+      "opzioni": ["Ogni elemento del codominio ha almeno una controimmagine", "È iniettiva", "È continua", "È derivabile"],
+      "spiegazione": "Suriettiva: l'immagine coincide con il codominio.",
+      "livello": "intermedio",
+      "argomento": "Funzioni",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una funzione biiettiva è:",
+      "rispostaCorretta": "Sia iniettiva che suriettiva",
+      "opzioni": ["Sia iniettiva che suriettiva", "Solo iniettiva", "Solo suriettiva", "Né iniettiva né suriettiva"],
+      "spiegazione": "Biiettiva = iniettiva + suriettiva: ammette funzione inversa.",
+      "livello": "intermedio",
+      "argomento": "Funzioni",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il dominio della funzione f(x) = √x è:",
+      "rispostaCorretta": "x ≥ 0",
+      "opzioni": ["x ≥ 0", "x > 0", "Tutti i reali", "x ≤ 0"],
+      "spiegazione": "La radice quadrata è definita solo per argomenti non negativi.",
+      "livello": "base",
+      "argomento": "Funzioni",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il dominio della funzione f(x) = 1/x è:",
+      "rispostaCorretta": "x ≠ 0",
+      "opzioni": ["x ≠ 0", "x > 0", "x ≥ 0", "Tutti i reali"],
+      "spiegazione": "La funzione 1/x non è definita per x = 0 (divisione per zero).",
+      "livello": "base",
+      "argomento": "Funzioni",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il dominio della funzione f(x) = log(x) è:",
+      "rispostaCorretta": "x > 0",
+      "opzioni": ["x > 0", "x ≥ 0", "x ≠ 0", "Tutti i reali"],
+      "spiegazione": "Il logaritmo è definito solo per argomenti strettamente positivi.",
+      "livello": "base",
+      "argomento": "Funzioni",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una funzione pari soddisfa:",
+      "rispostaCorretta": "f(-x) = f(x)",
+      "opzioni": ["f(-x) = f(x)", "f(-x) = -f(x)", "f(x) = x", "f(x) = 0"],
+      "spiegazione": "Funzione pari: simmetrica rispetto all'asse y. Esempio: f(x) = x².",
+      "livello": "intermedio",
+      "argomento": "Funzioni",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una funzione dispari soddisfa:",
+      "rispostaCorretta": "f(-x) = -f(x)",
+      "opzioni": ["f(-x) = -f(x)", "f(-x) = f(x)", "f(x) = x", "f(x) = 0"],
+      "spiegazione": "Funzione dispari: simmetrica rispetto all'origine. Esempio: f(x) = x³.",
+      "livello": "intermedio",
+      "argomento": "Funzioni",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il limite di f(x) per x che tende a c è L significa che:",
+      "rispostaCorretta": "f(x) si avvicina a L quando x si avvicina a c",
+      "opzioni": ["f(x) si avvicina a L quando x si avvicina a c", "f(c) = L", "f è continua in c", "f è derivabile in c"],
+      "spiegazione": "Il limite descrive il comportamento di f(x) quando x si avvicina a c.",
+      "livello": "base",
+      "argomento": "Limiti",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "lim(x→0) sin(x)/x è uguale a:",
+      "rispostaCorretta": "1",
+      "opzioni": ["1", "0", "∞", "Non esiste"],
+      "spiegazione": "È un limite notevole fondamentale: lim(x→0) sin(x)/x = 1.",
+      "livello": "intermedio",
+      "argomento": "Limiti",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "lim(x→∞) (1 + 1/x)^x è uguale a:",
+      "rispostaCorretta": "e (numero di Nepero)",
+      "opzioni": ["e (numero di Nepero)", "1", "∞", "0"],
+      "spiegazione": "È la definizione del numero e ≈ 2,718.",
+      "livello": "avanzato",
+      "argomento": "Limiti",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una funzione è continua in un punto c se:",
+      "rispostaCorretta": "Il limite per x→c esiste ed è uguale a f(c)",
+      "opzioni": ["Il limite per x→c esiste ed è uguale a f(c)", "È derivabile", "È iniettiva", "È suriettiva"],
+      "spiegazione": "Continuità: lim(x→c) f(x) = f(c).",
+      "livello": "intermedio",
+      "argomento": "Limiti",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un asintoto verticale si ha quando:",
+      "rispostaCorretta": "Il limite tende a ±∞ per x che tende a un valore finito",
+      "opzioni": ["Il limite tende a ±∞ per x che tende a un valore finito", "Il limite è finito per x→∞", "La funzione è continua", "La derivata è nulla"],
+      "spiegazione": "Asintoto verticale x = c: lim(x→c) f(x) = ±∞.",
+      "livello": "intermedio",
+      "argomento": "Limiti",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un asintoto orizzontale si ha quando:",
+      "rispostaCorretta": "Il limite per x→±∞ è un valore finito",
+      "opzioni": ["Il limite per x→±∞ è un valore finito", "Il limite è ∞", "La funzione è costante", "La derivata è costante"],
+      "spiegazione": "Asintoto orizzontale y = L: lim(x→±∞) f(x) = L.",
+      "livello": "intermedio",
+      "argomento": "Limiti",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La derivata di una funzione in un punto rappresenta:",
+      "rispostaCorretta": "Il coefficiente angolare della retta tangente",
+      "opzioni": ["Il coefficiente angolare della retta tangente", "L'area sotto la curva", "Il valore della funzione", "Il limite"],
+      "spiegazione": "La derivata f'(c) è la pendenza della tangente al grafico in x = c.",
+      "livello": "base",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La derivata di f(x) = x^n è:",
+      "rispostaCorretta": "n·x^(n-1)",
+      "opzioni": ["n·x^(n-1)", "x^(n+1)", "n·x^n", "x^n/n"],
+      "spiegazione": "Regola delle potenze: D[x^n] = n·x^(n-1).",
+      "livello": "base",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La derivata di f(x) = e^x è:",
+      "rispostaCorretta": "e^x",
+      "opzioni": ["e^x", "x·e^(x-1)", "e^(x-1)", "ln(x)"],
+      "spiegazione": "La funzione esponenziale è uguale alla sua derivata: D[e^x] = e^x.",
+      "livello": "base",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La derivata di f(x) = ln(x) è:",
+      "rispostaCorretta": "1/x",
+      "opzioni": ["1/x", "x", "e^x", "ln(x)/x"],
+      "spiegazione": "D[ln(x)] = 1/x per x > 0.",
+      "livello": "base",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La derivata di f(x) = sin(x) è:",
+      "rispostaCorretta": "cos(x)",
+      "opzioni": ["cos(x)", "-cos(x)", "sin(x)", "-sin(x)"],
+      "spiegazione": "D[sin(x)] = cos(x).",
+      "livello": "base",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La derivata di f(x) = cos(x) è:",
+      "rispostaCorretta": "-sin(x)",
+      "opzioni": ["-sin(x)", "sin(x)", "cos(x)", "-cos(x)"],
+      "spiegazione": "D[cos(x)] = -sin(x).",
+      "livello": "base",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La regola della catena per derivare f(g(x)) dà:",
+      "rispostaCorretta": "f'(g(x)) · g'(x)",
+      "opzioni": ["f'(g(x)) · g'(x)", "f'(x) · g'(x)", "f(g'(x))", "f'(g(x))"],
+      "spiegazione": "Regola della catena: D[f(g(x))] = f'(g(x)) · g'(x).",
+      "livello": "avanzato",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un punto è di massimo relativo se:",
+      "rispostaCorretta": "f'(x) = 0 e f''(x) < 0",
+      "opzioni": ["f'(x) = 0 e f''(x) < 0", "f'(x) = 0 e f''(x) > 0", "f'(x) > 0", "f'(x) < 0"],
+      "spiegazione": "Massimo: derivata prima nulla e derivata seconda negativa.",
+      "livello": "avanzato",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un punto è di minimo relativo se:",
+      "rispostaCorretta": "f'(x) = 0 e f''(x) > 0",
+      "opzioni": ["f'(x) = 0 e f''(x) > 0", "f'(x) = 0 e f''(x) < 0", "f'(x) > 0", "f'(x) < 0"],
+      "spiegazione": "Minimo: derivata prima nulla e derivata seconda positiva.",
+      "livello": "avanzato",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un punto di flesso è dove:",
+      "rispostaCorretta": "La funzione cambia concavità",
+      "opzioni": ["La funzione cambia concavità", "La derivata è nulla", "La funzione è nulla", "La funzione è massima"],
+      "spiegazione": "Nel flesso f''(x) = 0 e cambia segno.",
+      "livello": "avanzato",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'integrale indefinito di f(x) = x^n (n ≠ -1) è:",
+      "rispostaCorretta": "x^(n+1)/(n+1) + C",
+      "opzioni": ["x^(n+1)/(n+1) + C", "n·x^(n-1) + C", "x^n/n + C", "x^(n-1) + C"],
+      "spiegazione": "∫x^n dx = x^(n+1)/(n+1) + C per n ≠ -1.",
+      "livello": "intermedio",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'integrale indefinito di f(x) = 1/x è:",
+      "rispostaCorretta": "ln|x| + C",
+      "opzioni": ["ln|x| + C", "x^0 + C", "1 + C", "e^x + C"],
+      "spiegazione": "∫(1/x) dx = ln|x| + C.",
+      "livello": "intermedio",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'integrale indefinito di f(x) = e^x è:",
+      "rispostaCorretta": "e^x + C",
+      "opzioni": ["e^x + C", "x·e^x + C", "e^(x+1) + C", "ln(x) + C"],
+      "spiegazione": "∫e^x dx = e^x + C.",
+      "livello": "base",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'integrale indefinito di f(x) = cos(x) è:",
+      "rispostaCorretta": "sin(x) + C",
+      "opzioni": ["sin(x) + C", "-sin(x) + C", "cos(x) + C", "-cos(x) + C"],
+      "spiegazione": "∫cos(x) dx = sin(x) + C.",
+      "livello": "base",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'integrale indefinito di f(x) = sin(x) è:",
+      "rispostaCorretta": "-cos(x) + C",
+      "opzioni": ["-cos(x) + C", "cos(x) + C", "sin(x) + C", "-sin(x) + C"],
+      "spiegazione": "∫sin(x) dx = -cos(x) + C.",
+      "livello": "base",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'integrale definito ∫[a,b] f(x) dx rappresenta:",
+      "rispostaCorretta": "L'area con segno tra il grafico e l'asse x",
+      "opzioni": ["L'area con segno tra il grafico e l'asse x", "La derivata", "Il limite", "Il massimo"],
+      "spiegazione": "L'integrale definito calcola l'area (positiva sopra l'asse x, negativa sotto).",
+      "livello": "intermedio",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il teorema fondamentale del calcolo integrale afferma che:",
+      "rispostaCorretta": "∫[a,b] f(x) dx = F(b) - F(a), dove F è una primitiva di f",
+      "opzioni": ["∫[a,b] f(x) dx = F(b) - F(a), dove F è una primitiva di f", "La derivata dell'integrale è zero", "L'integrale è sempre positivo", "La primitiva è unica"],
+      "spiegazione": "Il teorema collega derivazione e integrazione: ∫[a,b] f(x) dx = F(b) - F(a).",
+      "livello": "avanzato",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La derivata di una costante è zero.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "D[c] = 0 per ogni costante c.",
+      "livello": "base",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Se f'(x) > 0 in un intervallo, la funzione è crescente.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Derivata positiva implica funzione crescente.",
+      "livello": "intermedio",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'integrale di una somma è la somma degli integrali.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "∫[f(x) + g(x)] dx = ∫f(x) dx + ∫g(x) dx (linearità).",
+      "livello": "intermedio",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La derivata di f(x) = tan(x) è:",
+      "rispostaCorretta": "1/cos²(x) = sec²(x)",
+      "opzioni": ["1/cos²(x) = sec²(x)", "sin(x)/cos(x)", "-tan(x)", "cos²(x)"],
+      "spiegazione": "D[tan(x)] = 1/cos²(x) = sec²(x) = 1 + tan²(x).",
+      "livello": "avanzato",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La derivata del prodotto f(x)·g(x) è:",
+      "rispostaCorretta": "f'(x)·g(x) + f(x)·g'(x)",
+      "opzioni": ["f'(x)·g(x) + f(x)·g'(x)", "f'(x)·g'(x)", "f(x)·g(x)", "[f(x)·g(x)]'"],
+      "spiegazione": "Regola del prodotto: D[f·g] = f'·g + f·g'.",
+      "livello": "intermedio",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La derivata del quoziente f(x)/g(x) è:",
+      "rispostaCorretta": "[f'(x)·g(x) - f(x)·g'(x)] / g(x)²",
+      "opzioni": ["[f'(x)·g(x) - f(x)·g'(x)] / g(x)²", "f'(x)/g'(x)", "[f'(x) - g'(x)] / g(x)", "f(x)·g'(x) / g(x)²"],
+      "spiegazione": "Regola del quoziente: D[f/g] = (f'·g - f·g') / g².",
+      "livello": "avanzato",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il teorema di Rolle afferma che se f è continua in [a,b], derivabile in (a,b) e f(a) = f(b), allora:",
+      "rispostaCorretta": "Esiste c in (a,b) tale che f'(c) = 0",
+      "opzioni": ["Esiste c in (a,b) tale che f'(c) = 0", "f è costante", "f ha un massimo in a", "f'(a) = f'(b)"],
+      "spiegazione": "Rolle: se f(a) = f(b), esiste un punto con tangente orizzontale.",
+      "livello": "avanzato",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il teorema di Lagrange (valor medio) afferma che esiste c tale che:",
+      "rispostaCorretta": "f'(c) = [f(b) - f(a)] / (b - a)",
+      "opzioni": ["f'(c) = [f(b) - f(a)] / (b - a)", "f'(c) = 0", "f(c) = [f(a) + f(b)] / 2", "f'(a) = f'(b)"],
+      "spiegazione": "Lagrange: esiste un punto con tangente parallela alla secante.",
+      "livello": "avanzato",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La regola di de l'Hôpital si applica quando:",
+      "rispostaCorretta": "Il limite è nella forma indeterminata 0/0 o ∞/∞",
+      "opzioni": ["Il limite è nella forma indeterminata 0/0 o ∞/∞", "Il limite esiste", "La funzione è continua", "La derivata è nulla"],
+      "spiegazione": "De l'Hôpital: lim f/g = lim f'/g' per forme indeterminate.",
+      "livello": "avanzato",
+      "argomento": "Limiti",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'integrazione per parti usa la formula:",
+      "rispostaCorretta": "∫f·g' dx = f·g - ∫f'·g dx",
+      "opzioni": ["∫f·g' dx = f·g - ∫f'·g dx", "∫f·g dx = ∫f dx · ∫g dx", "∫f/g dx = ∫f dx / ∫g dx", "∫f+g dx = ∫f dx + ∫g dx"],
+      "spiegazione": "Integrazione per parti: ∫u dv = uv - ∫v du.",
+      "livello": "avanzato",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'integrazione per sostituzione si basa su:",
+      "rispostaCorretta": "Un cambio di variabile",
+      "opzioni": ["Un cambio di variabile", "La derivata", "Il limite", "La continuità"],
+      "spiegazione": "Sostituzione: si pone t = g(x) per semplificare l'integrale.",
+      "livello": "avanzato",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "lim(x→0) (e^x - 1)/x è uguale a:",
+      "rispostaCorretta": "1",
+      "opzioni": ["1", "0", "e", "∞"],
+      "spiegazione": "È un limite notevole: lim(x→0) (e^x - 1)/x = 1.",
+      "livello": "intermedio",
+      "argomento": "Limiti",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "lim(x→0) ln(1+x)/x è uguale a:",
+      "rispostaCorretta": "1",
+      "opzioni": ["1", "0", "e", "∞"],
+      "spiegazione": "È un limite notevole: lim(x→0) ln(1+x)/x = 1.",
+      "livello": "intermedio",
+      "argomento": "Limiti",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una funzione è concava verso l'alto se:",
+      "rispostaCorretta": "f''(x) > 0",
+      "opzioni": ["f''(x) > 0", "f''(x) < 0", "f'(x) > 0", "f'(x) < 0"],
+      "spiegazione": "Concavità verso l'alto (convessa): derivata seconda positiva.",
+      "livello": "avanzato",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una funzione è concava verso il basso se:",
+      "rispostaCorretta": "f''(x) < 0",
+      "opzioni": ["f''(x) < 0", "f''(x) > 0", "f'(x) > 0", "f'(x) < 0"],
+      "spiegazione": "Concavità verso il basso: derivata seconda negativa.",
+      "livello": "avanzato",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'equazione della retta tangente al grafico di f in x₀ è:",
+      "rispostaCorretta": "y = f(x₀) + f'(x₀)(x - x₀)",
+      "opzioni": ["y = f(x₀) + f'(x₀)(x - x₀)", "y = f'(x₀)", "y = f(x₀)", "y = x - x₀"],
+      "spiegazione": "Retta tangente: passa per (x₀, f(x₀)) con pendenza f'(x₀).",
+      "livello": "intermedio",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "∫[a,a] f(x) dx è uguale a:",
+      "rispostaCorretta": "0",
+      "opzioni": ["0", "f(a)", "2f(a)", "∞"],
+      "spiegazione": "L'integrale su un intervallo di ampiezza zero è sempre 0.",
+      "livello": "base",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "∫[a,b] f(x) dx = -∫[b,a] f(x) dx è:",
+      "rispostaCorretta": "Sempre vero",
+      "opzioni": ["Sempre vero", "Sempre falso", "Vero solo se f > 0", "Vero solo se a < b"],
+      "spiegazione": "Invertendo gli estremi, l'integrale cambia segno.",
+      "livello": "intermedio",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il volume di un solido di rotazione attorno all'asse x si calcola con:",
+      "rispostaCorretta": "V = π∫[a,b] [f(x)]² dx",
+      "opzioni": ["V = π∫[a,b] [f(x)]² dx", "V = ∫[a,b] f(x) dx", "V = 2π∫[a,b] f(x) dx", "V = π[f(b) - f(a)]"],
+      "spiegazione": "Volume di rotazione: V = π∫[a,b] [f(x)]² dx (metodo dei dischi).",
+      "livello": "avanzato",
+      "argomento": "Integrali",
+      "materia": "matematica"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La derivata di f(x) = a^x (a > 0) è:",
+      "rispostaCorretta": "a^x · ln(a)",
+      "opzioni": ["a^x · ln(a)", "x · a^(x-1)", "a^x", "a^(x-1)"],
+      "spiegazione": "D[a^x] = a^x · ln(a). Per a = e, ln(e) = 1.",
+      "livello": "avanzato",
+      "argomento": "Derivate",
+      "materia": "matematica"
+    }
+  ]
+}

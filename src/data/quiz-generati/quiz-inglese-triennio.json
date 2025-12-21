@@ -1,0 +1,527 @@
+{
+  "materia": "inglese",
+  "descrizione": "Quiz Inglese triennio - Grammar, Medieval Literature, Shakespeare, 18th Century",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "The Present Perfect tense is formed with:",
+      "rispostaCorretta": "Have/has + past participle",
+      "opzioni": ["Have/has + past participle", "Was/were + -ing", "Will + base form", "Did + base form"],
+      "spiegazione": "Present Perfect: have/has + past participle (e.g., I have eaten).",
+      "livello": "base",
+      "argomento": "English Grammar Fundamentals",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Past Continuous tense is used for:",
+      "rispostaCorretta": "Actions in progress at a specific time in the past",
+      "opzioni": ["Actions in progress at a specific time in the past", "Completed actions", "Future plans", "Habits"],
+      "spiegazione": "Past Continuous: was/were + -ing for ongoing past actions.",
+      "livello": "base",
+      "argomento": "English Grammar Fundamentals",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Which sentence is in the passive voice?",
+      "rispostaCorretta": "The book was written by Shakespeare",
+      "opzioni": ["The book was written by Shakespeare", "Shakespeare wrote the book", "Shakespeare is writing", "Shakespeare will write"],
+      "spiegazione": "Passive voice: subject receives the action (be + past participle).",
+      "livello": "intermedio",
+      "argomento": "English Grammar Fundamentals",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The First Conditional is used for:",
+      "rispostaCorretta": "Real/possible situations in the future",
+      "opzioni": ["Real/possible situations in the future", "Impossible situations", "Past regrets", "General truths"],
+      "spiegazione": "First Conditional: If + present, will + base form (real possibility).",
+      "livello": "intermedio",
+      "argomento": "Intermediate Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Second Conditional is used for:",
+      "rispostaCorretta": "Hypothetical/unlikely situations",
+      "opzioni": ["Hypothetical/unlikely situations", "Real possibilities", "Past events", "Future certainties"],
+      "spiegazione": "Second Conditional: If + past simple, would + base form (unreal).",
+      "livello": "intermedio",
+      "argomento": "Intermediate Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Third Conditional refers to:",
+      "rispostaCorretta": "Unreal situations in the past",
+      "opzioni": ["Unreal situations in the past", "Future possibilities", "Present habits", "General truths"],
+      "spiegazione": "Third Conditional: If + past perfect, would have + past participle.",
+      "livello": "avanzato",
+      "argomento": "Intermediate Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Reported speech changes 'I am' to:",
+      "rispostaCorretta": "He/she was",
+      "opzioni": ["He/she was", "He/she is", "He/she will be", "He/she has been"],
+      "spiegazione": "In reported speech, present becomes past: am/is → was.",
+      "livello": "intermedio",
+      "argomento": "Intermediate Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The relative pronoun 'who' refers to:",
+      "rispostaCorretta": "People",
+      "opzioni": ["People", "Things", "Places", "Time"],
+      "spiegazione": "Who = people, which = things, where = places, when = time.",
+      "livello": "base",
+      "argomento": "English Grammar Fundamentals",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Beowulf is an example of:",
+      "rispostaCorretta": "Old English epic poetry",
+      "opzioni": ["Old English epic poetry", "Romantic poetry", "Victorian novel", "Modern drama"],
+      "spiegazione": "Beowulf is the oldest surviving Old English epic poem.",
+      "livello": "base",
+      "argomento": "Medieval and Renaissance Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Geoffrey Chaucer wrote:",
+      "rispostaCorretta": "The Canterbury Tales",
+      "opzioni": ["The Canterbury Tales", "Beowulf", "Paradise Lost", "Hamlet"],
+      "spiegazione": "Chaucer wrote The Canterbury Tales in Middle English (14th century).",
+      "livello": "base",
+      "argomento": "Medieval and Renaissance Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Canterbury Tales are told by:",
+      "rispostaCorretta": "Pilgrims traveling to Canterbury",
+      "opzioni": ["Pilgrims traveling to Canterbury", "Knights at war", "Monks in a monastery", "Kings at court"],
+      "spiegazione": "The tales are told by pilgrims on their way to Thomas Becket's shrine.",
+      "livello": "intermedio",
+      "argomento": "Medieval and Renaissance Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Elizabethan Age refers to the reign of:",
+      "rispostaCorretta": "Elizabeth I",
+      "opzioni": ["Elizabeth I", "Elizabeth II", "Victoria", "Mary I"],
+      "spiegazione": "The Elizabethan Age (1558-1603) was a golden age for English literature.",
+      "livello": "base",
+      "argomento": "Medieval and Renaissance Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "William Shakespeare was born in:",
+      "rispostaCorretta": "1564",
+      "opzioni": ["1564", "1600", "1500", "1616"],
+      "spiegazione": "Shakespeare was born in 1564 in Stratford-upon-Avon and died in 1616.",
+      "livello": "base",
+      "argomento": "Shakespeare's Major Plays",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Hamlet is a:",
+      "rispostaCorretta": "Tragedy",
+      "opzioni": ["Tragedy", "Comedy", "History play", "Romance"],
+      "spiegazione": "Hamlet is one of Shakespeare's great tragedies.",
+      "livello": "base",
+      "argomento": "Shakespeare's Major Plays",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "'To be or not to be' is from:",
+      "rispostaCorretta": "Hamlet",
+      "opzioni": ["Hamlet", "Macbeth", "Othello", "King Lear"],
+      "spiegazione": "'To be or not to be' is Hamlet's famous soliloquy on existence.",
+      "livello": "base",
+      "argomento": "Shakespeare's Major Plays",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Romeo and Juliet is set in:",
+      "rispostaCorretta": "Verona",
+      "opzioni": ["Verona", "Venice", "Rome", "Florence"],
+      "spiegazione": "Romeo and Juliet is set in Verona, Italy.",
+      "livello": "base",
+      "argomento": "Shakespeare's Major Plays",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Macbeth's main theme is:",
+      "rispostaCorretta": "Ambition and its destructive consequences",
+      "opzioni": ["Ambition and its destructive consequences", "Romantic love", "Comedy of errors", "Historical events"],
+      "spiegazione": "Macbeth explores how unchecked ambition leads to destruction.",
+      "livello": "intermedio",
+      "argomento": "Shakespeare's Major Plays",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The three witches appear in:",
+      "rispostaCorretta": "Macbeth",
+      "opzioni": ["Macbeth", "Hamlet", "Othello", "King Lear"],
+      "spiegazione": "The three witches prophesy Macbeth's rise and fall.",
+      "livello": "base",
+      "argomento": "Shakespeare's Major Plays",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Othello's tragic flaw is:",
+      "rispostaCorretta": "Jealousy",
+      "opzioni": ["Jealousy", "Pride", "Ambition", "Greed"],
+      "spiegazione": "Othello's jealousy, manipulated by Iago, leads to tragedy.",
+      "livello": "intermedio",
+      "argomento": "Shakespeare's Major Plays",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "A Midsummer Night's Dream is a:",
+      "rispostaCorretta": "Comedy",
+      "opzioni": ["Comedy", "Tragedy", "History", "Problem play"],
+      "spiegazione": "A Midsummer Night's Dream is a romantic comedy with fairies.",
+      "livello": "base",
+      "argomento": "Shakespeare's Major Plays",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Globe Theatre was:",
+      "rispostaCorretta": "Shakespeare's theatre in London",
+      "opzioni": ["Shakespeare's theatre in London", "A Roman amphitheatre", "A medieval church", "A royal palace"],
+      "spiegazione": "The Globe was the theatre where Shakespeare's plays were performed.",
+      "livello": "base",
+      "argomento": "Shakespeare's Major Plays",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The 18th century in England is known as:",
+      "rispostaCorretta": "The Augustan Age",
+      "opzioni": ["The Augustan Age", "The Victorian Age", "The Romantic Age", "The Elizabethan Age"],
+      "spiegazione": "The early 18th century is called the Augustan Age for its classical ideals.",
+      "livello": "intermedio",
+      "argomento": "18th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Daniel Defoe wrote:",
+      "rispostaCorretta": "Robinson Crusoe",
+      "opzioni": ["Robinson Crusoe", "Gulliver's Travels", "Pamela", "Tom Jones"],
+      "spiegazione": "Defoe wrote Robinson Crusoe (1719), considered the first English novel.",
+      "livello": "base",
+      "argomento": "18th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Jonathan Swift wrote:",
+      "rispostaCorretta": "Gulliver's Travels",
+      "opzioni": ["Gulliver's Travels", "Robinson Crusoe", "Pamela", "Clarissa"],
+      "spiegazione": "Swift wrote Gulliver's Travels (1726), a satirical masterpiece.",
+      "livello": "base",
+      "argomento": "18th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gulliver's Travels is primarily:",
+      "rispostaCorretta": "A satire on human nature and society",
+      "opzioni": ["A satire on human nature and society", "A children's adventure story", "A love story", "A historical account"],
+      "spiegazione": "Gulliver's Travels satirizes politics, science, and human nature.",
+      "livello": "intermedio",
+      "argomento": "18th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Samuel Richardson wrote:",
+      "rispostaCorretta": "Pamela",
+      "opzioni": ["Pamela", "Robinson Crusoe", "Gulliver's Travels", "Pride and Prejudice"],
+      "spiegazione": "Richardson wrote Pamela (1740), an epistolary novel.",
+      "livello": "intermedio",
+      "argomento": "18th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The epistolary novel is written in the form of:",
+      "rispostaCorretta": "Letters",
+      "opzioni": ["Letters", "Diary entries", "Poems", "Dialogues"],
+      "spiegazione": "Epistolary novels are written as a series of letters.",
+      "livello": "intermedio",
+      "argomento": "18th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Gothic novel emerged in:",
+      "rispostaCorretta": "The late 18th century",
+      "opzioni": ["The late 18th century", "The Renaissance", "The Victorian era", "The 20th century"],
+      "spiegazione": "The Gothic novel emerged in the late 18th century with Walpole's Castle of Otranto.",
+      "livello": "intermedio",
+      "argomento": "Pre-Romanticism and Gothic",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Castle of Otranto was written by:",
+      "rispostaCorretta": "Horace Walpole",
+      "opzioni": ["Horace Walpole", "Ann Radcliffe", "Mary Shelley", "Bram Stoker"],
+      "spiegazione": "Walpole wrote The Castle of Otranto (1764), the first Gothic novel.",
+      "livello": "avanzato",
+      "argomento": "Pre-Romanticism and Gothic",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gothic novels typically feature:",
+      "rispostaCorretta": "Castles, mystery, supernatural elements",
+      "opzioni": ["Castles, mystery, supernatural elements", "Realistic settings", "Comedy", "Political satire"],
+      "spiegazione": "Gothic novels feature dark settings, mystery, and supernatural elements.",
+      "livello": "base",
+      "argomento": "Pre-Romanticism and Gothic",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Ann Radcliffe wrote:",
+      "rispostaCorretta": "The Mysteries of Udolpho",
+      "opzioni": ["The Mysteries of Udolpho", "Frankenstein", "Dracula", "Wuthering Heights"],
+      "spiegazione": "Radcliffe wrote The Mysteries of Udolpho (1794), a Gothic masterpiece.",
+      "livello": "avanzato",
+      "argomento": "Pre-Romanticism and Gothic",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Pre-Romanticism emphasized:",
+      "rispostaCorretta": "Emotion, nature, and imagination",
+      "opzioni": ["Emotion, nature, and imagination", "Reason and order", "Urban life", "Scientific progress"],
+      "spiegazione": "Pre-Romanticism valued emotion and nature over Enlightenment reason.",
+      "livello": "intermedio",
+      "argomento": "Pre-Romanticism and Gothic",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The concept of the 'sublime' in Pre-Romanticism refers to:",
+      "rispostaCorretta": "Awe-inspiring natural phenomena",
+      "opzioni": ["Awe-inspiring natural phenomena", "Beautiful gardens", "Urban architecture", "Scientific discoveries"],
+      "spiegazione": "The sublime evokes awe and terror through nature's grandeur.",
+      "livello": "avanzato",
+      "argomento": "Pre-Romanticism and Gothic",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Shakespeare wrote in Old English.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Shakespeare wrote in Early Modern English, not Old English.",
+      "livello": "base",
+      "argomento": "Shakespeare's Major Plays",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Robinson Crusoe is considered one of the first English novels.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Robinson Crusoe (1719) is often considered the first English novel.",
+      "livello": "intermedio",
+      "argomento": "18th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "The Canterbury Tales were written in Modern English.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "The Canterbury Tales were written in Middle English.",
+      "livello": "intermedio",
+      "argomento": "Medieval and Renaissance Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "King Lear deals with themes of:",
+      "rispostaCorretta": "Family, madness, and betrayal",
+      "opzioni": ["Family, madness, and betrayal", "Romantic love", "Political satire", "Comedy"],
+      "spiegazione": "King Lear explores family relationships, madness, and betrayal.",
+      "livello": "intermedio",
+      "argomento": "Shakespeare's Major Plays",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Merchant of Venice features the character:",
+      "rispostaCorretta": "Shylock",
+      "opzioni": ["Shylock", "Hamlet", "Macbeth", "Othello"],
+      "spiegazione": "Shylock is the Jewish moneylender in The Merchant of Venice.",
+      "livello": "intermedio",
+      "argomento": "Shakespeare's Major Plays",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Much Ado About Nothing is:",
+      "rispostaCorretta": "A comedy",
+      "opzioni": ["A comedy", "A tragedy", "A history play", "A problem play"],
+      "spiegazione": "Much Ado About Nothing is a romantic comedy.",
+      "livello": "base",
+      "argomento": "Shakespeare's Major Plays",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The sonnet form used by Shakespeare has:",
+      "rispostaCorretta": "14 lines with a specific rhyme scheme",
+      "opzioni": ["14 lines with a specific rhyme scheme", "12 lines", "Free verse", "8 lines"],
+      "spiegazione": "The Shakespearean sonnet has 14 lines: 3 quatrains + couplet (ABAB CDCD EFEF GG).",
+      "livello": "intermedio",
+      "argomento": "Shakespeare's Major Plays",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Henry Fielding wrote:",
+      "rispostaCorretta": "Tom Jones",
+      "opzioni": ["Tom Jones", "Pamela", "Robinson Crusoe", "Gulliver's Travels"],
+      "spiegazione": "Fielding wrote Tom Jones (1749), a comic novel.",
+      "livello": "avanzato",
+      "argomento": "18th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Alexander Pope was famous for:",
+      "rispostaCorretta": "Satirical poetry",
+      "opzioni": ["Satirical poetry", "Gothic novels", "Romantic poetry", "Drama"],
+      "spiegazione": "Pope was the master of satirical heroic couplets (The Rape of the Lock).",
+      "livello": "avanzato",
+      "argomento": "18th Century Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Graveyard Poets were precursors of:",
+      "rispostaCorretta": "Romanticism",
+      "opzioni": ["Romanticism", "Neoclassicism", "Modernism", "Realism"],
+      "spiegazione": "The Graveyard Poets (Gray, Young) anticipated Romantic themes.",
+      "livello": "avanzato",
+      "argomento": "Pre-Romanticism and Gothic",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Thomas Gray wrote:",
+      "rispostaCorretta": "Elegy Written in a Country Churchyard",
+      "opzioni": ["Elegy Written in a Country Churchyard", "The Castle of Otranto", "Gulliver's Travels", "Paradise Lost"],
+      "spiegazione": "Gray's Elegy (1751) is a masterpiece of Pre-Romantic poetry.",
+      "livello": "avanzato",
+      "argomento": "Pre-Romanticism and Gothic",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Which modal verb expresses obligation?",
+      "rispostaCorretta": "Must",
+      "opzioni": ["Must", "Can", "May", "Would"],
+      "spiegazione": "Must expresses strong obligation or necessity.",
+      "livello": "base",
+      "argomento": "English Grammar Fundamentals",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Which modal verb expresses ability?",
+      "rispostaCorretta": "Can",
+      "opzioni": ["Can", "Must", "Should", "May"],
+      "spiegazione": "Can expresses ability or possibility.",
+      "livello": "base",
+      "argomento": "English Grammar Fundamentals",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Present Perfect Continuous is used for:",
+      "rispostaCorretta": "Actions that started in the past and continue to the present",
+      "opzioni": ["Actions that started in the past and continue to the present", "Completed actions", "Future plans", "Habits"],
+      "spiegazione": "Present Perfect Continuous: have/has been + -ing (duration up to now).",
+      "livello": "intermedio",
+      "argomento": "Intermediate Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "'I wish I had studied more' expresses:",
+      "rispostaCorretta": "Regret about the past",
+      "opzioni": ["Regret about the past", "A future hope", "A present desire", "A command"],
+      "spiegazione": "Wish + past perfect expresses regret about past actions.",
+      "livello": "avanzato",
+      "argomento": "Intermediate Grammar",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Paradise Lost was written by:",
+      "rispostaCorretta": "John Milton",
+      "opzioni": ["John Milton", "Shakespeare", "Chaucer", "Defoe"],
+      "spiegazione": "Milton wrote Paradise Lost (1667), an epic poem about the Fall of Man.",
+      "livello": "intermedio",
+      "argomento": "Medieval and Renaissance Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "The Wife of Bath is a character in:",
+      "rispostaCorretta": "The Canterbury Tales",
+      "opzioni": ["The Canterbury Tales", "Hamlet", "Paradise Lost", "Gulliver's Travels"],
+      "spiegazione": "The Wife of Bath is one of Chaucer's most memorable pilgrims.",
+      "livello": "intermedio",
+      "argomento": "Medieval and Renaissance Literature",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Iambic pentameter consists of:",
+      "rispostaCorretta": "Five feet of unstressed-stressed syllables",
+      "opzioni": ["Five feet of unstressed-stressed syllables", "Four feet", "Six feet", "Free rhythm"],
+      "spiegazione": "Iambic pentameter: five iambs (da-DUM) per line, Shakespeare's main meter.",
+      "livello": "avanzato",
+      "argomento": "Shakespeare's Major Plays",
+      "materia": "inglese"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "A soliloquy is:",
+      "rispostaCorretta": "A speech where a character speaks their thoughts aloud alone",
+      "opzioni": ["A speech where a character speaks their thoughts aloud alone", "A dialogue between two characters", "A song", "A letter"],
+      "spiegazione": "A soliloquy reveals a character's inner thoughts to the audience.",
+      "livello": "intermedio",
+      "argomento": "Shakespeare's Major Plays",
+      "materia": "inglese"
+    }
+  ]
+}

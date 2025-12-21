@@ -1,0 +1,517 @@
+{
+  "materia": "italiano",
+  "descrizione": "Quiz Italiano - Parte 6: Analisi del testo, Figure retoriche, Metrica",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "La metafora è una figura retorica che:",
+      "rispostaCorretta": "Sostituisce un termine con un altro basandosi su una somiglianza",
+      "opzioni": ["Sostituisce un termine con un altro basandosi su una somiglianza", "Ripete lo stesso suono", "Inverte l'ordine delle parole", "Esagera un concetto"],
+      "spiegazione": "La metafora è una similitudine implicita: 'sei un leone' invece di 'sei come un leone'.",
+      "livello": "base",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La similitudine si distingue dalla metafora per:",
+      "rispostaCorretta": "La presenza di 'come', 'simile a', 'quale'",
+      "opzioni": ["La presenza di 'come', 'simile a', 'quale'", "L'assenza di confronto", "L'uso di suoni", "L'inversione"],
+      "spiegazione": "La similitudine usa connettivi: 'sei forte come un leone'.",
+      "livello": "base",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'iperbole è una figura retorica che:",
+      "rispostaCorretta": "Esagera un concetto per enfatizzarlo",
+      "opzioni": ["Esagera un concetto per enfatizzarlo", "Attenua un concetto", "Ripete parole", "Inverte l'ordine"],
+      "spiegazione": "Esempio: 'Ti ho chiamato mille volte'.",
+      "livello": "base",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La litote è una figura retorica che:",
+      "rispostaCorretta": "Afferma qualcosa negando il contrario",
+      "opzioni": ["Afferma qualcosa negando il contrario", "Esagera", "Ripete", "Inverte"],
+      "spiegazione": "Esempio: 'Non è stupido' per dire 'è intelligente'.",
+      "livello": "intermedio",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ossimoro accosta:",
+      "rispostaCorretta": "Due termini di significato opposto",
+      "opzioni": ["Due termini di significato opposto", "Due termini simili", "Due verbi", "Due aggettivi uguali"],
+      "spiegazione": "Esempio: 'ghiaccio bollente', 'silenzio assordante'.",
+      "livello": "intermedio",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'antitesi contrappone:",
+      "rispostaCorretta": "Concetti opposti in frasi parallele",
+      "opzioni": ["Concetti opposti in frasi parallele", "Parole uguali", "Suoni simili", "Verbi"],
+      "spiegazione": "Esempio: 'Pace in terra, guerra in cielo'.",
+      "livello": "intermedio",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La personificazione attribuisce:",
+      "rispostaCorretta": "Caratteristiche umane a cose o animali",
+      "opzioni": ["Caratteristiche umane a cose o animali", "Caratteristiche animali all'uomo", "Nomi propri", "Aggettivi"],
+      "spiegazione": "Esempio: 'Il vento sussurra', 'La natura piange'.",
+      "livello": "base",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La metonimia sostituisce un termine con un altro basandosi su:",
+      "rispostaCorretta": "Una relazione di contiguità",
+      "opzioni": ["Una relazione di contiguità", "Una somiglianza", "Un'opposizione", "Un suono"],
+      "spiegazione": "Esempio: 'bere un bicchiere' (contenente per contenuto).",
+      "livello": "avanzato",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La sineddoche sostituisce un termine con un altro basandosi su:",
+      "rispostaCorretta": "Una relazione quantitativa (parte/tutto)",
+      "opzioni": ["Una relazione quantitativa (parte/tutto)", "Una somiglianza", "Un'opposizione", "Un suono"],
+      "spiegazione": "Esempio: 'tetto' per casa, 'vele' per navi.",
+      "livello": "avanzato",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'allitterazione è la ripetizione di:",
+      "rispostaCorretta": "Suoni consonantici o vocalici",
+      "opzioni": ["Suoni consonantici o vocalici", "Parole intere", "Frasi", "Versi"],
+      "spiegazione": "Esempio: 'Fresche le mie parole ne la sera' (Ungaretti).",
+      "livello": "base",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'anafora è la ripetizione di:",
+      "rispostaCorretta": "Una o più parole all'inizio di versi o frasi",
+      "opzioni": ["Una o più parole all'inizio di versi o frasi", "Suoni", "Parole alla fine", "Verbi"],
+      "spiegazione": "Esempio: 'Per me si va... Per me si va... Per me si va...' (Dante).",
+      "livello": "intermedio",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'epifora è la ripetizione di:",
+      "rispostaCorretta": "Una o più parole alla fine di versi o frasi",
+      "opzioni": ["Una o più parole alla fine di versi o frasi", "Parole all'inizio", "Suoni", "Verbi"],
+      "spiegazione": "L'epifora è l'opposto dell'anafora.",
+      "livello": "avanzato",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'enjambement è:",
+      "rispostaCorretta": "La continuazione del senso da un verso all'altro",
+      "opzioni": ["La continuazione del senso da un verso all'altro", "La rima", "L'accento", "La cesura"],
+      "spiegazione": "L'enjambement spezza la frase tra due versi.",
+      "livello": "intermedio",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'endecasillabo è un verso di:",
+      "rispostaCorretta": "11 sillabe",
+      "opzioni": ["11 sillabe", "10 sillabe", "12 sillabe", "14 sillabe"],
+      "spiegazione": "L'endecasillabo è il verso più importante della poesia italiana.",
+      "livello": "base",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il settenario è un verso di:",
+      "rispostaCorretta": "7 sillabe",
+      "opzioni": ["7 sillabe", "6 sillabe", "8 sillabe", "9 sillabe"],
+      "spiegazione": "Il settenario ha l'accento principale sulla sesta sillaba.",
+      "livello": "base",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il sonetto è composto da:",
+      "rispostaCorretta": "14 endecasillabi (2 quartine + 2 terzine)",
+      "opzioni": ["14 endecasillabi (2 quartine + 2 terzine)", "11 versi", "8 versi", "20 versi"],
+      "spiegazione": "Il sonetto è la forma poetica più usata nella tradizione italiana.",
+      "livello": "base",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La terzina dantesca ha lo schema di rime:",
+      "rispostaCorretta": "ABA BCB CDC...",
+      "opzioni": ["ABA BCB CDC...", "AAA BBB CCC...", "ABAB CDCD...", "ABBA ABBA..."],
+      "spiegazione": "La terzina incatenata fu usata da Dante nella Commedia.",
+      "livello": "intermedio",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ottava rima ha lo schema:",
+      "rispostaCorretta": "ABABABCC",
+      "opzioni": ["ABABABCC", "ABBAABBA", "ABABCDCD", "AABBCCDD"],
+      "spiegazione": "L'ottava rima fu usata da Ariosto e Tasso nei poemi epici.",
+      "livello": "avanzato",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La rima baciata ha lo schema:",
+      "rispostaCorretta": "AABB",
+      "opzioni": ["AABB", "ABAB", "ABBA", "ABCABC"],
+      "spiegazione": "Nella rima baciata rimano versi consecutivi.",
+      "livello": "base",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La rima alternata ha lo schema:",
+      "rispostaCorretta": "ABAB",
+      "opzioni": ["ABAB", "AABB", "ABBA", "ABCABC"],
+      "spiegazione": "Nella rima alternata rimano versi alterni.",
+      "livello": "base",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La rima incrociata ha lo schema:",
+      "rispostaCorretta": "ABBA",
+      "opzioni": ["ABBA", "ABAB", "AABB", "ABCABC"],
+      "spiegazione": "Nella rima incrociata il primo verso rima con il quarto, il secondo con il terzo.",
+      "livello": "intermedio",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'assonanza è:",
+      "rispostaCorretta": "L'identità delle sole vocali a partire dall'accento tonico",
+      "opzioni": ["L'identità delle sole vocali a partire dall'accento tonico", "L'identità di vocali e consonanti", "L'identità delle sole consonanti", "La ripetizione di parole"],
+      "spiegazione": "Esempio: 'sole' e 'amore' (o-e).",
+      "livello": "intermedio",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La consonanza è:",
+      "rispostaCorretta": "L'identità delle sole consonanti a partire dall'accento tonico",
+      "opzioni": ["L'identità delle sole consonanti a partire dall'accento tonico", "L'identità di vocali e consonanti", "L'identità delle sole vocali", "La ripetizione di parole"],
+      "spiegazione": "Esempio: 'mare' e 'more' (m-r).",
+      "livello": "avanzato",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il verso libero è caratterizzato da:",
+      "rispostaCorretta": "Assenza di schema metrico fisso",
+      "opzioni": ["Assenza di schema metrico fisso", "Endecasillabi", "Rime baciate", "Strofe regolari"],
+      "spiegazione": "Il verso libero fu introdotto nel Novecento (Ungaretti, Montale).",
+      "livello": "intermedio",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'anastrofe è:",
+      "rispostaCorretta": "L'inversione dell'ordine normale delle parole",
+      "opzioni": ["L'inversione dell'ordine normale delle parole", "La ripetizione", "L'esagerazione", "La sostituzione"],
+      "spiegazione": "Esempio: 'Delle memorie il tempo' invece di 'Il tempo delle memorie'.",
+      "livello": "intermedio",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'iperbato è:",
+      "rispostaCorretta": "La separazione di elementi sintatticamente legati",
+      "opzioni": ["La separazione di elementi sintatticamente legati", "La ripetizione", "L'esagerazione", "La sostituzione"],
+      "spiegazione": "L'iperbato inserisce parole tra elementi che dovrebbero stare insieme.",
+      "livello": "avanzato",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il chiasmo dispone gli elementi secondo lo schema:",
+      "rispostaCorretta": "AB BA",
+      "opzioni": ["AB BA", "AA BB", "AB AB", "ABC ABC"],
+      "spiegazione": "Esempio: 'Le donne, i cavallier, l'arme, gli amori' (Ariosto).",
+      "livello": "avanzato",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ironia consiste nel:",
+      "rispostaCorretta": "Dire il contrario di ciò che si pensa",
+      "opzioni": ["Dire il contrario di ciò che si pensa", "Esagerare", "Ripetere", "Sostituire"],
+      "spiegazione": "L'ironia crea un contrasto tra significato letterale e inteso.",
+      "livello": "base",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'eufemismo serve a:",
+      "rispostaCorretta": "Attenuare un'espressione sgradevole",
+      "opzioni": ["Attenuare un'espressione sgradevole", "Esagerare", "Ripetere", "Invertire"],
+      "spiegazione": "Esempio: 'passare a miglior vita' per 'morire'.",
+      "livello": "intermedio",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La perifrasi è:",
+      "rispostaCorretta": "Un giro di parole per indicare qualcosa",
+      "opzioni": ["Un giro di parole per indicare qualcosa", "Una ripetizione", "Un'inversione", "Un'esagerazione"],
+      "spiegazione": "Esempio: 'il bel paese' per Italia, 'l'astro del giorno' per sole.",
+      "livello": "intermedio",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'apostrofe è:",
+      "rispostaCorretta": "Un'invocazione rivolta a persone o cose",
+      "opzioni": ["Un'invocazione rivolta a persone o cose", "Una ripetizione", "Un'inversione", "Una sostituzione"],
+      "spiegazione": "Esempio: 'O natura, o natura!' (Leopardi).",
+      "livello": "intermedio",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La domanda retorica è:",
+      "rispostaCorretta": "Una domanda che non richiede risposta",
+      "opzioni": ["Una domanda che non richiede risposta", "Una domanda vera", "Un'esclamazione", "Un'affermazione"],
+      "spiegazione": "La domanda retorica contiene già la risposta implicita.",
+      "livello": "base",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il climax è:",
+      "rispostaCorretta": "Una gradazione ascendente di intensità",
+      "opzioni": ["Una gradazione ascendente di intensità", "Una gradazione discendente", "Una ripetizione", "Un'inversione"],
+      "spiegazione": "Esempio: 'Veni, vidi, vici' (venni, vidi, vinsi).",
+      "livello": "intermedio",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'anticlimax è:",
+      "rispostaCorretta": "Una gradazione discendente di intensità",
+      "opzioni": ["Una gradazione discendente di intensità", "Una gradazione ascendente", "Una ripetizione", "Un'inversione"],
+      "spiegazione": "L'anticlimax è l'opposto del climax.",
+      "livello": "avanzato",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'onomatopea è:",
+      "rispostaCorretta": "Una parola che imita un suono",
+      "opzioni": ["Una parola che imita un suono", "Una ripetizione", "Un'inversione", "Una sostituzione"],
+      "spiegazione": "Esempio: 'tic tac', 'miao', 'splash'.",
+      "livello": "base",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il fonosimbolismo è:",
+      "rispostaCorretta": "L'uso di suoni per evocare significati",
+      "opzioni": ["L'uso di suoni per evocare significati", "La ripetizione di parole", "L'inversione", "La sostituzione"],
+      "spiegazione": "I suoni possono suggerire dolcezza, durezza, velocità, ecc.",
+      "livello": "avanzato",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La metafora usa sempre 'come' o 'simile a'.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "La metafora è implicita; la similitudine usa 'come'.",
+      "livello": "base",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'endecasillabo è il verso più usato nella poesia italiana.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "L'endecasillabo è il verso principe della tradizione italiana.",
+      "livello": "base",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il sonetto fu inventato da Petrarca.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Il sonetto fu inventato da Giacomo da Lentini; Petrarca lo perfezionò.",
+      "livello": "intermedio",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La sinestesia accosta:",
+      "rispostaCorretta": "Sensazioni di sensi diversi",
+      "opzioni": ["Sensazioni di sensi diversi", "Parole opposte", "Suoni simili", "Verbi"],
+      "spiegazione": "Esempio: 'urlo nero' (udito + vista), 'dolce musica' (gusto + udito).",
+      "livello": "avanzato",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'allegoria è:",
+      "rispostaCorretta": "Una metafora continuata con significato nascosto",
+      "opzioni": ["Una metafora continuata con significato nascosto", "Una similitudine", "Una ripetizione", "Un'inversione"],
+      "spiegazione": "La Divina Commedia è un'allegoria del cammino dell'anima.",
+      "livello": "avanzato",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il simbolo si distingue dall'allegoria perché:",
+      "rispostaCorretta": "Ha significati molteplici e non univoci",
+      "opzioni": ["Ha significati molteplici e non univoci", "Ha un solo significato", "È più breve", "Non ha significato"],
+      "spiegazione": "Il simbolo è polisemico; l'allegoria ha un significato preciso.",
+      "livello": "avanzato",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ellissi è:",
+      "rispostaCorretta": "L'omissione di elementi sintattici",
+      "opzioni": ["L'omissione di elementi sintattici", "La ripetizione", "L'inversione", "L'esagerazione"],
+      "spiegazione": "L'ellissi rende il discorso più rapido ed essenziale.",
+      "livello": "avanzato",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'asindeto è:",
+      "rispostaCorretta": "L'assenza di congiunzioni tra elementi coordinati",
+      "opzioni": ["L'assenza di congiunzioni tra elementi coordinati", "L'eccesso di congiunzioni", "La ripetizione", "L'inversione"],
+      "spiegazione": "Esempio: 'Veni, vidi, vici' (senza 'e').",
+      "livello": "intermedio",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il polisindeto è:",
+      "rispostaCorretta": "L'uso ripetuto di congiunzioni",
+      "opzioni": ["L'uso ripetuto di congiunzioni", "L'assenza di congiunzioni", "La ripetizione di parole", "L'inversione"],
+      "spiegazione": "Esempio: 'e corre e salta e grida'.",
+      "livello": "intermedio",
+      "argomento": "Figure retoriche",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La cesura è:",
+      "rispostaCorretta": "Una pausa ritmica all'interno del verso",
+      "opzioni": ["Una pausa ritmica all'interno del verso", "La fine del verso", "La rima", "L'accento"],
+      "spiegazione": "La cesura divide il verso in due emistichi.",
+      "livello": "avanzato",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La sinalefe è:",
+      "rispostaCorretta": "La fusione di vocale finale e iniziale in una sillaba",
+      "opzioni": ["La fusione di vocale finale e iniziale in una sillaba", "La separazione di vocali", "La rima", "L'accento"],
+      "spiegazione": "La sinalefe riduce il numero di sillabe metriche.",
+      "livello": "avanzato",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La dialefe è:",
+      "rispostaCorretta": "La separazione di vocale finale e iniziale in due sillabe",
+      "opzioni": ["La separazione di vocale finale e iniziale in due sillabe", "La fusione di vocali", "La rima", "L'accento"],
+      "spiegazione": "La dialefe è l'opposto della sinalefe.",
+      "livello": "avanzato",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La canzone petrarchesca è composta da:",
+      "rispostaCorretta": "Stanze di endecasillabi e settenari con schema fisso",
+      "opzioni": ["Stanze di endecasillabi e settenari con schema fisso", "Quartine", "Terzine", "Distici"],
+      "spiegazione": "La canzone è la forma più alta della lirica italiana.",
+      "livello": "avanzato",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La ballata è composta da:",
+      "rispostaCorretta": "Ripresa e stanze",
+      "opzioni": ["Ripresa e stanze", "Solo quartine", "Solo terzine", "Solo distici"],
+      "spiegazione": "La ballata ha una ripresa (ritornello) e stanze.",
+      "livello": "avanzato",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il madrigale è:",
+      "rispostaCorretta": "Un breve componimento lirico senza schema fisso",
+      "opzioni": ["Un breve componimento lirico senza schema fisso", "Un poema epico", "Una tragedia", "Un romanzo"],
+      "spiegazione": "Il madrigale fu molto usato nel Cinquecento.",
+      "livello": "avanzato",
+      "argomento": "Metrica",
+      "materia": "italiano"
+    }
+  ]
+}

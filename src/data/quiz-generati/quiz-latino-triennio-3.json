@@ -1,0 +1,527 @@
+{
+  "materia": "latino",
+  "descrizione": "Quiz Latino - Parte 3: Letteratura cristiana, Tardo antico, Ripasso grammaticale",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "La letteratura cristiana latina inizia nel:",
+      "rispostaCorretta": "II-III secolo d.C.",
+      "opzioni": ["II-III secolo d.C.", "I secolo a.C.", "V secolo d.C.", "I secolo d.C."],
+      "spiegazione": "I primi scrittori cristiani latini compaiono nel II secolo.",
+      "livello": "intermedio",
+      "argomento": "Letteratura cristiana",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Tertulliano fu:",
+      "rispostaCorretta": "Il primo grande scrittore cristiano in latino",
+      "opzioni": ["Il primo grande scrittore cristiano in latino", "Un poeta pagano", "Un imperatore", "Un filosofo greco"],
+      "spiegazione": "Tertulliano (155-230 ca.) scrisse opere apologetiche e morali.",
+      "livello": "avanzato",
+      "argomento": "Letteratura cristiana",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Sant'Ambrogio fu vescovo di:",
+      "rispostaCorretta": "Milano",
+      "opzioni": ["Milano", "Roma", "Cartagine", "Ippona"],
+      "spiegazione": "Ambrogio (339-397) fu vescovo di Milano e Padre della Chiesa.",
+      "livello": "intermedio",
+      "argomento": "Letteratura cristiana",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "San Girolamo è famoso per:",
+      "rispostaCorretta": "La traduzione della Bibbia in latino (Vulgata)",
+      "opzioni": ["La traduzione della Bibbia in latino (Vulgata)", "Le Confessioni", "Gli inni", "Le omelie"],
+      "spiegazione": "La Vulgata fu la Bibbia latina usata per secoli.",
+      "livello": "intermedio",
+      "argomento": "Letteratura cristiana",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Sant'Agostino nacque a:",
+      "rispostaCorretta": "Tagaste (Nord Africa)",
+      "opzioni": ["Tagaste (Nord Africa)", "Roma", "Milano", "Cartagine"],
+      "spiegazione": "Agostino nacque a Tagaste nel 354 d.C.",
+      "livello": "avanzato",
+      "argomento": "Letteratura cristiana",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le Confessioni di Sant'Agostino sono:",
+      "rispostaCorretta": "Un'autobiografia spirituale",
+      "opzioni": ["Un'autobiografia spirituale", "Un trattato teologico", "Una raccolta di lettere", "Un commento biblico"],
+      "spiegazione": "Le Confessioni narrano la conversione di Agostino.",
+      "livello": "base",
+      "argomento": "Letteratura cristiana",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La Città di Dio di Sant'Agostino fu scritta dopo:",
+      "rispostaCorretta": "Il sacco di Roma del 410 d.C.",
+      "opzioni": ["Il sacco di Roma del 410 d.C.", "La conversione di Costantino", "La caduta dell'Impero", "La nascita di Cristo"],
+      "spiegazione": "Agostino difese il cristianesimo dalle accuse pagane.",
+      "livello": "avanzato",
+      "argomento": "Letteratura cristiana",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Boezio scrisse:",
+      "rispostaCorretta": "La Consolazione della Filosofia",
+      "opzioni": ["La Consolazione della Filosofia", "Le Confessioni", "La Città di Dio", "La Vulgata"],
+      "spiegazione": "Boezio (480-524) scrisse in carcere prima dell'esecuzione.",
+      "livello": "avanzato",
+      "argomento": "Tardo antico",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Boezio è considerato:",
+      "rispostaCorretta": "L'ultimo dei romani e il primo degli scolastici",
+      "opzioni": ["L'ultimo dei romani e il primo degli scolastici", "Un imperatore", "Un poeta", "Un generale"],
+      "spiegazione": "Boezio trasmise la cultura classica al Medioevo.",
+      "livello": "avanzato",
+      "argomento": "Tardo antico",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Cassiodoro fondò:",
+      "rispostaCorretta": "Il Vivarium, un centro di cultura monastica",
+      "opzioni": ["Il Vivarium, un centro di cultura monastica", "L'Università di Bologna", "La Biblioteca di Alessandria", "Il Colosseo"],
+      "spiegazione": "Cassiodoro (485-580) preservò la cultura classica nei monasteri.",
+      "livello": "avanzato",
+      "argomento": "Tardo antico",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Isidoro di Siviglia scrisse:",
+      "rispostaCorretta": "Le Etymologiae, un'enciclopedia medievale",
+      "opzioni": ["Le Etymologiae, un'enciclopedia medievale", "Le Confessioni", "La Città di Dio", "La Vulgata"],
+      "spiegazione": "Le Etymologiae furono un testo fondamentale per il Medioevo.",
+      "livello": "avanzato",
+      "argomento": "Tardo antico",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il nominativo latino indica:",
+      "rispostaCorretta": "Il soggetto della frase",
+      "opzioni": ["Il soggetto della frase", "Il complemento oggetto", "Il complemento di termine", "Il complemento di specificazione"],
+      "spiegazione": "Il nominativo è il caso del soggetto e del predicato nominale.",
+      "livello": "base",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il genitivo latino indica:",
+      "rispostaCorretta": "Il complemento di specificazione",
+      "opzioni": ["Il complemento di specificazione", "Il soggetto", "Il complemento oggetto", "Il complemento di termine"],
+      "spiegazione": "Il genitivo esprime possesso, appartenenza, specificazione.",
+      "livello": "base",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il dativo latino indica:",
+      "rispostaCorretta": "Il complemento di termine",
+      "opzioni": ["Il complemento di termine", "Il soggetto", "Il complemento oggetto", "Il complemento di specificazione"],
+      "spiegazione": "Il dativo indica a chi o a che cosa è destinata l'azione.",
+      "livello": "base",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'accusativo latino indica:",
+      "rispostaCorretta": "Il complemento oggetto",
+      "opzioni": ["Il complemento oggetto", "Il soggetto", "Il complemento di termine", "Il complemento di specificazione"],
+      "spiegazione": "L'accusativo è il caso dell'oggetto diretto.",
+      "livello": "base",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ablativo latino indica:",
+      "rispostaCorretta": "Vari complementi (mezzo, modo, causa, tempo, luogo)",
+      "opzioni": ["Vari complementi (mezzo, modo, causa, tempo, luogo)", "Solo il soggetto", "Solo l'oggetto", "Solo il termine"],
+      "spiegazione": "L'ablativo è il caso più versatile del latino.",
+      "livello": "intermedio",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il vocativo latino si usa per:",
+      "rispostaCorretta": "Chiamare o invocare qualcuno",
+      "opzioni": ["Chiamare o invocare qualcuno", "Indicare il soggetto", "Indicare l'oggetto", "Indicare il possesso"],
+      "spiegazione": "Il vocativo è il caso dell'invocazione: 'O Marce!'",
+      "livello": "base",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La prima declinazione latina ha il genitivo singolare in:",
+      "rispostaCorretta": "-ae",
+      "opzioni": ["-ae", "-i", "-is", "-us"],
+      "spiegazione": "Prima declinazione: rosa, rosae (femminili in -a).",
+      "livello": "base",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La seconda declinazione latina ha il genitivo singolare in:",
+      "rispostaCorretta": "-i",
+      "opzioni": ["-i", "-ae", "-is", "-us"],
+      "spiegazione": "Seconda declinazione: dominus, domini (maschili in -us/-er, neutri in -um).",
+      "livello": "base",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La terza declinazione latina ha il genitivo singolare in:",
+      "rispostaCorretta": "-is",
+      "opzioni": ["-is", "-ae", "-i", "-us"],
+      "spiegazione": "Terza declinazione: rex, regis; mare, maris.",
+      "livello": "base",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La quarta declinazione latina ha il genitivo singolare in:",
+      "rispostaCorretta": "-us",
+      "opzioni": ["-us", "-ae", "-i", "-is"],
+      "spiegazione": "Quarta declinazione: manus, manus; cornu, cornus.",
+      "livello": "intermedio",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La quinta declinazione latina ha il genitivo singolare in:",
+      "rispostaCorretta": "-ei",
+      "opzioni": ["-ei", "-ae", "-i", "-is"],
+      "spiegazione": "Quinta declinazione: res, rei; dies, diei.",
+      "livello": "intermedio",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le quattro coniugazioni latine si distinguono per:",
+      "rispostaCorretta": "La vocale tematica dell'infinito",
+      "opzioni": ["La vocale tematica dell'infinito", "Il numero di tempi", "Il genere", "Il caso"],
+      "spiegazione": "I: -are; II: -ēre; III: -ĕre; IV: -ire.",
+      "livello": "intermedio",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il perfetto latino corrisponde in italiano a:",
+      "rispostaCorretta": "Passato remoto e passato prossimo",
+      "opzioni": ["Passato remoto e passato prossimo", "Imperfetto", "Futuro", "Presente"],
+      "spiegazione": "Amavi = amai / ho amato.",
+      "livello": "intermedio",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'imperfetto latino indica:",
+      "rispostaCorretta": "Un'azione durativa o ripetuta nel passato",
+      "opzioni": ["Un'azione durativa o ripetuta nel passato", "Un'azione puntuale", "Un'azione futura", "Un'azione presente"],
+      "spiegazione": "Amabam = amavo (azione continuata).",
+      "livello": "intermedio",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il piuccheperfetto latino indica:",
+      "rispostaCorretta": "Un'azione anteriore a un'altra passata",
+      "opzioni": ["Un'azione anteriore a un'altra passata", "Un'azione presente", "Un'azione futura", "Un'azione contemporanea"],
+      "spiegazione": "Amaveram = avevo amato (trapassato prossimo).",
+      "livello": "avanzato",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il futuro semplice latino della prima coniugazione si forma con:",
+      "rispostaCorretta": "-bo, -bis, -bit...",
+      "opzioni": ["-bo, -bis, -bit...", "-am, -es, -et...", "-bam, -bas, -bat...", "-i, -isti, -it..."],
+      "spiegazione": "Amabo = amerò (futuro I e II coniugazione).",
+      "livello": "intermedio",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il congiuntivo latino si usa per:",
+      "rispostaCorretta": "Esprimere desiderio, possibilità, dipendenza",
+      "opzioni": ["Esprimere desiderio, possibilità, dipendenza", "Solo il presente", "Solo il passato", "Solo il futuro"],
+      "spiegazione": "Il congiuntivo ha valore volitivo, potenziale, dipendente.",
+      "livello": "avanzato",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'imperativo latino esprime:",
+      "rispostaCorretta": "Un comando o un'esortazione",
+      "opzioni": ["Un comando o un'esortazione", "Un desiderio", "Una possibilità", "Un dubbio"],
+      "spiegazione": "Ama! = Ama! (imperativo presente).",
+      "livello": "base",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il participio presente latino si forma con:",
+      "rispostaCorretta": "-ns, -ntis",
+      "opzioni": ["-ns, -ntis", "-tus, -ta, -tum", "-urus, -ura, -urum", "-ndus, -nda, -ndum"],
+      "spiegazione": "Amans, amantis = amante, che ama.",
+      "livello": "intermedio",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il participio perfetto latino si forma con:",
+      "rispostaCorretta": "-tus, -ta, -tum",
+      "opzioni": ["-tus, -ta, -tum", "-ns, -ntis", "-urus, -ura, -urum", "-ndus, -nda, -ndum"],
+      "spiegazione": "Amatus, -a, -um = amato.",
+      "livello": "intermedio",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il participio futuro latino si forma con:",
+      "rispostaCorretta": "-urus, -ura, -urum",
+      "opzioni": ["-urus, -ura, -urum", "-ns, -ntis", "-tus, -ta, -tum", "-ndus, -nda, -ndum"],
+      "spiegazione": "Amaturus, -a, -um = che sta per amare.",
+      "livello": "avanzato",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il gerundivo latino si forma con:",
+      "rispostaCorretta": "-ndus, -nda, -ndum",
+      "opzioni": ["-ndus, -nda, -ndum", "-ns, -ntis", "-tus, -ta, -tum", "-urus, -ura, -urum"],
+      "spiegazione": "Amandus, -a, -um = da amare, che deve essere amato.",
+      "livello": "avanzato",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La perifrastica passiva latina esprime:",
+      "rispostaCorretta": "Necessità o dovere",
+      "opzioni": ["Necessità o dovere", "Possibilità", "Desiderio", "Certezza"],
+      "spiegazione": "Liber legendus est = Il libro deve essere letto.",
+      "livello": "avanzato",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La perifrastica attiva latina esprime:",
+      "rispostaCorretta": "Intenzione o imminenza",
+      "opzioni": ["Intenzione o imminenza", "Necessità", "Possibilità", "Dubbio"],
+      "spiegazione": "Scripturus sum = Sto per scrivere / Ho intenzione di scrivere.",
+      "livello": "avanzato",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Sant'Agostino scrisse le Confessioni.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Le Confessioni sono l'opera più famosa di Agostino.",
+      "livello": "base",
+      "argomento": "Letteratura cristiana",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "La Vulgata fu tradotta da Sant'Agostino.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "La Vulgata fu tradotta da San Girolamo.",
+      "livello": "intermedio",
+      "argomento": "Letteratura cristiana",
+      "materia": "latino"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il latino ha sei casi.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "I sei casi: nominativo, genitivo, dativo, accusativo, vocativo, ablativo.",
+      "livello": "base",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ablativo assoluto è:",
+      "rispostaCorretta": "Un costrutto participiale indipendente dalla frase principale",
+      "opzioni": ["Un costrutto participiale indipendente dalla frase principale", "Un complemento oggetto", "Un soggetto", "Un predicato"],
+      "spiegazione": "Urbe capta, hostes fugerunt = Conquistata la città, i nemici fuggirono.",
+      "livello": "avanzato",
+      "argomento": "Sintassi latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il cum narrativo regge:",
+      "rispostaCorretta": "Il congiuntivo",
+      "opzioni": ["Il congiuntivo", "L'indicativo", "L'infinito", "Il participio"],
+      "spiegazione": "Cum + congiuntivo esprime circostanza temporale-causale.",
+      "livello": "avanzato",
+      "argomento": "Sintassi latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La proposizione relativa impropria ha valore:",
+      "rispostaCorretta": "Finale, causale, consecutivo, concessivo",
+      "opzioni": ["Finale, causale, consecutivo, concessivo", "Solo temporale", "Solo relativo", "Solo dichiarativo"],
+      "spiegazione": "La relativa impropria ha il congiuntivo e valore circostanziale.",
+      "livello": "avanzato",
+      "argomento": "Sintassi latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'accusativo con l'infinito si usa dopo:",
+      "rispostaCorretta": "Verba dicendi, sentiendi, voluntatis",
+      "opzioni": ["Verba dicendi, sentiendi, voluntatis", "Solo verbi di moto", "Solo verbi impersonali", "Solo verbi passivi"],
+      "spiegazione": "Dico te venire = Dico che tu vieni.",
+      "livello": "avanzato",
+      "argomento": "Sintassi latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il supino attivo in -um si usa con:",
+      "rispostaCorretta": "Verbi di moto per esprimere fine",
+      "opzioni": ["Verbi di moto per esprimere fine", "Verbi di stato", "Verbi impersonali", "Verbi passivi"],
+      "spiegazione": "Eo lusum = Vado a giocare.",
+      "livello": "avanzato",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il supino passivo in -u si usa con:",
+      "rispostaCorretta": "Aggettivi come facilis, difficilis",
+      "opzioni": ["Aggettivi come facilis, difficilis", "Verbi di moto", "Verbi attivi", "Sostantivi"],
+      "spiegazione": "Facile dictu = Facile a dirsi.",
+      "livello": "avanzato",
+      "argomento": "Grammatica latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il dativo di possesso si traduce con:",
+      "rispostaCorretta": "Avere",
+      "opzioni": ["Avere", "Essere", "Fare", "Dire"],
+      "spiegazione": "Mihi liber est = Ho un libro (lett. 'A me è un libro').",
+      "livello": "intermedio",
+      "argomento": "Sintassi latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il genitivo partitivo indica:",
+      "rispostaCorretta": "Il tutto di cui si considera una parte",
+      "opzioni": ["Il tutto di cui si considera una parte", "Il possesso", "Il tempo", "Il luogo"],
+      "spiegazione": "Pars militum = Una parte dei soldati.",
+      "livello": "intermedio",
+      "argomento": "Sintassi latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ablativo di qualità indica:",
+      "rispostaCorretta": "Una caratteristica fisica o morale",
+      "opzioni": ["Una caratteristica fisica o morale", "Il tempo", "Il luogo", "Il mezzo"],
+      "spiegazione": "Vir magna virtute = Un uomo di grande virtù.",
+      "livello": "intermedio",
+      "argomento": "Sintassi latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il complemento di agente si esprime con:",
+      "rispostaCorretta": "A/ab + ablativo",
+      "opzioni": ["A/ab + ablativo", "Accusativo", "Genitivo", "Dativo"],
+      "spiegazione": "Liber a puero legitur = Il libro è letto dal ragazzo.",
+      "livello": "intermedio",
+      "argomento": "Sintassi latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il complemento di causa efficiente si esprime con:",
+      "rispostaCorretta": "Ablativo semplice",
+      "opzioni": ["Ablativo semplice", "A/ab + ablativo", "Accusativo", "Genitivo"],
+      "spiegazione": "Fulmine ictus est = Fu colpito dal fulmine.",
+      "livello": "avanzato",
+      "argomento": "Sintassi latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il complemento di moto a luogo si esprime con:",
+      "rispostaCorretta": "In/ad + accusativo",
+      "opzioni": ["In/ad + accusativo", "In + ablativo", "Ablativo semplice", "Genitivo"],
+      "spiegazione": "Eo in urbem / ad urbem = Vado in città / verso la città.",
+      "livello": "base",
+      "argomento": "Sintassi latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il complemento di stato in luogo si esprime con:",
+      "rispostaCorretta": "In + ablativo",
+      "opzioni": ["In + ablativo", "In + accusativo", "Ad + accusativo", "Genitivo"],
+      "spiegazione": "Sum in urbe = Sono in città.",
+      "livello": "base",
+      "argomento": "Sintassi latina",
+      "materia": "latino"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il complemento di moto da luogo si esprime con:",
+      "rispostaCorretta": "A/ab, e/ex, de + ablativo",
+      "opzioni": ["A/ab, e/ex, de + ablativo", "In + accusativo", "Ad + accusativo", "Genitivo"],
+      "spiegazione": "Venio ab urbe / ex urbe = Vengo dalla città.",
+      "livello": "base",
+      "argomento": "Sintassi latina",
+      "materia": "latino"
+    }
+  ]
+}

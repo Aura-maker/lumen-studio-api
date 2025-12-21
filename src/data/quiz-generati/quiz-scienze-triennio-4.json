@@ -1,0 +1,517 @@
+{
+  "materia": "scienze",
+  "descrizione": "Quiz Scienze - Parte 4: Biochimica, Genetica avanzata, Ambiente",
+  "totale": 55,
+  "quiz": [
+    {
+      "tipo": "multipla",
+      "domanda": "I carboidrati sono composti da:",
+      "rispostaCorretta": "Carbonio, idrogeno e ossigeno",
+      "opzioni": ["Carbonio, idrogeno e ossigeno", "Solo carbonio", "Carbonio e azoto", "Carbonio e fosforo"],
+      "spiegazione": "I carboidrati hanno formula generale Cn(H2O)n.",
+      "livello": "base",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il glucosio è:",
+      "rispostaCorretta": "Un monosaccaride",
+      "opzioni": ["Un monosaccaride", "Un disaccaride", "Un polisaccaride", "Un lipide"],
+      "spiegazione": "Il glucosio (C6H12O6) è lo zucchero semplice più importante.",
+      "livello": "base",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il saccarosio è formato da:",
+      "rispostaCorretta": "Glucosio + fruttosio",
+      "opzioni": ["Glucosio + fruttosio", "Glucosio + galattosio", "Due molecole di glucosio", "Glucosio + ribosio"],
+      "spiegazione": "Il saccarosio è lo zucchero da tavola, un disaccaride.",
+      "livello": "intermedio",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'amido è:",
+      "rispostaCorretta": "Un polisaccaride di riserva delle piante",
+      "opzioni": ["Un polisaccaride di riserva delle piante", "Un monosaccaride", "Un lipide", "Una proteina"],
+      "spiegazione": "L'amido è formato da catene di glucosio.",
+      "livello": "base",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il glicogeno è:",
+      "rispostaCorretta": "Un polisaccaride di riserva degli animali",
+      "opzioni": ["Un polisaccaride di riserva degli animali", "Un polisaccaride delle piante", "Un lipide", "Una proteina"],
+      "spiegazione": "Il glicogeno è immagazzinato nel fegato e nei muscoli.",
+      "livello": "intermedio",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La cellulosa è:",
+      "rispostaCorretta": "Un polisaccaride strutturale delle piante",
+      "opzioni": ["Un polisaccaride strutturale delle piante", "Un polisaccaride di riserva", "Un lipide", "Una proteina"],
+      "spiegazione": "La cellulosa forma la parete cellulare delle cellule vegetali.",
+      "livello": "intermedio",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I lipidi sono:",
+      "rispostaCorretta": "Molecole idrofobe (insolubili in acqua)",
+      "opzioni": ["Molecole idrofobe (insolubili in acqua)", "Molecole idrofile", "Solubili in acqua", "Polimeri di aminoacidi"],
+      "spiegazione": "I lipidi includono grassi, oli, fosfolipidi, steroidi.",
+      "livello": "base",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I trigliceridi sono formati da:",
+      "rispostaCorretta": "Glicerolo + 3 acidi grassi",
+      "opzioni": ["Glicerolo + 3 acidi grassi", "Glucosio + fruttosio", "Aminoacidi", "Nucleotidi"],
+      "spiegazione": "I trigliceridi sono la principale forma di accumulo dei grassi.",
+      "livello": "intermedio",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli acidi grassi saturi hanno:",
+      "rispostaCorretta": "Solo legami singoli tra gli atomi di carbonio",
+      "opzioni": ["Solo legami singoli tra gli atomi di carbonio", "Doppi legami", "Tripli legami", "Nessun legame"],
+      "spiegazione": "Gli acidi grassi saturi sono solidi a temperatura ambiente (burro).",
+      "livello": "intermedio",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli acidi grassi insaturi hanno:",
+      "rispostaCorretta": "Uno o più doppi legami",
+      "opzioni": ["Uno o più doppi legami", "Solo legami singoli", "Tripli legami", "Nessun legame"],
+      "spiegazione": "Gli acidi grassi insaturi sono liquidi a temperatura ambiente (oli).",
+      "livello": "intermedio",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le proteine sono polimeri di:",
+      "rispostaCorretta": "Aminoacidi",
+      "opzioni": ["Aminoacidi", "Monosaccaridi", "Nucleotidi", "Acidi grassi"],
+      "spiegazione": "Le proteine sono catene di aminoacidi legati da legami peptidici.",
+      "livello": "base",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli aminoacidi essenziali sono:",
+      "rispostaCorretta": "Quelli che l'organismo non può sintetizzare",
+      "opzioni": ["Quelli che l'organismo non può sintetizzare", "Tutti gli aminoacidi", "Solo due aminoacidi", "Nessun aminoacido"],
+      "spiegazione": "Gli aminoacidi essenziali devono essere assunti con la dieta.",
+      "livello": "intermedio",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La struttura primaria di una proteina è:",
+      "rispostaCorretta": "La sequenza lineare degli aminoacidi",
+      "opzioni": ["La sequenza lineare degli aminoacidi", "L'alfa-elica", "Il foglietto beta", "La forma tridimensionale"],
+      "spiegazione": "La struttura primaria determina tutte le altre strutture.",
+      "livello": "intermedio",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Gli enzimi sono:",
+      "rispostaCorretta": "Catalizzatori biologici (proteine)",
+      "opzioni": ["Catalizzatori biologici (proteine)", "Zuccheri", "Lipidi", "Acidi nucleici"],
+      "spiegazione": "Gli enzimi accelerano le reazioni chimiche nelle cellule.",
+      "livello": "base",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il sito attivo di un enzima è:",
+      "rispostaCorretta": "La regione dove si lega il substrato",
+      "opzioni": ["La regione dove si lega il substrato", "L'intera proteina", "Il nucleo", "La membrana"],
+      "spiegazione": "Il sito attivo ha una forma complementare al substrato.",
+      "livello": "intermedio",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'ATP è:",
+      "rispostaCorretta": "La principale molecola energetica delle cellule",
+      "opzioni": ["La principale molecola energetica delle cellule", "Un carboidrato", "Un lipide", "Una proteina"],
+      "spiegazione": "L'ATP (adenosina trifosfato) fornisce energia per le reazioni cellulari.",
+      "livello": "base",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La respirazione cellulare produce:",
+      "rispostaCorretta": "ATP, CO2 e H2O",
+      "opzioni": ["ATP, CO2 e H2O", "Glucosio", "Ossigeno", "Proteine"],
+      "spiegazione": "C6H12O6 + 6O2 → 6CO2 + 6H2O + ATP.",
+      "livello": "intermedio",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La glicolisi avviene:",
+      "rispostaCorretta": "Nel citoplasma",
+      "opzioni": ["Nel citoplasma", "Nei mitocondri", "Nel nucleo", "Nel reticolo endoplasmatico"],
+      "spiegazione": "La glicolisi è la prima fase della respirazione cellulare.",
+      "livello": "avanzato",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il ciclo di Krebs avviene:",
+      "rispostaCorretta": "Nella matrice mitocondriale",
+      "opzioni": ["Nella matrice mitocondriale", "Nel citoplasma", "Nel nucleo", "Nel reticolo endoplasmatico"],
+      "spiegazione": "Il ciclo di Krebs completa l'ossidazione del glucosio.",
+      "livello": "avanzato",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La catena di trasporto degli elettroni avviene:",
+      "rispostaCorretta": "Nella membrana interna dei mitocondri",
+      "opzioni": ["Nella membrana interna dei mitocondri", "Nel citoplasma", "Nel nucleo", "Nella matrice"],
+      "spiegazione": "La catena di trasporto produce la maggior parte dell'ATP.",
+      "livello": "avanzato",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La fermentazione avviene:",
+      "rispostaCorretta": "In assenza di ossigeno",
+      "opzioni": ["In assenza di ossigeno", "In presenza di ossigeno", "Solo nei mitocondri", "Solo nel nucleo"],
+      "spiegazione": "La fermentazione è un processo anaerobico.",
+      "livello": "intermedio",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La fermentazione alcolica produce:",
+      "rispostaCorretta": "Etanolo e CO2",
+      "opzioni": ["Etanolo e CO2", "Acido lattico", "Acido acetico", "Glucosio"],
+      "spiegazione": "La fermentazione alcolica è usata nella produzione di vino e birra.",
+      "livello": "intermedio",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La fermentazione lattica produce:",
+      "rispostaCorretta": "Acido lattico",
+      "opzioni": ["Acido lattico", "Etanolo", "Acido acetico", "Glucosio"],
+      "spiegazione": "La fermentazione lattica avviene nei muscoli sotto sforzo.",
+      "livello": "intermedio",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un gene è:",
+      "rispostaCorretta": "Una sequenza di DNA che codifica per una proteina",
+      "opzioni": ["Una sequenza di DNA che codifica per una proteina", "Un cromosoma", "Una cellula", "Un organismo"],
+      "spiegazione": "I geni contengono le istruzioni per sintetizzare le proteine.",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il codice genetico è:",
+      "rispostaCorretta": "Universale (uguale in quasi tutti gli organismi)",
+      "opzioni": ["Universale (uguale in quasi tutti gli organismi)", "Diverso per ogni specie", "Casuale", "Variabile"],
+      "spiegazione": "Il codice genetico è quasi identico in tutti gli esseri viventi.",
+      "livello": "intermedio",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Un codone è:",
+      "rispostaCorretta": "Una tripletta di nucleotidi che codifica un aminoacido",
+      "opzioni": ["Una tripletta di nucleotidi che codifica un aminoacido", "Un gene", "Un cromosoma", "Una proteina"],
+      "spiegazione": "Ci sono 64 codoni possibili per 20 aminoacidi.",
+      "livello": "intermedio",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La trascrizione produce:",
+      "rispostaCorretta": "mRNA dal DNA",
+      "opzioni": ["mRNA dal DNA", "DNA dall'RNA", "Proteine dall'mRNA", "DNA dal DNA"],
+      "spiegazione": "La trascrizione avviene nel nucleo.",
+      "livello": "intermedio",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La traduzione produce:",
+      "rispostaCorretta": "Proteine dall'mRNA",
+      "opzioni": ["Proteine dall'mRNA", "mRNA dal DNA", "DNA dall'RNA", "RNA dal DNA"],
+      "spiegazione": "La traduzione avviene nei ribosomi.",
+      "livello": "intermedio",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una mutazione è:",
+      "rispostaCorretta": "Un cambiamento nella sequenza del DNA",
+      "opzioni": ["Un cambiamento nella sequenza del DNA", "Una proteina", "Un cromosoma", "Una cellula"],
+      "spiegazione": "Le mutazioni possono essere spontanee o indotte.",
+      "livello": "base",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'effetto serra è causato da:",
+      "rispostaCorretta": "Gas che trattengono il calore nell'atmosfera",
+      "opzioni": ["Gas che trattengono il calore nell'atmosfera", "Il buco dell'ozono", "Le piogge acide", "La deforestazione"],
+      "spiegazione": "CO2, metano e altri gas aumentano l'effetto serra.",
+      "livello": "base",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il principale gas serra è:",
+      "rispostaCorretta": "L'anidride carbonica (CO2)",
+      "opzioni": ["L'anidride carbonica (CO2)", "L'ossigeno", "L'azoto", "L'idrogeno"],
+      "spiegazione": "La CO2 è il principale responsabile del riscaldamento globale.",
+      "livello": "base",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il buco dell'ozono è causato da:",
+      "rispostaCorretta": "I CFC (clorofluorocarburi)",
+      "opzioni": ["I CFC (clorofluorocarburi)", "La CO2", "Il metano", "L'ossigeno"],
+      "spiegazione": "I CFC distruggono l'ozono stratosferico.",
+      "livello": "intermedio",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo strato di ozono protegge la Terra da:",
+      "rispostaCorretta": "I raggi ultravioletti",
+      "opzioni": ["I raggi ultravioletti", "I raggi X", "I raggi gamma", "La luce visibile"],
+      "spiegazione": "L'ozono (O3) assorbe i raggi UV dannosi.",
+      "livello": "base",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le piogge acide sono causate da:",
+      "rispostaCorretta": "Ossidi di zolfo e azoto",
+      "opzioni": ["Ossidi di zolfo e azoto", "La CO2", "L'ozono", "Il metano"],
+      "spiegazione": "SO2 e NOx reagiscono con l'acqua formando acidi.",
+      "livello": "intermedio",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La biodiversità indica:",
+      "rispostaCorretta": "La varietà di specie in un ecosistema",
+      "opzioni": ["La varietà di specie in un ecosistema", "Il numero di individui", "La biomassa", "L'energia"],
+      "spiegazione": "La biodiversità è essenziale per la stabilità degli ecosistemi.",
+      "livello": "base",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una specie endemica è:",
+      "rispostaCorretta": "Una specie presente solo in una determinata area",
+      "opzioni": ["Una specie presente solo in una determinata area", "Una specie diffusa ovunque", "Una specie estinta", "Una specie invasiva"],
+      "spiegazione": "Le specie endemiche sono particolarmente vulnerabili.",
+      "livello": "intermedio",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Una specie invasiva è:",
+      "rispostaCorretta": "Una specie introdotta che danneggia l'ecosistema",
+      "opzioni": ["Una specie introdotta che danneggia l'ecosistema", "Una specie endemica", "Una specie estinta", "Una specie protetta"],
+      "spiegazione": "Le specie invasive competono con quelle autoctone.",
+      "livello": "intermedio",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Lo sviluppo sostenibile è:",
+      "rispostaCorretta": "Sviluppo che soddisfa i bisogni presenti senza compromettere il futuro",
+      "opzioni": ["Sviluppo che soddisfa i bisogni presenti senza compromettere il futuro", "Sviluppo illimitato", "Nessuno sviluppo", "Solo sviluppo economico"],
+      "spiegazione": "Lo sviluppo sostenibile bilancia economia, società e ambiente.",
+      "livello": "base",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Le proteine sono polimeri di aminoacidi.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Le proteine sono catene di aminoacidi legati da legami peptidici.",
+      "livello": "base",
+      "argomento": "Biochimica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "Il codice genetico è diverso per ogni specie.",
+      "rispostaCorretta": "Falso",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "Il codice genetico è universale (quasi identico in tutti gli organismi).",
+      "livello": "intermedio",
+      "argomento": "Genetica",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "vero_falso",
+      "domanda": "L'effetto serra è un fenomeno naturale.",
+      "rispostaCorretta": "Vero",
+      "opzioni": ["Vero", "Falso"],
+      "spiegazione": "L'effetto serra naturale rende la Terra abitabile; il problema è l'aumento.",
+      "livello": "intermedio",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il ciclo del carbonio include:",
+      "rispostaCorretta": "Fotosintesi, respirazione, decomposizione, combustione",
+      "opzioni": ["Fotosintesi, respirazione, decomposizione, combustione", "Solo la fotosintesi", "Solo la respirazione", "Solo la combustione"],
+      "spiegazione": "Il carbonio circola tra atmosfera, biosfera, idrosfera e litosfera.",
+      "livello": "intermedio",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il ciclo dell'azoto include:",
+      "rispostaCorretta": "Fissazione, nitrificazione, denitrificazione",
+      "opzioni": ["Fissazione, nitrificazione, denitrificazione", "Solo la fotosintesi", "Solo la respirazione", "Solo la combustione"],
+      "spiegazione": "L'azoto atmosferico deve essere fissato per essere usato dagli organismi.",
+      "livello": "avanzato",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I batteri azotofissatori:",
+      "rispostaCorretta": "Convertono l'azoto atmosferico in ammoniaca",
+      "opzioni": ["Convertono l'azoto atmosferico in ammoniaca", "Producono ossigeno", "Producono CO2", "Decompongono le proteine"],
+      "spiegazione": "I batteri azotofissatori vivono nel suolo o in simbiosi con le leguminose.",
+      "livello": "avanzato",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'eutrofizzazione è causata da:",
+      "rispostaCorretta": "Eccesso di nutrienti (azoto e fosforo) nelle acque",
+      "opzioni": ["Eccesso di nutrienti (azoto e fosforo) nelle acque", "Mancanza di ossigeno", "Eccesso di CO2", "Mancanza di luce"],
+      "spiegazione": "L'eutrofizzazione causa proliferazione di alghe e morte dei pesci.",
+      "livello": "avanzato",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'impronta ecologica misura:",
+      "rispostaCorretta": "L'impatto ambientale di un individuo o popolazione",
+      "opzioni": ["L'impatto ambientale di un individuo o popolazione", "La biodiversità", "La temperatura", "L'umidità"],
+      "spiegazione": "L'impronta ecologica indica quanta Terra serve per sostenere uno stile di vita.",
+      "livello": "intermedio",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Le energie rinnovabili includono:",
+      "rispostaCorretta": "Solare, eolica, idroelettrica, geotermica, biomasse",
+      "opzioni": ["Solare, eolica, idroelettrica, geotermica, biomasse", "Solo petrolio", "Solo carbone", "Solo gas naturale"],
+      "spiegazione": "Le energie rinnovabili non si esauriscono e inquinano meno.",
+      "livello": "base",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "I combustibili fossili includono:",
+      "rispostaCorretta": "Petrolio, carbone, gas naturale",
+      "opzioni": ["Petrolio, carbone, gas naturale", "Energia solare", "Energia eolica", "Energia idroelettrica"],
+      "spiegazione": "I combustibili fossili sono non rinnovabili e inquinanti.",
+      "livello": "base",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "La deforestazione causa:",
+      "rispostaCorretta": "Perdita di biodiversità e aumento della CO2",
+      "opzioni": ["Perdita di biodiversità e aumento della CO2", "Aumento della biodiversità", "Diminuzione della CO2", "Raffreddamento globale"],
+      "spiegazione": "Le foreste assorbono CO2 e ospitano molte specie.",
+      "livello": "intermedio",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "Il riciclo dei rifiuti serve a:",
+      "rispostaCorretta": "Ridurre l'uso di risorse e l'inquinamento",
+      "opzioni": ["Ridurre l'uso di risorse e l'inquinamento", "Aumentare i rifiuti", "Produrre più plastica", "Consumare più energia"],
+      "spiegazione": "Il riciclo è parte dell'economia circolare.",
+      "livello": "base",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    },
+    {
+      "tipo": "multipla",
+      "domanda": "L'economia circolare si basa su:",
+      "rispostaCorretta": "Ridurre, riutilizzare, riciclare",
+      "opzioni": ["Ridurre, riutilizzare, riciclare", "Produrre e gettare", "Consumare di più", "Sprecare risorse"],
+      "spiegazione": "L'economia circolare minimizza i rifiuti e massimizza il riuso.",
+      "livello": "intermedio",
+      "argomento": "Ambiente",
+      "materia": "scienze"
+    }
+  ]
+}

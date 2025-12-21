@@ -147,6 +147,80 @@ router.get('/sbagliati', (req, res) => {
   });
 });
 
+// GET /api/quiz-completo/argomento/:materia/:argomento - Quiz per argomento specifico
+router.get('/argomento/:materia/:argomento', (req, res) => {
+  const { materia, argomento } = req.params;
+  const limit = parseInt(req.query.limit) || 10;
+  
+  const quizGenerator = req.app.locals.quizGenerator;
+  if (!quizGenerator) {
+    return res.status(500).json({ error: 'Generatore quiz non inizializzato' });
+  }
+  
+  // Filtra quiz per materia E argomento
+  const argomentoDecoded = decodeURIComponent(argomento).toLowerCase();
+  const quiz = quizGenerator.quizDatabase.filter(q => {
+    const materiaMatch = (q.materia || '').toLowerCase().includes(materia.toLowerCase());
+    const argomentoMatch = (q.argomento || '').toLowerCase().includes(argomentoDecoded);
+    return materiaMatch && argomentoMatch;
+  });
+  
+  // Mescola e limita
+  const quizMescolati = quiz.sort(() => Math.random() - 0.5).slice(0, limit);
+  
+  // Formatta per frontend
+  const quizFormattati = quizMescolati.map(q => ({
+    ...q,
+    id: q.id || Math.random().toString(36).substr(2, 9),
+    materia: q.materia || materia,
+    argomento: q.argomento || argomento
+  }));
+  
+  res.json({ 
+    quiz: quizFormattati, 
+    totale: quizFormattati.length,
+    filtro: { materia, argomento: argomentoDecoded }
+  });
+});
+
+// GET /api/quiz-completo/sottoargomento/:materia/:sottoargomento - Quiz per sottoargomento specifico
+router.get('/sottoargomento/:materia/:sottoargomento', (req, res) => {
+  const { materia, sottoargomento } = req.params;
+  const limit = parseInt(req.query.limit) || 10;
+  
+  const quizGenerator = req.app.locals.quizGenerator;
+  if (!quizGenerator) {
+    return res.status(500).json({ error: 'Generatore quiz non inizializzato' });
+  }
+  
+  // Filtra quiz per materia E sottoargomento (campo argomento nei quiz corrisponde al sottoargomento)
+  const sottoargomentoDecoded = decodeURIComponent(sottoargomento).toLowerCase();
+  const quiz = quizGenerator.quizDatabase.filter(q => {
+    const materiaMatch = (q.materia || '').toLowerCase().includes(materia.toLowerCase());
+    // Il campo "argomento" nei quiz generati corrisponde spesso al sottoargomento
+    const sottoMatch = (q.argomento || '').toLowerCase().includes(sottoargomentoDecoded) ||
+                       (q.sottoargomento || '').toLowerCase().includes(sottoargomentoDecoded);
+    return materiaMatch && sottoMatch;
+  });
+  
+  // Mescola e limita
+  const quizMescolati = quiz.sort(() => Math.random() - 0.5).slice(0, limit);
+  
+  // Formatta per frontend
+  const quizFormattati = quizMescolati.map(q => ({
+    ...q,
+    id: q.id || Math.random().toString(36).substr(2, 9),
+    materia: q.materia || materia,
+    sottoargomento: sottoargomento
+  }));
+  
+  res.json({ 
+    quiz: quizFormattati, 
+    totale: quizFormattati.length,
+    filtro: { materia, sottoargomento: sottoargomentoDecoded }
+  });
+});
+
 // GET /api/quiz-completo/simulazione - Simulazione esame
 router.get('/simulazione', (req, res) => {
   const numDomande = parseInt(req.query.domande) || 40;

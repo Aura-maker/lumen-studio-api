@@ -7,9 +7,153 @@ module.exports = {
     "descrizione": "Etica cristiana, dottrina sociale, e dialogo interreligioso",
     "colore": "#95A5A6",
     "icona": "church",
-    "annoScolastico": ["5"]
+    "annoScolastico": ["1.", "2.", "3.", "4.", "5."]
   },
   "argomenti": [
+    {
+      "id": "rel-bibbia-antico",
+      "titolo": "La Bibbia e l'Antico Testamento",
+      "annoRiferimento": "1.",
+      "descrizione": "Le Sacre Scritture e la storia della salvezza",
+      "sottoargomenti": [
+        {
+          "titolo": "La Bibbia: struttura e ispirazione",
+          "riassunto": "La Bibbia (dal greco biblía, 'libri') è la raccolta dei testi sacri del cristianesimo. Si divide in Antico Testamento (46 libri per i cattolici, 39 per i protestanti) e Nuovo Testamento (27 libri). L'Antico Testamento comprende: Pentateuco o Torah (Genesi, Esodo, Levitico, Numeri, Deuteronomio), libri storici (Giosuè, Giudici, Samuele, Re), libri sapienziali (Giobbe, Salmi, Proverbi, Qoelet, Cantico), libri profetici (Isaia, Geremia, Ezechiele, profeti minori). Il canone cattolico include i deuterocanonici (Tobia, Giuditta, Maccabei, Sapienza, Siracide). L'ispirazione divina significa che Dio è l'autore principale, gli agiografi (autori umani) sono strumenti che scrivono con le proprie capacità e cultura. L'inerranza riguarda le verità necessarie alla salvezza, non l'esattezza scientifica o storica. I generi letterari includono: mito (Genesi 1-11), saga (patriarchi), epopea (Esodo), legge, poesia, profezia, apocalittica. L'interpretazione richiede il senso letterale (cosa intendeva l'autore) e spirituale (allegorico, morale, anagogico).",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Bibbia", "Antico Testamento", "ispirazione", "canone"],
+          "collegamenti": ["Pentateuco", "profeti", "generi letterari"]
+        },
+        {
+          "titolo": "La creazione e i patriarchi",
+          "riassunto": "Il libro della Genesi narra le origini. I racconti della creazione (Genesi 1-2) non sono scienza ma teologia: Dio crea dal nulla (creatio ex nihilo), l'universo è buono, l'uomo è vertice della creazione, fatto a immagine di Dio (imago Dei). Il primo racconto (sacerdotale) presenta la creazione in sei giorni con riposo il settimo (sabato); il secondo (jahvista) narra la formazione di Adamo dalla terra e di Eva dalla costola. Il peccato originale (Genesi 3): Adamo ed Eva disobbediscono mangiando il frutto proibito; conseguenze sono la perdita dell'armonia con Dio, la fatica, il dolore, la morte. Il protovangelo (Genesi 3,15) annuncia la vittoria sul serpente. Caino e Abele, il diluvio e Noè, la torre di Babele mostrano il diffondersi del peccato e la misericordia divina. I patriarchi (Genesi 12-50): Abramo, chiamato da Ur, riceve la promessa di una discendenza numerosa e di una terra; la sua fede è modello (sacrificio di Isacco). Isacco e Giacobbe (Israele) continuano la promessa. Giuseppe, venduto dai fratelli, diventa viceré d'Egitto: la provvidenza trasforma il male in bene.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Genesi", "creazione", "patriarchi", "Abramo"],
+          "collegamenti": ["peccato originale", "alleanza", "promessa"]
+        }
+      ]
+    },
+    {
+      "id": "rel-gesu-vangeli",
+      "titolo": "Gesù e i Vangeli",
+      "annoRiferimento": "1.",
+      "descrizione": "La figura di Cristo nei testi evangelici",
+      "sottoargomenti": [
+        {
+          "titolo": "I quattro Vangeli",
+          "riassunto": "I Vangeli (dal greco euangélion, 'buona notizia') sono quattro: Matteo, Marco, Luca (sinottici, simili tra loro) e Giovanni. Non sono biografie moderne ma testimonianze di fede. Marco (65-70 d.C.) è il più antico, breve e vivace; presenta Gesù come Figlio di Dio che si rivela gradualmente (segreto messianico). Matteo (80-90 d.C.) scrive per ebrei cristiani; organizza l'insegnamento in cinque discorsi (Discorso della Montagna); Gesù è il nuovo Mosè che compie le Scritture. Luca (80-90 d.C.) scrive per pagani; sottolinea la misericordia, l'attenzione ai poveri, alle donne, ai peccatori; è l'evangelista della preghiera e dello Spirito Santo. Giovanni (90-100 d.C.) è teologico e simbolico; presenta Gesù come Logos (Verbo) incarnato, con sette segni e sette 'Io sono'. La questione sinottica: la somiglianza si spiega con la teoria delle due fonti (Marco + fonte Q dei detti). La formazione dei Vangeli: predicazione orale, raccolte scritte, redazione finale. Storicità: i Vangeli trasmettono fatti storici interpretati dalla fede pasquale.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Vangeli", "sinottici", "Giovanni", "Gesù"],
+          "collegamenti": ["Marco", "Matteo", "Luca", "kerygma"]
+        },
+        {
+          "titolo": "Vita e insegnamento di Gesù",
+          "riassunto": "Gesù di Nazaret nacque a Betlemme sotto Erode il Grande (6-4 a.C.), crebbe a Nazaret, fu battezzato da Giovanni Battista (inizio del ministero pubblico, circa 28 d.C.). Il ministero in Galilea: chiamata dei discepoli, predicazione del Regno di Dio, miracoli (guarigioni, esorcismi, natura), parabole. Il Regno di Dio è il tema centrale: è presente in Gesù ma non ancora compiuto (già e non ancora); richiede conversione (metánoia). Le Beatitudini (Matteo 5) rovesciano i valori mondani: beati i poveri, i miti, i misericordiosi. Il comandamento dell'amore (Matteo 22,37-40) riassume la Legge: amare Dio e il prossimo come se stessi; la parabola del buon Samaritano estende il prossimo a ogni uomo. Il Padre Nostro è la preghiera insegnata da Gesù. I miracoli sono segni del Regno che irrompe: vittoria sul male, sulla malattia, sulla morte. La Trasfigurazione anticipa la gloria pasquale. L'ultima settimana a Gerusalemme: ingresso trionfale, purificazione del Tempio, Ultima Cena (istituzione dell'Eucaristia), arresto, processo, crocifissione, morte, sepoltura, risurrezione il terzo giorno.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Gesù", "Regno di Dio", "parabole", "miracoli"],
+          "collegamenti": ["Beatitudini", "Padre Nostro", "Pasqua"]
+        }
+      ]
+    },
+    {
+      "id": "rel-chiesa-origini",
+      "titolo": "La Chiesa delle origini",
+      "annoRiferimento": "2.",
+      "descrizione": "Dalle origini al Medioevo",
+      "sottoargomenti": [
+        {
+          "titolo": "Pentecoste e la Chiesa apostolica",
+          "riassunto": "La Chiesa nasce a Pentecoste (Atti 2): lo Spirito Santo scende sugli apostoli che iniziano a predicare. Il kerygma (annuncio) proclama: Gesù crocifisso è risorto, è il Messia e Signore, chi crede e si battezza è salvato. La comunità di Gerusalemme (Atti 2,42-47) vive la koinonía: ascolto dell'insegnamento apostolico, comunione fraterna, frazione del pane (Eucaristia), preghiere, condivisione dei beni. Pietro guida la comunità; il primo concilio (Gerusalemme, 49 d.C.) decide che i pagani convertiti non devono osservare la Legge mosaica. Paolo di Tarso, fariseo convertito sulla via di Damasco, è l'apostolo delle genti: tre viaggi missionari fondano comunità in Asia Minore, Grecia, Roma. Le sue lettere (Romani, Corinzi, Galati, ecc.) sono i primi scritti del Nuovo Testamento. La giustificazione per fede, non per le opere della Legge, è centrale. La Chiesa si struttura: episcopi (vescovi), presbiteri (anziani), diaconi. Le persecuzioni romane (Nerone, Domiziano, Decio, Diocleziano) producono martiri, testimoni della fede.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Chiesa", "Pentecoste", "Paolo", "apostoli"],
+          "collegamenti": ["kerygma", "comunità", "persecuzioni"]
+        },
+        {
+          "titolo": "I Concili e i Padri della Chiesa",
+          "riassunto": "I Concili ecumenici definiscono la dottrina contro le eresie. Nicea (325): contro Ario che negava la divinità di Cristo; il Credo niceno afferma che il Figlio è 'della stessa sostanza' (homooúsios) del Padre. Costantinopoli (381): divinità dello Spirito Santo, Trinità. Efeso (431): Maria è Theotókos (Madre di Dio), contro Nestorio. Calcedonia (451): Cristo è vero Dio e vero uomo, due nature in una persona, contro monofisismo. I Padri della Chiesa sono scrittori dei primi secoli che hanno elaborato la teologia. Padri apostolici (I-II sec.): Clemente Romano, Ignazio di Antiochia, Policarpo. Padri apologisti: Giustino, difendono la fede contro le accuse pagane. Padri greci: Atanasio (difensore di Nicea), Basilio, Gregorio di Nazianzo, Gregorio di Nissa (Cappadoci), Giovanni Crisostomo. Padri latini: Ambrogio, Girolamo (traduzione della Vulgata), Agostino (Confessioni, Città di Dio: grazia, peccato originale, storia della salvezza). Il monachesimo nasce con Antonio in Egitto; Benedetto da Norcia fonda Montecassino (529) e scrive la Regola: ora et labora.",
+          "livelloDifficolta": "avanzato",
+          "tempoLettura": 7,
+          "tags": ["Concili", "Padri", "Nicea", "Agostino"],
+          "collegamenti": ["Trinità", "cristologia", "monachesimo"]
+        }
+      ]
+    },
+    {
+      "id": "rel-religioni-mondo",
+      "titolo": "Le grandi religioni",
+      "annoRiferimento": "2.",
+      "descrizione": "Ebraismo, Islam e religioni orientali",
+      "sottoargomenti": [
+        {
+          "titolo": "Ebraismo e Islam",
+          "riassunto": "L'Ebraismo è la religione del popolo ebraico, radice del cristianesimo. Crede in un Dio unico (Shemà Israel), creatore e liberatore (Esodo). La Torah (Pentateuco) è la Legge rivelata a Mosè; il Talmud la interpreta. I comandamenti (mitzvot) sono 613. Le feste: Pesach (Pasqua, liberazione dall'Egitto), Shavuot (Pentecoste, dono della Torah), Sukkot (Capanne), Rosh Hashanah (Capodanno), Yom Kippur (espiazione), Hanukkah. Il sabato (Shabbat) è giorno di riposo. La sinagoga è luogo di preghiera e studio. Dopo la distruzione del Tempio (70 d.C.) il rabbinismo elabora la tradizione. L'Islam nasce con Muhammad (Maometto, 570-632 d.C.) a La Mecca. Il Corano è la parola di Allah rivelata all'ultimo profeta. I cinque pilastri: shahada (professione di fede), salat (preghiera cinque volte al giorno), zakat (elemosina), sawm (digiuno nel Ramadan), hajj (pellegrinaggio alla Mecca). Allah è unico, misericordioso, giudice. Gesù (Isa) è profeta, non Dio. Le correnti: sunniti (maggioranza), sciiti. Il dialogo interreligioso riconosce valori comuni e differenze.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Ebraismo", "Islam", "Torah", "Corano"],
+          "collegamenti": ["monoteismo", "Abramo", "dialogo"]
+        },
+        {
+          "titolo": "Induismo e Buddhismo",
+          "riassunto": "L'Induismo è la religione dell'India, senza fondatore unico. I testi sacri: Veda (rivelazione), Upanishad (filosofia), Bhagavad Gita (poema). Concetti chiave: Brahman (assoluto impersonale), Atman (anima individuale identica al Brahman), samsara (ciclo di rinascite), karma (legge di causa-effetto morale), moksha (liberazione dal ciclo). Le vie: jnana (conoscenza), bhakti (devozione), karma (azione). Le divinità principali: Brahma (creatore), Vishnu (conservatore, avatar: Rama, Krishna), Shiva (distruttore/trasformatore). Il sistema delle caste. Il Buddhismo nasce con Siddhartha Gautama (Buddha, 'risvegliato', VI-V sec. a.C.) in India. Le Quattro Nobili Verità: la vita è sofferenza (dukkha), la causa è il desiderio (tanha), la cessazione è possibile, la via è l'Ottuplice Sentiero (retta visione, intenzione, parola, azione, mezzi di vita, sforzo, consapevolezza, concentrazione). Il Nirvana è l'estinzione del desiderio e della sofferenza. Non c'è un Dio creatore. Correnti: Theravada (monaci), Mahayana (bodhisattva), Vajrayana (Tibet).",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Induismo", "Buddhismo", "karma", "Nirvana"],
+          "collegamenti": ["reincarnazione", "meditazione", "Asia"]
+        }
+      ]
+    },
+    {
+      "id": "rel-sacramenti",
+      "titolo": "I Sacramenti",
+      "annoRiferimento": "3.",
+      "descrizione": "Segni efficaci della grazia",
+      "sottoargomenti": [
+        {
+          "titolo": "Battesimo, Cresima, Eucaristia",
+          "riassunto": "I sacramenti sono segni efficaci della grazia, istituiti da Cristo e affidati alla Chiesa. Sono sette: Battesimo, Confermazione, Eucaristia (iniziazione); Penitenza, Unzione degli infermi (guarigione); Ordine, Matrimonio (servizio). Il Battesimo è il primo sacramento: libera dal peccato originale, rende figli di Dio e membri della Chiesa, conferisce la grazia santificante. Il rito: immersione o infusione d'acqua con la formula trinitaria. Il battesimo dei bambini si fonda sulla fede della Chiesa e dei genitori. La Confermazione (Cresima) completa il Battesimo: lo Spirito Santo conferisce i suoi doni (sapienza, intelletto, consiglio, fortezza, scienza, pietà, timor di Dio) per testimoniare la fede. Il rito: unzione con il crisma, imposizione delle mani. L'Eucaristia è 'fonte e culmine' della vita cristiana. Nella Messa il pane e il vino diventano corpo e sangue di Cristo (transustanziazione). È memoriale del sacrificio della croce, banchetto pasquale, presenza reale. La comunione unisce a Cristo e alla Chiesa.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["sacramenti", "Battesimo", "Cresima", "Eucaristia"],
+          "collegamenti": ["grazia", "iniziazione", "Chiesa"]
+        },
+        {
+          "titolo": "Riconciliazione, Unzione, Ordine, Matrimonio",
+          "riassunto": "La Penitenza o Riconciliazione perdona i peccati commessi dopo il Battesimo. Gli atti del penitente: esame di coscienza, contrizione (dolore per i peccati), confessione al sacerdote, soddisfazione (penitenza). Il sacerdote assolve in nome di Cristo. L'Unzione degli infermi conforta i malati gravi e gli anziani: conferisce grazia, forza, pace; può guarire se Dio vuole; prepara al passaggio. L'Ordine consacra ministri per il servizio della Chiesa: diaconi (servizio), presbiteri (sacerdoti: celebrano sacramenti, predicano), vescovi (pienezza del sacerdozio, successori degli apostoli). È riservato ai maschi battezzati; il celibato è richiesto nella Chiesa latina. Il Matrimonio è l'alleanza tra un uomo e una donna: amore fedele, indissolubile, aperto alla vita. I ministri sono gli sposi stessi che si conferiscono il sacramento; il sacerdote è testimone qualificato. Proprietà: unità (monogamia), indissolubilità ('ciò che Dio ha unito, l'uomo non separi'), fecondità. La famiglia è 'Chiesa domestica', prima scuola di fede e virtù.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Confessione", "Unzione", "Ordine", "Matrimonio"],
+          "collegamenti": ["perdono", "ministero", "famiglia"]
+        }
+      ]
+    },
+    {
+      "id": "rel-morale",
+      "titolo": "Morale cristiana",
+      "annoRiferimento": "3.",
+      "descrizione": "La vita secondo il Vangelo",
+      "sottoargomenti": [
+        {
+          "titolo": "Coscienza, libertà e peccato",
+          "riassunto": "La morale cristiana è la risposta all'amore di Dio: 'Amatevi come io vi ho amato'. La coscienza è il 'sacrario' dove l'uomo è solo con Dio; è la voce interiore che giudica gli atti. La coscienza deve essere formata (studio, preghiera, magistero) e seguita. La libertà è dono di Dio: l'uomo può scegliere il bene o il male. La vera libertà è liberazione dal peccato per amare. Il peccato è un'offesa a Dio, una ferita all'uomo, una rottura della comunione. Peccato originale: la condizione di tutti gli uomini dopo Adamo. Peccato attuale: personale, commesso con conoscenza e volontà. Peccato mortale: materia grave, piena avvertenza, deliberato consenso; distrugge la grazia. Peccato veniale: materia leggera o consenso imperfetto; ferisce ma non distrugge la grazia. I vizi capitali: superbia, avarizia, lussuria, ira, gola, invidia, accidia. Le virtù cardinali: prudenza, giustizia, fortezza, temperanza. Le virtù teologali: fede, speranza, carità (la più grande). La conversione è sempre possibile per la misericordia di Dio.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["coscienza", "libertà", "peccato", "virtù"],
+          "collegamenti": ["morale", "conversione", "grazia"]
+        },
+        {
+          "titolo": "I Dieci Comandamenti",
+          "riassunto": "Il Decalogo (Esodo 20, Deuteronomio 5) è la legge data da Dio a Mosè sul Sinai. Gesù non abolisce ma compie la Legge, interiorizzandola. I primi tre comandamenti riguardano Dio: 1) Non avrai altro Dio: fede, speranza, carità verso Dio; contro idolatria, superstizione, ateismo. 2) Non nominare il nome di Dio invano: rispetto del nome santo; contro bestemmia, spergiuro. 3) Ricordati di santificare le feste: la domenica (giorno del Signore) per la Messa e il riposo. I comandamenti 4-10 riguardano il prossimo: 4) Onora il padre e la madre: rispetto, obbedienza, cura dei genitori; doveri dei genitori verso i figli. 5) Non uccidere: rispetto della vita dal concepimento alla morte naturale; contro omicidio, aborto, eutanasia, suicidio, guerra ingiusta. 6) Non commettere atti impuri: castità secondo lo stato; contro adulterio, fornicazione, pornografia. 7) Non rubare: rispetto dei beni altrui, giustizia sociale. 8) Non dire falsa testimonianza: verità, onestà; contro menzogna, calunnia. 9) Non desiderare la donna d'altri: purezza del cuore. 10) Non desiderare la roba d'altri: distacco dai beni, contro invidia e avidità.",
+          "livelloDifficolta": "intermedio",
+          "tempoLettura": 7,
+          "tags": ["Decalogo", "comandamenti", "morale", "legge"],
+          "collegamenti": ["Mosè", "Sinai", "etica"]
+        }
+      ]
+    },
     {
       "id": "rel-dottrina-sociale",
       "titolo": "Dottrina sociale della Chiesa",
